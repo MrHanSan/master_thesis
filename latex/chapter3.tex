@@ -1,5 +1,22 @@
 %===================================== CHAP 3 =================================
 
-\chapter{Basic Theory}
+\chapter{Basic retrieval methods}
+
+\subsection{Bottom up BFS search}
+The most basic method of finding a match for keywords is using a bottom up breadth first search (BFS) \cite{He:2007:BRK:1247480.1247516}. For each keyword in the query the algorithm will find all vertices that contain the keyword. From that set of vertices the BFS search finds the first vertex that can connect all the vertices in the set. The vertex that connects the the rest of the set is the one that best fits the keywords in the search. There is however no guarantee that this set of vertices contains any spatial or temporal data. If this is the case, the search will continue until the a vertex containing spatial and temporal data is found. The first set of vertices containing all the keywords, a place, and time will be the best result using this search. The BFS search can however contain multiple times, or multiple places. To determine what time or what place best fits the query, a separate ranking algorithm can be used. BFS is also a time consuming algorithm and is used as a proof of concept and baseline in this thesis.
+
+\begin{algorithm}
+\caption{Bottom up BFS}
+\begin{algorithmic}[1]
+\Procedure{bfs}{}
+Insert algo here
+% for keyword in query:
+% 	keyword_vertices = load_vertecies_from_inverted_index(keyword)
+
+% while vertex = getNext(vertex):
+
+\EndProcedure
+\end{algorithmic}
+\end{algorithm}
 
 \cleardoublepage

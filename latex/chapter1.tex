@@ -2,112 +2,11 @@
 
 \chapter{Introduction}
 
-\section{Equations}
+\section{Previous work}
+There has been done some work keyword search on RDF graphs. This includes \cite{4812421} and \cite{Elbassuoni:2011:KSO:2063576.2063615}. None of these takes spatial or temporal data into consideration. The methods for keyword queries outlined in the papers are based on a combination of indexing the graph and traversing subgraphs. The indexing is similar in both papers, but retrieval, scoring and traversal methods varies. One method of retrieval and scoring that is used as a baseline is a breadth first search for traversal and a minimal subgraph for scoring. These methods are easy to implement and understand, but often inefficient, and inaccurate.\\
+In paper \cite{Shi:2016:TRS:2882903.2882941} some methods for indexing, searching and ranking keyword searches on spatial RDF graphs is proposed. These methods builds upon the methods outlined in \cite{4812421, Elbassuoni:2011:KSO:2063576.2063615}. The most substantial difference is the use of R-trees to index the spatial dimension of the graph. This is done so that a subgraph containing the keywords can be retrieved given a location. This method starts by finding the closest spatial vertex and uses that as the root for the subgraph. Subgraphs rooted in a spatial node requires different ranking, and there is proposed a set of rules in the paper.\\
+R-trees are designed around the spatial dimension, but some work on modifications to include a temporal dimension has been done. Some research done on spatio-temporal tree structures include \cite{Tao:2003:TOS:1315451.1315519, r-tree-spatio-temporal}. Most of the spatio-temporal trees are however created to be able to query and index moving or frequently updated objects. To include a temporal dimension some differences in the tree structures are made. Most approaches builds on the R-tree, but modifies the tree in different aspects. For the purpose of this thesis a different tree structure is not needed.\\ % look into temporal retrieval as facts in graph/ inverted index
 
-To write an equation
-
-\begin{verbatim}
-\begin{eqnarray}\label{eq1}
-F = m \times a
-\end{eqnarray}
-\end{verbatim}
-
-\noindent This will produce
-
-\begin{eqnarray}\label{eq1}
-F = m \times a
-\end{eqnarray}
-
-\noindent To refer to the equation
-
-\begin{verbatim}
-\eqref{eq1}
-\end{verbatim}
-
-\noindent This will produce \eqref{eq1}.
-
-
-\section{Figures}
-To create a figure
-
-\begin{verbatim}
-\begin{figure}[h!]
-  \centering
-    \includegraphics[width=0.5\textwidth]{fig/pikachu}
-  \caption{Pikachu.}
-\label{fig1}
-\end{figure}
-\end{verbatim}
-
-\begin{figure}[h!]
-  \centering
-    \includegraphics[width=0.5\textwidth]{fig/pikachu}
- \caption{Pikachu.}
-\label{fig1}
-\end{figure}
-
-\noindent To refer to the figure
-
-\begin{verbatim}
-\textbf{Fig. \ref{fig1}}
-\end{verbatim}
-
-\noindent This will produce \textbf{Fig. \ref{fig1}}
-
-\section{References}
-
-To cite references
-
-\begin{verbatim}
-\cite{1,2,3}
-\end{verbatim}
-or
-\begin{verbatim}
-\citep{1,2,3}
-\end{verbatim}
-
-\noindent This will produce: \cite{1,2,3} or \citep{1,2,3}, respectively.
-
-\section{Tables}
-
-To creat a table
-
-\begin{verbatim}
-\begin{table}[!h]
-\begin{center}
-    \begin{tabular}{ | l | l | l | l |}
-    \hline
-    \textbf{No.} & \textbf{Data 1} & \textbf{Data 2} \\ \hline
-     1 & a1 & b1 \\ \hline
-     2 & a2 & b2 \\ \hline
-    \end{tabular}
-\end{center}
-\caption{Table 1.}
-\label{Tab1}
-\end{table}
-\end{verbatim}
-
-\noindent This will produce
-
-\begin{table}[!h]
-\begin{center}
-    \begin{tabular}{ | l | l | l | l |}
-    \hline
-    \textbf{No.} & \textbf{Data 1} & \textbf{Data 2} \\ \hline
-     1 & a1 & b1 \\ \hline
-     2 & a2 & b2 \\ \hline
-    \end{tabular}
-\end{center}
-\caption{Table 1.}
-\label{Tab1}
-\end{table}
-
-\noindent To refer to the table
-
-\begin{verbatim}
-\textbf{Table. \ref{Tab1}}
-\end{verbatim}
-
-\noindent This will produce \textbf{Table. \ref{Tab1}}.
+% TPR-trees \cite{} uses some tech ... This makes them most suited to index moving objects, with as spatio-temporal data to indicate where an object is at a given time. The work done in \cite{} builds heavily on the R-tree, and makes it suited for ...
 
 \cleardoublepage
