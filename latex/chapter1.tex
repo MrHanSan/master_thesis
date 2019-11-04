@@ -2,8 +2,10 @@
 
 \chapter{Introduction}
 Knowledge bases are complex collections of information. This information can be both structured or unstructured. The information in such a collection can be used to create a graph with information in small chunks representing a fact, as well as the relation between such facts. There exists multiple such graphs today most are based on Wikipedia, such as Yago\cite{yago} and DBpedia\cite{dbpedia}.\\
+Knowledge graphs is structured with a subject, predicate, and object. Both the subject and object are facts, and the predicate describes the relation between two facts. This structure makes the graph a directed cyclic graph. An example of the subject predicate object can be "Nidaros Cathedral" "is located in" "Trondheim".\\
+\includegraphics[width=\textwidth]{example-image-a}\\
+One of the uses of knowledge graphs today is to find and display a info box in search engines. This information is a compact set of facts that tries to fit the search query. Because of the graph structure of knowledge graphs the information in the info box can be adapted to the query by choosing the predicates and related facts closest related to the query. This makes it possible to create a set of information that can give the user a quick overview of the information retrieved by the query.\\
 
-- Uses?\\
 - Why this is important\\
 - What is newish in this paper\\
 
@@ -15,4 +17,4 @@ R-trees are designed around the spatial dimension, but some work on modification
 
 % TPR-trees \cite{} uses some tech ... This makes them most suited to index moving objects, with as spatio-temporal data to indicate where an object is at a given time. The work done in \cite{} builds heavily on the R-tree, and makes it suited for ...
 
-\cleardoublepage
+\clearpage

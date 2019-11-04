@@ -5,7 +5,7 @@
 \section{Indexing}
 
 \subsection{Spatial indexing}
-Most spatial indexing is done using R-trees. R-trees are based on a B-tree, but is optimized for indexing spatial dimensions. R-trees are able to effectively index spatial data by 
+Most spatial indexing is done using R-trees. R-trees are based on a B-tree, but is optimized for indexing spatial dimensions. R-trees are able to effectively index spatial data by dividing space into smaller and smaller sets, or bounding boxes, and having the leaf nodes of the trees representing the smallest unit of space used in the data set, usually a small area or a point. 
 
 \subsection{Temporal indexing}
 In the dataset used in this thesis objects do not move, or move rarely. This makes indexing time unnecessary and it can be treated as a fact in the object with a start, and possible end time. This allows time to be retrieved as a fact when traversing the graph the same way as other facts.
@@ -28,4 +28,4 @@ Insert algo here
 \end{algorithmic}
 \end{algorithm}
 
-\cleardoublepage
+\clearpage
