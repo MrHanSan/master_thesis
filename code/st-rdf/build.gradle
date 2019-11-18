@@ -1,0 +1,40 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+apply plugin : 'java'
+
+sourceSets.main.java.srcDirs = ['src']
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.0.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.0.0'
+}
+
+sourceSets {
+    test {
+        java {
+            srcDirs 'src/test/'
+        }
+    }
+}
+
+application {
+    mainClassName = 'master.ntnu.Main'
+}
+
+ext {
+    javaMainClass = "main.java.Main"
+}
+
+test {
+    useJUnitPlatform()
+    testLogging {
+        events "passed", "skipped", "failed", "standardOut", "standardError"
+    }
+}
+
