@@ -1,14 +1,41 @@
 %===================================== CHAP 2 =================================
 
-\chapter{Data structures}
+\chapter{Background}
 
-\section{Knowledge graphs}
+\section{Knowledge Graphs}
+- Find a section headline, might be easier after writing more.\\
 Knowledge graphs is a representation of complex data that describes facts and relationship between facts. Facts can be placed into different categories, and can have different properties. Combining facts from different categories or with different properties can give a quick overview of a topic. Based on a query facts can be combined to give users a quick answer.\\
 
+- More about graphs in general\\
+Graphs theory is a prominent part of computer science. Graph structures is a common way to create a dataset that can be efficiently explored for a variety of purposes, and with many different algorithms. 
 
-\includegraphics[width=\textwidth]{example-image-b}
+- Type of graphs used in knowledge graphs\\
+Because of the linking of articles in common knowledge bases it is possible to derive a graph that represents this linking. This graph will be a cyclic directed graph.
+
 
 \subsection{Yago}
 Yago\cite{yago} is a knowledge graph created from a set of different sources. The graph is built from Wikipedia, WordNet, GeoNames and Wikidata. This combination of sources makes it possible to get information in multiple languages, and spatio-temporal data.
+
+- Describe the RDF N3/ triplet format\\
+All facts in Yago consists of a subject, predicate and object. This fits perfectly into the RDF N3, or Notation3 format.
+
+- Use of triplets.\\
+
+\includegraphics[width=\textwidth]{example-image-b}
+- Graphic describing triplet format and how it forms graphs
+
+
+- Temporal data in Yago.\\
+Predicates form the link between facts, and can be divided into many sub-groups. This grouping helps when finding possible temporal data for a fact. Facts in the categories `People', `Groups', `Artifacts', and `Events' will usually also contain a link to a time or timespan.
+
+- Spatial data in Yago.\\
+
+
+- Different data sets in Yago.\\
+- Data sets used in this thesis.\\
+	- Yago Date Facts\\
+	- Yago Facts.\\
+	- Yago Geonames Only Data.\\
+- Pseudo-hierarchy of facts.\\
 
 \clearpage
