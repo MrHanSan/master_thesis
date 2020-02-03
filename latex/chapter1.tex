@@ -1,25 +1,25 @@
 %===================================== CHAP 1 =================================
 
 \chapter{Introduction}
-- What is a knowledge base\\
+%- What is a knowledge base\\
 A knowledge base is a collection of information. This collection is usually centered around a topic, but there also exists large, general, knowledge bases. Smaller knowledge bases are typical for any type of community, such as a company, school, or fan community, that seeks to preserve and share information. The larger knowledge bases have the same goal as the smaller ones, but the scope will be much larger. A common type of knowledge base is a wiki, a collection of linked articles where any one with the correct privileges can edit, add or delete articles. Knowledge bases can however be any type of collection. The information can be both structured, as in a wiki, or unstructured, with no link between the information. The information in a structured collection can be used to create a graph with information in small chunks representing a fact, as well as the relation between such facts. There exists multiple such graphs today most are based on Wikipedia, such as Yago\cite{yago} and DBpedia\cite{dbpedia}.\\
 
-- What is a knowledge graph\\
+% - What is a knowledge graph\\
 When a set of articles are linked they form a graph with each article being a entity in this graph\cite{mahdisoltani:hal-01699874, hoffart2013yago2}. Most articles falls into one or more categories, which is in turn used create a taxonomy of the entities. Since a category can be a subset of a different category, this creates a hierarchy of different entities based on what categories an entity falls under. Using the entity and category, combined with the linking of articles it is possible to create a directed graph of entities.
 
-- How can a knowledge base be described as a graph\\
+% - How can a knowledge base be described as a graph\\
 Knowledge graphs is usually structured with a subject, predicate, and object. Both the subject and object are entities, or facts, and the predicate describes the relation between two facts. This structure makes the graph a directed cyclic graph. An example of the subject predicate object can be "Nidaros Cathedral" "is located in" "Trondheim".\\
 \includegraphics[width=\textwidth]{example-image-a}\\
-- Graphic depicting some KG.\\
+% - Graphic depicting some KG.\\
 
-- Uses for KG.\\
+% - Uses for KG.\\
 One of the uses of knowledge graphs today is to find and display a info box in search engines. This information is a compact set of facts that tries to fit the search query. Because of the graph structure of knowledge graphs the information in the info box can be adapted to the query by choosing the predicates and related facts closest related to the query. This makes it possible to create a set of information that can give the user a quick overview of the information retrieved by the query.\\
 
-- Why this is important\\
+% - Why this is important\\
 
 
-- What is the contribution of this paper\\
-
+% - What is the contribution of this paper\\
+This paper will propose methods of integrating time and date facts in existing search methods.  
 
 \section{Previous work}
 There has been done some work keyword search on RDF graphs. This includes \cite{4812421} and \cite{Elbassuoni:2011:KSO:2063576.2063615}. None of these takes spatial or temporal data into consideration. The methods for keyword queries outlined in the papers are based on a combination of indexing the graph and traversing subgraphs. The indexing is similar in both papers, but retrieval, scoring and traversal methods varies. One method of retrieval and scoring that is used as a baseline is a breadth first search for traversal and a minimal subgraph for scoring. These methods are easy to implement and understand, but often inefficient, and inaccurate.\\
@@ -28,9 +28,10 @@ R-trees are designed around the spatial dimension, but some work on modification
 
 % TPR-trees \cite{} uses some tech ... This makes them most suited to index moving objects, with as spatio-temporal data to indicate where an object is at a given time. The work done in \cite{} builds heavily on the R-tree, and makes it suited for ...
 
-- More on existing KB\\
-- Structure of Yago?\\
-- What makes Yago special\\
-- Describe DBPedia\\
+Research questions?\\
+RQ1: How can spatio-temporal data be integrated into exiting keyword query methods for RDF data.\\
+RQ2: What methods can be used to create more effective queries on RDF data.\\
+RQ3: How do spatial and temporal RDF query methods differ from from other query methods.\\
+RQ4: What methods can be used to query RDF data based on a users keyword search.\\
 
 \clearpage

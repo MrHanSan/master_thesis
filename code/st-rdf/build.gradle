@@ -14,8 +14,17 @@ dependencies {
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.0.0'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.0.0'
 
+    // https://mvnrepository.com/artifact/org.apache.jena/jena-core
+    compile group: 'org.apache.jena', name: 'jena-core', version: '3.14.0'
+
     // https://mvnrepository.com/artifact/org.apache.jena/jena-arq
-    compile group: 'org.apache.jena', name: 'jena-arq', version: '3.13.1'
+    compile group: 'org.apache.jena', name: 'jena-arq', version: '3.14.0'
+
+    // https://mvnrepository.com/artifact/org.apache.jena/jena-rdfconnection
+    compile group: 'org.apache.jena', name: 'jena-rdfconnection', version: '3.14.0'
+
+    // https://mvnrepository.com/artifact/org.apache.jena/jena-tdb
+    compile group: 'org.apache.jena', name: 'jena-tdb', version: '3.14.0'
 }
 
 sourceSets {
