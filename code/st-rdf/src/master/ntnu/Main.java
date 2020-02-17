@@ -4,6 +4,7 @@ import org.apache.jena.rdf.model.*;
 import org.apache.jena.tdb.TDBFactory;
 
 import java.util.*;
+import java.util.concurrent.atomic.AtomicBoolean;
 
 public class Main {
     public static void main(String[] args) {
@@ -16,8 +17,15 @@ public class Main {
 
         HashSet<String> queryWords = new HashSet<>();
 //        queryWords.add("Trondheim");
-        queryWords.add("Science");
-        queryWords.add("School");
+//        queryWords.add("Science");
+//        queryWords.add("School");
+
+//        queryWords.add("Bomb");
+//        queryWords.add("Lock"); //ancient, roman, catholic, history
+        queryWords.add("Ancient");
+        queryWords.add("Roman");
+        queryWords.add("Catholic");
+        queryWords.add("History");
 
         traverseStart(model, queryWords);
 
@@ -36,7 +44,7 @@ public class Main {
 //                "SELECT ?s ?p ?o WHERE { ?s <"+RESOURCE+"isLocatedIn> ?o .FILTER regex(str(?s), \"Oslo\") " +
 //                        "FILTER ( ?s = <"+RESOURCE+"isLocatedIn> ) " +
 //                "SELECT ?s ?p ?o WHERE { ?s ?p ?o .FILTER regex(str(?s), \"Oslo\") " +
-                "SELECT DISTINCT ?s ?p WHERE { ?s ?p <" + RESOURCE + "Trondheim> . " +
+                        "SELECT DISTINCT ?s ?p WHERE { ?s ?p <" + RESOURCE + "Marseille> . " +
 //                        "SELECT DISTINCT ?o WHERE { <" + RESOURCE + "Oslo> ?p ?o . " +
 //                "SELECT DISTINCT ?s { { ?s yago:isLocatedIn <" + RESOURCE + "Oslo> . } " +
 //                        "UNION { ?s yago:isConnectedTo <" + RESOURCE + "Oslo> . } " +
@@ -50,19 +58,19 @@ public class Main {
 
         Query query = QueryFactory.create(queryString);
 
-        try ( QueryExecution qexec = QueryExecutionFactory.create( query, model ) ) {
+        try (QueryExecution qexec = QueryExecutionFactory.create(query, model) ) {
             ResultSet results = qexec.execSelect();
             while(results.hasNext()) {
                 if (results.nextSolution() == null) continue;
-                QuerySolution soln = results.nextSolution();
-                System.out.println(soln);
-                RDFNode sub = soln.get("s");
-
-                if( !sub.isURIResource() ) continue;
-
-
-//                roots.add(sub.toString());
-                roots.add(new YagoNode(sub.toString()));
+                try {
+                    QuerySolution soln = results.nextSolution();
+                    System.out.println(soln);
+                    RDFNode sub = soln.get("s");
+                    if( !sub.isURIResource() ) continue;
+                    roots.add(new YagoNode(sub.toString()));
+                } catch (NoSuchElementException e) {
+                    System.out.println(e);
+                }
             }
         }
         return roots;
@@ -77,33 +85,27 @@ public class Main {
         // use node level for tabs when printing, displaying inheratance
         List<YagoNode> nodes = getRoots(model);
         int maxDepth = 3;
-//        ArrayList<YagoNode> hitNodes = new ArrayList<>();
         HashSet<YagoNode> hitNodes = new HashSet<>();
+        HashSet<String> nodeWords = new HashSet<>();
 
-//        HashSet<String> found = new HashSet<>();
         while (!nodes.isEmpty()) {
             YagoNode node = nodes.get(0);
             if (node.getDepth() > maxDepth) break;
+            nodeWords.clear();
             for (String word : queryWords) {
                 if (node.getNodeData().toLowerCase().contains(word.toLowerCase())) {
+                    nodeWords.add(word);
                     node.addWord(word);
                     node.addHitChild(node);
-                    if (node.getDepth() > 0) {
-                        System.out.println(node.getWords());
-                        System.out.println(node.getParent().getWords());
-                    }
-
-//                    found.add(word);
                     YagoNode n = node;
-                    for (int i=node.getDepth(); i > 0; i--) {
+                    for (int i = node.getDepth(); i > 0; i--) {
                         n = n.getParent();
-                        System.out.println(n.getDepth());
                         if (n.getDepth() == 0) hitNodes.add(n);
                     }
                 }
             }
+            node.setNodeMatchWords(nodeWords);
             if (node.getWords().equals(queryWords)) maxDepth = node.getDepth();
-//            System.out.println(node.getNodeData());
             List<YagoNode> newNodes = traverse(model, node);
             if (newNodes != null) {
                 nodes.addAll(newNodes);
@@ -112,23 +114,80 @@ public class Main {
         }
         System.out.println("");
         System.out.println("Found Match...");
-        for (YagoNode nodeParent : hitNodes) {
-            System.out.println(nodeParent.getNodeData());
-//        for (YagoNode node : hitNodes) {
-            for (YagoNode node : nodeParent.getHitChildren()) {
-//            for (int i=node.getDepth(); i >= 0; i--) {
-//                System.out.println("Node depth");
-//                for (int j = 0; j < node.getDepth(); j++) { System.out.print("\t"); }
-//                System.out.println(node.getDepth());
-                for (int j = 0; j < node.getDepth(); j++) { System.out.print("\t"); }
-                System.out.println(node.getNodeData());
-                if (node.getParent() != null) node = node.getParent();
+        findMinSubgraph(hitNodes, queryWords);
+    }
+
+
+    // Useing kruskals -ish algo(?) Write something about that...
+    public static void findMinSubgraph (HashSet<YagoNode> rootNodes, HashSet<String> queryWords) {
+        HashSet<YagoNode> minTree = new HashSet<>();
+        HashSet<YagoNode> parentList = new HashSet<>();
+        final AtomicBoolean newMin = new AtomicBoolean(false);
+
+        for (YagoNode node : rootNodes) {
+            parentList.clear();
+            minTree.clear();
+            minTree.add(node);
+
+            // Check if root contains all words
+            if (node.getNodeMatchWords().equals(queryWords)) {
+                rankSubGraphs(minTree, queryWords);
             }
-            System.out.println("----");
-            System.out.println("");
+
+            // Else find the node with most fitting words.
+            else {
+                for (YagoNode n : node.getHitChildren()) {
+                    newMin.set(false);
+                    for (YagoNode min : minTree) {
+                        if (!min.getNodeMatchWords().containsAll(n.getNodeMatchWords())) {
+                            newMin.set(true);
+                            for (String s : n.getNodeMatchWords()) {
+                                if (min.getNodeMatchWords().contains(s)) min.removeNodeMatchWord(s);
+                            }
+                        }
+                        else {
+                            newMin.set(false);
+                            break;
+                        }
+                    }
+                    if (newMin.get()) {
+                        minTree.add(n);
+                    }
+                    minTree.removeIf(e -> (e.getNodeMatchWords().isEmpty()));
+                }
+            }
+            for (YagoNode min : minTree) {
+                YagoNode n = min;
+                for (int i=min.getDepth(); i>0;i--) {
+                    if (n.getParent() != null) {
+                        parentList.add(n.getParent());
+                        n = n.getParent();
+                    }
+                }
+            }
+            minTree.addAll(parentList);
+            rankSubGraphs(minTree, queryWords);
         }
     }
-//    }
+
+
+    public static void rankSubGraphs(HashSet<YagoNode> rootNodes, HashSet<String> queryWords) {
+        double score = 0.0;
+        double hitRate = 0.0;
+//        float score = (float) node.getWords().size() / queryWords.size() / (node.getHitChildren().size() + 1);
+        for (YagoNode node : rootNodes) {
+            for (int j = 0; j < node.getDepth(); j++) { System.out.print("\t"); }
+            System.out.println(node.getNodeData() + "   " + node.getNodeMatchWords());
+            for (String s : node.getNodeMatchWords()) {
+                if (queryWords.contains(s)) hitRate += 1;
+            }
+            score += node.getDepth() + 1;
+        }
+        hitRate = hitRate/queryWords.size();
+        System.out.println("Score: " + hitRate/score);
+        System.out.println("----");
+        System.out.println("");
+    }
 
 
     public static ArrayList<YagoNode> traverse (Model model, YagoNode yagoNode) {

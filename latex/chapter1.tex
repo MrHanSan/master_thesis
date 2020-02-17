@@ -1,19 +1,7 @@
 %===================================== CHAP 1 =================================
 
 \chapter{Introduction}
-%- What is a knowledge base\\
-A knowledge base is a collection of information. This collection is usually centered around a topic, but there also exists large, general, knowledge bases. Smaller knowledge bases are typical for any type of community, such as a company, school, or fan community, that seeks to preserve and share information. The larger knowledge bases have the same goal as the smaller ones, but the scope will be much larger. A common type of knowledge base is a wiki, a collection of linked articles where any one with the correct privileges can edit, add or delete articles. Knowledge bases can however be any type of collection. The information can be both structured, as in a wiki, or unstructured, with no link between the information. The information in a structured collection can be used to create a graph with information in small chunks representing a fact, as well as the relation between such facts. There exists multiple such graphs today most are based on Wikipedia, such as Yago\cite{yago} and DBpedia\cite{dbpedia}.\\
-
-% - What is a knowledge graph\\
-When a set of articles are linked they form a graph with each article being a entity in this graph\cite{mahdisoltani:hal-01699874, hoffart2013yago2}. Most articles falls into one or more categories, which is in turn used create a taxonomy of the entities. Since a category can be a subset of a different category, this creates a hierarchy of different entities based on what categories an entity falls under. Using the entity and category, combined with the linking of articles it is possible to create a directed graph of entities.
-
-% - How can a knowledge base be described as a graph\\
-Knowledge graphs is usually structured with a subject, predicate, and object. Both the subject and object are entities, or facts, and the predicate describes the relation between two facts. This structure makes the graph a directed cyclic graph. An example of the subject predicate object can be "Nidaros Cathedral" "is located in" "Trondheim".\\
-\includegraphics[width=\textwidth]{example-image-a}\\
-% - Graphic depicting some KG.\\
-
-% - Uses for KG.\\
-One of the uses of knowledge graphs today is to find and display a info box in search engines. This information is a compact set of facts that tries to fit the search query. Because of the graph structure of knowledge graphs the information in the info box can be adapted to the query by choosing the predicates and related facts closest related to the query. This makes it possible to create a set of information that can give the user a quick overview of the information retrieved by the query.\\
+Today large collections of information is available, but for this information to be useful, efficient retrieval methods is needed. Most users retrieve information with some form of keyword or free text search, like Google. 
 
 % - Why this is important\\
 

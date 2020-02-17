@@ -9,12 +9,14 @@ public class YagoNode {
     private String nodeData;
     private int depth;
     private HashSet<String> matchWords;
+    private HashSet<String> nodeMatchWords;
 
     public YagoNode(String nodeData) {
         this.nodeData = nodeData;
         depth = 0;
         matchWords = new HashSet<String>();
         hitChildren = new HashSet<YagoNode>();
+        nodeMatchWords = new HashSet<String>();
     }
 
     public YagoNode(YagoNode parent, String nodeData) {
@@ -23,6 +25,7 @@ public class YagoNode {
         depth = parent.getDepth()+1;
         matchWords = parent.matchWords;
         hitChildren = parent.hitChildren;
+        nodeMatchWords = new HashSet<String>();
     }
 
     public void addHitChild(YagoNode child) {
@@ -51,5 +54,17 @@ public class YagoNode {
 
     public void addWord(String word) {
         matchWords.add(word);
+    }
+
+    public void setNodeMatchWords(HashSet<String> matchWords) {
+        this.nodeMatchWords.addAll(matchWords);
+    }
+
+    public void removeNodeMatchWord(String word) {
+        this.nodeMatchWords.remove(word);
+    }
+
+    public HashSet<String> getNodeMatchWords() {
+        return nodeMatchWords;
     }
 }
