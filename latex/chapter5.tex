@@ -2,40 +2,45 @@
 
 \chapter{Methodology}
 
-\section{Datasets}
-\subsection{YagoFacts}
-Data set containing all facts in Yago that hold between instances. This data set is the largest that is used, and holds all information.
+\section{Dataset}
+- Using parts of Yago\\
+- Short description of each of the parts\\
+- preprocessing: replace non-unicode chars, replacing space with underscore in URIs, terminate triplet where missing termination, remove double quotes in URIs, remove backslash unless legal escape sequence\\
+- tdbloader for persistent queriable storage\\
+- Structure of graph? Here or in Yago description?\\
+% awk -F ' ' '{a[$1] += $2} END{for (i in a) print i, a[i]}' topMiddle100stemmed.txt | sort -k 2 -n > topMiddle.txt
 
-\subsection{GeoNames}
-All facts in Yago containing geographical coordinates and names. This data set contains all the place information and is used to index places and is used for the spatial indexing and used when finding a place that fits with the query or used as a starting place for spatial queries. 
-
-\subsection{DateFacts}
-All facts in Yago containing dates.
 
 \includegraphics[width=\textwidth]{example-image-c}
 
+\section{Queries}
+Generating random queries can create results that will not have any hits.\\
+Find a good method of creating queries.\\
+
+\section{Pruning}
+\subsection{Predicate pruning}
+
 \section{Evaluation}
-There are multiple possible methods for evaluating the indexing and search methods. A good method for evaluating the retrieval methods is time. The faster information can be retrieved the better the retrieval method should be, assuming the information retrieved is correct. For the purpose of this theses time complexity will be the main evaluation method, along with evaluation of how well the retrieved information fits the query.
-
-
+There are multiple possible methods for evaluating the indexing and search methods. A good method for evaluating the retrieval methods is time. The faster information can be retrieved the better the retrieval method should be, assuming the information retrieved is correct. For the purpose of this theses time complexity will be the main evaluation method, along with evaluation of how well the retrieved information fits the query.\\
 
 \subsection{Time complexity}
 When evaluating the time complexity of a solution, a simple timer is sufficient to compare. In addition the big O notation of a solution should be described and explained.
 
 \subsubsection{BFS}
-A BFS search has the complexity of O(V+E) \cite{Something} meaning that we simply add the nodes and edges. The best case is O(1), meaning the query terms are found on the first node. Worst case is still O(V+E), but a worst case will not find the terms, returning a empty result.
+A BFS search has the complexity of O(V+E) \cite{Something} meaning that we simply add the nodes and edges. The best case is O(1), meaning the query terms are found on the first node. Worst case is still O(V+E), but a worst case will not find the terms, returning a empty result.\\
 
 \subsubsection{BFS with pruning}
-Time complexity with pruning is the same as without pruning, but because there will be less nodes the real time taken will be lower.
+Time complexity with pruning is the same as without pruning, but because there will be less nodes the real time taken will be lower.\\
 
 \subsection{Space complexity}
 \subsubsection{BFS}
-BFS space-complexity = ??? \cite{something}
+% BFS space-complexity = ??? \cite{something}
 
 \subsubsection{BFS with pruning}
+Space complexity is in theory the same as without, the real world values will however be smaller because of the reduced number of nodes, and reduction in number of duplicates.\\
 
 \subsection{Information match}
-All methods for retrieving information should find the same results. When ranking the results the ranking should also be the same for all methods implemented.
+All methods for retrieving information should find the same results. When ranking the results the ranking should also be the same for all methods implemented.\\
 
 \subsubsection{BFS}
 

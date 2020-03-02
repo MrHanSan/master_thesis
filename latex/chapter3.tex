@@ -11,42 +11,42 @@
 - Different types of indexes.\\
 - Uses for index in general and thesis.\\
 - Querying(?).\\
-Most spatial indexing is done using R-trees. R-trees are based on a B-tree, but is optimized for indexing spatial dimensions. R-trees are able to effectively index spatial data by dividing space into smaller and smaller sets, or bounding boxes, and having the leaf nodes of the trees representing the smallest unit of space used in the data set, usually a small area or a point.
+Most spatial indexing is done using R-trees. R-trees are based on a B-tree, but is optimized for indexing spatial dimensions. R-trees are able to effectively index spatial data by dividing space into smaller and smaller sets, or bounding boxes, and having the leaf nodes of the trees representing the smallest unit of space used in the data set, usually a small area or a point.\\
 
 \includegraphics[width=\textwidth]{example-image-b}
 - Image Explaining R-tree index/ bounding.
 
 \subsection{Temporal indexing}
-In the dataset used in this thesis objects do not move, or move rarely. This makes indexing time unnecessary and it can be treated as a fact in the object with a start, and possible end time. This allows time to be retrieved as a fact when traversing the graph the same way as other facts.
+In the dataset used in this thesis objects do not move, or move rarely. This makes indexing time unnecessary and it can be treated as a fact in the object with a start, and possible end time. This allows time to be retrieved as a fact when traversing the graph the same way as other facts.\\
 
 \section{Search}
-\subsection{Bottom up BFS search}
-The most basic method of finding a match for keywords is using a bottom up breadth first search (BFS) \cite{He:2007:BRK:1247480.1247516}. For each keyword in the query the algorithm will find all vertices that contain the keyword. From that set of vertices the BFS search finds the first vertex that can connect all the vertices in the set. The vertex that connects the the rest of the set is the one that best fits the keywords in the search. There is however no guarantee that this set of vertices contains any spatial or temporal data. If this is the case, the search will continue until the a vertex containing spatial and temporal data is found. The first set of vertices containing all the keywords, a place, and time will be the best result using this search. The BFS search can however contain multiple times, or multiple places. To determine what time or what place best fits the query, a separate ranking algorithm can be used. BFS is also a time consuming algorithm and is used as a proof of concept and baseline in this thesis.
+\subsection{BFS search}
+The most basic method of finding a match for keywords is using a breadth first search (BFS) \cite{He:2007:BRK:1247480.1247516}. For each keyword in the query the algorithm will find all vertices that contain the keyword. From that set of vertices the BFS search finds the first vertex that can connect all the vertices in the set. The vertex that connects the the rest of the set is the one that best fits the keywords in the search. There is however no guarantee that this set of vertices contains any spatial or temporal data. If this is the case, the search will continue until the a vertex containing spatial and temporal data is found. The first set of vertices containing all the keywords, a place, and time will be the best result using this search. The BFS search can however contain multiple times, or multiple places. To determine what time or what place best fits the query, a separate ranking algorithm can be used. BFS is also a time consuming algorithm and is used as a proof of concept and baseline in this thesis.\\
 
 \begin{algorithm}
 \caption{BFS}
 \begin{algorithmic}[1]
 \Procedure{bfs}{}
-nodes = getRootNodesFromPlace()
-maxDepth = 3
+nodes = getRootNodesFromPlace()\\
+maxDepth = 3\\
 
-while nodes is not empty:
-	currentNode = node[0]
-	if node.depth > maxDepth: break
-	if node contains query word:
-		add node to list of hits
-	if all query words are found:
-		set maxDepth to current node depth
-	add neighbors of node to nodes list
+while nodes is not empty:\\
+	currentNode = node[0]\\
+	if node.depth > maxDepth: break\\
+	if node contains query word:\\
+		add node to list of hits\\
+	if all query words are found:\\
+		set maxDepth to current node depth\\
+	add neighbors of node to nodes list\\
 \EndProcedure
 \end{algorithmic}
 \end{algorithm}
 
 - Traversing the main graph\\
-The first part of the search is to find a set of root nodes for sub-graphs. This is done by collecting all neighbors from the place queried. The neighbors can be connected by any predicate in the first developed algorithm, but as explain in \ref{pruning} this selecting specific predicates can greatly increase speed by limiting the amount of nodes traversed. The BFS algorithm described above is used for each of the possible roots of subgraphs, stopping when all keywords are matched, or the depth of the graph exceeds the three or exceeds the currently shallowest subgraph that has matched all keywords. The reason for limiting the depth of subgraphs is to ensure at least a partial hit within a reasonable time. Limiting the depth of subgraphs to the current shallowest subgraph is done because no a deeper graph cannot be a more accurate hit.
-- Tokens
-- Objects
-When traversing the graph and finding a match, a node object is created. This object is used to keep track of the pseudo hierarchy in the graph. All objects contain information on the depth of the node, matched query terms, and relation to parent and children, if any. In addition root objects contains a list of all query terms hit in the sub graph. If a child node is found within multiple subgraphs, a new object will be created representing the node for each subgraph. This creates some objects that are nearly identical, but with different relations and possible different depth.
+The first part of the search is to find a set of root nodes for sub-graphs. This is done by collecting all neighbors from the place queried. The neighbors can be connected by any predicate in the first developed algorithm, but as explain in \ref{pruning} this selecting specific predicates can greatly increase speed by limiting the amount of nodes traversed. The BFS algorithm described above is used for each of the possible roots of subgraphs, stopping when all keywords are matched, or the depth of the graph exceeds the three or exceeds the currently shallowest subgraph that has matched all keywords. The reason for limiting the depth of subgraphs is to ensure at least a partial hit within a reasonable time. Limiting the depth of subgraphs to the current shallowest subgraph is done because no a deeper graph cannot be a more accurate hit.\\
+- Tokens\\
+- Objects\\
+When traversing the graph and finding a match, a node object is created. This object is used to keep track of the pseudo hierarchy in the graph. All objects contain information on the depth of the node, matched query terms, and relation to parent and children, if any. In addition root objects contains a list of all query terms hit in the sub graph. If a child node is found within multiple subgraphs, a new object will be created representing the node for each subgraph. This creates some objects that are nearly identical, but with different relations and possible different depth.\\
 
 \begin{algorithm}
 \caption{minimum spanning graph}
@@ -57,11 +57,11 @@ Algo go here
 \end{algorithmic}
 \end{algorithm}
 
-- Start by finding all trees with the same  minimum depth for each node (Roots for different trees) related to the place in the query.
-After traversing the main graph we have found all subgraphs containing at least one query term. These subgraphs contain many nodes which hit the same terms. Before ranking the subgraphs the minimum spanning graph needs to be found. The minimum spanning tree is found using a greedy algorithm that iterates through all nodes in the subgraphs, then keeping the nodes containing the most terms, and lowest depth. The minimum tree will contain as many terms as possible, a term will only be found in one node, and the graph will be as shallow as possible.
+- Start by finding all trees with the same  minimum depth for each node (Roots for different trees) related to the place in the query.\\
+After traversing the main graph we have found all subgraphs containing at least one query term. These subgraphs contain many nodes which hit the same terms. Before ranking the subgraphs the minimum spanning graph needs to be found. The minimum spanning tree is found using a greedy algorithm that iterates through all nodes in the subgraphs, then keeping the nodes containing the most terms, and lowest depth. The minimum tree will contain as many terms as possible, a term will only be found in one node, and the graph will be as shallow as possible.\\
 
-- Find the minimum spanning tree for each of the root nodes containing the maximum amount of the query words.
-- Rank based on 1. Query words hit 2. Nodes in the tree 3. depth of the tree
+- Find the minimum spanning tree for each of the root nodes containing the maximum amount of the query words.\\
+- Rank based on 1. Query words hit 2. Nodes in the tree 3. depth of the tree\\
  % f(L(Tp), S(q, p)) = L(Tp) × S(q, p). \cite{Shi:2016:TRS:2882903.2882941} % Ranking formula 2
 The final piece is to rank the minimum subgraphs. This is done using the nr. 2 formula found in \cite{Shi:2016:TRS:2882903.2882941}. 
 
