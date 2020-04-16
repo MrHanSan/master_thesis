@@ -1,0 +1,304 @@
+Query Words: Wipes, RubbersTotal execution time: 2302
+
+Query Words: Wipes, Rubbers, Sloped, Lifeless
+Nodes visited: 5098
+Total execution time: 697
+
+Query Words: Sloped, LifelessTotal execution time: 640
+
+Query Words: Sloped, Lifeless, Radiogram, Socialized
+Nodes visited: 5098
+Total execution time: 480
+
+Query Words: Radiogram, SocializedTotal execution time: 366
+
+Query Words: Radiogram, Socialized, Congers, Mailbag
+Nodes visited: 5098
+Total execution time: 397
+
+Query Words: Congers, MailbagTotal execution time: 403
+
+Query Words: Congers, Mailbag, Treeless, Mileage
+Nodes visited: 5098
+Total execution time: 364
+
+Query Words: Treeless, MileageTotal execution time: 354
+
+Query Words: Treeless, Mileage, Photoelectric, Scrambler
+Nodes visited: 5098
+Total execution time: 373
+
+Query Words: Photoelectric, ScramblerTotal execution time: 359
+
+Query Words: Photoelectric, Scrambler, Stilts, Teachings
+Nodes visited: 5098
+Total execution time: 367
+
+Query Words: Stilts, TeachingsTotal execution time: 363
+
+Query Words: Stilts, Teachings, Plagiarism, Lutes
+Nodes visited: 5098
+Total execution time: 375
+
+Query Words: Plagiarism, LutesTotal execution time: 367
+
+Query Words: Plagiarism, Lutes, Purification, Honored
+Nodes visited: 5098
+Total execution time: 357
+
+Query Words: Purification, HonoredTotal execution time: 386
+
+Query Words: Purification, Honored, Responsible, Banknote
+Nodes visited: 5098
+Total execution time: 358
+
+Query Words: Responsible, BanknoteTotal execution time: 378
+
+Query Words: Responsible, Banknote, Inhabitant, Gettysburg
+Nodes visited: 5098
+Total execution time: 364
+
+Query Words: Inhabitant, GettysburgTotal execution time: 350
+
+Query Words: Inhabitant, Gettysburg, Elam, Reno
+
+http://yago-knowledge.org/resource/Southern_California   []
+
+http://yago-knowledge.org/resource/Southern_California   []
+		http://yago-knowledge.org/resource/El_Sereno,_Los_Angeles   [Reno]
+
+http://yago-knowledge.org/resource/Southern_California   []
+		http://yago-knowledge.org/resource/El_Sereno,_Los_Angeles   [Reno]
+	http://yago-knowledge.org/resource/Los_Angeles_County,_California   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Riverside,_California   []
+
+http://yago-knowledge.org/resource/Riverside,_California   []
+		http://yago-knowledge.org/resource/Moreno_Valley,_California   [Reno]
+
+http://yago-knowledge.org/resource/Riverside,_California   []
+		http://yago-knowledge.org/resource/Moreno_Valley,_California   [Reno]
+	http://yago-knowledge.org/resource/Riverside_County,_California   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Rancho_Santa_Rosa_(Moreno)   [Reno]
+
+	http://yago-knowledge.org/resource/Rancho_Santa_Rosa_(Moreno)   [Reno]
+http://yago-knowledge.org/resource/Murrieta,_California   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Moreno_Valley,_California   [Reno]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Inland_Empire   []
+
+http://yago-knowledge.org/resource/Inland_Empire   []
+	http://yago-knowledge.org/resource/Riverside_County,_California   []
+
+http://yago-knowledge.org/resource/Inland_Empire   []
+	http://yago-knowledge.org/resource/Riverside_County,_California   []
+		http://yago-knowledge.org/resource/Moreno_Valley,_California   [Reno]
+Score: 0.041666666666666664
+----
+
+Nodes visited: 5098
+Total execution time: 379
+
+Query Words: Elam, Reno
+
+http://yago-knowledge.org/resource/Murrieta,_California   []
+
+http://yago-knowledge.org/resource/Murrieta,_California   []
+	http://yago-knowledge.org/resource/Rancho_Santa_Rosa_(Moreno)   [Reno]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Moreno_Valley,_California   [Reno]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Riverside_County,_California   []
+
+	http://yago-knowledge.org/resource/Riverside_County,_California   []
+http://yago-knowledge.org/resource/Riverside,_California   []
+
+	http://yago-knowledge.org/resource/Riverside_County,_California   []
+http://yago-knowledge.org/resource/Riverside,_California   []
+		http://yago-knowledge.org/resource/Moreno_Valley,_California   [Reno]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Moreno_Valley,_California   [Reno]
+
+		http://yago-knowledge.org/resource/Moreno_Valley,_California   [Reno]
+	http://yago-knowledge.org/resource/Riverside_County,_California   []
+
+		http://yago-knowledge.org/resource/Moreno_Valley,_California   [Reno]
+	http://yago-knowledge.org/resource/Riverside_County,_California   []
+http://yago-knowledge.org/resource/Inland_Empire   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Los_Angeles_County,_California   []
+
+	http://yago-knowledge.org/resource/Los_Angeles_County,_California   []
+		http://yago-knowledge.org/resource/El_Sereno,_Los_Angeles   [Reno]
+
+	http://yago-knowledge.org/resource/Los_Angeles_County,_California   []
+		http://yago-knowledge.org/resource/El_Sereno,_Los_Angeles   [Reno]
+http://yago-knowledge.org/resource/Southern_California   []
+Score: 0.08333333333333333
+----
+Total execution time: 361
+
+Query Words: Elam, Reno, Pinball, Stand
+
+http://yago-knowledge.org/resource/Palm_Desert,_California   []
+
+http://yago-knowledge.org/resource/Palm_Desert,_California   []
+	http://yago-knowledge.org/resource/Brian_Nestande   [Stand]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Rancho_Santa_Rosa_(Moreno)   [Reno]
+
+	http://yago-knowledge.org/resource/Rancho_Santa_Rosa_(Moreno)   [Reno]
+http://yago-knowledge.org/resource/Murrieta,_California   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Death_Valley_National_Park   []
+
+	http://yago-knowledge.org/resource/Death_Valley_National_Park   []
+	http://yago-knowledge.org/resource/Los_Angeles_County,_California   []
+
+	http://yago-knowledge.org/resource/Death_Valley_National_Park   []
+	http://yago-knowledge.org/resource/Los_Angeles_County,_California   []
+		http://yago-knowledge.org/resource/The_Grandstand   [Stand]
+
+	http://yago-knowledge.org/resource/Death_Valley_National_Park   []
+	http://yago-knowledge.org/resource/Los_Angeles_County,_California   []
+		http://yago-knowledge.org/resource/The_Grandstand   [Stand]
+http://yago-knowledge.org/resource/Southern_California   []
+
+	http://yago-knowledge.org/resource/Death_Valley_National_Park   []
+	http://yago-knowledge.org/resource/Los_Angeles_County,_California   []
+		http://yago-knowledge.org/resource/The_Grandstand   [Stand]
+http://yago-knowledge.org/resource/Southern_California   []
+		http://yago-knowledge.org/resource/El_Sereno,_Los_Angeles   [Reno]
+Score: 0.045454545454545456
+----
+
+
+	http://yago-knowledge.org/resource/Riverside_County,_California   []
+
+	http://yago-knowledge.org/resource/Riverside_County,_California   []
+		http://yago-knowledge.org/resource/Moreno_Valley,_California   [Reno]
+
+	http://yago-knowledge.org/resource/Riverside_County,_California   []
+		http://yago-knowledge.org/resource/Moreno_Valley,_California   [Reno]
+http://yago-knowledge.org/resource/Inland_Empire   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Moreno_Valley,_California   [Reno]
+Score: 0.25
+----
+
+
+		http://yago-knowledge.org/resource/Moreno_Valley,_California   [Reno]
+
+		http://yago-knowledge.org/resource/Moreno_Valley,_California   [Reno]
+http://yago-knowledge.org/resource/Riverside,_California   []
+
+		http://yago-knowledge.org/resource/Moreno_Valley,_California   [Reno]
+http://yago-knowledge.org/resource/Riverside,_California   []
+	http://yago-knowledge.org/resource/Riverside_County,_California   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 5098
+Total execution time: 376
+
+Query Words: Pinball, Stand
+
+http://yago-knowledge.org/resource/Palm_Desert,_California   []
+
+http://yago-knowledge.org/resource/Palm_Desert,_California   []
+	http://yago-knowledge.org/resource/Brian_Nestande   [Stand]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Death_Valley_National_Park   []
+
+	http://yago-knowledge.org/resource/Death_Valley_National_Park   []
+		http://yago-knowledge.org/resource/The_Grandstand   [Stand]
+
+	http://yago-knowledge.org/resource/Death_Valley_National_Park   []
+		http://yago-knowledge.org/resource/The_Grandstand   [Stand]
+http://yago-knowledge.org/resource/Southern_California   []
+Score: 0.08333333333333333
+----
+Total execution time: 372
+
+Query Words: Pinball, Stand, Andersen, Sanders
+
+http://yago-knowledge.org/resource/Palm_Desert,_California   []
+
+http://yago-knowledge.org/resource/Palm_Desert,_California   []
+	http://yago-knowledge.org/resource/Brian_Nestande   [Stand]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Corona,_California   []
+
+http://yago-knowledge.org/resource/Corona,_California   []
+	http://yago-knowledge.org/resource/Patrick_Sanders   [Sanders]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/George_Sanders   [Sanders]
+
+		http://yago-knowledge.org/resource/George_Sanders   [Sanders]
+http://yago-knowledge.org/resource/Palm_Springs,_California   []
+
+		http://yago-knowledge.org/resource/George_Sanders   [Sanders]
+http://yago-knowledge.org/resource/Palm_Springs,_California   []
+	http://yago-knowledge.org/resource/Magda_Gabor   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Death_Valley_National_Park   []
+
+	http://yago-knowledge.org/resource/Death_Valley_National_Park   []
+		http://yago-knowledge.org/resource/The_Grandstand   [Stand]
+
+	http://yago-knowledge.org/resource/Death_Valley_National_Park   []
+		http://yago-knowledge.org/resource/The_Grandstand   [Stand]
+http://yago-knowledge.org/resource/Southern_California   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 5098
+Total execution time: 361
+

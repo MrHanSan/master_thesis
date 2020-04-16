@@ -1,0 +1,78 @@
+Query Words: Wipes, RubbersTotal execution time: 3
+
+Query Words: Wipes, Rubbers, Sloped, Lifeless
+Nodes visited: 0
+Total execution time: 1
+
+Query Words: Sloped, LifelessTotal execution time: 0
+
+Query Words: Sloped, Lifeless, Radiogram, Socialized
+Nodes visited: 0
+Total execution time: 1
+
+Query Words: Radiogram, SocializedTotal execution time: 1
+
+Query Words: Radiogram, Socialized, Congers, Mailbag
+Nodes visited: 0
+Total execution time: 1
+
+Query Words: Congers, MailbagTotal execution time: 0
+
+Query Words: Congers, Mailbag, Treeless, Mileage
+Nodes visited: 0
+Total execution time: 1
+
+Query Words: Treeless, MileageTotal execution time: 1
+
+Query Words: Treeless, Mileage, Photoelectric, Scrambler
+Nodes visited: 0
+Total execution time: 1
+
+Query Words: Photoelectric, ScramblerTotal execution time: 0
+
+Query Words: Photoelectric, Scrambler, Stilts, Teachings
+Nodes visited: 0
+Total execution time: 1
+
+Query Words: Stilts, TeachingsTotal execution time: 1
+
+Query Words: Stilts, Teachings, Plagiarism, Lutes
+Nodes visited: 0
+Total execution time: 1
+
+Query Words: Plagiarism, LutesTotal execution time: 1
+
+Query Words: Plagiarism, Lutes, Purification, Honored
+Nodes visited: 0
+Total execution time: 1
+
+Query Words: Purification, HonoredTotal execution time: 1
+
+Query Words: Purification, Honored, Responsible, Banknote
+Nodes visited: 0
+Total execution time: 0
+
+Query Words: Responsible, BanknoteTotal execution time: 0
+
+Query Words: Responsible, Banknote, Inhabitant, Gettysburg
+Nodes visited: 0
+Total execution time: 1
+
+Query Words: Inhabitant, GettysburgTotal execution time: 0
+
+Query Words: Inhabitant, Gettysburg, Elam, Reno
+Nodes visited: 0
+Total execution time: 1
+
+Query Words: Elam, RenoTotal execution time: 1
+
+Query Words: Elam, Reno, Pinball, Stand
+Nodes visited: 0
+Total execution time: 1
+
+Query Words: Pinball, StandTotal execution time: 1
+
+Query Words: Pinball, Stand, Andersen, Sanders
+Nodes visited: 0
+Total execution time: 0
+

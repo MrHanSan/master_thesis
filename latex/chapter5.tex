@@ -3,6 +3,10 @@
 \chapter{Methodology}
 
 \section{Dataset}
+When selecting a data set an important feature was accurate spatial and temporal data. For this Yago was selected. Yago allows for download of subsets of data, and contains all the necessary data. Yagos high accuracy was also a benefit of this data set. From Yago, the data selected was the entire Yago taxonomy, the entire Yago core, and from Geonames the sets GeonamesOnlyData, GeonamesClassIds, GeonamesGlosses, GeonamesTypes, and GeonamesClasses were selected. These sets makes it possible to build a complete graph of the entities in Yago, but keeps the disk usage as low as possible.\\
+
+Yago taxonomy is used to create a structure ...
+
 - Using parts of Yago\\
 - Short description of each of the parts\\
 - preprocessing: replace non-unicode chars, replacing space with underscore in URIs, terminate triplet where missing termination, remove double quotes in URIs, remove backslash unless legal escape sequence\\
@@ -14,6 +18,12 @@
 \includegraphics[width=\textwidth]{example-image-c}
 
 \section{Queries}
+When selecting the keywords used in queries, a semi random selection method was used at first. This method created three pools of words, rare words (less than 1000 occurrences) uncommon words (less than 100 000 occurrences) and common words (more than 100 000 occurrences). The three pools where created by stemming all words, then counting occurrences. From each pool of words, a set of 100 where randomly selected, and from those 100, 10 where selected manually to ensure a range of occurrences, and to ensure no stop words, misspelled words or other errors were in the final set of keywords.\\
+
+A second set of words were also chosen to ensure a larger hit rate. This set was a random selection of 20 words from the top 150 words. From the 20 random words 10 where manually selected, the 150 word number was selected based on Zipf's law \cite{zipf}.\\
+
+When selecting places for spatial queries, a set of 20 random places were selected from the YagoGeonamesOnlyData set, and from that set, 5 were chosen manually for the final set. In the final set, three places where added manually, Oslo, London, and New York City were added to ensure variation in placement and node connections.\\
+
 Generating random queries can create results that will not have any hits.\\
 Find a good method of creating queries.\\
 
@@ -27,7 +37,7 @@ There are multiple possible methods for evaluating the indexing and search metho
 When evaluating the time complexity of a solution, a simple timer is sufficient to compare. In addition the big O notation of a solution should be described and explained.
 
 \subsubsection{BFS}
-A BFS search has the complexity of O(V+E) \cite{Something} meaning that we simply add the nodes and edges. The best case is O(1), meaning the query terms are found on the first node. Worst case is still O(V+E), but a worst case will not find the terms, returning a empty result.\\
+A BFS search has the complexity of O(V+E) meaning that we simply add the nodes and edges. The best case is O(1), meaning the query terms are found on the first node. Worst case is still O(V+E), but a worst case will not find the terms, returning a empty result.\\
 
 \subsubsection{BFS with pruning}
 Time complexity with pruning is the same as without pruning, but because there will be less nodes the real time taken will be lower.\\

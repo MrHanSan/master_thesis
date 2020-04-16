@@ -1,0 +1,679 @@
+Query Words: Wipes, Rubbers
+Root nodes Found: 1354
+Total execution time: 949892
+
+Query Words: Wipes, Rubbers, Sloped, Lifeless
+Root nodes Found: 1354
+Nodes visited: 224666
+Total execution time: 858203
+
+Query Words: Sloped, Lifeless
+Root nodes Found: 1354
+Total execution time: 863928
+
+Query Words: Sloped, Lifeless, Radiogram, Socialized
+Root nodes Found: 1354
+Nodes visited: 224666
+Total execution time: 874846
+
+Query Words: Radiogram, Socialized
+Root nodes Found: 1354
+Total execution time: 884271
+
+Query Words: Radiogram, Socialized, Congers, Mailbag
+Root nodes Found: 1354
+Nodes visited: 224666
+Total execution time: 878994
+
+Query Words: Congers, Mailbag
+Root nodes Found: 1354
+Total execution time: 871480
+
+Query Words: Congers, Mailbag, Treeless, Mileage
+Root nodes Found: 1354
+Nodes visited: 224666
+Total execution time: 869443
+
+Query Words: Treeless, Mileage
+Root nodes Found: 1354
+Total execution time: 869928
+
+Query Words: Treeless, Mileage, Photoelectric, Scrambler
+Root nodes Found: 1354
+Nodes visited: 224666
+Total execution time: 877959
+
+Query Words: Photoelectric, Scrambler
+Root nodes Found: 1354
+Total execution time: 861555
+
+Query Words: Photoelectric, Scrambler, Stilts, Teachings
+Root nodes Found: 1354
+Nodes visited: 224666
+Total execution time: 861116
+
+Query Words: Stilts, Teachings
+Root nodes Found: 1354
+Total execution time: 863234
+
+Query Words: Stilts, Teachings, Plagiarism, Lutes
+Root nodes Found: 1354
+Nodes visited: 224666
+Total execution time: 856953
+
+Query Words: Plagiarism, Lutes
+Root nodes Found: 1354
+Total execution time: 857883
+
+Query Words: Plagiarism, Lutes, Purification, Honored
+Root nodes Found: 1354
+Nodes visited: 224666
+Total execution time: 863702
+
+Query Words: Purification, Honored
+Root nodes Found: 1354
+Total execution time: 864677
+
+Query Words: Purification, Honored, Responsible, Banknote
+Root nodes Found: 1354
+Nodes visited: 224666
+Total execution time: 867797
+
+Query Words: Responsible, Banknote
+Root nodes Found: 1354
+Total execution time: 868096
+
+Query Words: Responsible, Banknote, Inhabitant, Gettysburg
+Root nodes Found: 1354
+Nodes visited: 224666
+Total execution time: 871175
+
+Query Words: Inhabitant, Gettysburg
+Root nodes Found: 1354
+Total execution time: 857306
+
+Query Words: Inhabitant, Gettysburg, Elam, Reno
+Root nodes Found: 1354
+
+	http://yago-knowledge.org/resource/China   []
+
+	http://yago-knowledge.org/resource/China   []
+		http://yago-knowledge.org/resource/Reno_Lim   [Reno]
+
+	http://yago-knowledge.org/resource/China   []
+		http://yago-knowledge.org/resource/Reno_Lim   [Reno]
+		http://yago-knowledge.org/resource/Delamu   [Elam]
+
+	http://yago-knowledge.org/resource/China   []
+		http://yago-knowledge.org/resource/Reno_Lim   [Reno]
+		http://yago-knowledge.org/resource/Delamu   [Elam]
+http://yago-knowledge.org/resource/China_National_Space_Administration   []
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Reno_Lim   [Reno]
+
+		http://yago-knowledge.org/resource/Reno_Lim   [Reno]
+http://yago-knowledge.org/resource/China_Post   []
+
+		http://yago-knowledge.org/resource/Reno_Lim   [Reno]
+http://yago-knowledge.org/resource/China_Post   []
+	http://yago-knowledge.org/resource/China   []
+
+		http://yago-knowledge.org/resource/Reno_Lim   [Reno]
+http://yago-knowledge.org/resource/China_Post   []
+	http://yago-knowledge.org/resource/China   []
+		http://yago-knowledge.org/resource/Delamu   [Elam]
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+	http://yago-knowledge.org/resource/Copenhagen_Airport   []
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+	http://yago-knowledge.org/resource/Copenhagen_Airport   []
+http://yago-knowledge.org/resource/Beijing_Capital_International_Airport   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Chino_Moreno   [Reno]
+
+		http://yago-knowledge.org/resource/Chino_Moreno   [Reno]
+		http://yago-knowledge.org/resource/Delamu   [Elam]
+
+		http://yago-knowledge.org/resource/Chino_Moreno   [Reno]
+		http://yago-knowledge.org/resource/Delamu   [Elam]
+	http://yago-knowledge.org/resource/China   []
+
+		http://yago-knowledge.org/resource/Chino_Moreno   [Reno]
+		http://yago-knowledge.org/resource/Delamu   [Elam]
+	http://yago-knowledge.org/resource/China   []
+http://yago-knowledge.org/resource/China_Academy_of_Space_Technology   []
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Chino_Moreno   [Reno]
+
+		http://yago-knowledge.org/resource/Chino_Moreno   [Reno]
+	http://yago-knowledge.org/resource/China   []
+
+		http://yago-knowledge.org/resource/Chino_Moreno   [Reno]
+	http://yago-knowledge.org/resource/China   []
+http://yago-knowledge.org/resource/China_Telecom   []
+
+		http://yago-knowledge.org/resource/Chino_Moreno   [Reno]
+	http://yago-knowledge.org/resource/China   []
+http://yago-knowledge.org/resource/China_Telecom   []
+		http://yago-knowledge.org/resource/Delamu   [Elam]
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/China   []
+
+	http://yago-knowledge.org/resource/China   []
+		http://yago-knowledge.org/resource/Delamu   [Elam]
+
+	http://yago-knowledge.org/resource/China   []
+		http://yago-knowledge.org/resource/Delamu   [Elam]
+		http://yago-knowledge.org/resource/Marcelo_Martins_Moreno   [Reno]
+
+	http://yago-knowledge.org/resource/China   []
+		http://yago-knowledge.org/resource/Delamu   [Elam]
+		http://yago-knowledge.org/resource/Marcelo_Martins_Moreno   [Reno]
+http://yago-knowledge.org/resource/China_Unicom   []
+Score: 0.05555555555555555
+----
+
+Nodes visited: 224666
+Total execution time: 872074
+
+Query Words: Elam, Reno
+Root nodes Found: 1354
+
+http://yago-knowledge.org/resource/China_Telecom   []
+
+http://yago-knowledge.org/resource/China_Telecom   []
+		http://yago-knowledge.org/resource/Delamu   [Elam]
+
+http://yago-knowledge.org/resource/China_Telecom   []
+		http://yago-knowledge.org/resource/Delamu   [Elam]
+		http://yago-knowledge.org/resource/Giovanni_Moreno   [Reno]
+
+http://yago-knowledge.org/resource/China_Telecom   []
+		http://yago-knowledge.org/resource/Delamu   [Elam]
+		http://yago-knowledge.org/resource/Giovanni_Moreno   [Reno]
+	http://yago-knowledge.org/resource/China   []
+Score: 0.1111111111111111
+----
+
+
+		http://yago-knowledge.org/resource/Reno_Lim   [Reno]
+
+		http://yago-knowledge.org/resource/Reno_Lim   [Reno]
+http://yago-knowledge.org/resource/China_Academy_of_Space_Technology   []
+
+		http://yago-knowledge.org/resource/Reno_Lim   [Reno]
+http://yago-knowledge.org/resource/China_Academy_of_Space_Technology   []
+		http://yago-knowledge.org/resource/Delamu   [Elam]
+
+		http://yago-knowledge.org/resource/Reno_Lim   [Reno]
+http://yago-knowledge.org/resource/China_Academy_of_Space_Technology   []
+		http://yago-knowledge.org/resource/Delamu   [Elam]
+	http://yago-knowledge.org/resource/China   []
+Score: 0.1111111111111111
+----
+
+
+		http://yago-knowledge.org/resource/Reno_Lim   [Reno]
+
+		http://yago-knowledge.org/resource/Reno_Lim   [Reno]
+	http://yago-knowledge.org/resource/China   []
+
+		http://yago-knowledge.org/resource/Reno_Lim   [Reno]
+	http://yago-knowledge.org/resource/China   []
+http://yago-knowledge.org/resource/China_National_Space_Administration   []
+
+		http://yago-knowledge.org/resource/Reno_Lim   [Reno]
+	http://yago-knowledge.org/resource/China   []
+http://yago-knowledge.org/resource/China_National_Space_Administration   []
+		http://yago-knowledge.org/resource/Delamu   [Elam]
+Score: 0.1111111111111111
+----
+
+
+		http://yago-knowledge.org/resource/Chino_Moreno   [Reno]
+
+		http://yago-knowledge.org/resource/Chino_Moreno   [Reno]
+		http://yago-knowledge.org/resource/Delamu   [Elam]
+
+		http://yago-knowledge.org/resource/Chino_Moreno   [Reno]
+		http://yago-knowledge.org/resource/Delamu   [Elam]
+	http://yago-knowledge.org/resource/China   []
+
+		http://yago-knowledge.org/resource/Chino_Moreno   [Reno]
+		http://yago-knowledge.org/resource/Delamu   [Elam]
+	http://yago-knowledge.org/resource/China   []
+http://yago-knowledge.org/resource/China_Unicom   []
+Score: 0.1111111111111111
+----
+
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+http://yago-knowledge.org/resource/Beijing_Capital_International_Airport   []
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+http://yago-knowledge.org/resource/Beijing_Capital_International_Airport   []
+	http://yago-knowledge.org/resource/Copenhagen_Airport   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/China   []
+
+	http://yago-knowledge.org/resource/China   []
+		http://yago-knowledge.org/resource/Giovanni_Moreno   [Reno]
+
+	http://yago-knowledge.org/resource/China   []
+		http://yago-knowledge.org/resource/Giovanni_Moreno   [Reno]
+		http://yago-knowledge.org/resource/Delamu   [Elam]
+
+	http://yago-knowledge.org/resource/China   []
+		http://yago-knowledge.org/resource/Giovanni_Moreno   [Reno]
+		http://yago-knowledge.org/resource/Delamu   [Elam]
+http://yago-knowledge.org/resource/China_Post   []
+Score: 0.1111111111111111
+----
+
+Total execution time: 868933
+
+Query Words: Elam, Reno, Pinball, Stand
+Root nodes Found: 1354
+
+	http://yago-knowledge.org/resource/China   []
+
+	http://yago-knowledge.org/resource/China   []
+http://yago-knowledge.org/resource/China_National_Space_Administration   []
+
+	http://yago-knowledge.org/resource/China   []
+http://yago-knowledge.org/resource/China_National_Space_Administration   []
+		http://yago-knowledge.org/resource/Giovanni_Moreno   [Reno]
+
+	http://yago-knowledge.org/resource/China   []
+http://yago-knowledge.org/resource/China_National_Space_Administration   []
+		http://yago-knowledge.org/resource/Giovanni_Moreno   [Reno]
+		http://yago-knowledge.org/resource/The_Last_Women_Standing   [Stand]
+
+	http://yago-knowledge.org/resource/China   []
+http://yago-knowledge.org/resource/China_National_Space_Administration   []
+		http://yago-knowledge.org/resource/Giovanni_Moreno   [Reno]
+		http://yago-knowledge.org/resource/The_Last_Women_Standing   [Stand]
+		http://yago-knowledge.org/resource/Delamu   [Elam]
+Score: 0.0625
+----
+
+
+http://yago-knowledge.org/resource/Studio_on_Fuxing_Road   []
+
+http://yago-knowledge.org/resource/Studio_on_Fuxing_Road   []
+	http://yago-knowledge.org/resource/Communist_Party_of_China   []
+
+http://yago-knowledge.org/resource/Studio_on_Fuxing_Road   []
+	http://yago-knowledge.org/resource/Communist_Party_of_China   []
+		http://yago-knowledge.org/resource/Politburo_Standing_Committee_of_the_Communist_Party_of_China   [Stand]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Communist_Party_of_China   []
+
+http://yago-knowledge.org/resource/Communist_Party_of_China   []
+	http://yago-knowledge.org/resource/Politburo_Standing_Committee_of_the_Communist_Party_of_China   [Stand]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Reno_Lim   [Reno]
+
+		http://yago-knowledge.org/resource/Reno_Lim   [Reno]
+		http://yago-knowledge.org/resource/The_Last_Women_Standing   [Stand]
+
+		http://yago-knowledge.org/resource/Reno_Lim   [Reno]
+		http://yago-knowledge.org/resource/The_Last_Women_Standing   [Stand]
+		http://yago-knowledge.org/resource/Delamu   [Elam]
+
+		http://yago-knowledge.org/resource/Reno_Lim   [Reno]
+		http://yago-knowledge.org/resource/The_Last_Women_Standing   [Stand]
+		http://yago-knowledge.org/resource/Delamu   [Elam]
+	http://yago-knowledge.org/resource/China   []
+
+		http://yago-knowledge.org/resource/Reno_Lim   [Reno]
+		http://yago-knowledge.org/resource/The_Last_Women_Standing   [Stand]
+		http://yago-knowledge.org/resource/Delamu   [Elam]
+	http://yago-knowledge.org/resource/China   []
+http://yago-knowledge.org/resource/China_Academy_of_Space_Technology   []
+Score: 0.0625
+----
+
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+http://yago-knowledge.org/resource/Beijing_Capital_International_Airport   []
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+http://yago-knowledge.org/resource/Beijing_Capital_International_Airport   []
+	http://yago-knowledge.org/resource/Copenhagen_Airport   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Delamu   [Elam]
+
+		http://yago-knowledge.org/resource/Delamu   [Elam]
+		http://yago-knowledge.org/resource/Marcelo_Martins_Moreno   [Reno]
+
+		http://yago-knowledge.org/resource/Delamu   [Elam]
+		http://yago-knowledge.org/resource/Marcelo_Martins_Moreno   [Reno]
+		http://yago-knowledge.org/resource/The_Last_Women_Standing   [Stand]
+
+		http://yago-knowledge.org/resource/Delamu   [Elam]
+		http://yago-knowledge.org/resource/Marcelo_Martins_Moreno   [Reno]
+		http://yago-knowledge.org/resource/The_Last_Women_Standing   [Stand]
+	http://yago-knowledge.org/resource/China   []
+
+		http://yago-knowledge.org/resource/Delamu   [Elam]
+		http://yago-knowledge.org/resource/Marcelo_Martins_Moreno   [Reno]
+		http://yago-knowledge.org/resource/The_Last_Women_Standing   [Stand]
+	http://yago-knowledge.org/resource/China   []
+http://yago-knowledge.org/resource/China_Telecom   []
+Score: 0.0625
+----
+
+
+	http://yago-knowledge.org/resource/China   []
+
+	http://yago-knowledge.org/resource/China   []
+		http://yago-knowledge.org/resource/Marcelo_Martins_Moreno   [Reno]
+
+	http://yago-knowledge.org/resource/China   []
+		http://yago-knowledge.org/resource/Marcelo_Martins_Moreno   [Reno]
+		http://yago-knowledge.org/resource/The_Last_Women_Standing   [Stand]
+
+	http://yago-knowledge.org/resource/China   []
+		http://yago-knowledge.org/resource/Marcelo_Martins_Moreno   [Reno]
+		http://yago-knowledge.org/resource/The_Last_Women_Standing   [Stand]
+http://yago-knowledge.org/resource/China_Unicom   []
+
+	http://yago-knowledge.org/resource/China   []
+		http://yago-knowledge.org/resource/Marcelo_Martins_Moreno   [Reno]
+		http://yago-knowledge.org/resource/The_Last_Women_Standing   [Stand]
+http://yago-knowledge.org/resource/China_Unicom   []
+		http://yago-knowledge.org/resource/Delamu   [Elam]
+Score: 0.0625
+----
+
+
+		http://yago-knowledge.org/resource/Politburo_Standing_Committee_of_the_Communist_Party_of_China   [Stand]
+
+		http://yago-knowledge.org/resource/Politburo_Standing_Committee_of_the_Communist_Party_of_China   [Stand]
+	http://yago-knowledge.org/resource/Communist_Party_of_China   []
+
+		http://yago-knowledge.org/resource/Politburo_Standing_Committee_of_the_Communist_Party_of_China   [Stand]
+	http://yago-knowledge.org/resource/Communist_Party_of_China   []
+http://yago-knowledge.org/resource/Xicheng_District   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/China   []
+
+	http://yago-knowledge.org/resource/China   []
+		http://yago-knowledge.org/resource/Chino_Moreno   [Reno]
+
+	http://yago-knowledge.org/resource/China   []
+		http://yago-knowledge.org/resource/Chino_Moreno   [Reno]
+		http://yago-knowledge.org/resource/Historical_membership_of_the_Politburo_Standing_Committee   [Stand]
+
+	http://yago-knowledge.org/resource/China   []
+		http://yago-knowledge.org/resource/Chino_Moreno   [Reno]
+		http://yago-knowledge.org/resource/Historical_membership_of_the_Politburo_Standing_Committee   [Stand]
+		http://yago-knowledge.org/resource/Delamu   [Elam]
+
+	http://yago-knowledge.org/resource/China   []
+		http://yago-knowledge.org/resource/Chino_Moreno   [Reno]
+		http://yago-knowledge.org/resource/Historical_membership_of_the_Politburo_Standing_Committee   [Stand]
+		http://yago-knowledge.org/resource/Delamu   [Elam]
+http://yago-knowledge.org/resource/China_Post   []
+Score: 0.0625
+----
+
+Nodes visited: 224666
+Total execution time: 864733
+
+Query Words: Pinball, Stand
+Root nodes Found: 1354
+
+http://yago-knowledge.org/resource/China_Academy_of_Space_Technology   []
+
+http://yago-knowledge.org/resource/China_Academy_of_Space_Technology   []
+		http://yago-knowledge.org/resource/Historical_membership_of_the_Politburo_Standing_Committee   [Stand]
+
+http://yago-knowledge.org/resource/China_Academy_of_Space_Technology   []
+		http://yago-knowledge.org/resource/Historical_membership_of_the_Politburo_Standing_Committee   [Stand]
+	http://yago-knowledge.org/resource/China   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/China   []
+
+	http://yago-knowledge.org/resource/China   []
+http://yago-knowledge.org/resource/China_Unicom   []
+
+	http://yago-knowledge.org/resource/China   []
+http://yago-knowledge.org/resource/China_Unicom   []
+		http://yago-knowledge.org/resource/Historical_membership_of_the_Politburo_Standing_Committee   [Stand]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/China   []
+
+	http://yago-knowledge.org/resource/China   []
+		http://yago-knowledge.org/resource/The_Last_Women_Standing   [Stand]
+
+	http://yago-knowledge.org/resource/China   []
+		http://yago-knowledge.org/resource/The_Last_Women_Standing   [Stand]
+http://yago-knowledge.org/resource/China_National_Space_Administration   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Politburo_Standing_Committee_of_the_Communist_Party_of_China   [Stand]
+
+		http://yago-knowledge.org/resource/Politburo_Standing_Committee_of_the_Communist_Party_of_China   [Stand]
+http://yago-knowledge.org/resource/Xicheng_District   []
+
+		http://yago-knowledge.org/resource/Politburo_Standing_Committee_of_the_Communist_Party_of_China   [Stand]
+http://yago-knowledge.org/resource/Xicheng_District   []
+	http://yago-knowledge.org/resource/Communist_Party_of_China   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Historical_membership_of_the_Politburo_Standing_Committee   [Stand]
+
+		http://yago-knowledge.org/resource/Historical_membership_of_the_Politburo_Standing_Committee   [Stand]
+http://yago-knowledge.org/resource/China_Post   []
+
+		http://yago-knowledge.org/resource/Historical_membership_of_the_Politburo_Standing_Committee   [Stand]
+http://yago-knowledge.org/resource/China_Post   []
+	http://yago-knowledge.org/resource/China   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Communist_Party_of_China   []
+
+	http://yago-knowledge.org/resource/Communist_Party_of_China   []
+http://yago-knowledge.org/resource/Studio_on_Fuxing_Road   []
+
+	http://yago-knowledge.org/resource/Communist_Party_of_China   []
+http://yago-knowledge.org/resource/Studio_on_Fuxing_Road   []
+		http://yago-knowledge.org/resource/Politburo_Standing_Committee_of_the_Communist_Party_of_China   [Stand]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Politburo_Standing_Committee_of_the_Communist_Party_of_China   [Stand]
+
+	http://yago-knowledge.org/resource/Politburo_Standing_Committee_of_the_Communist_Party_of_China   [Stand]
+http://yago-knowledge.org/resource/Communist_Party_of_China   []
+Score: 0.16666666666666666
+----
+
+
+		http://yago-knowledge.org/resource/The_Last_Women_Standing   [Stand]
+
+		http://yago-knowledge.org/resource/The_Last_Women_Standing   [Stand]
+	http://yago-knowledge.org/resource/China   []
+
+		http://yago-knowledge.org/resource/The_Last_Women_Standing   [Stand]
+	http://yago-knowledge.org/resource/China   []
+http://yago-knowledge.org/resource/China_Telecom   []
+Score: 0.08333333333333333
+----
+
+Total execution time: 863884
+
+Query Words: Pinball, Stand, Andersen, Sanders
+Root nodes Found: 1354
+
+		http://yago-knowledge.org/resource/Sanderson_Lam   [Sanders]
+
+		http://yago-knowledge.org/resource/Sanderson_Lam   [Sanders]
+http://yago-knowledge.org/resource/China_National_Space_Administration   []
+
+		http://yago-knowledge.org/resource/Sanderson_Lam   [Sanders]
+http://yago-knowledge.org/resource/China_National_Space_Administration   []
+		http://yago-knowledge.org/resource/The_Last_Women_Standing   [Stand]
+
+		http://yago-knowledge.org/resource/Sanderson_Lam   [Sanders]
+http://yago-knowledge.org/resource/China_National_Space_Administration   []
+		http://yago-knowledge.org/resource/The_Last_Women_Standing   [Stand]
+	http://yago-knowledge.org/resource/China   []
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/The_Last_Women_Standing   [Stand]
+
+		http://yago-knowledge.org/resource/The_Last_Women_Standing   [Stand]
+http://yago-knowledge.org/resource/China_Academy_of_Space_Technology   []
+
+		http://yago-knowledge.org/resource/The_Last_Women_Standing   [Stand]
+http://yago-knowledge.org/resource/China_Academy_of_Space_Technology   []
+	http://yago-knowledge.org/resource/China   []
+
+		http://yago-knowledge.org/resource/The_Last_Women_Standing   [Stand]
+http://yago-knowledge.org/resource/China_Academy_of_Space_Technology   []
+	http://yago-knowledge.org/resource/China   []
+		http://yago-knowledge.org/resource/Sanderson_Lam   [Sanders]
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/Xicheng_District   []
+
+http://yago-knowledge.org/resource/Xicheng_District   []
+	http://yago-knowledge.org/resource/Communist_Party_of_China   []
+
+http://yago-knowledge.org/resource/Xicheng_District   []
+	http://yago-knowledge.org/resource/Communist_Party_of_China   []
+		http://yago-knowledge.org/resource/Politburo_Standing_Committee_of_the_Communist_Party_of_China   [Stand]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Studio_on_Fuxing_Road   []
+
+http://yago-knowledge.org/resource/Studio_on_Fuxing_Road   []
+		http://yago-knowledge.org/resource/Politburo_Standing_Committee_of_the_Communist_Party_of_China   [Stand]
+
+http://yago-knowledge.org/resource/Studio_on_Fuxing_Road   []
+		http://yago-knowledge.org/resource/Politburo_Standing_Committee_of_the_Communist_Party_of_China   [Stand]
+	http://yago-knowledge.org/resource/Communist_Party_of_China   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Historical_membership_of_the_Politburo_Standing_Committee   [Stand]
+
+		http://yago-knowledge.org/resource/Historical_membership_of_the_Politburo_Standing_Committee   [Stand]
+	http://yago-knowledge.org/resource/China   []
+
+		http://yago-knowledge.org/resource/Historical_membership_of_the_Politburo_Standing_Committee   [Stand]
+	http://yago-knowledge.org/resource/China   []
+http://yago-knowledge.org/resource/China_Telecom   []
+
+		http://yago-knowledge.org/resource/Historical_membership_of_the_Politburo_Standing_Committee   [Stand]
+	http://yago-knowledge.org/resource/China   []
+http://yago-knowledge.org/resource/China_Telecom   []
+		http://yago-knowledge.org/resource/Sanderson_Lam   [Sanders]
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Historical_membership_of_the_Politburo_Standing_Committee   [Stand]
+
+		http://yago-knowledge.org/resource/Historical_membership_of_the_Politburo_Standing_Committee   [Stand]
+http://yago-knowledge.org/resource/China_Unicom   []
+
+		http://yago-knowledge.org/resource/Historical_membership_of_the_Politburo_Standing_Committee   [Stand]
+http://yago-knowledge.org/resource/China_Unicom   []
+	http://yago-knowledge.org/resource/China   []
+
+		http://yago-knowledge.org/resource/Historical_membership_of_the_Politburo_Standing_Committee   [Stand]
+http://yago-knowledge.org/resource/China_Unicom   []
+	http://yago-knowledge.org/resource/China   []
+		http://yago-knowledge.org/resource/Sanderson_Lam   [Sanders]
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/Communist_Party_of_China   []
+
+http://yago-knowledge.org/resource/Communist_Party_of_China   []
+	http://yago-knowledge.org/resource/Politburo_Standing_Committee_of_the_Communist_Party_of_China   [Stand]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/The_Last_Women_Standing   [Stand]
+
+		http://yago-knowledge.org/resource/The_Last_Women_Standing   [Stand]
+	http://yago-knowledge.org/resource/China   []
+
+		http://yago-knowledge.org/resource/The_Last_Women_Standing   [Stand]
+	http://yago-knowledge.org/resource/China   []
+		http://yago-knowledge.org/resource/Sanderson_Lam   [Sanders]
+
+		http://yago-knowledge.org/resource/The_Last_Women_Standing   [Stand]
+	http://yago-knowledge.org/resource/China   []
+		http://yago-knowledge.org/resource/Sanderson_Lam   [Sanders]
+http://yago-knowledge.org/resource/China_Post   []
+Score: 0.05555555555555555
+----
+
+Nodes visited: 224666
+Total execution time: 865006
+

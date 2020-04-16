@@ -1,0 +1,407 @@
+Query Words: Wipes, Rubbers
+Root nodes Found: 473
+Total execution time: 18528
+
+Query Words: Wipes, Rubbers, Sloped, Lifeless
+Root nodes Found: 473
+Nodes visited: 49058
+Total execution time: 10840
+
+Query Words: Sloped, Lifeless
+Root nodes Found: 473
+Total execution time: 6854
+
+Query Words: Sloped, Lifeless, Radiogram, Socialized
+Root nodes Found: 473
+Nodes visited: 49058
+Total execution time: 6705
+
+Query Words: Radiogram, Socialized
+Root nodes Found: 473
+Total execution time: 6720
+
+Query Words: Radiogram, Socialized, Congers, Mailbag
+Root nodes Found: 473
+Nodes visited: 49058
+Total execution time: 6743
+
+Query Words: Congers, Mailbag
+Root nodes Found: 473
+Total execution time: 6671
+
+Query Words: Congers, Mailbag, Treeless, Mileage
+Root nodes Found: 473
+Nodes visited: 49058
+Total execution time: 6749
+
+Query Words: Treeless, Mileage
+Root nodes Found: 473
+Total execution time: 6767
+
+Query Words: Treeless, Mileage, Photoelectric, Scrambler
+Root nodes Found: 473
+Nodes visited: 49058
+Total execution time: 6746
+
+Query Words: Photoelectric, Scrambler
+Root nodes Found: 473
+Total execution time: 6422
+
+Query Words: Photoelectric, Scrambler, Stilts, Teachings
+Root nodes Found: 473
+Nodes visited: 49058
+Total execution time: 6675
+
+Query Words: Stilts, Teachings
+Root nodes Found: 473
+Total execution time: 6939
+
+Query Words: Stilts, Teachings, Plagiarism, Lutes
+Root nodes Found: 473
+Nodes visited: 49058
+Total execution time: 6495
+
+Query Words: Plagiarism, Lutes
+Root nodes Found: 473
+Total execution time: 6508
+
+Query Words: Plagiarism, Lutes, Purification, Honored
+Root nodes Found: 473
+Nodes visited: 49058
+Total execution time: 6878
+
+Query Words: Purification, Honored
+Root nodes Found: 473
+Total execution time: 6689
+
+Query Words: Purification, Honored, Responsible, Banknote
+Root nodes Found: 473
+Nodes visited: 49058
+Total execution time: 6671
+
+Query Words: Responsible, Banknote
+Root nodes Found: 473
+Total execution time: 6602
+
+Query Words: Responsible, Banknote, Inhabitant, Gettysburg
+Root nodes Found: 473
+Nodes visited: 49058
+Total execution time: 6930
+
+Query Words: Inhabitant, Gettysburg
+Root nodes Found: 473
+Total execution time: 6616
+
+Query Words: Inhabitant, Gettysburg, Elam, Reno
+Root nodes Found: 473
+
+http://yago-knowledge.org/resource/Revolt_of_Cairo   []
+
+http://yago-knowledge.org/resource/Revolt_of_Cairo   []
+		http://yago-knowledge.org/resource/Roland_Moreno   [Reno]
+
+http://yago-knowledge.org/resource/Revolt_of_Cairo   []
+		http://yago-knowledge.org/resource/Roland_Moreno   [Reno]
+	http://yago-knowledge.org/resource/Cairo   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Cairo_International_Airport   []
+
+http://yago-knowledge.org/resource/Cairo_International_Airport   []
+	http://yago-knowledge.org/resource/Copenhagen_Airport   []
+
+http://yago-knowledge.org/resource/Cairo_International_Airport   []
+	http://yago-knowledge.org/resource/Copenhagen_Airport   []
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Roland_Moreno   [Reno]
+
+		http://yago-knowledge.org/resource/Roland_Moreno   [Reno]
+http://yago-knowledge.org/resource/Cairo_Governorate   []
+
+		http://yago-knowledge.org/resource/Roland_Moreno   [Reno]
+http://yago-knowledge.org/resource/Cairo_Governorate   []
+	http://yago-knowledge.org/resource/Cairo   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Turkey   []
+
+	http://yago-knowledge.org/resource/Turkey   []
+		http://yago-knowledge.org/resource/Selami_Altınok   [Elam]
+
+	http://yago-knowledge.org/resource/Turkey   []
+		http://yago-knowledge.org/resource/Selami_Altınok   [Elam]
+		http://yago-knowledge.org/resource/Irenopolis,_Cilicia   [Reno]
+
+	http://yago-knowledge.org/resource/Turkey   []
+		http://yago-knowledge.org/resource/Selami_Altınok   [Elam]
+		http://yago-knowledge.org/resource/Irenopolis,_Cilicia   [Reno]
+http://yago-knowledge.org/resource/2013_Egyptian_coup_d'état   []
+Score: 0.05555555555555555
+----
+
+Nodes visited: 49058
+Total execution time: 6695
+
+Query Words: Elam, Reno
+Root nodes Found: 473
+
+http://yago-knowledge.org/resource/Cairo_International_Airport   []
+
+http://yago-knowledge.org/resource/Cairo_International_Airport   []
+	http://yago-knowledge.org/resource/Copenhagen_Airport   []
+
+http://yago-knowledge.org/resource/Cairo_International_Airport   []
+	http://yago-knowledge.org/resource/Copenhagen_Airport   []
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Selami_Şahin   [Elam]
+
+		http://yago-knowledge.org/resource/Selami_Şahin   [Elam]
+		http://yago-knowledge.org/resource/Darío�Moreno   [Reno]
+
+		http://yago-knowledge.org/resource/Selami_Şahin   [Elam]
+		http://yago-knowledge.org/resource/Darío�Moreno   [Reno]
+http://yago-knowledge.org/resource/2013_Egyptian_coup_d'état   []
+
+		http://yago-knowledge.org/resource/Selami_Şahin   [Elam]
+		http://yago-knowledge.org/resource/Darío�Moreno   [Reno]
+http://yago-knowledge.org/resource/2013_Egyptian_coup_d'état   []
+	http://yago-knowledge.org/resource/Turkey   []
+Score: 0.1111111111111111
+----
+
+
+		http://yago-knowledge.org/resource/Roland_Moreno   [Reno]
+
+		http://yago-knowledge.org/resource/Roland_Moreno   [Reno]
+http://yago-knowledge.org/resource/Revolt_of_Cairo   []
+
+		http://yago-knowledge.org/resource/Roland_Moreno   [Reno]
+http://yago-knowledge.org/resource/Revolt_of_Cairo   []
+	http://yago-knowledge.org/resource/Cairo   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Cairo   []
+
+	http://yago-knowledge.org/resource/Cairo   []
+http://yago-knowledge.org/resource/Cairo_Governorate   []
+
+	http://yago-knowledge.org/resource/Cairo   []
+http://yago-knowledge.org/resource/Cairo_Governorate   []
+		http://yago-knowledge.org/resource/Roland_Moreno   [Reno]
+Score: 0.08333333333333333
+----
+
+Total execution time: 6984
+
+Query Words: Elam, Reno, Pinball, Stand
+Root nodes Found: 473
+
+		http://yago-knowledge.org/resource/Bostandji   [Stand]
+
+		http://yago-knowledge.org/resource/Bostandji   [Stand]
+		http://yago-knowledge.org/resource/de/Can_Erenoğlu   [Reno]
+
+		http://yago-knowledge.org/resource/Bostandji   [Stand]
+		http://yago-knowledge.org/resource/de/Can_Erenoğlu   [Reno]
+http://yago-knowledge.org/resource/2013_Egyptian_coup_d'état   []
+
+		http://yago-knowledge.org/resource/Bostandji   [Stand]
+		http://yago-knowledge.org/resource/de/Can_Erenoğlu   [Reno]
+http://yago-knowledge.org/resource/2013_Egyptian_coup_d'état   []
+		http://yago-knowledge.org/resource/Selam_(film)   [Elam]
+
+		http://yago-knowledge.org/resource/Bostandji   [Stand]
+		http://yago-knowledge.org/resource/de/Can_Erenoğlu   [Reno]
+http://yago-knowledge.org/resource/2013_Egyptian_coup_d'état   []
+		http://yago-knowledge.org/resource/Selam_(film)   [Elam]
+	http://yago-knowledge.org/resource/Turkey   []
+Score: 0.0625
+----
+
+
+http://yago-knowledge.org/resource/Battle_of_Shubra_Khit   []
+
+http://yago-knowledge.org/resource/Battle_of_Shubra_Khit   []
+	http://yago-knowledge.org/resource/Ottoman_Empire   []
+
+http://yago-knowledge.org/resource/Battle_of_Shubra_Khit   []
+	http://yago-knowledge.org/resource/Ottoman_Empire   []
+		http://yago-knowledge.org/resource/Kostandin_Kristoforidhi   [Stand]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+http://yago-knowledge.org/resource/Cairo_International_Airport   []
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+http://yago-knowledge.org/resource/Cairo_International_Airport   []
+	http://yago-knowledge.org/resource/Copenhagen_Airport   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Antigone_Costanda   [Stand]
+
+	http://yago-knowledge.org/resource/Antigone_Costanda   [Stand]
+http://yago-knowledge.org/resource/Miss_Egypt   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Cairo_Governorate   []
+
+http://yago-knowledge.org/resource/Cairo_Governorate   []
+	http://yago-knowledge.org/resource/Cairo   []
+
+http://yago-knowledge.org/resource/Cairo_Governorate   []
+	http://yago-knowledge.org/resource/Cairo   []
+		http://yago-knowledge.org/resource/Roland_Moreno   [Reno]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Cairo   []
+
+	http://yago-knowledge.org/resource/Cairo   []
+http://yago-knowledge.org/resource/Revolt_of_Cairo   []
+
+	http://yago-knowledge.org/resource/Cairo   []
+http://yago-knowledge.org/resource/Revolt_of_Cairo   []
+		http://yago-knowledge.org/resource/Roland_Moreno   [Reno]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Kostandin_Kristoforidhi   [Stand]
+
+		http://yago-knowledge.org/resource/Kostandin_Kristoforidhi   [Stand]
+http://yago-knowledge.org/resource/Battle_of_Ridaniya   []
+
+		http://yago-knowledge.org/resource/Kostandin_Kristoforidhi   [Stand]
+http://yago-knowledge.org/resource/Battle_of_Ridaniya   []
+	http://yago-knowledge.org/resource/Ottoman_Empire   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 49058
+Total execution time: 6570
+
+Query Words: Pinball, Stand
+Root nodes Found: 473
+
+http://yago-knowledge.org/resource/Battle_of_Shubra_Khit   []
+
+http://yago-knowledge.org/resource/Battle_of_Shubra_Khit   []
+		http://yago-knowledge.org/resource/Kostandin_Kristoforidhi   [Stand]
+
+http://yago-knowledge.org/resource/Battle_of_Shubra_Khit   []
+		http://yago-knowledge.org/resource/Kostandin_Kristoforidhi   [Stand]
+	http://yago-knowledge.org/resource/Ottoman_Empire   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/2013_Egyptian_coup_d'état   []
+
+http://yago-knowledge.org/resource/2013_Egyptian_coup_d'état   []
+		http://yago-knowledge.org/resource/Bostandji   [Stand]
+
+http://yago-knowledge.org/resource/2013_Egyptian_coup_d'état   []
+		http://yago-knowledge.org/resource/Bostandji   [Stand]
+	http://yago-knowledge.org/resource/Turkey   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Miss_Egypt   []
+
+http://yago-knowledge.org/resource/Miss_Egypt   []
+	http://yago-knowledge.org/resource/Antigone_Costanda   [Stand]
+Score: 0.16666666666666666
+----
+
+
+		http://yago-knowledge.org/resource/Kostandin_Kristoforidhi   [Stand]
+
+		http://yago-knowledge.org/resource/Kostandin_Kristoforidhi   [Stand]
+http://yago-knowledge.org/resource/Battle_of_Ridaniya   []
+
+		http://yago-knowledge.org/resource/Kostandin_Kristoforidhi   [Stand]
+http://yago-knowledge.org/resource/Battle_of_Ridaniya   []
+	http://yago-knowledge.org/resource/Ottoman_Empire   []
+Score: 0.08333333333333333
+----
+
+Total execution time: 6720
+
+Query Words: Pinball, Stand, Andersen, Sanders
+Root nodes Found: 473
+
+		http://yago-knowledge.org/resource/Kostandin_Kristoforidhi   [Stand]
+
+		http://yago-knowledge.org/resource/Kostandin_Kristoforidhi   [Stand]
+http://yago-knowledge.org/resource/Battle_of_Shubra_Khit   []
+
+		http://yago-knowledge.org/resource/Kostandin_Kristoforidhi   [Stand]
+http://yago-knowledge.org/resource/Battle_of_Shubra_Khit   []
+	http://yago-knowledge.org/resource/Ottoman_Empire   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Bostandji   [Stand]
+
+		http://yago-knowledge.org/resource/Bostandji   [Stand]
+		http://yago-knowledge.org/resource/LaToya_Sanders   [Sanders]
+
+		http://yago-knowledge.org/resource/Bostandji   [Stand]
+		http://yago-knowledge.org/resource/LaToya_Sanders   [Sanders]
+http://yago-knowledge.org/resource/2013_Egyptian_coup_d'état   []
+
+		http://yago-knowledge.org/resource/Bostandji   [Stand]
+		http://yago-knowledge.org/resource/LaToya_Sanders   [Sanders]
+http://yago-knowledge.org/resource/2013_Egyptian_coup_d'état   []
+	http://yago-knowledge.org/resource/Turkey   []
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Kostandin_Kristoforidhi   [Stand]
+
+		http://yago-knowledge.org/resource/Kostandin_Kristoforidhi   [Stand]
+	http://yago-knowledge.org/resource/Ottoman_Empire   []
+
+		http://yago-knowledge.org/resource/Kostandin_Kristoforidhi   [Stand]
+	http://yago-knowledge.org/resource/Ottoman_Empire   []
+http://yago-knowledge.org/resource/Battle_of_Ridaniya   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Antigone_Costanda   [Stand]
+
+	http://yago-knowledge.org/resource/Antigone_Costanda   [Stand]
+http://yago-knowledge.org/resource/Miss_Egypt   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 49058
+Total execution time: 6759
+

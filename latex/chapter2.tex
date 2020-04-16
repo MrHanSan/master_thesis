@@ -2,64 +2,95 @@
 
 \chapter{Background}
 
-- More on existing KB\\
-- Structure of Yago?\\
-- What makes Yago special\\
-- Describe DBPedia\\
+\section{Definitions}
+Knowledge base, ontology and knowledge graph are terms with multiple definitions, and are often used interchangeably. The definitions here are used to clarify what they mean in this paper, and is not a definitive definition.
 
-\section{Knowledge Base}
-%- What is a knowledge base\\
-A knowledge base is a collection of information. This collection is usually centered around a topic, but there also exists large, general, knowledge bases. Smaller knowledge bases are typical for any type of community, such as a company, school, or fan community, that seeks to preserve and share information. The larger knowledge bases have the same goal as the smaller ones, but the scope will be much larger. A common type of knowledge base is a wiki, a collection of linked articles where any one with the correct privileges can edit, add or delete articles. Knowledge bases can however be any type of collection. The information can be both structured, as in a wiki, or unstructured, with no link between the information. The information in a structured collection can be used to create a graph with information in small chunks representing a fact, as well as the relation between such facts. There exists multiple such graphs today most are based on Wikipedia, such as Yago\cite{yago} and DBpedia\cite{dbpedia}.\\
+\subsection{Knowledge Base}
+The term knowledge base can have many definitions, often because the terms knowledge base, ontology, and knowledge graph is used interchangeably \cite{KGDef}. In this paper the term knowledge graph will be defined as follows: ``A knowledge base is a dataset with some formal semantics. This could include multiple axions, definitions, rules, facts, statements, and other primitives.'' \cite{davies2006semantic}
 
-\section{Knowledge Graphs}
-% - Find a section headline, might be easier after writing more.\\
-Knowledge graphs is a representation of complex data that describes facts and relationship between facts. Facts can be placed into different categories, and can have different properties. Combining facts from different categories or with different properties can give a quick overview of a topic. Based on a query facts can be combined to give users a quick answer.\\
+\subsection{Ontology}
+Like knowledge base, ontology does not have one clear definition. This is because the term have many different interpretations, and is often confused with other terms \cite{FEILMAYR20161}. Most definitions of ontologies say that ontologies represent a schema, basic theory, or conceptualization of a domain, which knowledge bases do not. \cite{davies2006semantic} To differentiate ontologies and knowledge bases in this paper the definition of an ontology will be ``An ontology is an extended knowledge base that allows for semantic modeling of knowledge.'' With this definition, ontologies can be considered a specialized form of knowledge bases.
 
-% - What is a knowledge graph\\
-When a set of articles are linked they form a graph with each article being a entity in this graph\cite{mahdisoltani:hal-01699874, hoffart2013yago2}. Most articles falls into one or more categories, which is in turn used create a taxonomy of the entities. Since a category can be a subset of a different category, this creates a hierarchy of different entities based on what categories an entity falls under. Using the entity and category, combined with the linking of articles it is possible to create a directed graph of entities.
+\subsection{Knowledge Graphs}
+A broad definition of knowledge graph is ``A knowledge graph acquires and integrates information into an ontology and applies a reasoner to derive new knowledge.'' \cite{KGDef} This definition is encompasses multiple technologies. In this paper we will use the more specific definition that fits the data used ``We define a Knowledge Graph as an RDF graph. An RDF graph consists of a set of RDF triples where each RDF triple (s, p, o) is an ordered set of the following RDF terms: a subject s $\in$ U $\cup$ B, a predicate p $\in$ U, and an object U $\cup$ B  L. An RDF term is either a URI u $\in$ U, a blank node b $\in$ B, or a literal l $\in$ L'' \cite{KGDefYago}
+
+\subsubsection{Subject}
+In a RDF triple the subject is a URI or a blank node. The URI when used in the subject identifies an entity, or is an alias, different language or other variation of an entity. This subject can have relations to objects describing the same entity.
+
+\subsubsection{Predicate}
+Predicates are always a URI. URIs used for predicates differ from the ones used for subjects and objects in that predicates are of a type. A type is an identifier used to describe the relation between the subject and object.
+
+\subsubsection{Object}
+Objects have the widest range of possible entries. Like subjects and predicates, objects can be URIs. Object URIs can be entity identifiers like subjects, they can be class identifiers, or they can contain some data and a data type. Blank nodes are just that, blank, and literals are an atomic value. 
+
+\subsection{Facts and entities}
+A fact is a term often used when describing knowledge bases, ontologies and knowledge graphs. Usually a fact is the smallest piece of information in such a system. In a knowledge graph this is a single RFD triple. Another term often used is entity. An entity is a collection of facts, usually from the same article. Entities can be linked together through facts. In such a fact, one entity is used as the subject, the predicate describes the relation, and the object is the other entity. In such a relation both entities will be URIs.
+
+
+
+
+
+
+
+
+\section{Existing knowledge graphs and ontologies}
+Currently two of the largest open technologies for knowledge graphs are Yago and DBPedia. Both these projects use automatic extraction from Wikipedia to create the graph, but differ in the ontology used to build the graphs. Yago also includes data from WordNet and GeoNames to accurately assign entities to classes. Both projects use RDF triples to create a knowledge graph.\\
+% When a set of articles are linked they form a graph with each article being a entity in this graph\cite{mahdisoltani:hal-01699874, hoffart2013yago2}. Most articles falls into one or more categories, which is in turn used create a taxonomy of the entities. Since a category can be a subset of a different category, this creates a hierarchy of different entities based on what categories an entity falls under. Using the entity and category, combined with the linking of articles it is possible to create a directed graph of entities.
 
 % - How can a knowledge base be described as a graph\\
-Knowledge graphs is usually structured with a subject, predicate, and object. Both the subject and object are entities, or facts, and the predicate describes the relation between two facts. This structure makes the graph a directed cyclic graph. An example of the subject predicate object can be "Nidaros Cathedral" "is located in" "Trondheim".\\
+% Knowledge graphs is usually structured with a subject, predicate, and object. Both the subject and object are entities, or facts, and the predicate describes the relation between two facts. This structure makes the graph a directed cyclic graph. An example of the subject predicate object can be "Nidaros Cathedral" "is located in" "Trondheim".\\
+
 \includegraphics[width=\textwidth]{example-image-a}\\
 % - Graphic depicting some KG.\\
-
-% - Uses for KG.\\
+\subsection{Uses for Knowledge graphs}
 One of the uses of knowledge graphs today is to find and display a info box in search engines. This information is a compact set of facts that tries to fit the search query. Because of the graph structure of knowledge graphs the information in the info box can be adapted to the query by choosing the predicates and related facts closest related to the query. This makes it possible to create a set of information that can give the user a quick overview of the information retrieved by the query.\\
 
-- More about graphs in general\\
-Graphs theory is a prominent part of computer science. Graph structures is a common way to create a dataset that can be efficiently explored for a variety of purposes, and with many different algorithms. \\
-
-- Type of graphs used in knowledge graphs\\
-Because of the linking of articles in common knowledge bases it is possible to derive a graph that represents this linking. This graph will be a cyclic directed graph.\\
-
-
 \subsection{Yago}
-Yago\cite{yago} is a knowledge graph created from a set of different sources. The graph is built from Wikipedia, WordNet, GeoNames and Wikidata. This combination of sources makes it possible to get information in multiple languages, and spatio-temporal data. \\
+Yago is an acronym for Yet Another Great Ontology, and is main data source in this paper. The project describes it self as a knowledge base\cite{yago} and an ontology \cite{mahdisoltani:hal-01699874}, but is often described as a knowledge graph by others. In this paper Yago is described as a knowledge graph.\\
 
-- Describe the RDF N3/ triplet format\\
-All facts in Yago consists of a subject, predicate and object. This fits perfectly into the RDF N3, or Notation3 format.\\
+\subsubsection{Temporal data}
+Yago have many entities with facts describing date and spatial data.\cite{yago} Date facts follows the ISO 8601 format, YYYY-MM-DD, and introduces \# as a wildcard symbol. A fact can only hold information on a single point in time, and uses yagoDate as a data type in addition to information on the date.\cite{yago} In a date fact, the object holds the date information, and the predicate describes a connection between subject and date. ``Nidaros\_Cathedral wasCreatedOnDate 1300-\#\#-\#\# .'' In this example the predicate wasCreatedOn is used to describe a relation between the subject and a date.\\
 
-- Use of triplets.\\
+To describe a timespan two facts are required. One of the facts describes a start date, and the second en end date. Since an entity can have multiple date facts connected, all date predicates are also assigned to a class. Start dates are assigned to a predicate with a type that has a ``creation'' class, such as ``StartedOnDate''. End dates are assigned to ``destruction'' type predicates. This makes it possible to deduce a timespan for a given subject and predicate combination.\cite{yago}\\
 
-\includegraphics[width=\textwidth]{example-image-b}
-- Graphic describing triplet format and how it forms graphs
-
-
-- Temporal data in Yago.\\
-Predicates form the link between facts, and can be divided into many sub-groups. This grouping helps when finding possible temporal data for a fact. Facts in the categories `People', `Groups', `Artifacts', and `Events' will usually also contain a link to a time or timespan.\\
-
-- Spatial data in Yago.\\
+\subsubsection{Spatial data}
+Yago only contains permanent spatial data for entities on earth. This means that entities like cities, buildings, rivers and mountains are given a spatial dimension. In addition, events, people, groups and artifacts can be given a spatial dimension by relating the entity to a specific place. All spatial facts must have a predicate that fall under the yagoGeoEntity class, and all objects used in a fact with a yagoGeoEntity must have a relation containing both ``hasLatitude'' and ``hasLongitude''.
 
 
-- Different data sets in Yago.\\
-- Data sets used in this thesis.\\
-	- Yago Date Facts\\
-	- Yago Facts.\\
-	- Yago Geonames Only Data.\\
-- Pseudo-hierarchy of facts.\\
-- Use of persistent TDB dataset.\\
+\begin{figure}[t]
+  \centering
+  \includegraphics[scale=0.3]{fig/yago_trondheim.png}
+ \caption{Trondheim as a subject in YAGO}
+ \label{fig:1}
+\end{figure}
+
+
+\subsection{DBPedia}
+
+\subsection{Common tools and technology}
+
 
 \subsection{Jena}
 Apache Jena is a Java framework created for linked data stores. This is used to create a store that can be queried, and traversed using SPARQL as a query language.  \\
+
+
+
+% - Different data sets in Yago.\\
+% - Data sets used in this thesis.\\
+% 	- Yago Date Facts\\
+% 	- Yago Facts.\\
+% 	- Yago Geonames Only Data.\\
+% - Pseudo-hierarchy of facts.\\
+% - Use of persistent TDB dataset.\\
+
+%- What is a knowledge base\\
+% A knowledge base is a collection of information. This collection is usually centered around a topic, but there also exists large, general, knowledge bases. Smaller knowledge bases are typical for any type of community, such as a company, school, or fan community, that seeks to preserve and share information. The larger knowledge bases have the same goal as the smaller ones, but the scope will be much larger. A common type of knowledge base is a wiki, a collection of linked articles where any one with the correct privileges can edit, add or delete articles. Knowledge bases can however be any type of collection. The information can be both structured, as in a wiki, or unstructured, with no link between the information. The information in a structured collection can be used to create a graph with information in small chunks representing a fact, as well as the relation between such facts. There exists multiple such graphs today most are based on Wikipedia, such as Yago\cite{yago} and DBpedia\cite{dbpedia}.\\
+
+% - Find a section headline, might be easier after writing more.\\
+% Knowledge graphs is a representation of complex data that describes facts and relationship between facts. Facts can be placed into different categories, and can have different properties. Combining facts from different categories or with different properties can give a quick overview of a topic. Based on a query facts can be combined to give users a quick answer.\\
+
+
+% - More about graphs in general\\
+% Graphs theory is a prominent part of computer science. Graph structures is a common way to create a dataset that can be efficiently explored for a variety of purposes, and with many different algorithms. \\
 
 \clearpage

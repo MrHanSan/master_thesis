@@ -1,0 +1,1245 @@
+Query Words: Wipes, Rubbers
+Root nodes Found: 6469
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Scrubbers   [Rubbers]
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Scrubbers   [Rubbers]
+http://yago-knowledge.org/resource/Iranian_Embassy_siege   []
+Score: 0.08333333333333333
+----
+
+Total execution time: 182381
+
+Query Words: Wipes, Rubbers, Sloped, Lifeless
+Root nodes Found: 6469
+
+		http://yago-knowledge.org/resource/Scrubbers   [Rubbers]
+
+		http://yago-knowledge.org/resource/Scrubbers   [Rubbers]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+
+		http://yago-knowledge.org/resource/Scrubbers   [Rubbers]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Iranian_Embassy_siege   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 237473
+Total execution time: 175744
+
+Query Words: Sloped, Lifeless
+Root nodes Found: 6469
+Total execution time: 166367
+
+Query Words: Sloped, Lifeless, Radiogram, Socialized
+Root nodes Found: 6469
+Nodes visited: 237473
+Total execution time: 165851
+
+Query Words: Radiogram, Socialized
+Root nodes Found: 6469
+Total execution time: 164049
+
+Query Words: Radiogram, Socialized, Congers, Mailbag
+Root nodes Found: 6469
+Nodes visited: 237473
+Total execution time: 166095
+
+Query Words: Congers, Mailbag
+Root nodes Found: 6469
+Total execution time: 167802
+
+Query Words: Congers, Mailbag, Treeless, Mileage
+Root nodes Found: 6469
+Nodes visited: 237473
+Total execution time: 165785
+
+Query Words: Treeless, Mileage
+Root nodes Found: 6469
+Total execution time: 167894
+
+Query Words: Treeless, Mileage, Photoelectric, Scrambler
+Root nodes Found: 6469
+Nodes visited: 237473
+Total execution time: 166594
+
+Query Words: Photoelectric, Scrambler
+Root nodes Found: 6469
+Total execution time: 165734
+
+Query Words: Photoelectric, Scrambler, Stilts, Teachings
+Root nodes Found: 6469
+Nodes visited: 237473
+Total execution time: 164044
+
+Query Words: Stilts, Teachings
+Root nodes Found: 6469
+Total execution time: 162832
+
+Query Words: Stilts, Teachings, Plagiarism, Lutes
+Root nodes Found: 6469
+
+http://yago-knowledge.org/resource/Iranian_Embassy_siege   []
+
+http://yago-knowledge.org/resource/Iranian_Embassy_siege   []
+		http://yago-knowledge.org/resource/LeRoy_Lutes   [Lutes]
+
+http://yago-knowledge.org/resource/Iranian_Embassy_siege   []
+		http://yago-knowledge.org/resource/LeRoy_Lutes   [Lutes]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 237473
+Total execution time: 160728
+
+Query Words: Plagiarism, Lutes
+Root nodes Found: 6469
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/George_Clutesi   [Lutes]
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/George_Clutesi   [Lutes]
+http://yago-knowledge.org/resource/Iranian_Embassy_siege   []
+Score: 0.08333333333333333
+----
+
+Total execution time: 163404
+
+Query Words: Plagiarism, Lutes, Purification, Honored
+Root nodes Found: 6469
+
+http://yago-knowledge.org/resource/Iranian_Embassy_siege   []
+
+http://yago-knowledge.org/resource/Iranian_Embassy_siege   []
+		http://yago-knowledge.org/resource/LeRoy_Lutes   [Lutes]
+
+http://yago-knowledge.org/resource/Iranian_Embassy_siege   []
+		http://yago-knowledge.org/resource/LeRoy_Lutes   [Lutes]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 237473
+Total execution time: 164338
+
+Query Words: Purification, Honored
+Root nodes Found: 6469
+Total execution time: 162188
+
+Query Words: Purification, Honored, Responsible, Banknote
+Root nodes Found: 6469
+Nodes visited: 237473
+Total execution time: 163008
+
+Query Words: Responsible, Banknote
+Root nodes Found: 6469
+Total execution time: 166449
+
+Query Words: Responsible, Banknote, Inhabitant, Gettysburg
+Root nodes Found: 6469
+Nodes visited: 237473
+Total execution time: 165883
+
+Query Words: Inhabitant, Gettysburg
+Root nodes Found: 6469
+Total execution time: 164057
+
+Query Words: Inhabitant, Gettysburg, Elam, Reno
+Root nodes Found: 6469
+
+	http://yago-knowledge.org/resource/Dublin_Airport   []
+
+	http://yago-knowledge.org/resource/Dublin_Airport   []
+http://yago-knowledge.org/resource/Luton_Airport   []
+
+	http://yago-knowledge.org/resource/Dublin_Airport   []
+http://yago-knowledge.org/resource/Luton_Airport   []
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Paddington   []
+
+http://yago-knowledge.org/resource/Paddington   []
+	http://yago-knowledge.org/resource/Peter_Delamothe   [Elam]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Royal_Academy_of_Dramatic_Art   []
+
+http://yago-knowledge.org/resource/Royal_Academy_of_Dramatic_Art   []
+	http://yago-knowledge.org/resource/Stephen_Mangan   []
+
+http://yago-knowledge.org/resource/Royal_Academy_of_Dramatic_Art   []
+	http://yago-knowledge.org/resource/Stephen_Mangan   []
+		http://yago-knowledge.org/resource/Louise_Delamere   [Elam]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Hugh_Cholmondeley,_5th_Baron_Delamere   [Elam]
+
+		http://yago-knowledge.org/resource/Hugh_Cholmondeley,_5th_Baron_Delamere   [Elam]
+http://yago-knowledge.org/resource/Iranian_Embassy_siege   []
+
+		http://yago-knowledge.org/resource/Hugh_Cholmondeley,_5th_Baron_Delamere   [Elam]
+http://yago-knowledge.org/resource/Iranian_Embassy_siege   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+
+		http://yago-knowledge.org/resource/Hugh_Cholmondeley,_5th_Baron_Delamere   [Elam]
+http://yago-knowledge.org/resource/Iranian_Embassy_siege   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/John_Moreno   [Reno]
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/King's_College_London   []
+
+http://yago-knowledge.org/resource/King's_College_London   []
+		http://yago-knowledge.org/resource/Jacob_L._Moreno   [Reno]
+
+http://yago-knowledge.org/resource/King's_College_London   []
+		http://yago-knowledge.org/resource/Jacob_L._Moreno   [Reno]
+	http://yago-knowledge.org/resource/Roger_Woolger   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/London_Stansted_Airport   []
+
+http://yago-knowledge.org/resource/London_Stansted_Airport   []
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+
+http://yago-knowledge.org/resource/London_Stansted_Airport   []
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+	http://yago-knowledge.org/resource/Dublin_Airport   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+
+	http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+http://yago-knowledge.org/resource/Gatwick_Airport   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+http://yago-knowledge.org/resource/London_City_Airport   []
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+http://yago-knowledge.org/resource/London_City_Airport   []
+	http://yago-knowledge.org/resource/Dublin_Airport   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+	http://yago-knowledge.org/resource/Edinburgh_Airport   []
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+	http://yago-knowledge.org/resource/Edinburgh_Airport   []
+http://yago-knowledge.org/resource/Heathrow_Airport   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 237473
+Total execution time: 163384
+
+Query Words: Elam, Reno
+Root nodes Found: 6469
+
+	http://yago-knowledge.org/resource/Edinburgh_Airport   []
+
+	http://yago-knowledge.org/resource/Edinburgh_Airport   []
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+
+	http://yago-knowledge.org/resource/Edinburgh_Airport   []
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+http://yago-knowledge.org/resource/London_City_Airport   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Luton_Airport   []
+
+http://yago-knowledge.org/resource/Luton_Airport   []
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+
+http://yago-knowledge.org/resource/Luton_Airport   []
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+	http://yago-knowledge.org/resource/Dublin_Airport   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+http://yago-knowledge.org/resource/Gatwick_Airport   []
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+http://yago-knowledge.org/resource/Gatwick_Airport   []
+	http://yago-knowledge.org/resource/Edinburgh_Airport   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+http://yago-knowledge.org/resource/Heathrow_Airport   []
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+http://yago-knowledge.org/resource/Heathrow_Airport   []
+	http://yago-knowledge.org/resource/Leeds_Bradford_Airport   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Alan_Renouf   [Reno]
+
+		http://yago-knowledge.org/resource/Alan_Renouf   [Reno]
+		http://yago-knowledge.org/resource/Gwladys,_Lady_Delamere   [Elam]
+
+		http://yago-knowledge.org/resource/Alan_Renouf   [Reno]
+		http://yago-knowledge.org/resource/Gwladys,_Lady_Delamere   [Elam]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+
+		http://yago-knowledge.org/resource/Alan_Renouf   [Reno]
+		http://yago-knowledge.org/resource/Gwladys,_Lady_Delamere   [Elam]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Iranian_Embassy_siege   []
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/Paddington   []
+
+http://yago-knowledge.org/resource/Paddington   []
+	http://yago-knowledge.org/resource/Peter_Delamothe   [Elam]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Stephen_Mangan   []
+
+	http://yago-knowledge.org/resource/Stephen_Mangan   []
+		http://yago-knowledge.org/resource/Louise_Delamere   [Elam]
+
+	http://yago-knowledge.org/resource/Stephen_Mangan   []
+		http://yago-knowledge.org/resource/Louise_Delamere   [Elam]
+http://yago-knowledge.org/resource/Royal_Academy_of_Dramatic_Art   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Dublin_Airport   []
+
+	http://yago-knowledge.org/resource/Dublin_Airport   []
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+
+	http://yago-knowledge.org/resource/Dublin_Airport   []
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+http://yago-knowledge.org/resource/London_Stansted_Airport   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Jacob_L._Moreno   [Reno]
+
+		http://yago-knowledge.org/resource/Jacob_L._Moreno   [Reno]
+http://yago-knowledge.org/resource/King's_College_London   []
+
+		http://yago-knowledge.org/resource/Jacob_L._Moreno   [Reno]
+http://yago-knowledge.org/resource/King's_College_London   []
+	http://yago-knowledge.org/resource/Roger_Woolger   []
+Score: 0.08333333333333333
+----
+
+Total execution time: 162766
+
+Query Words: Elam, Reno, Pinball, Stand
+Root nodes Found: 6469
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+	http://yago-knowledge.org/resource/Newcastle_Airport   []
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+	http://yago-knowledge.org/resource/Newcastle_Airport   []
+http://yago-knowledge.org/resource/Heathrow_Airport   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+http://yago-knowledge.org/resource/Gatwick_Airport   []
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+http://yago-knowledge.org/resource/Gatwick_Airport   []
+	http://yago-knowledge.org/resource/Dublin_Airport   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Advertising_Standards_Authority_(United_Kingdom)   [Stand]
+
+	http://yago-knowledge.org/resource/Advertising_Standards_Authority_(United_Kingdom)   [Stand]
+http://yago-knowledge.org/resource/High_Holborn   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Standard_Life   [Stand]
+
+	http://yago-knowledge.org/resource/Standard_Life   [Stand]
+http://yago-knowledge.org/resource/Brent_Cross   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Herbert_Brenon   [Reno]
+
+	http://yago-knowledge.org/resource/Herbert_Brenon   [Reno]
+http://yago-knowledge.org/resource/King's_College_London   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Guy_Standing   [Stand]
+
+		http://yago-knowledge.org/resource/Guy_Standing   [Stand]
+		http://yago-knowledge.org/resource/Louise_Delamere   [Elam]
+
+		http://yago-knowledge.org/resource/Guy_Standing   [Stand]
+		http://yago-knowledge.org/resource/Louise_Delamere   [Elam]
+	http://yago-knowledge.org/resource/Stephen_Mangan   []
+
+		http://yago-knowledge.org/resource/Guy_Standing   [Stand]
+		http://yago-knowledge.org/resource/Louise_Delamere   [Elam]
+	http://yago-knowledge.org/resource/Stephen_Mangan   []
+	http://yago-knowledge.org/resource/Kay_Hammond   []
+
+		http://yago-knowledge.org/resource/Guy_Standing   [Stand]
+		http://yago-knowledge.org/resource/Louise_Delamere   [Elam]
+	http://yago-knowledge.org/resource/Stephen_Mangan   []
+	http://yago-knowledge.org/resource/Kay_Hammond   []
+http://yago-knowledge.org/resource/Royal_Academy_of_Dramatic_Art   []
+Score: 0.045454545454545456
+----
+
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+http://yago-knowledge.org/resource/London_Stansted_Airport   []
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+http://yago-knowledge.org/resource/London_Stansted_Airport   []
+	http://yago-knowledge.org/resource/Edinburgh_Airport   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Kingsway,_London   []
+
+http://yago-knowledge.org/resource/Kingsway,_London   []
+	http://yago-knowledge.org/resource/Food_Standards_Agency   [Stand]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Paddington   []
+
+http://yago-knowledge.org/resource/Paddington   []
+	http://yago-knowledge.org/resource/Peter_Delamothe   [Elam]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Arsenal_F.C.   []
+
+http://yago-knowledge.org/resource/Arsenal_F.C.   []
+	http://yago-knowledge.org/resource/Jim_Standen   [Stand]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Jim_Standen   [Stand]
+
+		http://yago-knowledge.org/resource/Jim_Standen   [Stand]
+http://yago-knowledge.org/resource/Arsenal_Stadium   []
+
+		http://yago-knowledge.org/resource/Jim_Standen   [Stand]
+http://yago-knowledge.org/resource/Arsenal_Stadium   []
+	http://yago-knowledge.org/resource/Arsenal_F.C.   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Herbert_Standing   [Stand]
+
+	http://yago-knowledge.org/resource/Herbert_Standing   [Stand]
+http://yago-knowledge.org/resource/Peckham   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Peter_Delamothe   [Elam]
+
+		http://yago-knowledge.org/resource/Peter_Delamothe   [Elam]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+
+		http://yago-knowledge.org/resource/Peter_Delamothe   [Elam]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Iranian_Embassy_siege   []
+
+		http://yago-knowledge.org/resource/Peter_Delamothe   [Elam]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Iranian_Embassy_siege   []
+		http://yago-knowledge.org/resource/Peter_le_Page_Renouf   [Reno]
+
+		http://yago-knowledge.org/resource/Peter_Delamothe   [Elam]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Iranian_Embassy_siege   []
+		http://yago-knowledge.org/resource/Peter_le_Page_Renouf   [Reno]
+		http://yago-knowledge.org/resource/Dave's_One_Night_Stand   [Stand]
+Score: 0.0625
+----
+
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+	http://yago-knowledge.org/resource/Dublin_Airport   []
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+	http://yago-knowledge.org/resource/Dublin_Airport   []
+http://yago-knowledge.org/resource/Luton_Airport   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Máirtín�Standún   [Stand]
+
+		http://yago-knowledge.org/resource/Máirtín�Standún   [Stand]
+http://yago-knowledge.org/resource/British_Isles   []
+
+		http://yago-knowledge.org/resource/Máirtín�Standún   [Stand]
+http://yago-knowledge.org/resource/British_Isles   []
+	http://yago-knowledge.org/resource/Ireland   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Jim_Standen   [Stand]
+
+		http://yago-knowledge.org/resource/Jim_Standen   [Stand]
+	http://yago-knowledge.org/resource/Arsenal_F.C.   []
+
+		http://yago-knowledge.org/resource/Jim_Standen   [Stand]
+	http://yago-knowledge.org/resource/Arsenal_F.C.   []
+http://yago-knowledge.org/resource/Manor_Ground_(Plumstead)   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Dublin_Airport   []
+
+	http://yago-knowledge.org/resource/Dublin_Airport   []
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+
+	http://yago-knowledge.org/resource/Dublin_Airport   []
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+http://yago-knowledge.org/resource/London_City_Airport   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Antigone_Costanda   [Stand]
+
+	http://yago-knowledge.org/resource/Antigone_Costanda   [Stand]
+http://yago-knowledge.org/resource/Miss_World   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Jim_Standen   [Stand]
+
+		http://yago-knowledge.org/resource/Jim_Standen   [Stand]
+	http://yago-knowledge.org/resource/Arsenal_F.C.   []
+
+		http://yago-knowledge.org/resource/Jim_Standen   [Stand]
+	http://yago-knowledge.org/resource/Arsenal_F.C.   []
+http://yago-knowledge.org/resource/Emirates_Stadium   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 237473
+Total execution time: 160680
+
+Query Words: Pinball, Stand
+Root nodes Found: 6469
+
+http://yago-knowledge.org/resource/Arsenal_F.C.   []
+
+http://yago-knowledge.org/resource/Arsenal_F.C.   []
+	http://yago-knowledge.org/resource/Jim_Standen   [Stand]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Peckham   []
+
+http://yago-knowledge.org/resource/Peckham   []
+	http://yago-knowledge.org/resource/Herbert_Standing   [Stand]
+Score: 0.16666666666666666
+----
+
+
+		http://yago-knowledge.org/resource/Guy_Standing   [Stand]
+
+		http://yago-knowledge.org/resource/Guy_Standing   [Stand]
+http://yago-knowledge.org/resource/Royal_Academy_of_Dramatic_Art   []
+
+		http://yago-knowledge.org/resource/Guy_Standing   [Stand]
+http://yago-knowledge.org/resource/Royal_Academy_of_Dramatic_Art   []
+	http://yago-knowledge.org/resource/Kay_Hammond   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Kingsway,_London   []
+
+http://yago-knowledge.org/resource/Kingsway,_London   []
+	http://yago-knowledge.org/resource/Food_Standards_Agency   [Stand]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Antigone_Costanda   [Stand]
+
+	http://yago-knowledge.org/resource/Antigone_Costanda   [Stand]
+http://yago-knowledge.org/resource/Miss_World   []
+Score: 0.16666666666666666
+----
+
+
+		http://yago-knowledge.org/resource/Jim_Standen   [Stand]
+
+		http://yago-knowledge.org/resource/Jim_Standen   [Stand]
+	http://yago-knowledge.org/resource/Arsenal_F.C.   []
+
+		http://yago-knowledge.org/resource/Jim_Standen   [Stand]
+	http://yago-knowledge.org/resource/Arsenal_F.C.   []
+http://yago-knowledge.org/resource/Emirates_Stadium   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Jim_Standen   [Stand]
+
+		http://yago-knowledge.org/resource/Jim_Standen   [Stand]
+	http://yago-knowledge.org/resource/Arsenal_F.C.   []
+
+		http://yago-knowledge.org/resource/Jim_Standen   [Stand]
+	http://yago-knowledge.org/resource/Arsenal_F.C.   []
+http://yago-knowledge.org/resource/Manor_Ground_(Plumstead)   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Jim_Standen   [Stand]
+
+		http://yago-knowledge.org/resource/Jim_Standen   [Stand]
+http://yago-knowledge.org/resource/Arsenal_Stadium   []
+
+		http://yago-knowledge.org/resource/Jim_Standen   [Stand]
+http://yago-knowledge.org/resource/Arsenal_Stadium   []
+	http://yago-knowledge.org/resource/Arsenal_F.C.   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Major_Wilson's_Last_Stand   [Stand]
+
+		http://yago-knowledge.org/resource/Major_Wilson's_Last_Stand   [Stand]
+http://yago-knowledge.org/resource/Iranian_Embassy_siege   []
+
+		http://yago-knowledge.org/resource/Major_Wilson's_Last_Stand   [Stand]
+http://yago-knowledge.org/resource/Iranian_Embassy_siege   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Advertising_Standards_Authority_(United_Kingdom)   [Stand]
+
+	http://yago-knowledge.org/resource/Advertising_Standards_Authority_(United_Kingdom)   [Stand]
+http://yago-knowledge.org/resource/High_Holborn   []
+Score: 0.16666666666666666
+----
+
+
+		http://yago-knowledge.org/resource/Standing_Stone,_Clontead_More   [Stand]
+
+		http://yago-knowledge.org/resource/Standing_Stone,_Clontead_More   [Stand]
+	http://yago-knowledge.org/resource/Ireland   []
+
+		http://yago-knowledge.org/resource/Standing_Stone,_Clontead_More   [Stand]
+	http://yago-knowledge.org/resource/Ireland   []
+http://yago-knowledge.org/resource/British_Isles   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Standard_Life   [Stand]
+
+	http://yago-knowledge.org/resource/Standard_Life   [Stand]
+http://yago-knowledge.org/resource/Brent_Cross   []
+Score: 0.16666666666666666
+----
+
+Total execution time: 161557
+
+Query Words: Pinball, Stand, Andersen, Sanders
+Root nodes Found: 6469
+
+http://yago-knowledge.org/resource/The_Valley_(London)   []
+
+http://yago-knowledge.org/resource/The_Valley_(London)   []
+		http://yago-knowledge.org/resource/Jimmy_Sanders_(footballer)   [Sanders]
+
+http://yago-knowledge.org/resource/The_Valley_(London)   []
+		http://yago-knowledge.org/resource/Jimmy_Sanders_(footballer)   [Sanders]
+		http://yago-knowledge.org/resource/Stephan_Andersen   [Andersen]
+
+http://yago-knowledge.org/resource/The_Valley_(London)   []
+		http://yago-knowledge.org/resource/Jimmy_Sanders_(footballer)   [Sanders]
+		http://yago-knowledge.org/resource/Stephan_Andersen   [Andersen]
+	http://yago-knowledge.org/resource/Charlton_Athletic_F.C.   []
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Jeremy_Sanders   [Sanders]
+
+		http://yago-knowledge.org/resource/Jeremy_Sanders   [Sanders]
+http://yago-knowledge.org/resource/South_Kensington   []
+
+		http://yago-knowledge.org/resource/Jeremy_Sanders   [Sanders]
+http://yago-knowledge.org/resource/South_Kensington   []
+	http://yago-knowledge.org/resource/Imperial_College_London   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Keith_Sanderson_(footballer)   [Sanders]
+
+	http://yago-knowledge.org/resource/Keith_Sanderson_(footballer)   [Sanders]
+http://yago-knowledge.org/resource/Queens_Park_Rangers_F.C.   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Jim_Standen   [Stand]
+
+	http://yago-knowledge.org/resource/Jim_Standen   [Stand]
+	http://yago-knowledge.org/resource/Moses_Sanders   [Sanders]
+
+	http://yago-knowledge.org/resource/Jim_Standen   [Stand]
+	http://yago-knowledge.org/resource/Moses_Sanders   [Sanders]
+http://yago-knowledge.org/resource/Arsenal_F.C.   []
+Score: 0.1
+----
+
+
+http://yago-knowledge.org/resource/Kingsway,_London   []
+
+http://yago-knowledge.org/resource/Kingsway,_London   []
+	http://yago-knowledge.org/resource/Food_Standards_Agency   [Stand]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Mikkel_Andersen   [Andersen]
+
+		http://yago-knowledge.org/resource/Mikkel_Andersen   [Andersen]
+	http://yago-knowledge.org/resource/Brentford_F.C.   []
+
+		http://yago-knowledge.org/resource/Mikkel_Andersen   [Andersen]
+	http://yago-knowledge.org/resource/Brentford_F.C.   []
+http://yago-knowledge.org/resource/Griffin_Park   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Arthur_Sanders_(footballer)   [Sanders]
+
+		http://yago-knowledge.org/resource/Arthur_Sanders_(footballer)   [Sanders]
+		http://yago-knowledge.org/resource/Inger_Andersen_(environmentalist)   [Andersen]
+
+		http://yago-knowledge.org/resource/Arthur_Sanders_(footballer)   [Sanders]
+		http://yago-knowledge.org/resource/Inger_Andersen_(environmentalist)   [Andersen]
+	http://yago-knowledge.org/resource/University_of_London   []
+
+		http://yago-knowledge.org/resource/Arthur_Sanders_(footballer)   [Sanders]
+		http://yago-knowledge.org/resource/Inger_Andersen_(environmentalist)   [Andersen]
+	http://yago-knowledge.org/resource/University_of_London   []
+http://yago-knowledge.org/resource/Institute_of_Musical_Research   []
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/Imperial_College_London   []
+
+	http://yago-knowledge.org/resource/Imperial_College_London   []
+		http://yago-knowledge.org/resource/Jeremy_Sanders   [Sanders]
+
+	http://yago-knowledge.org/resource/Imperial_College_London   []
+		http://yago-knowledge.org/resource/Jeremy_Sanders   [Sanders]
+http://yago-knowledge.org/resource/Imperial_College_Press   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Arthur_Sanders_(footballer)   [Sanders]
+
+		http://yago-knowledge.org/resource/Arthur_Sanders_(footballer)   [Sanders]
+		http://yago-knowledge.org/resource/Inger_Andersen_(environmentalist)   [Andersen]
+
+		http://yago-knowledge.org/resource/Arthur_Sanders_(footballer)   [Sanders]
+		http://yago-knowledge.org/resource/Inger_Andersen_(environmentalist)   [Andersen]
+	http://yago-knowledge.org/resource/University_of_London   []
+
+		http://yago-knowledge.org/resource/Arthur_Sanders_(footballer)   [Sanders]
+		http://yago-knowledge.org/resource/Inger_Andersen_(environmentalist)   [Andersen]
+	http://yago-knowledge.org/resource/University_of_London   []
+http://yago-knowledge.org/resource/Institute_of_Latin_American_Studies   []
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/Arthur_Sanders_(footballer)   [Sanders]
+
+	http://yago-knowledge.org/resource/Arthur_Sanders_(footballer)   [Sanders]
+http://yago-knowledge.org/resource/Leyton_Orient_F.C.   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Brent_Cross   []
+
+http://yago-knowledge.org/resource/Brent_Cross   []
+	http://yago-knowledge.org/resource/Standard_Life   [Stand]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/White_Hart_Lane   []
+
+http://yago-knowledge.org/resource/White_Hart_Lane   []
+		http://yago-knowledge.org/resource/Arthur_Sanders_(footballer)   [Sanders]
+
+http://yago-knowledge.org/resource/White_Hart_Lane   []
+		http://yago-knowledge.org/resource/Arthur_Sanders_(footballer)   [Sanders]
+	http://yago-knowledge.org/resource/Tottenham_Hotspur_F.C.   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Selhurst_Park   []
+
+http://yago-knowledge.org/resource/Selhurst_Park   []
+	http://yago-knowledge.org/resource/Crystal_Palace_F.C.   []
+
+http://yago-knowledge.org/resource/Selhurst_Park   []
+	http://yago-knowledge.org/resource/Crystal_Palace_F.C.   []
+		http://yago-knowledge.org/resource/Leif_Andersen   [Andersen]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Máirtín�Standún   [Stand]
+
+		http://yago-knowledge.org/resource/Máirtín�Standún   [Stand]
+http://yago-knowledge.org/resource/British_Isles   []
+
+		http://yago-knowledge.org/resource/Máirtín�Standún   [Stand]
+http://yago-knowledge.org/resource/British_Isles   []
+	http://yago-knowledge.org/resource/Ireland   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Advertising_Standards_Authority_(United_Kingdom)   [Stand]
+
+	http://yago-knowledge.org/resource/Advertising_Standards_Authority_(United_Kingdom)   [Stand]
+http://yago-knowledge.org/resource/High_Holborn   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Grandstand_(TV_series)   [Stand]
+
+		http://yago-knowledge.org/resource/Grandstand_(TV_series)   [Stand]
+		http://yago-knowledge.org/resource/Ed_Sanders_(TV_personality)   [Sanders]
+
+		http://yago-knowledge.org/resource/Grandstand_(TV_series)   [Stand]
+		http://yago-knowledge.org/resource/Ed_Sanders_(TV_personality)   [Sanders]
+		http://yago-knowledge.org/resource/Andersen_Press   [Andersen]
+
+		http://yago-knowledge.org/resource/Grandstand_(TV_series)   [Stand]
+		http://yago-knowledge.org/resource/Ed_Sanders_(TV_personality)   [Sanders]
+		http://yago-knowledge.org/resource/Andersen_Press   [Andersen]
+http://yago-knowledge.org/resource/Iranian_Embassy_siege   []
+
+		http://yago-knowledge.org/resource/Grandstand_(TV_series)   [Stand]
+		http://yago-knowledge.org/resource/Ed_Sanders_(TV_personality)   [Sanders]
+		http://yago-knowledge.org/resource/Andersen_Press   [Andersen]
+http://yago-knowledge.org/resource/Iranian_Embassy_siege   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.0625
+----
+
+
+	http://yago-knowledge.org/resource/Edinburgh_Airport   []
+
+	http://yago-knowledge.org/resource/Edinburgh_Airport   []
+http://yago-knowledge.org/resource/Luton_Airport   []
+
+	http://yago-knowledge.org/resource/Edinburgh_Airport   []
+http://yago-knowledge.org/resource/Luton_Airport   []
+		http://yago-knowledge.org/resource/Hans_Christian_Andersen_Airport   [Andersen]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/National_Secular_Society   []
+
+http://yago-knowledge.org/resource/National_Secular_Society   []
+	http://yago-knowledge.org/resource/Terry_Sanderson_(writer)   [Sanders]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Inger_Andersen_(environmentalist)   [Andersen]
+
+		http://yago-knowledge.org/resource/Inger_Andersen_(environmentalist)   [Andersen]
+		http://yago-knowledge.org/resource/Arthur_Sanders_(footballer)   [Sanders]
+
+		http://yago-knowledge.org/resource/Inger_Andersen_(environmentalist)   [Andersen]
+		http://yago-knowledge.org/resource/Arthur_Sanders_(footballer)   [Sanders]
+http://yago-knowledge.org/resource/Institute_of_Classical_Studies   []
+
+		http://yago-knowledge.org/resource/Inger_Andersen_(environmentalist)   [Andersen]
+		http://yago-knowledge.org/resource/Arthur_Sanders_(footballer)   [Sanders]
+http://yago-knowledge.org/resource/Institute_of_Classical_Studies   []
+	http://yago-knowledge.org/resource/University_of_London   []
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/Timothy_Gowers   []
+
+	http://yago-knowledge.org/resource/Timothy_Gowers   []
+		http://yago-knowledge.org/resource/Tom_Sanders_(mathematician)   [Sanders]
+
+	http://yago-knowledge.org/resource/Timothy_Gowers   []
+		http://yago-knowledge.org/resource/Tom_Sanders_(mathematician)   [Sanders]
+http://yago-knowledge.org/resource/University_College_London   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/George_Sanders   [Sanders]
+
+		http://yago-knowledge.org/resource/George_Sanders   [Sanders]
+	http://yago-knowledge.org/resource/The_Saint_in_London   []
+
+		http://yago-knowledge.org/resource/George_Sanders   [Sanders]
+	http://yago-knowledge.org/resource/The_Saint_in_London   []
+http://yago-knowledge.org/resource/Great_Britain   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Moses_Sanders   [Sanders]
+
+		http://yago-knowledge.org/resource/Moses_Sanders   [Sanders]
+	http://yago-knowledge.org/resource/Arsenal_F.C.   []
+
+		http://yago-knowledge.org/resource/Moses_Sanders   [Sanders]
+	http://yago-knowledge.org/resource/Arsenal_F.C.   []
+http://yago-knowledge.org/resource/Manor_Ground_(Plumstead)   []
+
+		http://yago-knowledge.org/resource/Moses_Sanders   [Sanders]
+	http://yago-knowledge.org/resource/Arsenal_F.C.   []
+http://yago-knowledge.org/resource/Manor_Ground_(Plumstead)   []
+		http://yago-knowledge.org/resource/Jim_Standen   [Stand]
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Mikkel_Andersen   [Andersen]
+
+		http://yago-knowledge.org/resource/Mikkel_Andersen   [Andersen]
+http://yago-knowledge.org/resource/Brentford   []
+
+		http://yago-knowledge.org/resource/Mikkel_Andersen   [Andersen]
+http://yago-knowledge.org/resource/Brentford   []
+	http://yago-knowledge.org/resource/Brentford_F.C.   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Antigone_Costanda   [Stand]
+
+	http://yago-knowledge.org/resource/Antigone_Costanda   [Stand]
+http://yago-knowledge.org/resource/Miss_World   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Verona_Villafranca_Airport   []
+
+	http://yago-knowledge.org/resource/Verona_Villafranca_Airport   []
+http://yago-knowledge.org/resource/London_Stansted_Airport   []
+
+	http://yago-knowledge.org/resource/Verona_Villafranca_Airport   []
+http://yago-knowledge.org/resource/London_Stansted_Airport   []
+		http://yago-knowledge.org/resource/Hans_Christian_Andersen_Airport   [Andersen]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Edinburgh_Airport   []
+
+	http://yago-knowledge.org/resource/Edinburgh_Airport   []
+http://yago-knowledge.org/resource/Heathrow_Airport   []
+
+	http://yago-knowledge.org/resource/Edinburgh_Airport   []
+http://yago-knowledge.org/resource/Heathrow_Airport   []
+		http://yago-knowledge.org/resource/Hans_Christian_Andersen_Airport   [Andersen]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Adrian_Sanders   [Sanders]
+
+	http://yago-knowledge.org/resource/Adrian_Sanders   [Sanders]
+http://yago-knowledge.org/resource/Liberal_Democrats_(UK)   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Jeremy_Sanders   [Sanders]
+
+	http://yago-knowledge.org/resource/Jeremy_Sanders   [Sanders]
+http://yago-knowledge.org/resource/Imperial_College_London   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Guy_Standing   [Stand]
+
+		http://yago-knowledge.org/resource/Guy_Standing   [Stand]
+	http://yago-knowledge.org/resource/Kay_Hammond   []
+
+		http://yago-knowledge.org/resource/Guy_Standing   [Stand]
+	http://yago-knowledge.org/resource/Kay_Hammond   []
+http://yago-knowledge.org/resource/Royal_Academy_of_Dramatic_Art   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Hans_Christian_Andersen   [Andersen]
+
+		http://yago-knowledge.org/resource/Hans_Christian_Andersen   [Andersen]
+	http://yago-knowledge.org/resource/Edward_Plunkett,_18th_Baron_of_Dunsany   []
+
+		http://yago-knowledge.org/resource/Hans_Christian_Andersen   [Andersen]
+	http://yago-knowledge.org/resource/Edward_Plunkett,_18th_Baron_of_Dunsany   []
+http://yago-knowledge.org/resource/Marylebone   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Leif_Andersen   [Andersen]
+
+	http://yago-knowledge.org/resource/Leif_Andersen   [Andersen]
+http://yago-knowledge.org/resource/Crystal_Palace_F.C.   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Plough_Lane   []
+
+http://yago-knowledge.org/resource/Plough_Lane   []
+		http://yago-knowledge.org/resource/Keith_Sanderson_(footballer)   [Sanders]
+
+http://yago-knowledge.org/resource/Plough_Lane   []
+		http://yago-knowledge.org/resource/Keith_Sanderson_(footballer)   [Sanders]
+		http://yago-knowledge.org/resource/Trond_Andersen   [Andersen]
+
+http://yago-knowledge.org/resource/Plough_Lane   []
+		http://yago-knowledge.org/resource/Keith_Sanderson_(footballer)   [Sanders]
+		http://yago-knowledge.org/resource/Trond_Andersen   [Andersen]
+	http://yago-knowledge.org/resource/Wimbledon_F.C.   []
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Jim_Standen   [Stand]
+
+		http://yago-knowledge.org/resource/Jim_Standen   [Stand]
+	http://yago-knowledge.org/resource/Arsenal_F.C.   []
+
+		http://yago-knowledge.org/resource/Jim_Standen   [Stand]
+	http://yago-knowledge.org/resource/Arsenal_F.C.   []
+http://yago-knowledge.org/resource/Emirates_Stadium   []
+
+		http://yago-knowledge.org/resource/Jim_Standen   [Stand]
+	http://yago-knowledge.org/resource/Arsenal_F.C.   []
+http://yago-knowledge.org/resource/Emirates_Stadium   []
+		http://yago-knowledge.org/resource/Moses_Sanders   [Sanders]
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Hans_Christian_Andersen_Airport   [Andersen]
+
+		http://yago-knowledge.org/resource/Hans_Christian_Andersen_Airport   [Andersen]
+http://yago-knowledge.org/resource/Gatwick_Airport   []
+
+		http://yago-knowledge.org/resource/Hans_Christian_Andersen_Airport   [Andersen]
+http://yago-knowledge.org/resource/Gatwick_Airport   []
+	http://yago-knowledge.org/resource/Edinburgh_Airport   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Northumberland_Development_Project   []
+
+http://yago-knowledge.org/resource/Northumberland_Development_Project   []
+	http://yago-knowledge.org/resource/Tottenham_Hotspur_F.C.   []
+
+http://yago-knowledge.org/resource/Northumberland_Development_Project   []
+	http://yago-knowledge.org/resource/Tottenham_Hotspur_F.C.   []
+		http://yago-knowledge.org/resource/Arthur_Sanders_(footballer)   [Sanders]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Hampstead   []
+
+http://yago-knowledge.org/resource/Hampstead   []
+	http://yago-knowledge.org/resource/Samuel_Sanders_Teulon   [Sanders]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Arsenal_F.C.   []
+
+	http://yago-knowledge.org/resource/Arsenal_F.C.   []
+		http://yago-knowledge.org/resource/Jim_Standen   [Stand]
+
+	http://yago-knowledge.org/resource/Arsenal_F.C.   []
+		http://yago-knowledge.org/resource/Jim_Standen   [Stand]
+		http://yago-knowledge.org/resource/Moses_Sanders   [Sanders]
+
+	http://yago-knowledge.org/resource/Arsenal_F.C.   []
+		http://yago-knowledge.org/resource/Jim_Standen   [Stand]
+		http://yago-knowledge.org/resource/Moses_Sanders   [Sanders]
+http://yago-knowledge.org/resource/Arsenal_Stadium   []
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Arthur_Sanders_(footballer)   [Sanders]
+
+		http://yago-knowledge.org/resource/Arthur_Sanders_(footballer)   [Sanders]
+http://yago-knowledge.org/resource/Institute_of_Philosophy,_University_of_London   []
+
+		http://yago-knowledge.org/resource/Arthur_Sanders_(footballer)   [Sanders]
+http://yago-knowledge.org/resource/Institute_of_Philosophy,_University_of_London   []
+		http://yago-knowledge.org/resource/Inger_Andersen_(environmentalist)   [Andersen]
+
+		http://yago-knowledge.org/resource/Arthur_Sanders_(footballer)   [Sanders]
+http://yago-knowledge.org/resource/Institute_of_Philosophy,_University_of_London   []
+		http://yago-knowledge.org/resource/Inger_Andersen_(environmentalist)   [Andersen]
+	http://yago-knowledge.org/resource/University_of_London   []
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/London_City_Airport   []
+
+http://yago-knowledge.org/resource/London_City_Airport   []
+		http://yago-knowledge.org/resource/Hans_Christian_Andersen_Airport   [Andersen]
+
+http://yago-knowledge.org/resource/London_City_Airport   []
+		http://yago-knowledge.org/resource/Hans_Christian_Andersen_Airport   [Andersen]
+	http://yago-knowledge.org/resource/Edinburgh_Airport   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Westminster   []
+
+http://yago-knowledge.org/resource/Westminster   []
+	http://yago-knowledge.org/resource/Rupert_Sanders   [Sanders]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Larry_Sanders_(politician)   [Sanders]
+
+	http://yago-knowledge.org/resource/Larry_Sanders_(politician)   [Sanders]
+http://yago-knowledge.org/resource/Labour_Party_(UK)   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Herbert_Standing   [Stand]
+
+	http://yago-knowledge.org/resource/Herbert_Standing   [Stand]
+http://yago-knowledge.org/resource/Peckham   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/T._J._Cobden-Sanderson   [Sanders]
+
+		http://yago-knowledge.org/resource/T._J._Cobden-Sanderson   [Sanders]
+	http://yago-knowledge.org/resource/Anne_Cobden-Sanderson   [Sanders]
+
+		http://yago-knowledge.org/resource/T._J._Cobden-Sanderson   [Sanders]
+	http://yago-knowledge.org/resource/Anne_Cobden-Sanderson   [Sanders]
+http://yago-knowledge.org/resource/Hammersmith   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 237473
+Total execution time: 153165
+

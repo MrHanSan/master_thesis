@@ -1,0 +1,185 @@
+Query Words: Wipes, Rubbers
+Root nodes Found: 203
+Total execution time: 1924
+
+Query Words: Wipes, Rubbers, Sloped, Lifeless
+Root nodes Found: 203
+Nodes visited: 9832
+Total execution time: 1338
+
+Query Words: Sloped, Lifeless
+Root nodes Found: 203
+Total execution time: 1175
+
+Query Words: Sloped, Lifeless, Radiogram, Socialized
+Root nodes Found: 203
+Nodes visited: 9832
+Total execution time: 1208
+
+Query Words: Radiogram, Socialized
+Root nodes Found: 203
+Total execution time: 1148
+
+Query Words: Radiogram, Socialized, Congers, Mailbag
+Root nodes Found: 203
+Nodes visited: 9832
+Total execution time: 1246
+
+Query Words: Congers, Mailbag
+Root nodes Found: 203
+Total execution time: 1130
+
+Query Words: Congers, Mailbag, Treeless, Mileage
+Root nodes Found: 203
+Nodes visited: 9832
+Total execution time: 1347
+
+Query Words: Treeless, Mileage
+Root nodes Found: 203
+Total execution time: 1133
+
+Query Words: Treeless, Mileage, Photoelectric, Scrambler
+Root nodes Found: 203
+Nodes visited: 9832
+Total execution time: 1253
+
+Query Words: Photoelectric, Scrambler
+Root nodes Found: 203
+Total execution time: 1144
+
+Query Words: Photoelectric, Scrambler, Stilts, Teachings
+Root nodes Found: 203
+Nodes visited: 9832
+Total execution time: 1741
+
+Query Words: Stilts, Teachings
+Root nodes Found: 203
+Total execution time: 1657
+
+Query Words: Stilts, Teachings, Plagiarism, Lutes
+Root nodes Found: 203
+Nodes visited: 9832
+Total execution time: 1547
+
+Query Words: Plagiarism, Lutes
+Root nodes Found: 203
+Total execution time: 1539
+
+Query Words: Plagiarism, Lutes, Purification, Honored
+Root nodes Found: 203
+Nodes visited: 9832
+Total execution time: 1560
+
+Query Words: Purification, Honored
+Root nodes Found: 203
+Total execution time: 1118
+
+Query Words: Purification, Honored, Responsible, Banknote
+Root nodes Found: 203
+Nodes visited: 9832
+Total execution time: 1184
+
+Query Words: Responsible, Banknote
+Root nodes Found: 203
+Total execution time: 1329
+
+Query Words: Responsible, Banknote, Inhabitant, Gettysburg
+Root nodes Found: 203
+Nodes visited: 9832
+Total execution time: 1192
+
+Query Words: Inhabitant, Gettysburg
+Root nodes Found: 203
+Total execution time: 1141
+
+Query Words: Inhabitant, Gettysburg, Elam, Reno
+Root nodes Found: 203
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+http://yago-knowledge.org/resource/Keflavík�International�Airport   []
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+http://yago-knowledge.org/resource/Keflavík�International�Airport   []
+	http://yago-knowledge.org/resource/Copenhagen_Airport   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 9832
+Total execution time: 1271
+
+Query Words: Elam, Reno
+Root nodes Found: 203
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+http://yago-knowledge.org/resource/Keflavík�International�Airport   []
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+http://yago-knowledge.org/resource/Keflavík�International�Airport   []
+	http://yago-knowledge.org/resource/Edinburgh_Airport   []
+Score: 0.08333333333333333
+----
+
+Total execution time: 1139
+
+Query Words: Elam, Reno, Pinball, Stand
+Root nodes Found: 203
+
+	http://yago-knowledge.org/resource/Copenhagen_Airport   []
+
+	http://yago-knowledge.org/resource/Copenhagen_Airport   []
+http://yago-knowledge.org/resource/Keflavík�International�Airport   []
+
+	http://yago-knowledge.org/resource/Copenhagen_Airport   []
+http://yago-knowledge.org/resource/Keflavík�International�Airport   []
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+Score: 0.041666666666666664
+----
+
+Nodes visited: 9832
+Total execution time: 1234
+
+Query Words: Pinball, Stand
+Root nodes Found: 203
+Total execution time: 1223
+
+Query Words: Pinball, Stand, Andersen, Sanders
+Root nodes Found: 203
+
+http://yago-knowledge.org/resource/University_of_Iceland   []
+
+http://yago-knowledge.org/resource/University_of_Iceland   []
+	http://yago-knowledge.org/resource/Hans_Georg_Andersen   [Andersen]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Keflavík�International�Airport   []
+
+http://yago-knowledge.org/resource/Keflavík�International�Airport   []
+		http://yago-knowledge.org/resource/Hans_Christian_Andersen_Airport   [Andersen]
+
+http://yago-knowledge.org/resource/Keflavík�International�Airport   []
+		http://yago-knowledge.org/resource/Hans_Christian_Andersen_Airport   [Andersen]
+	http://yago-knowledge.org/resource/Edinburgh_Airport   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Hans_Georg_Andersen   [Andersen]
+
+		http://yago-knowledge.org/resource/Hans_Georg_Andersen   [Andersen]
+	http://yago-knowledge.org/resource/Iceland   []
+
+		http://yago-knowledge.org/resource/Hans_Georg_Andersen   [Andersen]
+	http://yago-knowledge.org/resource/Iceland   []
+http://yago-knowledge.org/resource/Landsvirkjun   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 9832
+Total execution time: 1277
+

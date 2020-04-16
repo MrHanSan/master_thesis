@@ -1,0 +1,474 @@
+Query Words: 
+Wipes
+RubbersQuery Words: 
+Wipes
+Rubbers
+Sloped
+LifelessQuery Words: 
+Sloped
+LifelessQuery Words: 
+Sloped
+Lifeless
+Radiogram
+SocializedQuery Words: 
+Radiogram
+SocializedQuery Words: 
+Radiogram
+Socialized
+Congers
+MailbagQuery Words: 
+Congers
+MailbagQuery Words: 
+Congers
+Mailbag
+Treeless
+MileageQuery Words: 
+Treeless
+MileageQuery Words: 
+Treeless
+Mileage
+Photoelectric
+ScramblerQuery Words: 
+Photoelectric
+ScramblerQuery Words: 
+Photoelectric
+Scrambler
+Stilts
+TeachingsQuery Words: 
+Stilts
+TeachingsQuery Words: 
+Stilts
+Teachings
+Plagiarism
+LutesQuery Words: 
+Plagiarism
+LutesQuery Words: 
+Plagiarism
+Lutes
+Purification
+HonoredQuery Words: 
+Purification
+HonoredQuery Words: 
+Purification
+Honored
+Responsible
+BanknoteQuery Words: 
+Responsible
+BanknoteQuery Words: 
+Responsible
+Banknote
+Inhabitant
+GettysburgQuery Words: 
+Inhabitant
+GettysburgQuery Words: 
+Inhabitant
+Gettysburg
+Elam
+Reno
+
+http://yago-knowledge.org/resource/Columbia_University   []
+
+http://yago-knowledge.org/resource/Columbia_University   []
+	http://yago-knowledge.org/resource/Paul_Sereno   [Reno]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/The_Bronx   []
+
+http://yago-knowledge.org/resource/The_Bronx   []
+	http://yago-knowledge.org/resource/Knowshon_Moreno   [Reno]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Brooklyn   []
+
+http://yago-knowledge.org/resource/Brooklyn   []
+	http://yago-knowledge.org/resource/Reno_Wilson   [Reno]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/City_University_of_New_York   []
+
+http://yago-knowledge.org/resource/City_University_of_New_York   []
+	http://yago-knowledge.org/resource/Jonathan_D._Moreno   [Reno]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Catalina_Sandino_Moreno   [Reno]
+
+	http://yago-knowledge.org/resource/Catalina_Sandino_Moreno   [Reno]
+http://yago-knowledge.org/resource/The_Affair_(TV_series)   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Sereno_Edwards_Bishop   [Reno]
+
+	http://yago-knowledge.org/resource/Sereno_Edwards_Bishop   [Reno]
+http://yago-knowledge.org/resource/Auburn_Theological_Seminary   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/East_Harlem   []
+
+http://yago-knowledge.org/resource/East_Harlem   []
+	http://yago-knowledge.org/resource/Marta_Moreno_Vega   [Reno]
+Score: 0.08333333333333333
+----
+Query Words: 
+Elam
+Reno
+
+	http://yago-knowledge.org/resource/Knowshon_Moreno   [Reno]
+
+	http://yago-knowledge.org/resource/Knowshon_Moreno   [Reno]
+http://yago-knowledge.org/resource/The_Bronx   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Catalina_Sandino_Moreno   [Reno]
+
+	http://yago-knowledge.org/resource/Catalina_Sandino_Moreno   [Reno]
+http://yago-knowledge.org/resource/The_Affair_(TV_series)   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Jonathan_D._Moreno   [Reno]
+
+	http://yago-knowledge.org/resource/Jonathan_D._Moreno   [Reno]
+http://yago-knowledge.org/resource/City_University_of_New_York   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Reno_Wilson   [Reno]
+
+	http://yago-knowledge.org/resource/Reno_Wilson   [Reno]
+http://yago-knowledge.org/resource/Brooklyn   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Sereno_Edwards_Bishop   [Reno]
+
+	http://yago-knowledge.org/resource/Sereno_Edwards_Bishop   [Reno]
+http://yago-knowledge.org/resource/Auburn_Theological_Seminary   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Marta_Moreno_Vega   [Reno]
+
+	http://yago-knowledge.org/resource/Marta_Moreno_Vega   [Reno]
+http://yago-knowledge.org/resource/East_Harlem   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Paul_Sereno   [Reno]
+
+	http://yago-knowledge.org/resource/Paul_Sereno   [Reno]
+http://yago-knowledge.org/resource/Columbia_University   []
+Score: 0.16666666666666666
+----
+Query Words: 
+Elam
+Reno
+Pinball
+Stand
+
+http://yago-knowledge.org/resource/Hammerstein_Ballroom   []
+
+http://yago-knowledge.org/resource/Hammerstein_Ballroom   []
+	http://yago-knowledge.org/resource/ECW_One_Night_Stand_(2005)   [Stand]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Reno_Wilson   [Reno]
+
+	http://yago-knowledge.org/resource/Reno_Wilson   [Reno]
+http://yago-knowledge.org/resource/Brooklyn   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Standard_Motor_Products   [Stand]
+
+	http://yago-knowledge.org/resource/Standard_Motor_Products   [Stand]
+http://yago-knowledge.org/resource/Long_Island_City   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/The_Standard,_High_Line   [Stand]
+
+	http://yago-knowledge.org/resource/The_Standard,_High_Line   [Stand]
+http://yago-knowledge.org/resource/Manhattan   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Grandstand_(US_Open)   [Stand]
+
+	http://yago-knowledge.org/resource/Grandstand_(US_Open)   [Stand]
+http://yago-knowledge.org/resource/Flushing,_Queens   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Paul_Sereno   [Reno]
+
+	http://yago-knowledge.org/resource/Paul_Sereno   [Reno]
+	http://yago-knowledge.org/resource/William_Standish_Knowles   [Stand]
+
+	http://yago-knowledge.org/resource/Paul_Sereno   [Reno]
+	http://yago-knowledge.org/resource/William_Standish_Knowles   [Stand]
+http://yago-knowledge.org/resource/Columbia_University   []
+Score: 0.1
+----
+
+
+	http://yago-knowledge.org/resource/Hilda_Crosby_Standish   [Stand]
+
+	http://yago-knowledge.org/resource/Hilda_Crosby_Standish   [Stand]
+http://yago-knowledge.org/resource/Weill_Cornell_Medicine   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/The_Bronx   []
+
+http://yago-knowledge.org/resource/The_Bronx   []
+	http://yago-knowledge.org/resource/Lionel_Stander   [Stand]
+
+http://yago-knowledge.org/resource/The_Bronx   []
+	http://yago-knowledge.org/resource/Lionel_Stander   [Stand]
+	http://yago-knowledge.org/resource/Knowshon_Moreno   [Reno]
+Score: 0.1
+----
+
+
+http://yago-knowledge.org/resource/East_Harlem   []
+
+http://yago-knowledge.org/resource/East_Harlem   []
+	http://yago-knowledge.org/resource/Marta_Moreno_Vega   [Reno]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Jonathan_D._Moreno   [Reno]
+
+	http://yago-knowledge.org/resource/Jonathan_D._Moreno   [Reno]
+http://yago-knowledge.org/resource/City_University_of_New_York   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Catalina_Sandino_Moreno   [Reno]
+
+	http://yago-knowledge.org/resource/Catalina_Sandino_Moreno   [Reno]
+http://yago-knowledge.org/resource/The_Affair_(TV_series)   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Sereno_Edwards_Bishop   [Reno]
+
+	http://yago-knowledge.org/resource/Sereno_Edwards_Bishop   [Reno]
+http://yago-knowledge.org/resource/Auburn_Theological_Seminary   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Standard_Oil_Company_No._16_(harbor_tug)   [Stand]
+
+	http://yago-knowledge.org/resource/Standard_Oil_Company_No._16_(harbor_tug)   [Stand]
+http://yago-knowledge.org/resource/Staten_Island   []
+Score: 0.08333333333333333
+----
+Query Words: 
+Pinball
+Stand
+
+http://yago-knowledge.org/resource/Manhattan   []
+
+http://yago-knowledge.org/resource/Manhattan   []
+	http://yago-knowledge.org/resource/The_Standard,_High_Line   [Stand]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Long_Island_City   []
+
+http://yago-knowledge.org/resource/Long_Island_City   []
+	http://yago-knowledge.org/resource/Standard_Motor_Products   [Stand]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Standard_Oil_Company_No._16_(harbor_tug)   [Stand]
+
+	http://yago-knowledge.org/resource/Standard_Oil_Company_No._16_(harbor_tug)   [Stand]
+http://yago-knowledge.org/resource/Staten_Island   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Hilda_Crosby_Standish   [Stand]
+
+	http://yago-knowledge.org/resource/Hilda_Crosby_Standish   [Stand]
+http://yago-knowledge.org/resource/Weill_Cornell_Medicine   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Grandstand_(US_Open)   [Stand]
+
+	http://yago-knowledge.org/resource/Grandstand_(US_Open)   [Stand]
+http://yago-knowledge.org/resource/Flushing,_Queens   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/ECW_One_Night_Stand_(2005)   [Stand]
+
+	http://yago-knowledge.org/resource/ECW_One_Night_Stand_(2005)   [Stand]
+http://yago-knowledge.org/resource/Hammerstein_Ballroom   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/William_Standish_Knowles   [Stand]
+
+	http://yago-knowledge.org/resource/William_Standish_Knowles   [Stand]
+http://yago-knowledge.org/resource/Columbia_University   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Lionel_Stander   [Stand]
+
+	http://yago-knowledge.org/resource/Lionel_Stander   [Stand]
+http://yago-knowledge.org/resource/The_Bronx   []
+Score: 0.16666666666666666
+----
+Query Words: 
+Pinball
+Stand
+Andersen
+Sanders
+
+http://yago-knowledge.org/resource/Miss_USA   []
+
+http://yago-knowledge.org/resource/Miss_USA   []
+	http://yago-knowledge.org/resource/Judi_Andersen   [Andersen]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/New_York_Rangers   []
+
+http://yago-knowledge.org/resource/New_York_Rangers   []
+	http://yago-knowledge.org/resource/Derek_Sanderson   [Sanders]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Lionel_Stander   [Stand]
+
+	http://yago-knowledge.org/resource/Lionel_Stander   [Stand]
+http://yago-knowledge.org/resource/The_Bronx   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/The_Standard,_High_Line   [Stand]
+
+	http://yago-knowledge.org/resource/The_Standard,_High_Line   [Stand]
+http://yago-knowledge.org/resource/Manhattan   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/James_Sanders_Jr.   [Sanders]
+
+	http://yago-knowledge.org/resource/James_Sanders_Jr.   [Sanders]
+http://yago-knowledge.org/resource/Brooklyn_College   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Lemon_Andersen   [Andersen]
+
+	http://yago-knowledge.org/resource/Lemon_Andersen   [Andersen]
+	http://yago-knowledge.org/resource/Bernie_Sanders   [Sanders]
+
+	http://yago-knowledge.org/resource/Lemon_Andersen   [Andersen]
+	http://yago-knowledge.org/resource/Bernie_Sanders   [Sanders]
+http://yago-knowledge.org/resource/Brooklyn   []
+Score: 0.1
+----
+
+
+	http://yago-knowledge.org/resource/Standard_Motor_Products   [Stand]
+
+	http://yago-knowledge.org/resource/Standard_Motor_Products   [Stand]
+http://yago-knowledge.org/resource/Long_Island_City   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Standard_Oil_Company_No._16_(harbor_tug)   [Stand]
+
+	http://yago-knowledge.org/resource/Standard_Oil_Company_No._16_(harbor_tug)   [Stand]
+http://yago-knowledge.org/resource/Staten_Island   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Weill_Cornell_Medicine   []
+
+http://yago-knowledge.org/resource/Weill_Cornell_Medicine   []
+	http://yago-knowledge.org/resource/Hilda_Crosby_Standish   [Stand]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Flushing,_Queens   []
+
+http://yago-knowledge.org/resource/Flushing,_Queens   []
+	http://yago-knowledge.org/resource/Grandstand_(US_Open)   [Stand]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/ECW_One_Night_Stand_(2006)   [Stand]
+
+	http://yago-knowledge.org/resource/ECW_One_Night_Stand_(2006)   [Stand]
+http://yago-knowledge.org/resource/Hammerstein_Ballroom   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/E._P._Sanders   [Sanders]
+
+	http://yago-knowledge.org/resource/E._P._Sanders   [Sanders]
+http://yago-knowledge.org/resource/Union_Theological_Seminary_(New_York_City)   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/William_Standish_Knowles   [Stand]
+
+	http://yago-knowledge.org/resource/William_Standish_Knowles   [Stand]
+http://yago-knowledge.org/resource/Columbia_University   []
+Score: 0.08333333333333333
+----

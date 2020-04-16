@@ -1,0 +1,1003 @@
+Query Words: Wipes, Rubbers
+Root nodes Found: 976
+Total execution time: 31803
+
+Query Words: Wipes, Rubbers, Sloped, Lifeless
+Root nodes Found: 976
+Nodes visited: 50744
+Total execution time: 27762
+
+Query Words: Sloped, Lifeless
+Root nodes Found: 976
+Total execution time: 27343
+
+Query Words: Sloped, Lifeless, Radiogram, Socialized
+Root nodes Found: 976
+Nodes visited: 50744
+Total execution time: 27911
+
+Query Words: Radiogram, Socialized
+Root nodes Found: 976
+Total execution time: 27346
+
+Query Words: Radiogram, Socialized, Congers, Mailbag
+Root nodes Found: 976
+Nodes visited: 50744
+Total execution time: 27670
+
+Query Words: Congers, Mailbag
+Root nodes Found: 976
+Total execution time: 27453
+
+Query Words: Congers, Mailbag, Treeless, Mileage
+Root nodes Found: 976
+Nodes visited: 50744
+Total execution time: 27696
+
+Query Words: Treeless, Mileage
+Root nodes Found: 976
+Total execution time: 27721
+
+Query Words: Treeless, Mileage, Photoelectric, Scrambler
+Root nodes Found: 976
+Nodes visited: 50744
+Total execution time: 27016
+
+Query Words: Photoelectric, Scrambler
+Root nodes Found: 976
+Total execution time: 27488
+
+Query Words: Photoelectric, Scrambler, Stilts, Teachings
+Root nodes Found: 976
+Nodes visited: 50744
+Total execution time: 27872
+
+Query Words: Stilts, Teachings
+Root nodes Found: 976
+Total execution time: 27467
+
+Query Words: Stilts, Teachings, Plagiarism, Lutes
+Root nodes Found: 976
+Nodes visited: 50744
+Total execution time: 27553
+
+Query Words: Plagiarism, Lutes
+Root nodes Found: 976
+Total execution time: 26885
+
+Query Words: Plagiarism, Lutes, Purification, Honored
+Root nodes Found: 976
+Nodes visited: 50744
+Total execution time: 27848
+
+Query Words: Purification, Honored
+Root nodes Found: 976
+Total execution time: 27833
+
+Query Words: Purification, Honored, Responsible, Banknote
+Root nodes Found: 976
+Nodes visited: 50744
+Total execution time: 28079
+
+Query Words: Responsible, Banknote
+Root nodes Found: 976
+Total execution time: 27747
+
+Query Words: Responsible, Banknote, Inhabitant, Gettysburg
+Root nodes Found: 976
+Nodes visited: 50744
+Total execution time: 27237
+
+Query Words: Inhabitant, Gettysburg
+Root nodes Found: 976
+Total execution time: 27543
+
+Query Words: Inhabitant, Gettysburg, Elam, Reno
+Root nodes Found: 976
+
+http://yago-knowledge.org/resource/National_Action_Party_(Mexico)   []
+
+http://yago-knowledge.org/resource/National_Action_Party_(Mexico)   []
+	http://yago-knowledge.org/resource/Rafael_Moreno_Valle_Rosas   [Reno]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Historic_center_of_Mexico_City   []
+
+http://yago-knowledge.org/resource/Historic_center_of_Mexico_City   []
+	http://yago-knowledge.org/resource/Hospital_de_Jesús�Nazareno   [Reno]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/National_Action_Party_(Mexico)   []
+
+	http://yago-knowledge.org/resource/National_Action_Party_(Mexico)   []
+http://yago-knowledge.org/resource/Colonia_del_Valle   []
+
+	http://yago-knowledge.org/resource/National_Action_Party_(Mexico)   []
+http://yago-knowledge.org/resource/Colonia_del_Valle   []
+		http://yago-knowledge.org/resource/Rafael_Moreno_Valle_Rosas   [Reno]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Alfredo_Moreno   [Reno]
+
+		http://yago-knowledge.org/resource/Alfredo_Moreno   [Reno]
+http://yago-knowledge.org/resource/Parque_Necaxa   []
+
+		http://yago-knowledge.org/resource/Alfredo_Moreno   [Reno]
+http://yago-knowledge.org/resource/Parque_Necaxa   []
+	http://yago-knowledge.org/resource/Club_Necaxa   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Edda_Renouf   [Reno]
+
+		http://yago-knowledge.org/resource/Edda_Renouf   [Reno]
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+
+		http://yago-knowledge.org/resource/Edda_Renouf   [Reno]
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+http://yago-knowledge.org/resource/Álvaro�Obregón,�Mexico�City   []
+
+		http://yago-knowledge.org/resource/Edda_Renouf   [Reno]
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+http://yago-knowledge.org/resource/Álvaro�Obregón,�Mexico�City   []
+	http://yago-knowledge.org/resource/Mexico_City   []
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Inelvo_Moreno_Álvarez   [Reno]
+
+		http://yago-knowledge.org/resource/Inelvo_Moreno_Álvarez   [Reno]
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+
+		http://yago-knowledge.org/resource/Inelvo_Moreno_Álvarez   [Reno]
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+http://yago-knowledge.org/resource/Xochimilco   []
+
+		http://yago-knowledge.org/resource/Inelvo_Moreno_Álvarez   [Reno]
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+http://yago-knowledge.org/resource/Xochimilco   []
+	http://yago-knowledge.org/resource/Mexico_City   []
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Francisco_Moreno_Merino   [Reno]
+
+		http://yago-knowledge.org/resource/Francisco_Moreno_Merino   [Reno]
+http://yago-knowledge.org/resource/XHUNAM-TDT   []
+
+		http://yago-knowledge.org/resource/Francisco_Moreno_Merino   [Reno]
+http://yago-knowledge.org/resource/XHUNAM-TDT   []
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Héctor�Velázquez�Moreno   [Reno]
+
+	http://yago-knowledge.org/resource/Héctor�Velázquez�Moreno   [Reno]
+http://yago-knowledge.org/resource/School_of_Architecture,_UNAM   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Francisco_Moreno_Merino   [Reno]
+
+		http://yago-knowledge.org/resource/Francisco_Moreno_Merino   [Reno]
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+
+		http://yago-knowledge.org/resource/Francisco_Moreno_Merino   [Reno]
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+http://yago-knowledge.org/resource/XEUN-FM   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Laura_Moreno   [Reno]
+
+		http://yago-knowledge.org/resource/Laura_Moreno   [Reno]
+	http://yago-knowledge.org/resource/Mexico   []
+
+		http://yago-knowledge.org/resource/Laura_Moreno   [Reno]
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/XHHCU-TDT   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+		http://yago-knowledge.org/resource/Francisco_Moreno_Merino   [Reno]
+
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+		http://yago-knowledge.org/resource/Francisco_Moreno_Merino   [Reno]
+http://yago-knowledge.org/resource/Casa_del_Lago_Juan_José�Arreola   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Edda_Renouf   [Reno]
+
+		http://yago-knowledge.org/resource/Edda_Renouf   [Reno]
+	http://yago-knowledge.org/resource/Mexico_City   []
+
+		http://yago-knowledge.org/resource/Edda_Renouf   [Reno]
+	http://yago-knowledge.org/resource/Mexico_City   []
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+
+		http://yago-knowledge.org/resource/Edda_Renouf   [Reno]
+	http://yago-knowledge.org/resource/Mexico_City   []
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+http://yago-knowledge.org/resource/Venustiano_Carranza,_Mexico_City   []
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/Hasta_que_el_dinero_nos_separe   []
+
+http://yago-knowledge.org/resource/Hasta_que_el_dinero_nos_separe   []
+	http://yago-knowledge.org/resource/Norma_Lazareno   [Reno]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Ismael_Moreno_Pino   [Reno]
+
+	http://yago-knowledge.org/resource/Ismael_Moreno_Pino   [Reno]
+http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Francisco_Moreno_Merino   [Reno]
+
+		http://yago-knowledge.org/resource/Francisco_Moreno_Merino   [Reno]
+http://yago-knowledge.org/resource/XEUN-AM   []
+
+		http://yago-knowledge.org/resource/Francisco_Moreno_Merino   [Reno]
+http://yago-knowledge.org/resource/XEUN-AM   []
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Francisco_Moreno_Merino   [Reno]
+
+		http://yago-knowledge.org/resource/Francisco_Moreno_Merino   [Reno]
+http://yago-knowledge.org/resource/Estadio_Olímpico�Universitario   []
+
+		http://yago-knowledge.org/resource/Francisco_Moreno_Merino   [Reno]
+http://yago-knowledge.org/resource/Estadio_Olímpico�Universitario   []
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Eduardo_Moreno_(swimmer)   [Reno]
+
+		http://yago-knowledge.org/resource/Eduardo_Moreno_(swimmer)   [Reno]
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+
+		http://yago-knowledge.org/resource/Eduardo_Moreno_(swimmer)   [Reno]
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+	http://yago-knowledge.org/resource/Mexico_City   []
+
+		http://yago-knowledge.org/resource/Eduardo_Moreno_(swimmer)   [Reno]
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+	http://yago-knowledge.org/resource/Mexico_City   []
+http://yago-knowledge.org/resource/XHCDM-TDT   []
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/Club_América   []
+
+	http://yago-knowledge.org/resource/Club_América   []
+		http://yago-knowledge.org/resource/Alfredo_Moreno   [Reno]
+
+	http://yago-knowledge.org/resource/Club_América   []
+		http://yago-knowledge.org/resource/Alfredo_Moreno   [Reno]
+http://yago-knowledge.org/resource/Instalaciones_Club_América�en�Coapa   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Rafael_Moreno_Valle   [Reno]
+
+	http://yago-knowledge.org/resource/Rafael_Moreno_Valle   [Reno]
+http://yago-knowledge.org/resource/Institutional_Revolutionary_Party   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Julio_César�Moreno�Rivera   [Reno]
+
+		http://yago-knowledge.org/resource/Julio_César�Moreno�Rivera   [Reno]
+	http://yago-knowledge.org/resource/Mexico_City   []
+
+		http://yago-knowledge.org/resource/Julio_César�Moreno�Rivera   [Reno]
+	http://yago-knowledge.org/resource/Mexico_City   []
+http://yago-knowledge.org/resource/Azcapotzalco   []
+
+		http://yago-knowledge.org/resource/Julio_César�Moreno�Rivera   [Reno]
+	http://yago-knowledge.org/resource/Mexico_City   []
+http://yago-knowledge.org/resource/Azcapotzalco   []
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Julio_César�Moreno�Rivera   [Reno]
+
+		http://yago-knowledge.org/resource/Julio_César�Moreno�Rivera   [Reno]
+	http://yago-knowledge.org/resource/Mexico_City   []
+
+		http://yago-knowledge.org/resource/Julio_César�Moreno�Rivera   [Reno]
+	http://yago-knowledge.org/resource/Mexico_City   []
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+
+		http://yago-knowledge.org/resource/Julio_César�Moreno�Rivera   [Reno]
+	http://yago-knowledge.org/resource/Mexico_City   []
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+http://yago-knowledge.org/resource/Coyoacán   []
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Joaquín�Moreno   [Reno]
+
+		http://yago-knowledge.org/resource/Joaquín�Moreno   [Reno]
+http://yago-knowledge.org/resource/Nuevo_Estadio_Azul   []
+
+		http://yago-knowledge.org/resource/Joaquín�Moreno   [Reno]
+http://yago-knowledge.org/resource/Nuevo_Estadio_Azul   []
+	http://yago-knowledge.org/resource/Cruz_Azul   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+		http://yago-knowledge.org/resource/Ismael_Moreno_Pino   [Reno]
+
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+		http://yago-knowledge.org/resource/Ismael_Moreno_Pino   [Reno]
+http://yago-knowledge.org/resource/Museo_Universitario_del_Chopo   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 50744
+Total execution time: 28084
+
+Query Words: Elam, Reno
+Root nodes Found: 976
+
+http://yago-knowledge.org/resource/Coyoacán   []
+
+http://yago-knowledge.org/resource/Coyoacán   []
+		http://yago-knowledge.org/resource/Leonardo_Fabio_Moreno   [Reno]
+
+http://yago-knowledge.org/resource/Coyoacán   []
+		http://yago-knowledge.org/resource/Leonardo_Fabio_Moreno   [Reno]
+	http://yago-knowledge.org/resource/Club_América   []
+
+http://yago-knowledge.org/resource/Coyoacán   []
+		http://yago-knowledge.org/resource/Leonardo_Fabio_Moreno   [Reno]
+	http://yago-knowledge.org/resource/Club_América   []
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+
+http://yago-knowledge.org/resource/Coyoacán   []
+		http://yago-knowledge.org/resource/Leonardo_Fabio_Moreno   [Reno]
+	http://yago-knowledge.org/resource/Club_América   []
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+	http://yago-knowledge.org/resource/Mexico_City   []
+Score: 0.09090909090909091
+----
+
+
+		http://yago-knowledge.org/resource/Amando_Moreno   [Reno]
+
+		http://yago-knowledge.org/resource/Amando_Moreno   [Reno]
+http://yago-knowledge.org/resource/XHHCU-TDT   []
+
+		http://yago-knowledge.org/resource/Amando_Moreno   [Reno]
+http://yago-knowledge.org/resource/XHHCU-TDT   []
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/National_Action_Party_(Mexico)   []
+
+http://yago-knowledge.org/resource/National_Action_Party_(Mexico)   []
+	http://yago-knowledge.org/resource/Rafael_Moreno_Valle_Rosas   [Reno]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Cruz_Azul   []
+
+	http://yago-knowledge.org/resource/Cruz_Azul   []
+http://yago-knowledge.org/resource/Nuevo_Estadio_Azul   []
+
+	http://yago-knowledge.org/resource/Cruz_Azul   []
+http://yago-knowledge.org/resource/Nuevo_Estadio_Azul   []
+		http://yago-knowledge.org/resource/Joaquín�Moreno   [Reno]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Rafael_Moreno_Valle   [Reno]
+
+	http://yago-knowledge.org/resource/Rafael_Moreno_Valle   [Reno]
+http://yago-knowledge.org/resource/Institutional_Revolutionary_Party   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Museo_Universitario_del_Chopo   []
+
+http://yago-knowledge.org/resource/Museo_Universitario_del_Chopo   []
+		http://yago-knowledge.org/resource/Ismael_Moreno_Pino   [Reno]
+
+http://yago-knowledge.org/resource/Museo_Universitario_del_Chopo   []
+		http://yago-knowledge.org/resource/Ismael_Moreno_Pino   [Reno]
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Colonia_del_Valle   []
+
+http://yago-knowledge.org/resource/Colonia_del_Valle   []
+		http://yago-knowledge.org/resource/Rafael_Moreno_Valle_Rosas   [Reno]
+
+http://yago-knowledge.org/resource/Colonia_del_Valle   []
+		http://yago-knowledge.org/resource/Rafael_Moreno_Valle_Rosas   [Reno]
+	http://yago-knowledge.org/resource/National_Action_Party_(Mexico)   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/XHUNAM-TDT   []
+
+http://yago-knowledge.org/resource/XHUNAM-TDT   []
+		http://yago-knowledge.org/resource/Francisco_Moreno_Merino   [Reno]
+
+http://yago-knowledge.org/resource/XHUNAM-TDT   []
+		http://yago-knowledge.org/resource/Francisco_Moreno_Merino   [Reno]
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Jorge_Ocejo_Moreno   [Reno]
+
+		http://yago-knowledge.org/resource/Jorge_Ocejo_Moreno   [Reno]
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+
+		http://yago-knowledge.org/resource/Jorge_Ocejo_Moreno   [Reno]
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+	http://yago-knowledge.org/resource/Mexico_City   []
+
+		http://yago-knowledge.org/resource/Jorge_Ocejo_Moreno   [Reno]
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+	http://yago-knowledge.org/resource/Mexico_City   []
+http://yago-knowledge.org/resource/XHCDM-TDT   []
+Score: 0.1111111111111111
+----
+
+
+	http://yago-knowledge.org/resource/Hospital_de_Jesús�Nazareno   [Reno]
+
+	http://yago-knowledge.org/resource/Hospital_de_Jesús�Nazareno   [Reno]
+http://yago-knowledge.org/resource/Historic_center_of_Mexico_City   []
+Score: 0.16666666666666666
+----
+
+
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+		http://yago-knowledge.org/resource/Cynthia_Moreno   [Reno]
+
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+		http://yago-knowledge.org/resource/Cynthia_Moreno   [Reno]
+	http://yago-knowledge.org/resource/Mexico_City   []
+
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+		http://yago-knowledge.org/resource/Cynthia_Moreno   [Reno]
+	http://yago-knowledge.org/resource/Mexico_City   []
+http://yago-knowledge.org/resource/Álvaro�Obregón,�Mexico�City   []
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+
+http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+	http://yago-knowledge.org/resource/Francisco_Moreno_Merino   [Reno]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+		http://yago-knowledge.org/resource/Ismael_Moreno_Pino   [Reno]
+
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+		http://yago-knowledge.org/resource/Ismael_Moreno_Pino   [Reno]
+http://yago-knowledge.org/resource/Estadio_Olímpico�Universitario   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+		http://yago-knowledge.org/resource/Miguel_Moreno_Arreola   [Reno]
+
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+		http://yago-knowledge.org/resource/Miguel_Moreno_Arreola   [Reno]
+http://yago-knowledge.org/resource/Venustiano_Carranza,_Mexico_City   []
+
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+		http://yago-knowledge.org/resource/Miguel_Moreno_Arreola   [Reno]
+http://yago-knowledge.org/resource/Venustiano_Carranza,_Mexico_City   []
+	http://yago-knowledge.org/resource/Mexico_City   []
+Score: 0.1111111111111111
+----
+
+
+		http://yago-knowledge.org/resource/Francisco_Moreno_Merino   [Reno]
+
+		http://yago-knowledge.org/resource/Francisco_Moreno_Merino   [Reno]
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+
+		http://yago-knowledge.org/resource/Francisco_Moreno_Merino   [Reno]
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+http://yago-knowledge.org/resource/XEUN-AM   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Carlos_Alfaro_Moreno   [Reno]
+
+		http://yago-knowledge.org/resource/Carlos_Alfaro_Moreno   [Reno]
+http://yago-knowledge.org/resource/Instalaciones_Club_América�en�Coapa   []
+
+		http://yago-knowledge.org/resource/Carlos_Alfaro_Moreno   [Reno]
+http://yago-knowledge.org/resource/Instalaciones_Club_América�en�Coapa   []
+	http://yago-knowledge.org/resource/Club_América   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Francisco_Moreno_Merino   [Reno]
+
+		http://yago-knowledge.org/resource/Francisco_Moreno_Merino   [Reno]
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+
+		http://yago-knowledge.org/resource/Francisco_Moreno_Merino   [Reno]
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+http://yago-knowledge.org/resource/XEUN-FM   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Hasta_que_el_dinero_nos_separe   []
+
+http://yago-knowledge.org/resource/Hasta_que_el_dinero_nos_separe   []
+	http://yago-knowledge.org/resource/Norma_Lazareno   [Reno]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+http://yago-knowledge.org/resource/Casa_del_Lago_Juan_José�Arreola   []
+
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+http://yago-knowledge.org/resource/Casa_del_Lago_Juan_José�Arreola   []
+		http://yago-knowledge.org/resource/Ismael_Moreno_Pino   [Reno]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Miguel_Moreno_Arreola   [Reno]
+
+		http://yago-knowledge.org/resource/Miguel_Moreno_Arreola   [Reno]
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+
+		http://yago-knowledge.org/resource/Miguel_Moreno_Arreola   [Reno]
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+	http://yago-knowledge.org/resource/Mexico_City   []
+
+		http://yago-knowledge.org/resource/Miguel_Moreno_Arreola   [Reno]
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+	http://yago-knowledge.org/resource/Mexico_City   []
+http://yago-knowledge.org/resource/Azcapotzalco   []
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/School_of_Architecture,_UNAM   []
+
+http://yago-knowledge.org/resource/School_of_Architecture,_UNAM   []
+	http://yago-knowledge.org/resource/Héctor�Velázquez�Moreno   [Reno]
+Score: 0.16666666666666666
+----
+
+
+		http://yago-knowledge.org/resource/Tressor_Moreno   [Reno]
+
+		http://yago-knowledge.org/resource/Tressor_Moreno   [Reno]
+	http://yago-knowledge.org/resource/Club_Necaxa   []
+
+		http://yago-knowledge.org/resource/Tressor_Moreno   [Reno]
+	http://yago-knowledge.org/resource/Club_Necaxa   []
+http://yago-knowledge.org/resource/Parque_Necaxa   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Rafael_Moreno_Valle   [Reno]
+
+		http://yago-knowledge.org/resource/Rafael_Moreno_Valle   [Reno]
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+
+		http://yago-knowledge.org/resource/Rafael_Moreno_Valle   [Reno]
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+	http://yago-knowledge.org/resource/Mexico_City   []
+
+		http://yago-knowledge.org/resource/Rafael_Moreno_Valle   [Reno]
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+	http://yago-knowledge.org/resource/Mexico_City   []
+http://yago-knowledge.org/resource/Xochimilco   []
+Score: 0.1111111111111111
+----
+
+Total execution time: 27543
+
+Query Words: Elam, Reno, Pinball, Stand
+Root nodes Found: 976
+
+http://yago-knowledge.org/resource/XHUNAM-TDT   []
+
+http://yago-knowledge.org/resource/XHUNAM-TDT   []
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+
+http://yago-knowledge.org/resource/XHUNAM-TDT   []
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+		http://yago-knowledge.org/resource/Ismael_Moreno_Pino   [Reno]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Azcapotzalco   []
+
+http://yago-knowledge.org/resource/Azcapotzalco   []
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+
+http://yago-knowledge.org/resource/Azcapotzalco   []
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+	http://yago-knowledge.org/resource/Mexico_City   []
+
+http://yago-knowledge.org/resource/Azcapotzalco   []
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+	http://yago-knowledge.org/resource/Mexico_City   []
+		http://yago-knowledge.org/resource/José�Isidro�Moreno�Árcega   [Reno]
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Julio_César�Moreno�Rivera   [Reno]
+
+		http://yago-knowledge.org/resource/Julio_César�Moreno�Rivera   [Reno]
+	http://yago-knowledge.org/resource/Mexico_City   []
+
+		http://yago-knowledge.org/resource/Julio_César�Moreno�Rivera   [Reno]
+	http://yago-knowledge.org/resource/Mexico_City   []
+http://yago-knowledge.org/resource/Coyoacán   []
+
+		http://yago-knowledge.org/resource/Julio_César�Moreno�Rivera   [Reno]
+	http://yago-knowledge.org/resource/Mexico_City   []
+http://yago-knowledge.org/resource/Coyoacán   []
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/School_of_Architecture,_UNAM   []
+
+http://yago-knowledge.org/resource/School_of_Architecture,_UNAM   []
+	http://yago-knowledge.org/resource/Héctor�Velázquez�Moreno   [Reno]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/José�Marcos�Aguilar�Moreno   [Reno]
+
+		http://yago-knowledge.org/resource/José�Marcos�Aguilar�Moreno   [Reno]
+	http://yago-knowledge.org/resource/Mexico_City   []
+
+		http://yago-knowledge.org/resource/José�Marcos�Aguilar�Moreno   [Reno]
+	http://yago-knowledge.org/resource/Mexico_City   []
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+
+		http://yago-knowledge.org/resource/José�Marcos�Aguilar�Moreno   [Reno]
+	http://yago-knowledge.org/resource/Mexico_City   []
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+http://yago-knowledge.org/resource/Xochimilco   []
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/XEUN-AM   []
+
+http://yago-knowledge.org/resource/XEUN-AM   []
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+
+http://yago-knowledge.org/resource/XEUN-AM   []
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+		http://yago-knowledge.org/resource/Francisco_Moreno_Merino   [Reno]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Hospital_de_Jesús�Nazareno   [Reno]
+
+	http://yago-knowledge.org/resource/Hospital_de_Jesús�Nazareno   [Reno]
+http://yago-knowledge.org/resource/Historic_center_of_Mexico_City   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Hasta_que_el_dinero_nos_separe   []
+
+http://yago-knowledge.org/resource/Hasta_que_el_dinero_nos_separe   []
+	http://yago-knowledge.org/resource/Norma_Lazareno   [Reno]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Cynthia_Moreno   [Reno]
+
+		http://yago-knowledge.org/resource/Cynthia_Moreno   [Reno]
+	http://yago-knowledge.org/resource/Mexico_City   []
+
+		http://yago-knowledge.org/resource/Cynthia_Moreno   [Reno]
+	http://yago-knowledge.org/resource/Mexico_City   []
+http://yago-knowledge.org/resource/Álvaro�Obregón,�Mexico�City   []
+
+		http://yago-knowledge.org/resource/Cynthia_Moreno   [Reno]
+	http://yago-knowledge.org/resource/Mexico_City   []
+http://yago-knowledge.org/resource/Álvaro�Obregón,�Mexico�City   []
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/Estadio_Olímpico�Universitario   []
+
+http://yago-knowledge.org/resource/Estadio_Olímpico�Universitario   []
+		http://yago-knowledge.org/resource/Francisco_Moreno_Merino   [Reno]
+
+http://yago-knowledge.org/resource/Estadio_Olímpico�Universitario   []
+		http://yago-knowledge.org/resource/Francisco_Moreno_Merino   [Reno]
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Alfredo_Moreno   [Reno]
+
+		http://yago-knowledge.org/resource/Alfredo_Moreno   [Reno]
+http://yago-knowledge.org/resource/Parque_Necaxa   []
+
+		http://yago-knowledge.org/resource/Alfredo_Moreno   [Reno]
+http://yago-knowledge.org/resource/Parque_Necaxa   []
+	http://yago-knowledge.org/resource/Club_Necaxa   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Jesús�Alberto�Moreno   [Reno]
+
+		http://yago-knowledge.org/resource/Jesús�Alberto�Moreno   [Reno]
+http://yago-knowledge.org/resource/Instalaciones_Club_América�en�Coapa   []
+
+		http://yago-knowledge.org/resource/Jesús�Alberto�Moreno   [Reno]
+http://yago-knowledge.org/resource/Instalaciones_Club_América�en�Coapa   []
+	http://yago-knowledge.org/resource/Club_América   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+
+http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+	http://yago-knowledge.org/resource/Francisco_Moreno_Merino   [Reno]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+http://yago-knowledge.org/resource/XEUN-FM   []
+
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+http://yago-knowledge.org/resource/XEUN-FM   []
+		http://yago-knowledge.org/resource/Ismael_Moreno_Pino   [Reno]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Jorge_Ocejo_Moreno   [Reno]
+
+		http://yago-knowledge.org/resource/Jorge_Ocejo_Moreno   [Reno]
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+
+		http://yago-knowledge.org/resource/Jorge_Ocejo_Moreno   [Reno]
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+http://yago-knowledge.org/resource/XHCDM-TDT   []
+
+		http://yago-knowledge.org/resource/Jorge_Ocejo_Moreno   [Reno]
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+http://yago-knowledge.org/resource/XHCDM-TDT   []
+	http://yago-knowledge.org/resource/Mexico_City   []
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+		http://yago-knowledge.org/resource/Ismael_Moreno_Pino   [Reno]
+
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+		http://yago-knowledge.org/resource/Ismael_Moreno_Pino   [Reno]
+http://yago-knowledge.org/resource/Casa_del_Lago_Juan_José�Arreola   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Joaquín�Moreno   [Reno]
+
+		http://yago-knowledge.org/resource/Joaquín�Moreno   [Reno]
+	http://yago-knowledge.org/resource/Cruz_Azul   []
+
+		http://yago-knowledge.org/resource/Joaquín�Moreno   [Reno]
+	http://yago-knowledge.org/resource/Cruz_Azul   []
+http://yago-knowledge.org/resource/Nuevo_Estadio_Azul   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Rafael_Moreno_Valle   [Reno]
+
+	http://yago-knowledge.org/resource/Rafael_Moreno_Valle   [Reno]
+http://yago-knowledge.org/resource/Institutional_Revolutionary_Party   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Cynthia_Moreno   [Reno]
+
+		http://yago-knowledge.org/resource/Cynthia_Moreno   [Reno]
+	http://yago-knowledge.org/resource/Mexico   []
+
+		http://yago-knowledge.org/resource/Cynthia_Moreno   [Reno]
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Paul_Carpenter_Standley   [Stand]
+
+		http://yago-knowledge.org/resource/Cynthia_Moreno   [Reno]
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Paul_Carpenter_Standley   [Stand]
+http://yago-knowledge.org/resource/XHHCU-TDT   []
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/National_Action_Party_(Mexico)   []
+
+	http://yago-knowledge.org/resource/National_Action_Party_(Mexico)   []
+http://yago-knowledge.org/resource/Colonia_del_Valle   []
+
+	http://yago-knowledge.org/resource/National_Action_Party_(Mexico)   []
+http://yago-knowledge.org/resource/Colonia_del_Valle   []
+		http://yago-knowledge.org/resource/Rafael_Moreno_Valle_Rosas   [Reno]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Edda_Renouf   [Reno]
+
+		http://yago-knowledge.org/resource/Edda_Renouf   [Reno]
+	http://yago-knowledge.org/resource/Mexico_City   []
+
+		http://yago-knowledge.org/resource/Edda_Renouf   [Reno]
+	http://yago-knowledge.org/resource/Mexico_City   []
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+
+		http://yago-knowledge.org/resource/Edda_Renouf   [Reno]
+	http://yago-knowledge.org/resource/Mexico_City   []
+		http://yago-knowledge.org/resource/Vuelamex   [Elam]
+http://yago-knowledge.org/resource/Venustiano_Carranza,_Mexico_City   []
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/Rafael_Moreno_Valle_Rosas   [Reno]
+
+	http://yago-knowledge.org/resource/Rafael_Moreno_Valle_Rosas   [Reno]
+http://yago-knowledge.org/resource/National_Action_Party_(Mexico)   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Francisco_Moreno_Merino   [Reno]
+
+		http://yago-knowledge.org/resource/Francisco_Moreno_Merino   [Reno]
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+
+		http://yago-knowledge.org/resource/Francisco_Moreno_Merino   [Reno]
+	http://yago-knowledge.org/resource/National_Autonomous_University_of_Mexico   []
+http://yago-knowledge.org/resource/Museo_Universitario_del_Chopo   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 50744
+Total execution time: 27761
+
+Query Words: Pinball, Stand
+Root nodes Found: 976
+
+		http://yago-knowledge.org/resource/Paul_Carpenter_Standley   [Stand]
+
+		http://yago-knowledge.org/resource/Paul_Carpenter_Standley   [Stand]
+	http://yago-knowledge.org/resource/Mexico   []
+
+		http://yago-knowledge.org/resource/Paul_Carpenter_Standley   [Stand]
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/XHHCU-TDT   []
+Score: 0.08333333333333333
+----
+
+Total execution time: 27541
+
+Query Words: Pinball, Stand, Andersen, Sanders
+Root nodes Found: 976
+
+http://yago-knowledge.org/resource/XHHCU-TDT   []
+
+http://yago-knowledge.org/resource/XHHCU-TDT   []
+		http://yago-knowledge.org/resource/Marvin_Sanders   [Sanders]
+
+http://yago-knowledge.org/resource/XHHCU-TDT   []
+		http://yago-knowledge.org/resource/Marvin_Sanders   [Sanders]
+		http://yago-knowledge.org/resource/Paul_Carpenter_Standley   [Stand]
+
+http://yago-knowledge.org/resource/XHHCU-TDT   []
+		http://yago-knowledge.org/resource/Marvin_Sanders   [Sanders]
+		http://yago-knowledge.org/resource/Paul_Carpenter_Standley   [Stand]
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.05555555555555555
+----
+
+Nodes visited: 50744
+Total execution time: 27967
+

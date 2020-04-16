@@ -1,0 +1,450 @@
+Query Words: Wipes, Rubbers
+Root nodes Found: 917
+Total execution time: 3585
+
+Query Words: Wipes, Rubbers, Sloped, Lifeless
+Root nodes Found: 917
+Nodes visited: 19020
+Total execution time: 2167
+
+Query Words: Sloped, Lifeless
+Root nodes Found: 917
+Total execution time: 2095
+
+Query Words: Sloped, Lifeless, Radiogram, Socialized
+Root nodes Found: 917
+Nodes visited: 19020
+Total execution time: 2135
+
+Query Words: Radiogram, Socialized
+Root nodes Found: 917
+Total execution time: 2305
+
+Query Words: Radiogram, Socialized, Congers, Mailbag
+Root nodes Found: 917
+Nodes visited: 19020
+Total execution time: 2359
+
+Query Words: Congers, Mailbag
+Root nodes Found: 917
+Total execution time: 2617
+
+Query Words: Congers, Mailbag, Treeless, Mileage
+Root nodes Found: 917
+Nodes visited: 19020
+Total execution time: 2631
+
+Query Words: Treeless, Mileage
+Root nodes Found: 917
+Total execution time: 2648
+
+Query Words: Treeless, Mileage, Photoelectric, Scrambler
+Root nodes Found: 917
+Nodes visited: 19020
+Total execution time: 2025
+
+Query Words: Photoelectric, Scrambler
+Root nodes Found: 917
+Total execution time: 2259
+
+Query Words: Photoelectric, Scrambler, Stilts, Teachings
+Root nodes Found: 917
+Nodes visited: 19020
+Total execution time: 2230
+
+Query Words: Stilts, Teachings
+Root nodes Found: 917
+Total execution time: 2062
+
+Query Words: Stilts, Teachings, Plagiarism, Lutes
+Root nodes Found: 917
+Nodes visited: 19020
+Total execution time: 2108
+
+Query Words: Plagiarism, Lutes
+Root nodes Found: 917
+Total execution time: 2015
+
+Query Words: Plagiarism, Lutes, Purification, Honored
+Root nodes Found: 917
+Nodes visited: 19020
+Total execution time: 2209
+
+Query Words: Purification, Honored
+Root nodes Found: 917
+Total execution time: 2353
+
+Query Words: Purification, Honored, Responsible, Banknote
+Root nodes Found: 917
+Nodes visited: 19020
+Total execution time: 2101
+
+Query Words: Responsible, Banknote
+Root nodes Found: 917
+Total execution time: 2115
+
+Query Words: Responsible, Banknote, Inhabitant, Gettysburg
+Root nodes Found: 917
+Nodes visited: 19020
+Total execution time: 2137
+
+Query Words: Inhabitant, Gettysburg
+Root nodes Found: 917
+Total execution time: 2155
+
+Query Words: Inhabitant, Gettysburg, Elam, Reno
+Root nodes Found: 917
+
+http://yago-knowledge.org/resource/TD_Place_Stadium   []
+
+http://yago-knowledge.org/resource/TD_Place_Stadium   []
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+
+http://yago-knowledge.org/resource/TD_Place_Stadium   []
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+	http://yago-knowledge.org/resource/Ottawa   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+http://yago-knowledge.org/resource/Bell_Centennial_Arena   []
+
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+http://yago-knowledge.org/resource/Bell_Centennial_Arena   []
+	http://yago-knowledge.org/resource/Ottawa   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Ottawa   []
+
+	http://yago-knowledge.org/resource/Ottawa   []
+http://yago-knowledge.org/resource/Earl_Armstrong_Arena   []
+
+	http://yago-knowledge.org/resource/Ottawa   []
+http://yago-knowledge.org/resource/Earl_Armstrong_Arena   []
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+	http://yago-knowledge.org/resource/Ottawa   []
+
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+	http://yago-knowledge.org/resource/Ottawa   []
+http://yago-knowledge.org/resource/Walter_Baker_Sports_Centre   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Ottawa   []
+
+	http://yago-knowledge.org/resource/Ottawa   []
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+
+	http://yago-knowledge.org/resource/Ottawa   []
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+http://yago-knowledge.org/resource/National_Capital_Region_(Canada)   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 19020
+Total execution time: 2481
+
+Query Words: Elam, Reno
+Root nodes Found: 917
+
+http://yago-knowledge.org/resource/Bell_Centennial_Arena   []
+
+http://yago-knowledge.org/resource/Bell_Centennial_Arena   []
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+
+http://yago-knowledge.org/resource/Bell_Centennial_Arena   []
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+	http://yago-knowledge.org/resource/Ottawa   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Ottawa   []
+
+	http://yago-knowledge.org/resource/Ottawa   []
+http://yago-knowledge.org/resource/TD_Place_Stadium   []
+
+	http://yago-knowledge.org/resource/Ottawa   []
+http://yago-knowledge.org/resource/TD_Place_Stadium   []
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Ottawa   []
+
+	http://yago-knowledge.org/resource/Ottawa   []
+http://yago-knowledge.org/resource/Walter_Baker_Sports_Centre   []
+
+	http://yago-knowledge.org/resource/Ottawa   []
+http://yago-knowledge.org/resource/Walter_Baker_Sports_Centre   []
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+http://yago-knowledge.org/resource/National_Capital_Region_(Canada)   []
+
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+http://yago-knowledge.org/resource/National_Capital_Region_(Canada)   []
+	http://yago-knowledge.org/resource/Ottawa   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+http://yago-knowledge.org/resource/Earl_Armstrong_Arena   []
+
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+http://yago-knowledge.org/resource/Earl_Armstrong_Arena   []
+	http://yago-knowledge.org/resource/Ottawa   []
+Score: 0.08333333333333333
+----
+
+Total execution time: 2643
+
+Query Words: Elam, Reno, Pinball, Stand
+Root nodes Found: 917
+
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+http://yago-knowledge.org/resource/Walter_Baker_Sports_Centre   []
+
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+http://yago-knowledge.org/resource/Walter_Baker_Sports_Centre   []
+		http://yago-knowledge.org/resource/Canadian_Broadcast_Standards_Council   [Stand]
+
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+http://yago-knowledge.org/resource/Walter_Baker_Sports_Centre   []
+		http://yago-knowledge.org/resource/Canadian_Broadcast_Standards_Council   [Stand]
+	http://yago-knowledge.org/resource/Ottawa   []
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+	http://yago-knowledge.org/resource/Ottawa   []
+
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+	http://yago-knowledge.org/resource/Ottawa   []
+		http://yago-knowledge.org/resource/Canadian_Broadcast_Standards_Council   [Stand]
+
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+	http://yago-knowledge.org/resource/Ottawa   []
+		http://yago-knowledge.org/resource/Canadian_Broadcast_Standards_Council   [Stand]
+http://yago-knowledge.org/resource/National_Capital_Region_(Canada)   []
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+		http://yago-knowledge.org/resource/Canadian_Broadcast_Standards_Council   [Stand]
+
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+		http://yago-knowledge.org/resource/Canadian_Broadcast_Standards_Council   [Stand]
+http://yago-knowledge.org/resource/TD_Place_Stadium   []
+
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+		http://yago-knowledge.org/resource/Canadian_Broadcast_Standards_Council   [Stand]
+http://yago-knowledge.org/resource/TD_Place_Stadium   []
+	http://yago-knowledge.org/resource/Ottawa   []
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+		http://yago-knowledge.org/resource/Canadian_Broadcast_Standards_Council   [Stand]
+
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+		http://yago-knowledge.org/resource/Canadian_Broadcast_Standards_Council   [Stand]
+	http://yago-knowledge.org/resource/Ottawa   []
+
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+		http://yago-knowledge.org/resource/Canadian_Broadcast_Standards_Council   [Stand]
+	http://yago-knowledge.org/resource/Ottawa   []
+http://yago-knowledge.org/resource/Earl_Armstrong_Arena   []
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Canadian_Broadcast_Standards_Council   [Stand]
+
+		http://yago-knowledge.org/resource/Canadian_Broadcast_Standards_Council   [Stand]
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+
+		http://yago-knowledge.org/resource/Canadian_Broadcast_Standards_Council   [Stand]
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+	http://yago-knowledge.org/resource/Ottawa   []
+
+		http://yago-knowledge.org/resource/Canadian_Broadcast_Standards_Council   [Stand]
+		http://yago-knowledge.org/resource/Myreno411   [Reno]
+	http://yago-knowledge.org/resource/Ottawa   []
+http://yago-knowledge.org/resource/Bell_Centennial_Arena   []
+Score: 0.05555555555555555
+----
+
+Nodes visited: 19020
+Total execution time: 2646
+
+Query Words: Pinball, Stand
+Root nodes Found: 917
+
+http://yago-knowledge.org/resource/TD_Place_Stadium   []
+
+http://yago-knowledge.org/resource/TD_Place_Stadium   []
+		http://yago-knowledge.org/resource/Canadian_Broadcast_Standards_Council   [Stand]
+
+http://yago-knowledge.org/resource/TD_Place_Stadium   []
+		http://yago-knowledge.org/resource/Canadian_Broadcast_Standards_Council   [Stand]
+	http://yago-knowledge.org/resource/Ottawa   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Earl_Armstrong_Arena   []
+
+http://yago-knowledge.org/resource/Earl_Armstrong_Arena   []
+	http://yago-knowledge.org/resource/Ottawa   []
+
+http://yago-knowledge.org/resource/Earl_Armstrong_Arena   []
+	http://yago-knowledge.org/resource/Ottawa   []
+		http://yago-knowledge.org/resource/Canadian_Broadcast_Standards_Council   [Stand]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Walter_Baker_Sports_Centre   []
+
+http://yago-knowledge.org/resource/Walter_Baker_Sports_Centre   []
+		http://yago-knowledge.org/resource/Canadian_Broadcast_Standards_Council   [Stand]
+
+http://yago-knowledge.org/resource/Walter_Baker_Sports_Centre   []
+		http://yago-knowledge.org/resource/Canadian_Broadcast_Standards_Council   [Stand]
+	http://yago-knowledge.org/resource/Ottawa   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/National_Capital_Region_(Canada)   []
+
+http://yago-knowledge.org/resource/National_Capital_Region_(Canada)   []
+	http://yago-knowledge.org/resource/Ottawa   []
+
+http://yago-knowledge.org/resource/National_Capital_Region_(Canada)   []
+	http://yago-knowledge.org/resource/Ottawa   []
+		http://yago-knowledge.org/resource/Canadian_Broadcast_Standards_Council   [Stand]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Canadian_Broadcast_Standards_Council   [Stand]
+
+		http://yago-knowledge.org/resource/Canadian_Broadcast_Standards_Council   [Stand]
+	http://yago-knowledge.org/resource/Ottawa   []
+
+		http://yago-knowledge.org/resource/Canadian_Broadcast_Standards_Council   [Stand]
+	http://yago-knowledge.org/resource/Ottawa   []
+http://yago-knowledge.org/resource/Bell_Centennial_Arena   []
+Score: 0.08333333333333333
+----
+
+Total execution time: 2642
+
+Query Words: Pinball, Stand, Andersen, Sanders
+Root nodes Found: 917
+
+http://yago-knowledge.org/resource/Walter_Baker_Sports_Centre   []
+
+http://yago-knowledge.org/resource/Walter_Baker_Sports_Centre   []
+		http://yago-knowledge.org/resource/Canadian_Broadcast_Standards_Council   [Stand]
+
+http://yago-knowledge.org/resource/Walter_Baker_Sports_Centre   []
+		http://yago-knowledge.org/resource/Canadian_Broadcast_Standards_Council   [Stand]
+	http://yago-knowledge.org/resource/Ottawa   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Ottawa   []
+
+	http://yago-knowledge.org/resource/Ottawa   []
+http://yago-knowledge.org/resource/National_Capital_Region_(Canada)   []
+
+	http://yago-knowledge.org/resource/Ottawa   []
+http://yago-knowledge.org/resource/National_Capital_Region_(Canada)   []
+		http://yago-knowledge.org/resource/Canadian_Broadcast_Standards_Council   [Stand]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Ottawa   []
+
+	http://yago-knowledge.org/resource/Ottawa   []
+http://yago-knowledge.org/resource/Earl_Armstrong_Arena   []
+
+	http://yago-knowledge.org/resource/Ottawa   []
+http://yago-knowledge.org/resource/Earl_Armstrong_Arena   []
+		http://yago-knowledge.org/resource/Canadian_Broadcast_Standards_Council   [Stand]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Canadian_Broadcast_Standards_Council   [Stand]
+
+		http://yago-knowledge.org/resource/Canadian_Broadcast_Standards_Council   [Stand]
+http://yago-knowledge.org/resource/Bell_Centennial_Arena   []
+
+		http://yago-knowledge.org/resource/Canadian_Broadcast_Standards_Council   [Stand]
+http://yago-knowledge.org/resource/Bell_Centennial_Arena   []
+	http://yago-knowledge.org/resource/Ottawa   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Fred_Sanderson   [Sanders]
+
+	http://yago-knowledge.org/resource/Fred_Sanderson   [Sanders]
+http://yago-knowledge.org/resource/Liberal_Party_of_Canada   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Ottawa   []
+
+	http://yago-knowledge.org/resource/Ottawa   []
+http://yago-knowledge.org/resource/TD_Place_Stadium   []
+
+	http://yago-knowledge.org/resource/Ottawa   []
+http://yago-knowledge.org/resource/TD_Place_Stadium   []
+		http://yago-knowledge.org/resource/Canadian_Broadcast_Standards_Council   [Stand]
+Score: 0.041666666666666664
+----
+
+Nodes visited: 19020
+Total execution time: 2666
+

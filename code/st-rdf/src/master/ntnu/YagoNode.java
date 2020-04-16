@@ -1,6 +1,6 @@
 package master.ntnu;
 
-import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashSet;
 
 public class YagoNode {
@@ -8,13 +8,15 @@ public class YagoNode {
     private HashSet<YagoNode> hitChildren;
     private String nodeData;
     private int depth;
-    private HashSet<String> matchWords;
     private HashSet<String> nodeMatchWords;
+    private HashSet<String> tokenList;
 
     public YagoNode(String nodeData) {
         this.nodeData = nodeData;
+        this.tokenList = new HashSet<>();
+        String[] a = nodeData.split("/");
+        this.tokenList.addAll(Arrays.asList(a[a.length-1].replace(",", "").split("_")));
         depth = 0;
-        matchWords = new HashSet<String>();
         hitChildren = new HashSet<YagoNode>();
         nodeMatchWords = new HashSet<String>();
     }
@@ -22,8 +24,10 @@ public class YagoNode {
     public YagoNode(YagoNode parent, String nodeData) {
         this.parent = parent;
         this.nodeData = nodeData;
+        this.tokenList = new HashSet<>();
+        String[] a = nodeData.split("/");
+        this.tokenList.addAll(Arrays.asList(a[a.length-1].replace(",", "").split("_")));
         depth = parent.getDepth()+1;
-        matchWords = parent.matchWords;
         hitChildren = parent.hitChildren;
         nodeMatchWords = new HashSet<String>();
     }
@@ -48,23 +52,19 @@ public class YagoNode {
         return depth;
     }
 
-    public HashSet<String> getWords() {
-        return matchWords;
-    }
-
-    public void addWord(String word) {
-        matchWords.add(word);
-    }
-
-    public void setNodeMatchWords(HashSet<String> matchWords) {
-        this.nodeMatchWords.addAll(matchWords);
+    public void addNodeMatchWord(String word) {
+        nodeMatchWords.add(word);
     }
 
     public void removeNodeMatchWord(String word) {
-        this.nodeMatchWords.remove(word);
+        nodeMatchWords.remove(word);
     }
 
     public HashSet<String> getNodeMatchWords() {
         return nodeMatchWords;
+    }
+
+    public HashSet<String> getTokenList() {
+        return tokenList;
     }
 }

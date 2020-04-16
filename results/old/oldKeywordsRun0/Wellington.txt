@@ -1,0 +1,129 @@
+Query Words: Wipes, Rubbers
+Root nodes Found: 300
+Total execution time: 837
+
+Query Words: Wipes, Rubbers, Sloped, Lifeless
+Root nodes Found: 300
+Nodes visited: 5892
+Total execution time: 410
+
+Query Words: Sloped, Lifeless
+Root nodes Found: 300
+Total execution time: 431
+
+Query Words: Sloped, Lifeless, Radiogram, Socialized
+Root nodes Found: 300
+Nodes visited: 5892
+Total execution time: 399
+
+Query Words: Radiogram, Socialized
+Root nodes Found: 300
+Total execution time: 395
+
+Query Words: Radiogram, Socialized, Congers, Mailbag
+Root nodes Found: 300
+Nodes visited: 5892
+Total execution time: 488
+
+Query Words: Congers, Mailbag
+Root nodes Found: 300
+Total execution time: 391
+
+Query Words: Congers, Mailbag, Treeless, Mileage
+Root nodes Found: 300
+Nodes visited: 5892
+Total execution time: 400
+
+Query Words: Treeless, Mileage
+Root nodes Found: 300
+Total execution time: 419
+
+Query Words: Treeless, Mileage, Photoelectric, Scrambler
+Root nodes Found: 300
+Nodes visited: 5892
+Total execution time: 408
+
+Query Words: Photoelectric, Scrambler
+Root nodes Found: 300
+Total execution time: 391
+
+Query Words: Photoelectric, Scrambler, Stilts, Teachings
+Root nodes Found: 300
+Nodes visited: 5892
+Total execution time: 409
+
+Query Words: Stilts, Teachings
+Root nodes Found: 300
+Total execution time: 514
+
+Query Words: Stilts, Teachings, Plagiarism, Lutes
+Root nodes Found: 300
+Nodes visited: 5892
+Total execution time: 436
+
+Query Words: Plagiarism, Lutes
+Root nodes Found: 300
+Total execution time: 383
+
+Query Words: Plagiarism, Lutes, Purification, Honored
+Root nodes Found: 300
+Nodes visited: 5892
+Total execution time: 393
+
+Query Words: Purification, Honored
+Root nodes Found: 300
+Total execution time: 412
+
+Query Words: Purification, Honored, Responsible, Banknote
+Root nodes Found: 300
+Nodes visited: 5892
+Total execution time: 402
+
+Query Words: Responsible, Banknote
+Root nodes Found: 300
+Total execution time: 422
+
+Query Words: Responsible, Banknote, Inhabitant, Gettysburg
+Root nodes Found: 300
+Nodes visited: 5892
+Total execution time: 395
+
+Query Words: Inhabitant, Gettysburg
+Root nodes Found: 300
+Total execution time: 394
+
+Query Words: Inhabitant, Gettysburg, Elam, Reno
+Root nodes Found: 300
+Nodes visited: 5892
+Total execution time: 468
+
+Query Words: Elam, Reno
+Root nodes Found: 300
+Total execution time: 395
+
+Query Words: Elam, Reno, Pinball, Stand
+Root nodes Found: 300
+Nodes visited: 5892
+Total execution time: 402
+
+Query Words: Pinball, Stand
+Root nodes Found: 300
+Total execution time: 390
+
+Query Words: Pinball, Stand, Andersen, Sanders
+Root nodes Found: 300
+
+http://yago-knowledge.org/resource/Masterton   []
+
+http://yago-knowledge.org/resource/Masterton   []
+		http://yago-knowledge.org/resource/Charles_Sanders_Peirce   [Sanders]
+
+http://yago-knowledge.org/resource/Masterton   []
+		http://yago-knowledge.org/resource/Charles_Sanders_Peirce   [Sanders]
+	http://yago-knowledge.org/resource/Arthur_Prior   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 5892
+Total execution time: 408
+

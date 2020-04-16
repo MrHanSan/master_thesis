@@ -1,25 +1,41 @@
 %===================================== CHAP 1 =================================
 
 \chapter{Introduction}
-Today large collections of information is available, but for this information to be useful, efficient retrieval methods is needed. More and more information is also being generated in collections with specific uses, such as a school wiki, or an article collection for a company. All this different types of information collections need methods for retrieval.\\
+Creating efficient structures for computers to interpret information opens up many new areas for information retrieval. One method is structuring the information as a graph with vertices connected by edges (G(v, e)). In such a structure each vertex (v) can hold a small piece of information, and the edge (e) represents a relation. When information is modeled in this way, it can be called a knowledge graph (KG).\\
 
-Any collection of information can be called a knowledge base. Such a collection can be structured or unstructured, and can be any size. Larger collections will require a structure to be navigable, and to make it easier to search. Depending on the type, size and use of a collection, different system should be used. For a small collection not expected to grow much a set of unordered articles might be sufficient, while a collection such as Wikipedia will need indexing, linking, categories and searching for the information to be accessible.\\
+Graph based models allows complex relations to be modeled. Finding relations in a graph is also computationally cheaper than other models. Using standardized models such as the Resource Description Framework (RDF), which is created specifically for graph based data, has made it possible to develop efficient storage and retrieval solutions for graph data. One such solution is the framework Jena \cite{jena2} for Java.\\
 
-In any set of information there will usually be some relation to other information. This relation can be in form of a link to another piece of information, relationships between real entities, such as the relation between a capitol and a country. Relations can also be more abstract, such as two entities being placed in the same category. Using the relationship between pieces of information it is possible to create a directed graph. Such a graph is known as a knowledge graph.\\
+Using RDF projects like YAGO (Yet Another Great Ontology) \cite{yago} have created graphs containing spatial and temporal data (spatiotemporal). This makes it possible to apply reason to the dataset, and derive new information from what is already there. This is a feature that typically separates a KG from an ontology \cite{KGDefYago}. In a graph, spatiotemporal data will be described using at least 2 vertices, one for a start date, and one for a place. When modeling time intervals, multiple vertices are needed.\\
 
-Knowledge graphs makes it possible to represent detailed and complex information in an ordered 
+Currently searching in RDF data is still something being developed. Keyword search and text search is still something that is missing fully developed solutions, and when combining keyword search with spatiotemporal search, there is even less %Rewrite...
+\\
+Using frameworks such as Jena, it is possible to build solutions for keyword search, and spatiotemporal search, but when building such a solution, there needs to be done research into aspects such as speed, memory usage, accuracy, and ranking.\\
+
+% Today large collections of information is available, but for this information to be useful, efficient retrieval methods is needed. More and more information is also being generated in collections with specific uses, such as a school wiki, or an article collection for a company. All this different types of information collections need methods for retrieval.\\
+
+% Any collection of information can be called a knowledge base. Such a collection can be structured or unstructured, and can be any size. Larger collections will require a structure to be navigable, and to make it easier to search. Depending on the type, size and use of a collection, different system should be used. For a small collection not expected to grow much a set of unordered articles might be sufficient, while a collection such as Wikipedia will need indexing, linking, categories and searching for the information to be accessible.\\
+
+% In any set of information there will usually be some relation to other information. This relation can be in form of a link to another piece of information, relationships between real entities, such as the relation between a capitol and a country. Relations can also be more abstract, such as two entities being placed in the same category. Using the relationship between pieces of information it is possible to create a directed graph. Such a graph is known as a knowledge graph.\\
+
+% Using the graph structure of knowledge graphs it is possible to use traditional traversal algorithms to find sets of information. This makes knowledge graphs a versatile 
 
 % - Information have relationships
-- A user might need parts of different sources
-- Finding specific information based on relationship, using part of different sources/ sets (?)
-- often duplicate in articles 
+% - A user might need parts of different sources
+% - Finding specific information based on relationship, using part of different sources/ sets (?)
+% - often duplicate in articles 
 
 %Traditional retrieval consists of large databases with indexes and web crawlers gathering information.
 % - Why this is important\\
 
 
 % - What is the contribution of this paper\\
-This paper will propose methods of integrating time and date facts in existing search methods.\\
+% This paper will propose methods of integrating time and date facts in existing search methods.\\
+
+Research questions?\\
+RQ1: How can spatio-temporal data be integrated into exiting keyword query methods for RDF data.\\
+RQ2: What methods can be used to create more effective queries on RDF data.\\
+RQ3: How do spatial and temporal RDF query methods differ from from other query methods.\\
+RQ4: What methods can be used to query RDF data based on a users keyword search.\\
 
 \section{Previous work}
 There has been done some work keyword search on RDF graphs. This includes \cite{4812421} and \cite{Elbassuoni:2011:KSO:2063576.2063615}. None of these takes spatial or temporal data into consideration. The methods for keyword queries outlined in the papers are based on a combination of indexing the graph and traversing subgraphs. The indexing is similar in both papers, but retrieval, scoring and traversal methods varies. One method of retrieval and scoring that is used as a baseline is a breadth first search for traversal and a minimal subgraph for scoring. These methods are easy to implement and understand, but often inefficient, and inaccurate.\\
@@ -30,10 +46,5 @@ R-trees are designed around the spatial dimension, but some work on modification
 
 % TPR-trees \cite{} uses some tech ... This makes them most suited to index moving objects, with as spatio-temporal data to indicate where an object is at a given time. The work done in \cite{} builds heavily on the R-tree, and makes it suited for ...
 
-Research questions?\\
-RQ1: How can spatio-temporal data be integrated into exiting keyword query methods for RDF data.\\
-RQ2: What methods can be used to create more effective queries on RDF data.\\
-RQ3: How do spatial and temporal RDF query methods differ from from other query methods.\\
-RQ4: What methods can be used to query RDF data based on a users keyword search.\\
 
 \clearpage

@@ -1,0 +1,78 @@
+Query Words: Wipes, RubbersTotal execution time: 100
+
+Query Words: Wipes, Rubbers, Sloped, Lifeless
+Nodes visited: 92
+Total execution time: 8
+
+Query Words: Sloped, LifelessTotal execution time: 6
+
+Query Words: Sloped, Lifeless, Radiogram, Socialized
+Nodes visited: 92
+Total execution time: 6
+
+Query Words: Radiogram, SocializedTotal execution time: 7
+
+Query Words: Radiogram, Socialized, Congers, Mailbag
+Nodes visited: 92
+Total execution time: 7
+
+Query Words: Congers, MailbagTotal execution time: 7
+
+Query Words: Congers, Mailbag, Treeless, Mileage
+Nodes visited: 92
+Total execution time: 6
+
+Query Words: Treeless, MileageTotal execution time: 7
+
+Query Words: Treeless, Mileage, Photoelectric, Scrambler
+Nodes visited: 92
+Total execution time: 7
+
+Query Words: Photoelectric, ScramblerTotal execution time: 7
+
+Query Words: Photoelectric, Scrambler, Stilts, Teachings
+Nodes visited: 92
+Total execution time: 7
+
+Query Words: Stilts, TeachingsTotal execution time: 7
+
+Query Words: Stilts, Teachings, Plagiarism, Lutes
+Nodes visited: 92
+Total execution time: 6
+
+Query Words: Plagiarism, LutesTotal execution time: 8
+
+Query Words: Plagiarism, Lutes, Purification, Honored
+Nodes visited: 92
+Total execution time: 11
+
+Query Words: Purification, HonoredTotal execution time: 10
+
+Query Words: Purification, Honored, Responsible, Banknote
+Nodes visited: 92
+Total execution time: 7
+
+Query Words: Responsible, BanknoteTotal execution time: 6
+
+Query Words: Responsible, Banknote, Inhabitant, Gettysburg
+Nodes visited: 92
+Total execution time: 6
+
+Query Words: Inhabitant, GettysburgTotal execution time: 6
+
+Query Words: Inhabitant, Gettysburg, Elam, Reno
+Nodes visited: 92
+Total execution time: 6
+
+Query Words: Elam, RenoTotal execution time: 7
+
+Query Words: Elam, Reno, Pinball, Stand
+Nodes visited: 92
+Total execution time: 7
+
+Query Words: Pinball, StandTotal execution time: 7
+
+Query Words: Pinball, Stand, Andersen, Sanders
+Nodes visited: 92
+Total execution time: 6
+

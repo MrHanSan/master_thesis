@@ -1,0 +1,78 @@
+Query Words: William, whole
+Root nodes Found: 976
+Total execution time: 290
+
+Query Words: Thomas, California
+Root nodes Found: 976
+
+http://yago-knowledge.org/resource/Electric_Daisy_Carnival   []
+	http://yago-knowledge.org/resource/San_Bernardino,_California   [California]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Disney_Junior_(Latin_America)   []
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/ESPN_Deportes   []
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Irvine,_California   [California]
+http://yago-knowledge.org/resource/KCON_(music_festival)   []
+Score: 0.16666666666666666
+----
+
+Total execution time: 284
+
+Query Words: Park, Church
+Root nodes Found: 976
+Total execution time: 198
+
+Query Words: District, objects
+Root nodes Found: 976
+Total execution time: 224
+
+Query Words: descent, Football
+Root nodes Found: 976
+Total execution time: 202
+
+Query Words: William, whole, Thomas, California
+Root nodes Found: 976
+
+http://yago-knowledge.org/resource/ESPN_Deportes   []
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Electric_Daisy_Carnival   []
+	http://yago-knowledge.org/resource/San_Bernardino,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/KCON_(music_festival)   []
+	http://yago-knowledge.org/resource/Irvine,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/Disney_Junior_(Latin_America)   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 999
+Total execution time: 257
+
+Query Words: Park, Church, District, objects
+Root nodes Found: 976
+Nodes visited: 976
+Total execution time: 195
+

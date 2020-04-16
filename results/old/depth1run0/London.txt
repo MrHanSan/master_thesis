@@ -1,0 +1,3892 @@
+Query Words: William, whole
+Root nodes Found: 6469
+
+	http://yago-knowledge.org/resource/Fort_William_Station_Sidings   [William]
+http://yago-knowledge.org/resource/Network_Rail   []
+Score: 0.16666666666666666
+----
+
+Total execution time: 99376
+
+Query Words: William, whole, Thomas, California
+Root nodes Found: 6469
+
+http://yago-knowledge.org/resource/Melendez_Films   []
+	http://yago-knowledge.org/resource/Burbank,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Amerindo_Investment_Advisors   []
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/The_Cybersmile_Foundation   []
+	http://yago-knowledge.org/resource/Palo_Alto,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Network_Rail   []
+	http://yago-knowledge.org/resource/Fort_William_Station_Sidings   [William]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [California]
+http://yago-knowledge.org/resource/Jingle_Punks_Music   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Burbank,_California   [California]
+http://yago-knowledge.org/resource/Cookie_Jar_Group   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/CloudMade   []
+	http://yago-knowledge.org/resource/Menlo_Park,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Jane_by_Design   []
+	http://yago-knowledge.org/resource/Santa_Clarita,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/TPG_Capital   []
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Ontario,_California   [California]
+http://yago-knowledge.org/resource/2013_in_Glory   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/PEN_Center_USA   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Street_Soul_Productions   []
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mountain_View,_California   [California]
+http://yago-knowledge.org/resource/GV_(company)   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/The_Initiative_Collective   []
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Houlihan_Lokey   []
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Sapphire_Ventures   []
+	http://yago-knowledge.org/resource/Palo_Alto,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [California]
+http://yago-knowledge.org/resource/Island_Records   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Inglewood,_California   [California]
+http://yago-knowledge.org/resource/Bellator_MMA_in_2017   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Universal_City,_California   [California]
+http://yago-knowledge.org/resource/PolyGram_Filmed_Entertainment   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Manga_Entertainment   []
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Universal_Pictures   []
+	http://yago-knowledge.org/resource/Universal_City,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/HIT_Entertainment   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/World_Vision_International   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Foster_City,_California   [California]
+http://yago-knowledge.org/resource/Kennet_Partners   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Fresno,_California   [California]
+http://yago-knowledge.org/resource/Bellator_MMA_in_2016   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beverly_Hills,_California   [California]
+http://yago-knowledge.org/resource/Project_Panther_Bidco   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Blue_Star_Infotech   []
+	http://yago-knowledge.org/resource/Santa_Clara,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Berkeley,_California   [California]
+http://yago-knowledge.org/resource/Kate_Sharpley_Library   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 26434
+Total execution time: 81240
+
+Query Words: whole, Thomas
+Root nodes Found: 6469
+Total execution time: 79856
+
+Query Words: whole, Thomas, California, Park
+Root nodes Found: 6469
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/HIT_Entertainment   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+http://yago-knowledge.org/resource/Embassy_of_Uzbekistan,_London   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Berkeley,_California   [California]
+http://yago-knowledge.org/resource/Kate_Sharpley_Library   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+http://yago-knowledge.org/resource/Basketball_Arena_(London)   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Amerindo_Investment_Advisors   []
+	http://yago-knowledge.org/resource/California   [California]
+	http://yago-knowledge.org/resource/399_Park_Avenue   [Park]
+Score: 0.1
+----
+
+
+http://yago-knowledge.org/resource/Crystal_Palace_F.C.   []
+	http://yago-knowledge.org/resource/Selhurst_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/GV_(company)   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Labatt_Park   [Park]
+http://yago-knowledge.org/resource/City_of_London   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/BMI_Healthcare   []
+	http://yago-knowledge.org/resource/Gisburne_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Marriott_London_Park_Lane   [Park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Drayton_Park_railway_station   [Park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Water_Polo_Arena   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Burbank,_California   [California]
+http://yago-knowledge.org/resource/Cookie_Jar_Group   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Greenwich_Park   [Park]
+http://yago-knowledge.org/resource/Equestrian_at_the_2012_Summer_Olympics   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Slovakia,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Bletchley_Park   [Park]
+http://yago-knowledge.org/resource/Over_the_Air   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Lee_Valley_VeloPark   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Ukraine,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+http://yago-knowledge.org/resource/London_Aquatics_Centre   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Menlo_Park,_California   [California]
+http://yago-knowledge.org/resource/CloudMade   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+http://yago-knowledge.org/resource/Embassy_of_Jordan,_London   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Project_Panther_Bidco   []
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Regent's_Park   [Park]
+http://yago-knowledge.org/resource/Winfield_House   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/The_Initiative_Collective   []
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Songdo_Central_Park   [Park]
+http://yago-knowledge.org/resource/Kohn_Pedersen_Fox   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/PEN_Center_USA   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+http://yago-knowledge.org/resource/Cardinal_Vaughan_Memorial_School   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Riverbank_Arena   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/London_Zoo   []
+	http://yago-knowledge.org/resource/Regent's_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+http://yago-knowledge.org/resource/BT_Sport   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/London_Legacy_Development_Corporation   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/M1_motorway   []
+	http://yago-knowledge.org/resource/Donington_Park_services   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Greenwich_Park   [Park]
+http://yago-knowledge.org/resource/Modern_pentathlon_at_the_2012_Summer_Olympics   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Island_Records   []
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+http://yago-knowledge.org/resource/ArcelorMittal_Orbit   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/London_Designer_Outlet   []
+	http://yago-knowledge.org/resource/Wembley_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Brondesbury_Park_railway_station   [Park]
+http://yago-knowledge.org/resource/Network_Rail   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/EDF_Energy   []
+	http://yago-knowledge.org/resource/Langley_Park_Wind_Farm   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/TPG_Capital   []
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/PolyGram_Filmed_Entertainment   []
+	http://yago-knowledge.org/resource/Universal_City,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/fr/Drayton_Park   [Park]
+http://yago-knowledge.org/resource/Emirates_Stadium   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Hampden_Park   [Park]
+http://yago-knowledge.org/resource/London_Grand_Prix   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Richmond_Park   [Park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Belsize_Park_FC   [Park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Holland_Park_tube_station   [Park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Tufnell_Park_tube_station   [Park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Park_Crescent,_London   [Park]
+http://yago-knowledge.org/resource/International_Students_House,_London   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Anaheim,_California   [California]
+http://yago-knowledge.org/resource/Bellator_MMA_in_2016   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Park_Royal   [Park]
+http://yago-knowledge.org/resource/Diageo   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Hampden_Park   [Park]
+http://yago-knowledge.org/resource/Football_at_the_2012_Summer_Olympics   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Hyde_Park_Corner   [Park]
+http://yago-knowledge.org/resource/Royal_Aeronautical_Society   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+http://yago-knowledge.org/resource/Leighton_House_Museum   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/The_Cybersmile_Foundation   []
+	http://yago-knowledge.org/resource/Palo_Alto,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Park_Theatre_(London)   [Park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/Street_Soul_Productions   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/British_Salmson   []
+	http://yago-knowledge.org/resource/Raynes_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+http://yago-knowledge.org/resource/Embassy_of_Paraguay,_London   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Finsbury_Park_TMD   [Park]
+http://yago-knowledge.org/resource/British_Rail   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Battersea_Park_Street_Circuit   [Park]
+http://yago-knowledge.org/resource/2016_London_ePrix   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+http://yago-knowledge.org/resource/Olympic_Stadium_(London)   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/Manga_Entertainment   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Wireless_Festival   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Thatched_House_Lodge   []
+	http://yago-knowledge.org/resource/Richmond_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Park_Royal_Stadium   [Park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Pocking_Solar_Park   [Park]
+http://yago-knowledge.org/resource/Royal_Dutch_Shell   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Melendez_Films   []
+	http://yago-knowledge.org/resource/Burbank,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Patron_Capital   []
+	http://yago-knowledge.org/resource/Arlington_Business_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Great_Capital_Run   []
+	http://yago-knowledge.org/resource/Regent's_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Clara,_California   [California]
+http://yago-knowledge.org/resource/Blue_Star_Infotech   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Park_Royal   [Park]
+http://yago-knowledge.org/resource/Best-One   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Inglewood,_California   [California]
+http://yago-knowledge.org/resource/Bellator_MMA_in_2017   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Sapphire_Ventures   []
+	http://yago-knowledge.org/resource/Palo_Alto,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Kennet_Partners   []
+	http://yago-knowledge.org/resource/Foster_City,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Belsize_Park_RFC   [Park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Topshop   []
+	http://yago-knowledge.org/resource/Ivy_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Clarita,_California   [California]
+http://yago-knowledge.org/resource/Jane_by_Design   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/TfL_Rail   []
+	http://yago-knowledge.org/resource/Gidea_Park_Carriage_Holding_Sidings   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Wembley_Park   [Park]
+http://yago-knowledge.org/resource/Wembley_Arena   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/One_Park_Drive   [Park]
+http://yago-knowledge.org/resource/Canary_Wharf_Group   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Equestrian_at_the_2012_Summer_Paralympics   []
+	http://yago-knowledge.org/resource/Greenwich_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/British_International_Motor_Show   []
+	http://yago-knowledge.org/resource/Battersea_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Tufnell_Park   [Park]
+http://yago-knowledge.org/resource/Acland_Burghley_School   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Hyde_Park_Corner_tube_station   [Park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Downsview_Park_(TTC)   [Park]
+http://yago-knowledge.org/resource/Aedas   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Crofton_Park   [Park]
+http://yago-knowledge.org/resource/Rivoli_Ballroom   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+http://yago-knowledge.org/resource/Embassy_of_Turkmenistan,_London   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Lebanon,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/World_Vision_International   []
+	http://yago-knowledge.org/resource/Monrovia,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/British_Land   []
+	http://yago-knowledge.org/resource/Birstall_Shopping_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/Houlihan_Lokey   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Park_Royal   [Park]
+http://yago-knowledge.org/resource/Sizaire-Berwick   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Greece,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Regent's_Park   [Park]
+http://yago-knowledge.org/resource/Regent's_University_London   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Loseley_Park   [Park]
+http://yago-knowledge.org/resource/The_Worst_Witch_(1998_TV_series)   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Battersea_Park   [Park]
+http://yago-knowledge.org/resource/Flamingoes_F.C.   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Wembley_Park   [Park]
+http://yago-knowledge.org/resource/Wembley_Conference_Centre   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Jingle_Punks_Music   []
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/InterContinental_London_Park_Lane   [Park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Norwich_Park_coal_mine   [Park]
+http://yago-knowledge.org/resource/BHP_Billiton   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Universal_Pictures   []
+	http://yago-knowledge.org/resource/Universal_City,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/The_Hive_Stadium   []
+	http://yago-knowledge.org/resource/Canons_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/2013_in_Glory   []
+	http://yago-knowledge.org/resource/Ontario,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Park_Resorts   [Park]
+http://yago-knowledge.org/resource/Electra_Private_Equity   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/White_Lodge,_Richmond_Park   [Park]
+Score: 0.25
+----
+
+Nodes visited: 26434
+Total execution time: 80651
+
+Query Words: Thomas, California
+Root nodes Found: 6469
+
+http://yago-knowledge.org/resource/Kate_Sharpley_Library   []
+	http://yago-knowledge.org/resource/Berkeley,_California   [California]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Universal_Pictures   []
+	http://yago-knowledge.org/resource/Universal_City,_California   [California]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Bellator_MMA_in_2017   []
+	http://yago-knowledge.org/resource/San_Jose,_California   [California]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/HIT_Entertainment   []
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Burbank,_California   [California]
+http://yago-knowledge.org/resource/Cookie_Jar_Group   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Manga_Entertainment   []
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Universal_City,_California   [California]
+http://yago-knowledge.org/resource/PolyGram_Filmed_Entertainment   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/Project_Panther_Bidco   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Amerindo_Investment_Advisors   []
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Street_Soul_Productions   []
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/TPG_Capital   []
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Island_Records   []
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [California]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Burbank,_California   [California]
+http://yago-knowledge.org/resource/Melendez_Films   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/GV_(company)   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Palo_Alto,_California   [California]
+http://yago-knowledge.org/resource/Sapphire_Ventures   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/PEN_Center_USA   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Monrovia,_California   [California]
+http://yago-knowledge.org/resource/World_Vision_International   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Bellator_MMA_in_2016   []
+	http://yago-knowledge.org/resource/San_Jose,_California   [California]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/The_Initiative_Collective   []
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Clara,_California   [California]
+http://yago-knowledge.org/resource/Blue_Star_Infotech   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Foster_City,_California   [California]
+http://yago-knowledge.org/resource/Kennet_Partners   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Ontario,_California   [California]
+http://yago-knowledge.org/resource/2013_in_Glory   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/The_Cybersmile_Foundation   []
+	http://yago-knowledge.org/resource/Palo_Alto,_California   [California]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Clarita,_California   [California]
+http://yago-knowledge.org/resource/Jane_by_Design   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Jingle_Punks_Music   []
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [California]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Menlo_Park,_California   [California]
+http://yago-knowledge.org/resource/CloudMade   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/Houlihan_Lokey   []
+Score: 0.16666666666666666
+----
+
+Total execution time: 80136
+
+Query Words: Thomas, California, Park, Church
+Root nodes Found: 6469
+
+http://yago-knowledge.org/resource/Regent's_University_London   []
+	http://yago-knowledge.org/resource/Regent's_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Lebanon,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Wembley_Arena   []
+	http://yago-knowledge.org/resource/Wembley_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Aedas   []
+	http://yago-knowledge.org/resource/Downsview_Park_(TTC)   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Battersea_Park_Street_Circuit   [Park]
+http://yago-knowledge.org/resource/2016_London_ePrix   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Olympic_Stadium_(London)   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/London_Zoo   []
+	http://yago-knowledge.org/resource/Regent's_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/Street_Soul_Productions   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Hampden_Park   [Park]
+http://yago-knowledge.org/resource/Football_at_the_2012_Summer_Olympics   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/The_Hive_Stadium   []
+	http://yago-knowledge.org/resource/Canons_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+http://yago-knowledge.org/resource/Lee_Valley_VeloPark   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Hampden_Park   [Park]
+http://yago-knowledge.org/resource/London_Grand_Prix   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Holland_Park_tube_station   [Park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Blue_Star_Infotech   []
+	http://yago-knowledge.org/resource/Santa_Clara,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Clarita,_California   [California]
+http://yago-knowledge.org/resource/Jane_by_Design   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Hyde_Park_Corner   [Park]
+http://yago-knowledge.org/resource/Royal_Aeronautical_Society   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Wembley_Park   [Park]
+http://yago-knowledge.org/resource/London_Designer_Outlet   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/Manga_Entertainment   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/PEN_Center_USA   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Slovakia,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/TfL_Rail   []
+	http://yago-knowledge.org/resource/Gidea_Park_Carriage_Holding_Sidings   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+http://yago-knowledge.org/resource/Water_Polo_Arena   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Belsize_Park_FC   [Park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Chelsea_Old_Church   [Church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Acland_Burghley_School   []
+	http://yago-knowledge.org/resource/Tufnell_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Uzbekistan,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/BHP_Billiton   []
+	http://yago-knowledge.org/resource/Norwich_Park_coal_mine   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/Houlihan_Lokey   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Battersea_Park   [Park]
+http://yago-knowledge.org/resource/British_International_Motor_Show   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Arlington_Business_Park   [Park]
+http://yago-knowledge.org/resource/Patron_Capital   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Foster_City,_California   [California]
+http://yago-knowledge.org/resource/Kennet_Partners   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/BMI_Healthcare   []
+	http://yago-knowledge.org/resource/Gisburne_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Equestrian_at_the_2012_Summer_Olympics   []
+	http://yago-knowledge.org/resource/Greenwich_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Hyde_Park_Corner_tube_station   [Park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Palo_Alto,_California   [California]
+http://yago-knowledge.org/resource/The_Cybersmile_Foundation   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Greece,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Richmond_Park   [Park]
+http://yago-knowledge.org/resource/Thatched_House_Lodge   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+http://yago-knowledge.org/resource/Embassy_of_Turkmenistan,_London   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+http://yago-knowledge.org/resource/Leighton_House_Museum   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Menlo_Park,_California   [California]
+http://yago-knowledge.org/resource/CloudMade   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Teesside_Park   [Park]
+http://yago-knowledge.org/resource/British_Land   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/San_Jose,_California   [California]
+http://yago-knowledge.org/resource/Bellator_MMA_in_2017   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Fresno,_California   [California]
+http://yago-knowledge.org/resource/Bellator_MMA_in_2016   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Sapphire_Ventures   []
+	http://yago-knowledge.org/resource/Palo_Alto,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Donington_Park_services   [Park]
+http://yago-knowledge.org/resource/M1_motorway   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Marriott_London_Park_Lane   [Park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Modern_pentathlon_at_the_2012_Summer_Olympics   []
+	http://yago-knowledge.org/resource/Greenwich_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/The_Initiative_Collective   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Cardinal_Vaughan_Memorial_School   []
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Songdo_Central_Park   [Park]
+http://yago-knowledge.org/resource/Kohn_Pedersen_Fox   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Bletchley_Park   [Park]
+http://yago-knowledge.org/resource/Over_the_Air   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Universal_City,_California   [California]
+http://yago-knowledge.org/resource/PolyGram_Filmed_Entertainment   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/fr/Drayton_Park   [Park]
+http://yago-knowledge.org/resource/Emirates_Stadium   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Park_Theatre_(London)   [Park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Ukraine,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Island_Records   []
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Drayton_Park_railway_station   [Park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Wireless_Festival   []
+	http://yago-knowledge.org/resource/Finsbury_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+http://yago-knowledge.org/resource/Basketball_Arena_(London)   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Burbank,_California   [California]
+http://yago-knowledge.org/resource/Melendez_Films   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Royal_Dutch_Shell   []
+	http://yago-knowledge.org/resource/Pocking_Solar_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Amerindo_Investment_Advisors   []
+	http://yago-knowledge.org/resource/399_Park_Avenue   [Park]
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.1
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Jordan,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+http://yago-knowledge.org/resource/Riverbank_Arena   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Ivy_Park   [Park]
+http://yago-knowledge.org/resource/Topshop   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/BT_Sport   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Selhurst_Park   [Park]
+http://yago-knowledge.org/resource/Crystal_Palace_F.C.   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Project_Panther_Bidco   []
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/2013_in_Glory   []
+	http://yago-knowledge.org/resource/Ontario,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Richmond_Park   [Park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Loseley_Park   [Park]
+http://yago-knowledge.org/resource/The_Worst_Witch_(1998_TV_series)   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/TPG_Capital   []
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Cookie_Jar_Group   []
+	http://yago-knowledge.org/resource/Burbank,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Belsize_Park_RFC   [Park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Great_Capital_Run   []
+	http://yago-knowledge.org/resource/Regent's_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/HIT_Entertainment   []
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Wembley_Park   [Park]
+http://yago-knowledge.org/resource/Wembley_Conference_Centre   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/White_Lodge,_Richmond_Park   [Park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Best-One   []
+	http://yago-knowledge.org/resource/Park_Royal   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/British_Rail   []
+	http://yago-knowledge.org/resource/Finsbury_Park_TMD   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Park_Resorts   [Park]
+http://yago-knowledge.org/resource/Electra_Private_Equity   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Universal_Pictures   []
+	http://yago-knowledge.org/resource/Universal_City,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Paraguay,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Flamingoes_F.C.   []
+	http://yago-knowledge.org/resource/Battersea_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Rivoli_Ballroom   []
+	http://yago-knowledge.org/resource/Crofton_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Raynes_Park   [Park]
+http://yago-knowledge.org/resource/British_Salmson   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Honor_Oak_Park_railway_station   [Park]
+http://yago-knowledge.org/resource/Network_Rail   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [California]
+http://yago-knowledge.org/resource/Jingle_Punks_Music   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/InterContinental_London_Park_Lane   [Park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+http://yago-knowledge.org/resource/London_Aquatics_Centre   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Tufnell_Park_tube_station   [Park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/GV_(company)   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/London_Legacy_Development_Corporation   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Langley_Park_Wind_Farm   [Park]
+http://yago-knowledge.org/resource/EDF_Energy   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Regent's_Park   [Park]
+http://yago-knowledge.org/resource/Winfield_House   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Bow_Church_DLR_station   [Church]
+http://yago-knowledge.org/resource/Transport_for_London   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Park_Royal   [Park]
+http://yago-knowledge.org/resource/Diageo   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Kate_Sharpley_Library   []
+	http://yago-knowledge.org/resource/Berkeley,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Park_Royal_Stadium   [Park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/International_Students_House,_London   []
+	http://yago-knowledge.org/resource/Park_Crescent,_London   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/ArcelorMittal_Orbit   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/World_Vision_International   []
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Equestrian_at_the_2012_Summer_Paralympics   []
+	http://yago-knowledge.org/resource/Greenwich_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Labatt_Park   [Park]
+http://yago-knowledge.org/resource/City_of_London   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Park_Royal   [Park]
+http://yago-knowledge.org/resource/Sizaire-Berwick   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/One_Park_Drive   [Park]
+http://yago-knowledge.org/resource/Canary_Wharf_Group   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 26434
+Total execution time: 80814
+
+Query Words: California, Park
+Root nodes Found: 6469
+
+http://yago-knowledge.org/resource/Project_Panther_Bidco   []
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Tufnell_Park_tube_station   [Park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/International_Students_House,_London   []
+	http://yago-knowledge.org/resource/Park_Crescent,_London   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Equestrian_at_the_2012_Summer_Olympics   []
+	http://yago-knowledge.org/resource/Greenwich_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Park_Theatre_(London)   [Park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Crystal_Palace_F.C.   []
+	http://yago-knowledge.org/resource/Selhurst_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Diageo   []
+	http://yago-knowledge.org/resource/Park_Royal   [Park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Foster_City,_California   [California]
+http://yago-knowledge.org/resource/Kennet_Partners   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Drayton_Park_railway_station   [Park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Brondesbury_Park_railway_station   [Park]
+http://yago-knowledge.org/resource/Network_Rail   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Street_Soul_Productions   []
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Lee_Valley_VeloPark   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Battersea_Park_Street_Circuit   [Park]
+http://yago-knowledge.org/resource/2016_London_ePrix   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Park_Royal   [Park]
+http://yago-knowledge.org/resource/Best-One   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+http://yago-knowledge.org/resource/Olympic_Stadium_(London)   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Universal_Pictures   []
+	http://yago-knowledge.org/resource/Universal_City,_California   [California]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Finsbury_Park   [Park]
+http://yago-knowledge.org/resource/Wireless_Festival   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Hyde_Park_Corner   [Park]
+http://yago-knowledge.org/resource/Royal_Aeronautical_Society   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/BMI_Healthcare   []
+	http://yago-knowledge.org/resource/Gisburne_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+http://yago-knowledge.org/resource/London_Legacy_Development_Corporation   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Langley_Park_Wind_Farm   [Park]
+http://yago-knowledge.org/resource/EDF_Energy   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Battersea_Park   [Park]
+http://yago-knowledge.org/resource/Flamingoes_F.C.   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Greenwich_Park   [Park]
+http://yago-knowledge.org/resource/Modern_pentathlon_at_the_2012_Summer_Olympics   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/London_Zoo   []
+	http://yago-knowledge.org/resource/Regent's_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Inglewood,_California   [California]
+http://yago-knowledge.org/resource/Bellator_MMA_in_2017   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Wembley_Park   [Park]
+http://yago-knowledge.org/resource/Wembley_Conference_Centre   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/London_Designer_Outlet   []
+	http://yago-knowledge.org/resource/Wembley_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/M1_motorway   []
+	http://yago-knowledge.org/resource/Donington_Park_services   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Aedas   []
+	http://yago-knowledge.org/resource/Downsview_Park_(TTC)   [Park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Greenwich_Park   [Park]
+http://yago-knowledge.org/resource/Equestrian_at_the_2012_Summer_Paralympics   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Basketball_Arena_(London)   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/InterContinental_London_Park_Lane   [Park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+http://yago-knowledge.org/resource/Embassy_of_Jordan,_London   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/HIT_Entertainment   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Acland_Burghley_School   []
+	http://yago-knowledge.org/resource/Tufnell_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Richmond_Park   [Park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/PEN_Center_USA   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/PolyGram_Filmed_Entertainment   []
+	http://yago-knowledge.org/resource/Universal_City,_California   [California]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Battersea_Park   [Park]
+http://yago-knowledge.org/resource/British_International_Motor_Show   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Monrovia,_California   [California]
+http://yago-knowledge.org/resource/World_Vision_International   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Birstall_Shopping_Park   [Park]
+http://yago-knowledge.org/resource/British_Land   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [California]
+http://yago-knowledge.org/resource/Jingle_Punks_Music   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/The_Initiative_Collective   []
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Jane_by_Design   []
+	http://yago-knowledge.org/resource/Santa_Clarita,_California   [California]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+http://yago-knowledge.org/resource/Embassy_of_Slovakia,_London   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+http://yago-knowledge.org/resource/Cardinal_Vaughan_Memorial_School   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/Houlihan_Lokey   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/Amerindo_Investment_Advisors   []
+	http://yago-knowledge.org/resource/399_Park_Avenue   [Park]
+Score: 0.2
+----
+
+
+	http://yago-knowledge.org/resource/Bletchley_Park   [Park]
+http://yago-knowledge.org/resource/Over_the_Air   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Holland_Park_tube_station   [Park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Finsbury_Park_TMD   [Park]
+http://yago-knowledge.org/resource/British_Rail   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Water_Polo_Arena   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Ukraine,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Anaheim,_California   [California]
+http://yago-knowledge.org/resource/Bellator_MMA_in_2016   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Kohn_Pedersen_Fox   []
+	http://yago-knowledge.org/resource/Songdo_Central_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/2013_in_Glory   []
+	http://yago-knowledge.org/resource/Ontario,_California   [California]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Riverbank_Arena   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Park_Royal_Stadium   [Park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Football_at_the_2012_Summer_Olympics   []
+	http://yago-knowledge.org/resource/Hampden_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Paraguay,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/The_Cybersmile_Foundation   []
+	http://yago-knowledge.org/resource/Palo_Alto,_California   [California]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Hyde_Park_Corner_tube_station   [Park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Clara,_California   [California]
+http://yago-knowledge.org/resource/Blue_Star_Infotech   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Patron_Capital   []
+	http://yago-knowledge.org/resource/Arlington_Business_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Park_Resorts   [Park]
+http://yago-knowledge.org/resource/Electra_Private_Equity   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+http://yago-knowledge.org/resource/Embassy_of_Turkmenistan,_London   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Regent's_Park   [Park]
+http://yago-knowledge.org/resource/Great_Capital_Run   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Burbank,_California   [California]
+http://yago-knowledge.org/resource/Cookie_Jar_Group   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/ArcelorMittal_Orbit   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [California]
+http://yago-knowledge.org/resource/Island_Records   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Regent's_Park   [Park]
+http://yago-knowledge.org/resource/Regent's_University_London   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Pocking_Solar_Park   [Park]
+http://yago-knowledge.org/resource/Royal_Dutch_Shell   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Palo_Alto,_California   [California]
+http://yago-knowledge.org/resource/Sapphire_Ventures   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/The_Hive_Stadium   []
+	http://yago-knowledge.org/resource/Canons_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/BHP_Billiton   []
+	http://yago-knowledge.org/resource/Norwich_Park_coal_mine   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Wembley_Arena   []
+	http://yago-knowledge.org/resource/Wembley_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Manga_Entertainment   []
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/TPG_Capital   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Winfield_House   []
+	http://yago-knowledge.org/resource/Regent's_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Menlo_Park,_California   [California]
+http://yago-knowledge.org/resource/CloudMade   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Mountain_View,_California   [California]
+http://yago-knowledge.org/resource/GV_(company)   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Belsize_Park_FC   [Park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Loseley_Park   [Park]
+http://yago-knowledge.org/resource/The_Worst_Witch_(1998_TV_series)   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+http://yago-knowledge.org/resource/Embassy_of_Lebanon,_London   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Belsize_Park_RFC   [Park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Uzbekistan,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Berkeley,_California   [California]
+http://yago-knowledge.org/resource/Kate_Sharpley_Library   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+http://yago-knowledge.org/resource/Leighton_House_Museum   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/TfL_Rail   []
+	http://yago-knowledge.org/resource/Gidea_Park_Carriage_Holding_Sidings   [Park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+http://yago-knowledge.org/resource/London_Aquatics_Centre   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/White_Lodge,_Richmond_Park   [Park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Marriott_London_Park_Lane   [Park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/British_Salmson   []
+	http://yago-knowledge.org/resource/Raynes_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Canary_Wharf_Group   []
+	http://yago-knowledge.org/resource/One_Park_Drive   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Melendez_Films   []
+	http://yago-knowledge.org/resource/Burbank,_California   [California]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/BT_Sport   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/fr/Drayton_Park   [Park]
+http://yago-knowledge.org/resource/Emirates_Stadium   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Rivoli_Ballroom   []
+	http://yago-knowledge.org/resource/Crofton_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Park_Royal   [Park]
+http://yago-knowledge.org/resource/Sizaire-Berwick   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/City_of_London   []
+	http://yago-knowledge.org/resource/Labatt_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Topshop   []
+	http://yago-knowledge.org/resource/Ivy_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+http://yago-knowledge.org/resource/Embassy_of_Greece,_London   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Hampden_Park   [Park]
+http://yago-knowledge.org/resource/London_Grand_Prix   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Richmond_Park   [Park]
+http://yago-knowledge.org/resource/Thatched_House_Lodge   []
+Score: 0.16666666666666666
+----
+
+Total execution time: 81094
+
+Query Words: California, Park, Church, District
+Root nodes Found: 6469
+
+http://yago-knowledge.org/resource/Embassy_of_Ukraine,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Debden_tube_station   []
+	http://yago-knowledge.org/resource/Epping_Forest_District   [District]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+http://yago-knowledge.org/resource/Embassy_of_Slovakia,_London   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Universal_City,_California   [California]
+http://yago-knowledge.org/resource/Universal_Pictures   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Park_Royal   [Park]
+http://yago-knowledge.org/resource/Sizaire-Berwick   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/BMI_Healthcare   []
+	http://yago-knowledge.org/resource/Gisburne_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/EDF_Energy   []
+	http://yago-knowledge.org/resource/Langley_Park_Wind_Farm   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Park_Theatre_(London)   [Park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Greece,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Hyde_Park_Corner_tube_station   [Park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Holland_Park_tube_station   [Park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/TfL_Rail   []
+	http://yago-knowledge.org/resource/Gidea_Park_Carriage_Holding_Sidings   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+http://yago-knowledge.org/resource/Embassy_of_Turkmenistan,_London   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Wembley_Park   [Park]
+http://yago-knowledge.org/resource/Wembley_Conference_Centre   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Hampden_Park   [Park]
+http://yago-knowledge.org/resource/Football_at_the_2012_Summer_Olympics   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Canons_Park   [Park]
+http://yago-knowledge.org/resource/The_Hive_Stadium   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Rivoli_Ballroom   []
+	http://yago-knowledge.org/resource/Crofton_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Acland_Burghley_School   []
+	http://yago-knowledge.org/resource/Tufnell_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Flamingoes_F.C.   []
+	http://yago-knowledge.org/resource/Battersea_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Jane_by_Design   []
+	http://yago-knowledge.org/resource/Santa_Clarita,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Regent's_University_London   []
+	http://yago-knowledge.org/resource/Regent's_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/London_Designer_Outlet   []
+	http://yago-knowledge.org/resource/Wembley_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Pocking_Solar_Park   [Park]
+http://yago-knowledge.org/resource/Royal_Dutch_Shell   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Battersea_Park_Street_Circuit   [Park]
+http://yago-knowledge.org/resource/2016_London_ePrix   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Park_Royal   [Park]
+http://yago-knowledge.org/resource/Diageo   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Foster_City,_California   [California]
+http://yago-knowledge.org/resource/Kennet_Partners   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Kohn_Pedersen_Fox   []
+	http://yago-knowledge.org/resource/Songdo_Central_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/City_of_London   []
+	http://yago-knowledge.org/resource/Labatt_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Belsize_Park_FC   [Park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/White_Lodge,_Richmond_Park   [Park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Marriott_London_Park_Lane   [Park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Blue_Star_Infotech   []
+	http://yago-knowledge.org/resource/Santa_Clara,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Inglewood,_California   [California]
+http://yago-knowledge.org/resource/Bellator_MMA_in_2017   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Teesside_Park   [Park]
+http://yago-knowledge.org/resource/British_Land   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beverly_Hills,_California   [California]
+http://yago-knowledge.org/resource/Project_Panther_Bidco   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+http://yago-knowledge.org/resource/London_Legacy_Development_Corporation   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Regent's_Park   [Park]
+http://yago-knowledge.org/resource/Winfield_House   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Bow_Church_DLR_station   [Church]
+http://yago-knowledge.org/resource/Transport_for_London   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Bellator_MMA_in_2016   []
+	http://yago-knowledge.org/resource/Fresno,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/World_Vision_International   []
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/PolyGram_Filmed_Entertainment   []
+	http://yago-knowledge.org/resource/Universal_City,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/The_Initiative_Collective   []
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Drayton_Park_railway_station   [Park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Finsbury_Park   [Park]
+http://yago-knowledge.org/resource/Wireless_Festival   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Wembley_Arena   []
+	http://yago-knowledge.org/resource/Wembley_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Paraguay,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Electra_Private_Equity   []
+	http://yago-knowledge.org/resource/Park_Resorts   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/GV_(company)   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Regent's_Park   [Park]
+http://yago-knowledge.org/resource/Great_Capital_Run   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Royal_Aeronautical_Society   []
+	http://yago-knowledge.org/resource/Hyde_Park_Corner   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Finsbury_Park_TMD   [Park]
+http://yago-knowledge.org/resource/British_Rail   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+http://yago-knowledge.org/resource/Embassy_of_Lebanon,_London   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/London_Aquatics_Centre   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Park_Royal_Stadium   [Park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+http://yago-knowledge.org/resource/Lee_Valley_VeloPark   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Epping_Forest_District   [District]
+http://yago-knowledge.org/resource/Theydon_Bois_tube_station   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Park_Crescent,_London   [Park]
+http://yago-knowledge.org/resource/International_Students_House,_London   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+http://yago-knowledge.org/resource/BT_Sport   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Tufnell_Park_tube_station   [Park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Richmond_Park   [Park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Thatched_House_Lodge   []
+	http://yago-knowledge.org/resource/Richmond_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/The_Cybersmile_Foundation   []
+	http://yago-knowledge.org/resource/Palo_Alto,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Cardinal_Vaughan_Memorial_School   []
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/InterContinental_London_Park_Lane   [Park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Selhurst_Park   [Park]
+http://yago-knowledge.org/resource/Crystal_Palace_F.C.   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Equestrian_at_the_2012_Summer_Paralympics   []
+	http://yago-knowledge.org/resource/Greenwich_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Burbank,_California   [California]
+http://yago-knowledge.org/resource/Cookie_Jar_Group   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Ivy_Park   [Park]
+http://yago-knowledge.org/resource/Topshop   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Brondesbury_Park_railway_station   [Park]
+http://yago-knowledge.org/resource/Network_Rail   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/London_Grand_Prix   []
+	http://yago-knowledge.org/resource/Hampden_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Park_Royal   [Park]
+http://yago-knowledge.org/resource/Best-One   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/M1_motorway   []
+	http://yago-knowledge.org/resource/Donington_Park_services   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Equestrian_at_the_2012_Summer_Olympics   []
+	http://yago-knowledge.org/resource/Greenwich_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Melendez_Films   []
+	http://yago-knowledge.org/resource/Burbank,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Aedas   []
+	http://yago-knowledge.org/resource/Downsview_Park_(TTC)   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/CloudMade   []
+	http://yago-knowledge.org/resource/Menlo_Park,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/PEN_Center_USA   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/British_International_Motor_Show   []
+	http://yago-knowledge.org/resource/Battersea_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [California]
+http://yago-knowledge.org/resource/Island_Records   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/fr/Drayton_Park   [Park]
+http://yago-knowledge.org/resource/Emirates_Stadium   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/2013_in_Glory   []
+	http://yago-knowledge.org/resource/Ontario,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Belsize_Park_RFC   [Park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Berkeley,_California   [California]
+http://yago-knowledge.org/resource/Kate_Sharpley_Library   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+http://yago-knowledge.org/resource/Olympic_Stadium_(London)   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Chelsea_Old_Church   [Church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Leighton_House_Museum   []
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Jordan,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Palo_Alto,_California   [California]
+http://yago-knowledge.org/resource/Sapphire_Ventures   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Jingle_Punks_Music   []
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Loseley_Park   [Park]
+http://yago-knowledge.org/resource/The_Worst_Witch_(1998_TV_series)   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Regent's_Park   [Park]
+http://yago-knowledge.org/resource/London_Zoo   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Modern_pentathlon_at_the_2012_Summer_Olympics   []
+	http://yago-knowledge.org/resource/Greenwich_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Canary_Wharf_Group   []
+	http://yago-knowledge.org/resource/One_Park_Drive   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/Amerindo_Investment_Advisors   []
+	http://yago-knowledge.org/resource/399_Park_Avenue   [Park]
+Score: 0.1
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Uzbekistan,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/Houlihan_Lokey   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Norwich_Park_coal_mine   [Park]
+http://yago-knowledge.org/resource/BHP_Billiton   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+http://yago-knowledge.org/resource/Basketball_Arena_(London)   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+http://yago-knowledge.org/resource/ArcelorMittal_Orbit   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Manga_Entertainment   []
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/HIT_Entertainment   []
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Street_Soul_Productions   []
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/TPG_Capital   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Raynes_Park   [Park]
+http://yago-knowledge.org/resource/British_Salmson   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Epping_tube_station   []
+	http://yago-knowledge.org/resource/Epping_Forest_District   [District]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+http://yago-knowledge.org/resource/Riverbank_Arena   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Over_the_Air   []
+	http://yago-knowledge.org/resource/Bletchley_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Arlington_Business_Park   [Park]
+http://yago-knowledge.org/resource/Patron_Capital   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+http://yago-knowledge.org/resource/Water_Polo_Arena   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 26434
+Total execution time: 81418
+
+Query Words: Park, Church
+Root nodes Found: 6469
+
+http://yago-knowledge.org/resource/Flamingoes_F.C.   []
+	http://yago-knowledge.org/resource/Battersea_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Chelsea_Old_Church   [Church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Tufnell_Park_tube_station   [Park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/BHP_Billiton   []
+	http://yago-knowledge.org/resource/Norwich_Park_coal_mine   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Paraguay,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/BMI_Healthcare   []
+	http://yago-knowledge.org/resource/Gisburne_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Slovakia,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+http://yago-knowledge.org/resource/Water_Polo_Arena   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Greenwich_Park   [Park]
+http://yago-knowledge.org/resource/Equestrian_at_the_2012_Summer_Paralympics   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Greenwich_Park   [Park]
+http://yago-knowledge.org/resource/Equestrian_at_the_2012_Summer_Olympics   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Greece,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Holland_Park_tube_station   [Park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/EDF_Energy   []
+	http://yago-knowledge.org/resource/Langley_Park_Wind_Farm   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/The_Worst_Witch_(1998_TV_series)   []
+	http://yago-knowledge.org/resource/Loseley_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/London_Legacy_Development_Corporation   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Park_Royal_Stadium   [Park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+http://yago-knowledge.org/resource/Embassy_of_Turkmenistan,_London   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/City_of_London   []
+	http://yago-knowledge.org/resource/Labatt_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Patron_Capital   []
+	http://yago-knowledge.org/resource/Arlington_Business_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Wireless_Festival   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Modern_pentathlon_at_the_2012_Summer_Olympics   []
+	http://yago-knowledge.org/resource/Greenwich_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Park_Crescent,_London   [Park]
+http://yago-knowledge.org/resource/International_Students_House,_London   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Crofton_Park   [Park]
+http://yago-knowledge.org/resource/Rivoli_Ballroom   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/ArcelorMittal_Orbit   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/White_Lodge,_Richmond_Park   [Park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Oakleigh_Park_railway_station   [Park]
+http://yago-knowledge.org/resource/Network_Rail   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Park_Theatre_(London)   [Park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/M1_motorway   []
+	http://yago-knowledge.org/resource/Donington_Park_services   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Belsize_Park_RFC   [Park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Lebanon,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Madison_Square_Park_Tower   [Park]
+http://yago-knowledge.org/resource/Kohn_Pedersen_Fox   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Great_Capital_Run   []
+	http://yago-knowledge.org/resource/Regent's_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Richmond_Park   [Park]
+http://yago-knowledge.org/resource/Thatched_House_Lodge   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Hyde_Park_Corner   [Park]
+http://yago-knowledge.org/resource/Royal_Aeronautical_Society   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Bletchley_Park   [Park]
+http://yago-knowledge.org/resource/Over_the_Air   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/New_Mersey_Shopping_Park   [Park]
+http://yago-knowledge.org/resource/British_Land   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/InterContinental_London_Park_Lane   [Park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Uzbekistan,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Wembley_Conference_Centre   []
+	http://yago-knowledge.org/resource/Wembley_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/London_Aquatics_Centre   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Marriott_London_Park_Lane   [Park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Hampden_Park   [Park]
+http://yago-knowledge.org/resource/Football_at_the_2012_Summer_Olympics   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+http://yago-knowledge.org/resource/Leighton_House_Museum   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+http://yago-knowledge.org/resource/Basketball_Arena_(London)   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Hampden_Park   [Park]
+http://yago-knowledge.org/resource/London_Grand_Prix   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Wembley_Arena   []
+	http://yago-knowledge.org/resource/Wembley_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Richmond_Park   [Park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Olympic_Stadium_(London)   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Hyde_Park_Corner_tube_station   [Park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Selhurst_Park   [Park]
+http://yago-knowledge.org/resource/Crystal_Palace_F.C.   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Belsize_Park_FC   [Park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/399_Park_Avenue   [Park]
+http://yago-knowledge.org/resource/Amerindo_Investment_Advisors   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+http://yago-knowledge.org/resource/Cardinal_Vaughan_Memorial_School   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Downsview_Park_(TTC)   [Park]
+http://yago-knowledge.org/resource/Aedas   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Park_Royal   [Park]
+http://yago-knowledge.org/resource/Sizaire-Berwick   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Canons_Park   [Park]
+http://yago-knowledge.org/resource/The_Hive_Stadium   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/2016_London_ePrix   []
+	http://yago-knowledge.org/resource/Battersea_Park_Street_Circuit   [Park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Gidea_Park_Carriage_Holding_Sidings   [Park]
+http://yago-knowledge.org/resource/TfL_Rail   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/One_Park_Drive   [Park]
+http://yago-knowledge.org/resource/Canary_Wharf_Group   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Tufnell_Park   [Park]
+http://yago-knowledge.org/resource/Acland_Burghley_School   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+http://yago-knowledge.org/resource/Lee_Valley_VeloPark   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/BT_Sport   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Drayton_Park_railway_station   [Park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/London_Zoo   []
+	http://yago-knowledge.org/resource/Regent's_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Diageo   []
+	http://yago-knowledge.org/resource/Park_Royal   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Riverbank_Arena   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/British_Rail   []
+	http://yago-knowledge.org/resource/Finsbury_Park_TMD   [Park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/fr/Drayton_Park   [Park]
+http://yago-knowledge.org/resource/Emirates_Stadium   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Best-One   []
+	http://yago-knowledge.org/resource/Park_Royal   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Winfield_House   []
+	http://yago-knowledge.org/resource/Regent's_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Topshop   []
+	http://yago-knowledge.org/resource/Ivy_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+http://yago-knowledge.org/resource/Embassy_of_Ukraine,_London   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Electra_Private_Equity   []
+	http://yago-knowledge.org/resource/Park_Resorts   [Park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Raynes_Park   [Park]
+http://yago-knowledge.org/resource/British_Salmson   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/British_International_Motor_Show   []
+	http://yago-knowledge.org/resource/Battersea_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Royal_Dutch_Shell   []
+	http://yago-knowledge.org/resource/Pocking_Solar_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Regent's_University_London   []
+	http://yago-knowledge.org/resource/Regent's_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Bow_Church_DLR_station   [Church]
+http://yago-knowledge.org/resource/Transport_for_London   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Wembley_Park   [Park]
+http://yago-knowledge.org/resource/London_Designer_Outlet   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+http://yago-knowledge.org/resource/Embassy_of_Jordan,_London   []
+Score: 0.16666666666666666
+----
+
+Total execution time: 80569
+
+Query Words: Park, Church, District, objects
+Root nodes Found: 6469
+
+http://yago-knowledge.org/resource/Cardinal_Vaughan_Memorial_School   []
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/British_Salmson   []
+	http://yago-knowledge.org/resource/Raynes_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Royal_Aeronautical_Society   []
+	http://yago-knowledge.org/resource/Hyde_Park_Corner   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Marriott_London_Park_Lane   [Park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Wembley_Conference_Centre   []
+	http://yago-knowledge.org/resource/Wembley_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Honor_Oak_Park_railway_station   [Park]
+http://yago-knowledge.org/resource/Network_Rail   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Over_the_Air   []
+	http://yago-knowledge.org/resource/Bletchley_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Holland_Park_tube_station   [Park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Epping_tube_station   []
+	http://yago-knowledge.org/resource/Epping_Forest_District   [District]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Finsbury_Park_TMD   [Park]
+http://yago-knowledge.org/resource/British_Rail   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Belsize_Park_RFC   [Park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+http://yago-knowledge.org/resource/Embassy_of_Uzbekistan,_London   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Flamingoes_F.C.   []
+	http://yago-knowledge.org/resource/Battersea_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Diageo   []
+	http://yago-knowledge.org/resource/Park_Royal   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/InterContinental_London_Park_Lane   [Park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Finsbury_Park   [Park]
+http://yago-knowledge.org/resource/Wireless_Festival   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/International_Students_House,_London   []
+	http://yago-knowledge.org/resource/Park_Crescent,_London   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Royal_Dutch_Shell   []
+	http://yago-knowledge.org/resource/Pocking_Solar_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/BT_Sport   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Downsview_Park_(TTC)   [Park]
+http://yago-knowledge.org/resource/Aedas   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/One_Park_Drive   [Park]
+http://yago-knowledge.org/resource/Canary_Wharf_Group   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Theydon_Bois_tube_station   []
+	http://yago-knowledge.org/resource/Epping_Forest_District   [District]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/ArcelorMittal_Orbit   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/BMI_Healthcare   []
+	http://yago-knowledge.org/resource/Gisburne_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Equestrian_at_the_2012_Summer_Olympics   []
+	http://yago-knowledge.org/resource/Greenwich_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Battersea_Park   [Park]
+http://yago-knowledge.org/resource/British_International_Motor_Show   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Olympic_Stadium_(London)   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Rivoli_Ballroom   []
+	http://yago-knowledge.org/resource/Crofton_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Regent's_Park   [Park]
+http://yago-knowledge.org/resource/Regent's_University_London   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Regent's_Park   [Park]
+http://yago-knowledge.org/resource/London_Zoo   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Lee_Valley_VeloPark   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+http://yago-knowledge.org/resource/Embassy_of_Slovakia,_London   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Epping_Forest_District   [District]
+http://yago-knowledge.org/resource/Debden_tube_station   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Greenwich_Park   [Park]
+http://yago-knowledge.org/resource/Modern_pentathlon_at_the_2012_Summer_Olympics   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Hyde_Park_Corner_tube_station   [Park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Drayton_Park_railway_station   [Park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Tufnell_Park_tube_station   [Park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Crystal_Palace_F.C.   []
+	http://yago-knowledge.org/resource/Selhurst_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Greece,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Belsize_Park_FC   [Park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Regent's_Park   [Park]
+http://yago-knowledge.org/resource/Great_Capital_Run   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/London_Designer_Outlet   []
+	http://yago-knowledge.org/resource/Wembley_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Chelsea_Old_Church   [Church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Winfield_House   []
+	http://yago-knowledge.org/resource/Regent's_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Football_at_the_2012_Summer_Olympics   []
+	http://yago-knowledge.org/resource/Hampden_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Amerindo_Investment_Advisors   []
+	http://yago-knowledge.org/resource/399_Park_Avenue   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Richmond_Park   [Park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+http://yago-knowledge.org/resource/Leighton_House_Museum   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+http://yago-knowledge.org/resource/Embassy_of_Ukraine,_London   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Equestrian_at_the_2012_Summer_Paralympics   []
+	http://yago-knowledge.org/resource/Greenwich_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Wembley_Arena   []
+	http://yago-knowledge.org/resource/Wembley_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Jordan,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/London_Grand_Prix   []
+	http://yago-knowledge.org/resource/Hampden_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Canons_Park   [Park]
+http://yago-knowledge.org/resource/The_Hive_Stadium   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+http://yago-knowledge.org/resource/Basketball_Arena_(London)   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Loseley_Park   [Park]
+http://yago-knowledge.org/resource/The_Worst_Witch_(1998_TV_series)   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Sizaire-Berwick   []
+	http://yago-knowledge.org/resource/Park_Royal   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/fr/Drayton_Park   [Park]
+http://yago-knowledge.org/resource/Emirates_Stadium   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Kohn_Pedersen_Fox   []
+	http://yago-knowledge.org/resource/Madison_Square_Park_Tower   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+http://yago-knowledge.org/resource/Embassy_of_Turkmenistan,_London   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Park_Royal   [Park]
+http://yago-knowledge.org/resource/Best-One   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Park_Royal_Stadium   [Park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Thatched_House_Lodge   []
+	http://yago-knowledge.org/resource/Richmond_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Ivy_Park   [Park]
+http://yago-knowledge.org/resource/Topshop   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Electra_Private_Equity   []
+	http://yago-knowledge.org/resource/Park_Resorts   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Birstall_Shopping_Park   [Park]
+http://yago-knowledge.org/resource/British_Land   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+http://yago-knowledge.org/resource/London_Aquatics_Centre   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Park_Theatre_(London)   [Park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/TfL_Rail   []
+	http://yago-knowledge.org/resource/Gidea_Park_Carriage_Holding_Sidings   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Paraguay,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Bow_Church_DLR_station   [Church]
+http://yago-knowledge.org/resource/Transport_for_London   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Water_Polo_Arena   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/2016_London_ePrix   []
+	http://yago-knowledge.org/resource/Battersea_Park_Street_Circuit   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Acland_Burghley_School   []
+	http://yago-knowledge.org/resource/Tufnell_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/White_Lodge,_Richmond_Park   [Park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Riverbank_Arena   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/M1_motorway   []
+	http://yago-knowledge.org/resource/Donington_Park_services   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/London_Legacy_Development_Corporation   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Norwich_Park_coal_mine   [Park]
+http://yago-knowledge.org/resource/BHP_Billiton   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Lebanon,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Langley_Park_Wind_Farm   [Park]
+http://yago-knowledge.org/resource/EDF_Energy   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Labatt_Park   [Park]
+http://yago-knowledge.org/resource/City_of_London   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Arlington_Business_Park   [Park]
+http://yago-knowledge.org/resource/Patron_Capital   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 26434
+Total execution time: 80102
+
+Query Words: Church, District
+Root nodes Found: 6469
+
+http://yago-knowledge.org/resource/Debden_tube_station   []
+	http://yago-knowledge.org/resource/Epping_Forest_District   [District]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Transport_for_London   []
+	http://yago-knowledge.org/resource/Bow_Church_DLR_station   [Church]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Theydon_Bois_tube_station   []
+	http://yago-knowledge.org/resource/Epping_Forest_District   [District]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Epping_Forest_District   [District]
+http://yago-knowledge.org/resource/Epping_tube_station   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Chelsea_Old_Church   [Church]
+Score: 0.5
+----
+
+Total execution time: 80420
+
+Query Words: Church, District, objects, descent
+Root nodes Found: 6469
+
+http://yago-knowledge.org/resource/Debden_tube_station   []
+	http://yago-knowledge.org/resource/Epping_Forest_District   [District]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Epping_Forest_District   [District]
+http://yago-knowledge.org/resource/Theydon_Bois_tube_station   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Transport_for_London   []
+	http://yago-knowledge.org/resource/Bow_Church_DLR_station   [Church]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Chelsea_Old_Church   [Church]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Epping_Forest_District   [District]
+http://yago-knowledge.org/resource/Epping_tube_station   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 26434
+Total execution time: 80266
+

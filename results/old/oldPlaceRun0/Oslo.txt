@@ -1,0 +1,536 @@
+Query Words: Wipes, RubbersTotal execution time: 650636
+
+Query Words: Wipes, Rubbers, Sloped, Lifeless
+Nodes visited: 177261
+Total execution time: 638624
+
+Query Words: Sloped, LifelessTotal execution time: 646326
+
+Query Words: Sloped, Lifeless, Radiogram, Socialized
+Nodes visited: 177261
+Total execution time: 641399
+
+Query Words: Radiogram, SocializedTotal execution time: 636609
+
+Query Words: Radiogram, Socialized, Congers, Mailbag
+Nodes visited: 177261
+Total execution time: 634394
+
+Query Words: Congers, MailbagTotal execution time: 639934
+
+Query Words: Congers, Mailbag, Treeless, Mileage
+Nodes visited: 177261
+Total execution time: 639679
+
+Query Words: Treeless, MileageTotal execution time: 639676
+
+Query Words: Treeless, Mileage, Photoelectric, Scrambler
+Nodes visited: 177261
+Total execution time: 646802
+
+Query Words: Photoelectric, ScramblerTotal execution time: 639134
+
+Query Words: Photoelectric, Scrambler, Stilts, Teachings
+Nodes visited: 177261
+Total execution time: 641234
+
+Query Words: Stilts, TeachingsTotal execution time: 636489
+
+Query Words: Stilts, Teachings, Plagiarism, Lutes
+Nodes visited: 177261
+Total execution time: 637464
+
+Query Words: Plagiarism, LutesTotal execution time: 644746
+
+Query Words: Plagiarism, Lutes, Purification, Honored
+Nodes visited: 177261
+Total execution time: 640622
+
+Query Words: Purification, HonoredTotal execution time: 644327
+
+Query Words: Purification, Honored, Responsible, Banknote
+Nodes visited: 177261
+Total execution time: 638286
+
+Query Words: Responsible, BanknoteTotal execution time: 644526
+
+Query Words: Responsible, Banknote, Inhabitant, Gettysburg
+Nodes visited: 177261
+Total execution time: 642834
+
+Query Words: Inhabitant, GettysburgTotal execution time: 637379
+
+Query Words: Inhabitant, Gettysburg, Elam, Reno
+
+		http://yago-knowledge.org/resource/Mareno_Michels   [Reno]
+
+		http://yago-knowledge.org/resource/Mareno_Michels   [Reno]
+	http://yago-knowledge.org/resource/Netherlands   []
+
+		http://yago-knowledge.org/resource/Mareno_Michels   [Reno]
+	http://yago-knowledge.org/resource/Netherlands   []
+http://yago-knowledge.org/resource/Norway   []
+
+		http://yago-knowledge.org/resource/Mareno_Michels   [Reno]
+	http://yago-knowledge.org/resource/Netherlands   []
+http://yago-knowledge.org/resource/Norway   []
+		http://yago-knowledge.org/resource/Oldelamer   [Elam]
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/Norway   []
+
+	http://yago-knowledge.org/resource/Norway   []
+		http://yago-knowledge.org/resource/RenoNorden   [Reno]
+
+	http://yago-knowledge.org/resource/Norway   []
+		http://yago-knowledge.org/resource/RenoNorden   [Reno]
+http://yago-knowledge.org/resource/Norwegian_Space_Centre   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Frogner,_Akershus   []
+
+	http://yago-knowledge.org/resource/Frogner,_Akershus   []
+http://yago-knowledge.org/resource/Eastern_Norway   []
+
+	http://yago-knowledge.org/resource/Frogner,_Akershus   []
+http://yago-knowledge.org/resource/Eastern_Norway   []
+		http://yago-knowledge.org/resource/RenoNorden   [Reno]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+	http://yago-knowledge.org/resource/Copenhagen_Airport   []
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+	http://yago-knowledge.org/resource/Copenhagen_Airport   []
+http://yago-knowledge.org/resource/Oslo_Airport,_Gardermoen   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+	http://yago-knowledge.org/resource/Copenhagen_Airport   []
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+	http://yago-knowledge.org/resource/Copenhagen_Airport   []
+http://yago-knowledge.org/resource/Sandefjord_Airport,_Torp   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Frogner,_Akershus   []
+
+	http://yago-knowledge.org/resource/Frogner,_Akershus   []
+		http://yago-knowledge.org/resource/RenoNorden   [Reno]
+
+	http://yago-knowledge.org/resource/Frogner,_Akershus   []
+		http://yago-knowledge.org/resource/RenoNorden   [Reno]
+http://yago-knowledge.org/resource/Akershus   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 177261
+Total execution time: 635352
+
+Query Words: Elam, Reno
+
+http://yago-knowledge.org/resource/Sandefjord_Airport,_Torp   []
+
+http://yago-knowledge.org/resource/Sandefjord_Airport,_Torp   []
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+
+http://yago-knowledge.org/resource/Sandefjord_Airport,_Torp   []
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+	http://yago-knowledge.org/resource/Copenhagen_Airport   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+http://yago-knowledge.org/resource/Oslo_Airport,_Gardermoen   []
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+http://yago-knowledge.org/resource/Oslo_Airport,_Gardermoen   []
+	http://yago-knowledge.org/resource/Dublin_Airport   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Eastern_Norway   []
+
+http://yago-knowledge.org/resource/Eastern_Norway   []
+	http://yago-knowledge.org/resource/Frogner,_Akershus   []
+
+http://yago-knowledge.org/resource/Eastern_Norway   []
+	http://yago-knowledge.org/resource/Frogner,_Akershus   []
+		http://yago-knowledge.org/resource/RenoNorden   [Reno]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Frogner,_Akershus   []
+
+	http://yago-knowledge.org/resource/Frogner,_Akershus   []
+http://yago-knowledge.org/resource/Akershus   []
+
+	http://yago-knowledge.org/resource/Frogner,_Akershus   []
+http://yago-knowledge.org/resource/Akershus   []
+		http://yago-knowledge.org/resource/RenoNorden   [Reno]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/RenoNorden   [Reno]
+
+		http://yago-knowledge.org/resource/RenoNorden   [Reno]
+		http://yago-knowledge.org/resource/Nijelamer   [Elam]
+
+		http://yago-knowledge.org/resource/RenoNorden   [Reno]
+		http://yago-knowledge.org/resource/Nijelamer   [Elam]
+	http://yago-knowledge.org/resource/Netherlands   []
+
+		http://yago-knowledge.org/resource/RenoNorden   [Reno]
+		http://yago-knowledge.org/resource/Nijelamer   [Elam]
+	http://yago-knowledge.org/resource/Netherlands   []
+	http://yago-knowledge.org/resource/Frogner,_Akershus   []
+
+		http://yago-knowledge.org/resource/RenoNorden   [Reno]
+		http://yago-knowledge.org/resource/Nijelamer   [Elam]
+	http://yago-knowledge.org/resource/Netherlands   []
+	http://yago-knowledge.org/resource/Frogner,_Akershus   []
+http://yago-knowledge.org/resource/Norway   []
+Score: 0.09090909090909091
+----
+
+
+		http://yago-knowledge.org/resource/Dragan_Obrenović   [Reno]
+
+		http://yago-knowledge.org/resource/Dragan_Obrenović   [Reno]
+http://yago-knowledge.org/resource/Norwegian_Space_Centre   []
+
+		http://yago-knowledge.org/resource/Dragan_Obrenović   [Reno]
+http://yago-knowledge.org/resource/Norwegian_Space_Centre   []
+	http://yago-knowledge.org/resource/Norway   []
+Score: 0.08333333333333333
+----
+Total execution time: 639279
+
+Query Words: Elam, Reno, Pinball, Stand
+
+	http://yago-knowledge.org/resource/Frogner,_Akershus   []
+
+	http://yago-knowledge.org/resource/Frogner,_Akershus   []
+http://yago-knowledge.org/resource/Eastern_Norway   []
+
+	http://yago-knowledge.org/resource/Frogner,_Akershus   []
+http://yago-knowledge.org/resource/Eastern_Norway   []
+		http://yago-knowledge.org/resource/RenoNorden   [Reno]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Annelies_Verstand   [Stand]
+
+		http://yago-knowledge.org/resource/Annelies_Verstand   [Stand]
+		http://yago-knowledge.org/resource/Nijelamer   [Elam]
+
+		http://yago-knowledge.org/resource/Annelies_Verstand   [Stand]
+		http://yago-knowledge.org/resource/Nijelamer   [Elam]
+http://yago-knowledge.org/resource/Norway   []
+
+		http://yago-knowledge.org/resource/Annelies_Verstand   [Stand]
+		http://yago-knowledge.org/resource/Nijelamer   [Elam]
+http://yago-knowledge.org/resource/Norway   []
+	http://yago-knowledge.org/resource/Netherlands   []
+
+		http://yago-knowledge.org/resource/Annelies_Verstand   [Stand]
+		http://yago-knowledge.org/resource/Nijelamer   [Elam]
+http://yago-knowledge.org/resource/Norway   []
+	http://yago-knowledge.org/resource/Netherlands   []
+		http://yago-knowledge.org/resource/Mareno_Michels   [Reno]
+Score: 0.0625
+----
+
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+http://yago-knowledge.org/resource/Oslo_Airport,_Gardermoen   []
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+http://yago-knowledge.org/resource/Oslo_Airport,_Gardermoen   []
+	http://yago-knowledge.org/resource/Copenhagen_Airport   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+http://yago-knowledge.org/resource/Sandefjord_Airport,_Torp   []
+
+		http://yago-knowledge.org/resource/Grenoble-Isère�Airport   [Reno]
+http://yago-knowledge.org/resource/Sandefjord_Airport,_Torp   []
+	http://yago-knowledge.org/resource/Copenhagen_Airport   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Torgeir_Standal   [Stand]
+
+		http://yago-knowledge.org/resource/Torgeir_Standal   [Stand]
+		http://yago-knowledge.org/resource/Dragan_Obrenović   [Reno]
+
+		http://yago-knowledge.org/resource/Torgeir_Standal   [Stand]
+		http://yago-knowledge.org/resource/Dragan_Obrenović   [Reno]
+	http://yago-knowledge.org/resource/Norway   []
+
+		http://yago-knowledge.org/resource/Torgeir_Standal   [Stand]
+		http://yago-knowledge.org/resource/Dragan_Obrenović   [Reno]
+	http://yago-knowledge.org/resource/Norway   []
+http://yago-knowledge.org/resource/Norwegian_Space_Centre   []
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/Frogner,_Akershus   []
+
+	http://yago-knowledge.org/resource/Frogner,_Akershus   []
+		http://yago-knowledge.org/resource/RenoNorden   [Reno]
+
+	http://yago-knowledge.org/resource/Frogner,_Akershus   []
+		http://yago-knowledge.org/resource/RenoNorden   [Reno]
+http://yago-knowledge.org/resource/Akershus   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 177261
+Total execution time: 634886
+
+Query Words: Pinball, Stand
+
+http://yago-knowledge.org/resource/Norway   []
+
+http://yago-knowledge.org/resource/Norway   []
+		http://yago-knowledge.org/resource/es/Estandarte_Real_de_Dinamarca   [Stand]
+
+http://yago-knowledge.org/resource/Norway   []
+		http://yago-knowledge.org/resource/es/Estandarte_Real_de_Dinamarca   [Stand]
+	http://yago-knowledge.org/resource/Denmark   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Torgeir_Standal   [Stand]
+
+		http://yago-knowledge.org/resource/Torgeir_Standal   [Stand]
+	http://yago-knowledge.org/resource/Norway   []
+
+		http://yago-knowledge.org/resource/Torgeir_Standal   [Stand]
+	http://yago-knowledge.org/resource/Norway   []
+http://yago-knowledge.org/resource/Norwegian_Space_Centre   []
+Score: 0.08333333333333333
+----
+Total execution time: 639436
+
+Query Words: Pinball, Stand, Andersen, Sanders
+
+http://yago-knowledge.org/resource/Manglerudhallen   []
+
+http://yago-knowledge.org/resource/Manglerudhallen   []
+		http://yago-knowledge.org/resource/Thomas_Winther_Andersen   [Andersen]
+
+http://yago-knowledge.org/resource/Manglerudhallen   []
+		http://yago-knowledge.org/resource/Thomas_Winther_Andersen   [Andersen]
+	http://yago-knowledge.org/resource/Oslo   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Bjørn�G.�Andersen   [Andersen]
+
+	http://yago-knowledge.org/resource/Bjørn�G.�Andersen   [Andersen]
+http://yago-knowledge.org/resource/University_of_Oslo   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Torgeir_Standal   [Stand]
+
+		http://yago-knowledge.org/resource/Torgeir_Standal   [Stand]
+	http://yago-knowledge.org/resource/Norway   []
+
+		http://yago-knowledge.org/resource/Torgeir_Standal   [Stand]
+	http://yago-knowledge.org/resource/Norway   []
+http://yago-knowledge.org/resource/Norwegian_Space_Centre   []
+
+		http://yago-knowledge.org/resource/Torgeir_Standal   [Stand]
+	http://yago-knowledge.org/resource/Norway   []
+http://yago-knowledge.org/resource/Norwegian_Space_Centre   []
+		http://yago-knowledge.org/resource/Oddny_Aleksandersen   [Sanders, Andersen]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Geir_Andersen   [Andersen]
+
+		http://yago-knowledge.org/resource/Geir_Andersen   [Andersen]
+http://yago-knowledge.org/resource/Frogner_stadion   []
+
+		http://yago-knowledge.org/resource/Geir_Andersen   [Andersen]
+http://yago-knowledge.org/resource/Frogner_stadion   []
+	http://yago-knowledge.org/resource/Oslo   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Hildur_Andersen   [Andersen]
+
+		http://yago-knowledge.org/resource/Hildur_Andersen   [Andersen]
+http://yago-knowledge.org/resource/Fjellinjen   []
+
+		http://yago-knowledge.org/resource/Hildur_Andersen   [Andersen]
+http://yago-knowledge.org/resource/Fjellinjen   []
+	http://yago-knowledge.org/resource/Oslo   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Gil_Andersen   [Andersen]
+
+		http://yago-knowledge.org/resource/Gil_Andersen   [Andersen]
+http://yago-knowledge.org/resource/Eastern_Norway   []
+
+		http://yago-knowledge.org/resource/Gil_Andersen   [Andersen]
+http://yago-knowledge.org/resource/Eastern_Norway   []
+	http://yago-knowledge.org/resource/Horten   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Camilla_Andersen   [Andersen]
+
+	http://yago-knowledge.org/resource/Camilla_Andersen   [Andersen]
+http://yago-knowledge.org/resource/Bækkelagets�SK   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Stor-Oslo_Lokaltrafikk   []
+
+http://yago-knowledge.org/resource/Stor-Oslo_Lokaltrafikk   []
+		http://yago-knowledge.org/resource/Birger_Bühring-Andersen   [Andersen]
+
+http://yago-knowledge.org/resource/Stor-Oslo_Lokaltrafikk   []
+		http://yago-knowledge.org/resource/Birger_Bühring-Andersen   [Andersen]
+	http://yago-knowledge.org/resource/Oslo   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Dag_Terje_Andersen   [Andersen]
+
+	http://yago-knowledge.org/resource/Dag_Terje_Andersen   [Andersen]
+http://yago-knowledge.org/resource/Labour_Party_(Norway)   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Oslo_Airport,_Gardermoen   []
+
+http://yago-knowledge.org/resource/Oslo_Airport,_Gardermoen   []
+	http://yago-knowledge.org/resource/Verona_Villafranca_Airport   []
+
+http://yago-knowledge.org/resource/Oslo_Airport,_Gardermoen   []
+	http://yago-knowledge.org/resource/Verona_Villafranca_Airport   []
+		http://yago-knowledge.org/resource/Hans_Christian_Andersen_Airport   [Andersen]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Norway   []
+
+http://yago-knowledge.org/resource/Norway   []
+		http://yago-knowledge.org/resource/Frank_Constandse   [Stand]
+
+http://yago-knowledge.org/resource/Norway   []
+		http://yago-knowledge.org/resource/Frank_Constandse   [Stand]
+	http://yago-knowledge.org/resource/Oddny_Aleksandersen   [Sanders, Andersen]
+
+http://yago-knowledge.org/resource/Norway   []
+		http://yago-knowledge.org/resource/Frank_Constandse   [Stand]
+	http://yago-knowledge.org/resource/Oddny_Aleksandersen   [Sanders, Andersen]
+	http://yago-knowledge.org/resource/Netherlands   []
+Score: 0.09375
+----
+
+
+		http://yago-knowledge.org/resource/Arthur_David-Andersen   [Andersen]
+
+		http://yago-knowledge.org/resource/Arthur_David-Andersen   [Andersen]
+http://yago-knowledge.org/resource/Vestre_Aker   []
+
+		http://yago-knowledge.org/resource/Arthur_David-Andersen   [Andersen]
+http://yago-knowledge.org/resource/Vestre_Aker   []
+	http://yago-knowledge.org/resource/Ivar_David-Andersen   [Andersen]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Berit_Reiss-Andersen   [Andersen]
+
+		http://yago-knowledge.org/resource/Berit_Reiss-Andersen   [Andersen]
+http://yago-knowledge.org/resource/Akershus   []
+
+		http://yago-knowledge.org/resource/Berit_Reiss-Andersen   [Andersen]
+http://yago-knowledge.org/resource/Akershus   []
+	http://yago-knowledge.org/resource/Drøbak   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Torstein_Andersen_Aase   [Andersen]
+
+		http://yago-knowledge.org/resource/Torstein_Andersen_Aase   [Andersen]
+http://yago-knowledge.org/resource/Bislett_Stadium   []
+
+		http://yago-knowledge.org/resource/Torstein_Andersen_Aase   [Andersen]
+http://yago-knowledge.org/resource/Bislett_Stadium   []
+	http://yago-knowledge.org/resource/Oslo   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Geir_Andersen   [Andersen]
+
+		http://yago-knowledge.org/resource/Geir_Andersen   [Andersen]
+	http://yago-knowledge.org/resource/Oslo   []
+
+		http://yago-knowledge.org/resource/Geir_Andersen   [Andersen]
+	http://yago-knowledge.org/resource/Oslo   []
+http://yago-knowledge.org/resource/Dælenenga�idrettspark   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Gunnar_Andersen   [Andersen]
+
+	http://yago-knowledge.org/resource/Gunnar_Andersen   [Andersen]
+http://yago-knowledge.org/resource/Lyn_Fotball   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 177261
+Total execution time: 632674
+

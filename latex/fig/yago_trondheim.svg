@@ -1,0 +1,174 @@
+<svg xmlns='http://www.w3.org/2000/svg'
+    xmlns:xlink='http://www.w3.org/1999/xlink'
+    viewBox='0 0 1024 500' preserveAspectRatio='xMidYMin meet' font-size='10' font-family='Arial'>
+  <defs>
+    <marker id='arrow'
+      viewBox='0 0 10 10' refX='0' refY='5'
+      markerUnits='strokeWidth'
+      markerWidth='4' markerHeight='3'
+      orient='auto'>
+       <path d='M 0 0 L 10 5 L 0 10 z' stroke='blue' fill='blue'/>
+    </marker>
+  </defs>
+  <a xlink:href='http://yago-knowledge.org'><text x='874' y='460'>From http://yago-knowledge.org</text></a>
+  <text x='874' y='470'>Give us feedback:</text>
+  <text x='874' y='480'><tspan fill='green'>&#x2713;</tspan> = fact is correct</text>
+  <text x='874' y='490'><tspan fill='red'>&#x2717;</tspan> = fact is false</text>
+  <line marker-end='url(#arrow)' stroke='blue' stroke-width='2' x1='545' x2='737' y1='250' y2='250'/>
+  <a xlink:href='SvgBrowser?entity=%3ChasCitationTitle%3E'><text x='624' fill='blue' y='245' transform='rotate(0.0 624 245)'>&lt;hasCitationTitle&gt;</text></a>
+  <a xlink:href='SvgBrowser?entity=%22Trondhjemmer%22%40eng'><text fill='blue' x='749' y='250'>&quot;Trondhjemmer&quot;@eng</text></a>
+  <a xlink:href='SvgBrowser?entity=%3CTrondheim%3E&amp;relation=%3ChasCitationTitle%3E'><text fill='blue' x='749' y='262'>(more)</text></a>
+  <a xlink:href='Feedback?factId=&amp;subject=%3CTrondheim%3E&amp;predicate=%3ChasCitationTitle%3E&amp;object=%22Trondhjemmer%22%40eng&amp;feedback=TRUE'><text fill='green' x='784' y='262' >&#x2713;</text></a>
+  <a xlink:href='Feedback?factId=&amp;subject=%3CTrondheim%3E&amp;predicate=%3ChasCitationTitle%3E&amp;object=%22Trondhjemmer%22%40eng&amp;feedback=FALSE'><text fill='red' x='794' y='262' >&#x2717;</text></a>
+  <line marker-end='url(#arrow)' stroke='blue' stroke-width='2' x1='542' x2='729' y1='258' y2='308'/>
+  <a xlink:href='SvgBrowser?entity=%3ChasLatitude%3E'><text x='621' fill='blue' y='275' transform='rotate(15.0 621 275)'>&lt;hasLatitude&gt;</text></a>
+  <a xlink:href='SvgBrowser?entity=%2258.14611111111111%22%5E%5E%3Cdegrees%3E'><text fill='blue' x='741' y='311'>&quot;58.14611111111111&quot;^^&lt;degrees&gt;</text></a>
+  <a xlink:href='Feedback?factId=%3Cid_77a82w_1n8_1x8lb6x%3E&amp;subject=%3CTrondheim%3E&amp;predicate=%3ChasLatitude%3E&amp;object=%2258.14611111111111%22%5E%5E%3Cdegrees%3E&amp;feedback=TRUE'><text fill='green' x='746' y='323' >&#x2713;</text></a>
+  <a xlink:href='Feedback?factId=%3Cid_77a82w_1n8_1x8lb6x%3E&amp;subject=%3CTrondheim%3E&amp;predicate=%3ChasLatitude%3E&amp;object=%2258.14611111111111%22%5E%5E%3Cdegrees%3E&amp;feedback=FALSE'><text fill='red' x='756' y='323' >&#x2717;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3Cid_rb1o86_115_1rozm4e%3E' ><image x='776' y='315' xlink:href='static/flags/en.png' width='15' height='10' /></a>
+  <line marker-end='url(#arrow)' stroke='blue' stroke-width='2' x1='535' x2='706' y1='263' y2='362'/>
+  <a xlink:href='SvgBrowser?entity=%3ChasLongitude%3E'><text x='611' fill='blue' y='302' transform='rotate(30.0 611 302)'>&lt;hasLongitude&gt;</text></a>
+  <a xlink:href='SvgBrowser?entity=%227.994722222222222%22%5E%5E%3Cdegrees%3E'><text fill='blue' x='717' y='368'>&quot;7.994722222222222&quot;^^&lt;degrees&gt;</text></a>
+  <a xlink:href='Feedback?factId=%3Cid_77a82w_jto_xwqu9k%3E&amp;subject=%3CTrondheim%3E&amp;predicate=%3ChasLongitude%3E&amp;object=%227.994722222222222%22%5E%5E%3Cdegrees%3E&amp;feedback=TRUE'><text fill='green' x='722' y='380' >&#x2713;</text></a>
+  <a xlink:href='Feedback?factId=%3Cid_77a82w_jto_xwqu9k%3E&amp;subject=%3CTrondheim%3E&amp;predicate=%3ChasLongitude%3E&amp;object=%227.994722222222222%22%5E%5E%3Cdegrees%3E&amp;feedback=FALSE'><text fill='red' x='732' y='380' >&#x2717;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3Cid_k5bucu_115_1rozm4e%3E' ><image x='752' y='372' xlink:href='static/flags/en.png' width='15' height='10' /></a>
+  <line marker-end='url(#arrow)' stroke='blue' stroke-width='2' x1='529' x2='671' y1='267' y2='409'/>
+  <a xlink:href='SvgBrowser?entity=%3ChasNumberOfPeople%3E'><text x='594' fill='blue' y='326' transform='rotate(45.0 594 326)'>&lt;hasNumberOfPeople&gt;</text></a>
+  <a xlink:href='SvgBrowser?entity=%22176348%22%5E%5Exsd%3Ainteger'><text fill='blue' x='679' y='417'>&quot;176348&quot;^^xsd:integer</text></a>
+  <a xlink:href='SvgBrowser?entity=%3CTrondheim%3E&amp;relation=%3ChasNumberOfPeople%3E'><text fill='blue' x='679' y='429'>(more)</text></a>
+  <a xlink:href='Feedback?factId=%3Cid_77a82w_l7i_1nkzrc7%3E&amp;subject=%3CTrondheim%3E&amp;predicate=%3ChasNumberOfPeople%3E&amp;object=%22176348%22%5E%5Exsd%3Ainteger&amp;feedback=TRUE'><text fill='green' x='714' y='429' >&#x2713;</text></a>
+  <a xlink:href='Feedback?factId=%3Cid_77a82w_l7i_1nkzrc7%3E&amp;subject=%3CTrondheim%3E&amp;predicate=%3ChasNumberOfPeople%3E&amp;object=%22176348%22%5E%5Exsd%3Ainteger&amp;feedback=FALSE'><text fill='red' x='724' y='429' >&#x2717;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3Cid_12ckd0a_115_ol3v1%3E' ><image x='744' y='421' xlink:href='static/flags/pl.png' width='15' height='10' /></a>
+  <line marker-end='url(#arrow)' stroke='blue' stroke-width='2' x1='522' x2='624' y1='268' y2='444'/>
+  <a xlink:href='SvgBrowser?entity=%3ChasWebsite%3E'><text x='572' fill='blue' y='345' transform='rotate(60.0 572 345)'>&lt;hasWebsite&gt;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3Chttp%3A%2F%2Fwww.trondheim.kommune.no%2F%3E'><text fill='blue' x='630' y='455'>&lt;http://www.trondheim.kommune.no/&gt;</text></a>
+  <a xlink:href='Feedback?factId=%3Cid_77a82w_ice_xflby1%3E&amp;subject=%3CTrondheim%3E&amp;predicate=%3ChasWebsite%3E&amp;object=%3Chttp%3A%2F%2Fwww.trondheim.kommune.no%2F%3E&amp;feedback=TRUE'><text fill='green' x='635' y='467' >&#x2713;</text></a>
+  <a xlink:href='Feedback?factId=%3Cid_77a82w_ice_xflby1%3E&amp;subject=%3CTrondheim%3E&amp;predicate=%3ChasWebsite%3E&amp;object=%3Chttp%3A%2F%2Fwww.trondheim.kommune.no%2F%3E&amp;feedback=FALSE'><text fill='red' x='645' y='467' >&#x2717;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3Cid_tz78en_115_1rozm4e%3E' ><image x='665' y='459' xlink:href='static/flags/en.png' width='15' height='10' /></a>
+  <line marker-end='url(#arrow)' stroke='blue' stroke-width='2' x1='517' x2='570' y1='269' y2='467'/>
+  <a xlink:href='SvgBrowser?entity=%3ChasWikipediaAnchorText%3E'><text x='545' fill='blue' y='357' transform='rotate(75.0 545 357)'>&lt;hasWikipediaAnchorText&gt;</text></a>
+  <a xlink:href='SvgBrowser?entity=%22S%C3%B8r-Tr%C3%B8ndelag%22%40ara'><text fill='blue' x='573' y='479'>&quot;S&#248;r-Tr&#248;ndelag&quot;@ara</text></a>
+  <a xlink:href='SvgBrowser?entity=%3CTrondheim%3E&amp;relation=%3ChasWikipediaAnchorText%3E'><text fill='blue' x='573' y='491'>(more)</text></a>
+  <a xlink:href='Feedback?factId=&amp;subject=%3CTrondheim%3E&amp;predicate=%3ChasWikipediaAnchorText%3E&amp;object=%22S%C3%B8r-Tr%C3%B8ndelag%22%40ara&amp;feedback=TRUE'><text fill='green' x='608' y='491' >&#x2713;</text></a>
+  <a xlink:href='Feedback?factId=&amp;subject=%3CTrondheim%3E&amp;predicate=%3ChasWikipediaAnchorText%3E&amp;object=%22S%C3%B8r-Tr%C3%B8ndelag%22%40ara&amp;feedback=FALSE'><text fill='red' x='618' y='491' >&#x2717;</text></a>
+  <line marker-end='url(#arrow)' stroke='blue' stroke-width='2' x1='512' x2='512' y1='270' y2='475'/>
+  <a xlink:href='SvgBrowser?entity=%3ChasWikipediaArticleLength%3E'><text x='507' fill='blue' y='497' transform='rotate(270.0 507 497)'>&lt;hasWikipediaArticleLength&gt;</text></a>
+  <a xlink:href='SvgBrowser?entity=%2249986%22%5E%5Exsd%3Ainteger'><text fill='blue' x='512' y='487'>&quot;49986&quot;^^xsd:integer</text></a>
+  <a xlink:href='Feedback?factId=&amp;subject=%3CTrondheim%3E&amp;predicate=%3ChasWikipediaArticleLength%3E&amp;object=%2249986%22%5E%5Exsd%3Ainteger&amp;feedback=TRUE'><text fill='green' x='517' y='499' >&#x2713;</text></a>
+  <a xlink:href='Feedback?factId=&amp;subject=%3CTrondheim%3E&amp;predicate=%3ChasWikipediaArticleLength%3E&amp;object=%2249986%22%5E%5Exsd%3Ainteger&amp;feedback=FALSE'><text fill='red' x='527' y='499' >&#x2717;</text></a>
+  <line marker-end='url(#arrow)' stroke='blue' stroke-width='2' x1='506' x2='453' y1='269' y2='467'/>
+  <a xlink:href='SvgBrowser?entity=%3ChasWikipediaUrl%3E'><text x='456' fill='blue' y='439' transform='rotate(285.0 456 439)'>&lt;hasWikipediaUrl&gt;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3Chttp%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTrondheim%3E'><text fill='blue' x='250' y='479'>&lt;http://en.wikipedia.org/wiki/Trondheim&gt;</text></a>
+  <a xlink:href='Feedback?factId=&amp;subject=%3CTrondheim%3E&amp;predicate=%3ChasWikipediaUrl%3E&amp;object=%3Chttp%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTrondheim%3E&amp;feedback=TRUE'><text fill='green' x='255' y='491' >&#x2713;</text></a>
+  <a xlink:href='Feedback?factId=&amp;subject=%3CTrondheim%3E&amp;predicate=%3ChasWikipediaUrl%3E&amp;object=%3Chttp%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTrondheim%3E&amp;feedback=FALSE'><text fill='red' x='265' y='491' >&#x2717;</text></a>
+  <line marker-end='url(#arrow)' stroke='blue' stroke-width='2' x1='501' x2='399' y1='268' y2='444'/>
+  <a xlink:href='SvgBrowser?entity=%3CisLocatedIn%3E'><text x='419' fill='blue' y='401' transform='rotate(300.0 419 401)'>&lt;isLocatedIn&gt;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3CNorway%3E'><text fill='blue' x='353' y='455'>&lt;Norway&gt;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3CTrondheim%3E&amp;relation=%3CisLocatedIn%3E'><text fill='blue' x='353' y='467'>(more)</text></a>
+  <a xlink:href='Feedback?factId=%3Cid_77a82w_z7a_362yse%3E&amp;subject=%3CTrondheim%3E&amp;predicate=%3CisLocatedIn%3E&amp;object=%3CNorway%3E&amp;feedback=TRUE'><text fill='green' x='388' y='467' >&#x2713;</text></a>
+  <a xlink:href='Feedback?factId=%3Cid_77a82w_z7a_362yse%3E&amp;subject=%3CTrondheim%3E&amp;predicate=%3CisLocatedIn%3E&amp;object=%3CNorway%3E&amp;feedback=FALSE'><text fill='red' x='398' y='467' >&#x2717;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3Cid_4rbdva_115_1rozm4e%3E' ><image x='418' y='459' xlink:href='static/flags/en.png' width='15' height='10' /></a>
+  <a xlink:href='SvgBrowser?entity=%3Cid_4rbdva_115_lm6jdp%3E' ><image x='438' y='459' xlink:href='static/flags/fr.png' width='15' height='10' /></a>
+  <a xlink:href='SvgBrowser?entity=%3Cid_4rbdva_115_ol3v1%3E' ><image x='458' y='459' xlink:href='static/flags/pl.png' width='15' height='10' /></a>
+  <a xlink:href='SvgBrowser?entity=%3Cid_4rbdva_115_1rtz4ua%3E' ><image x='478' y='459' xlink:href='static/flags/ar.png' width='15' height='10' /></a>
+  <a xlink:href='SvgBrowser?entity=%3Cid_4rbdva_115_nydq30%3E' ><image x='498' y='459' xlink:href='static/flags/fa.png' width='15' height='10' /></a>
+  <line marker-end='url(#arrow)' stroke='blue' stroke-width='2' x1='494' x2='352' y1='267' y2='409'/>
+  <a xlink:href='SvgBrowser?entity=%3ClinksTo%3E'><text x='397' fill='blue' y='358' transform='rotate(315.0 397 358)'>&lt;linksTo&gt;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3CBokm%C3%A5l%3E'><text fill='blue' x='304' y='417'>&lt;Bokm&#229;l&gt;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3CTrondheim%3E&amp;relation=%3ClinksTo%3E'><text fill='blue' x='304' y='429'>(more)</text></a>
+  <a xlink:href='Feedback?factId=&amp;subject=%3CTrondheim%3E&amp;predicate=%3ClinksTo%3E&amp;object=%3CBokm%C3%A5l%3E&amp;feedback=TRUE'><text fill='green' x='339' y='429' >&#x2713;</text></a>
+  <a xlink:href='Feedback?factId=&amp;subject=%3CTrondheim%3E&amp;predicate=%3ClinksTo%3E&amp;object=%3CBokm%C3%A5l%3E&amp;feedback=FALSE'><text fill='red' x='349' y='429' >&#x2717;</text></a>
+  <line marker-end='url(#arrow)' stroke='blue' stroke-width='2' x1='488' x2='317' y1='263' y2='362'/>
+  <a xlink:href='SvgBrowser?entity=owl%3AsameAs'><text x='369' fill='blue' y='327' transform='rotate(330.0 369 327)'>owl:sameAs</text></a>
+  <a xlink:href='SvgBrowser?entity=%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FTrondheim%3E'><text fill='blue' x='111' y='368'>&lt;http://dbpedia.org/resource/Trondheim&gt;</text></a>
+  <a xlink:href='Feedback?factId=&amp;subject=%3CTrondheim%3E&amp;predicate=owl%3AsameAs&amp;object=%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FTrondheim%3E&amp;feedback=TRUE'><text fill='green' x='116' y='380' >&#x2713;</text></a>
+  <a xlink:href='Feedback?factId=&amp;subject=%3CTrondheim%3E&amp;predicate=owl%3AsameAs&amp;object=%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FTrondheim%3E&amp;feedback=FALSE'><text fill='red' x='126' y='380' >&#x2717;</text></a>
+  <line marker-end='url(#arrow)' stroke='blue' stroke-width='2' x1='481' x2='294' y1='258' y2='308'/>
+  <a xlink:href='SvgBrowser?entity=%3Cowns%3E'><text x='373' fill='blue' y='282' transform='rotate(345.0 373 282)'>&lt;owns&gt;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3CLade_Line%3E'><text fill='blue' x='227' y='311'>&lt;Lade_Line&gt;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3CTrondheim%3E&amp;relation=%3Cowns%3E'><text fill='blue' x='227' y='323'>(more)</text></a>
+  <a xlink:href='Feedback?factId=%3Cid_77a82w_zkl_gq86ot%3E&amp;subject=%3CTrondheim%3E&amp;predicate=%3Cowns%3E&amp;object=%3CLade_Line%3E&amp;feedback=TRUE'><text fill='green' x='262' y='323' >&#x2713;</text></a>
+  <a xlink:href='Feedback?factId=%3Cid_77a82w_zkl_gq86ot%3E&amp;subject=%3CTrondheim%3E&amp;predicate=%3Cowns%3E&amp;object=%3CLade_Line%3E&amp;feedback=FALSE'><text fill='red' x='272' y='323' >&#x2717;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3Cid_h51qo_115_26tir7%3E' ><image x='292' y='315' xlink:href='static/flags/en.png' width='15' height='10' /></a>
+  <line marker-end='url(#arrow)' stroke='blue' stroke-width='2' x1='479' x2='287' y1='250' y2='250'/>
+  <a xlink:href='SvgBrowser?entity=rdfs%3Alabel'><text x='349' fill='blue' y='245' transform='rotate(360.0 349 245)'>rdfs:label</text></a>
+  <a xlink:href='SvgBrowser?entity=%22Nidaros%22'><text fill='blue' x='229' y='250'>&quot;Nidaros&quot;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3CTrondheim%3E&amp;relation=rdfs%3Alabel'><text fill='blue' x='229' y='262'>(more)</text></a>
+  <a xlink:href='Feedback?factId=%3Cid_77a82w_1ia_o53cji%3E&amp;subject=%3CTrondheim%3E&amp;predicate=rdfs%3Alabel&amp;object=%22Nidaros%22&amp;feedback=TRUE'><text fill='green' x='264' y='262' >&#x2713;</text></a>
+  <a xlink:href='Feedback?factId=%3Cid_77a82w_1ia_o53cji%3E&amp;subject=%3CTrondheim%3E&amp;predicate=rdfs%3Alabel&amp;object=%22Nidaros%22&amp;feedback=FALSE'><text fill='red' x='274' y='262' >&#x2717;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3Cid_1icuj7u_115_1rozm4e%3E' ><image x='294' y='254' xlink:href='static/flags/en.png' width='15' height='10' /></a>
+  <line marker-end='url(#arrow)' stroke='blue' stroke-width='2' x1='481' x2='294' y1='241' y2='191'/>
+  <a xlink:href='SvgBrowser?entity=rdf%3Atype'><text x='365' fill='blue' y='206' transform='rotate(375.0 365 206)'>rdf:type</text></a>
+  <a xlink:href='SvgBrowser?entity=%3Cwikicat_Viking_Age_populated_places%3E'><text fill='blue' x='97' y='188'>&lt;wikicat_Viking_Age_populated_places&gt;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3CTrondheim%3E&amp;relation=rdf%3Atype'><text fill='blue' x='97' y='200'>(more)</text></a>
+  <a xlink:href='Feedback?factId=&amp;subject=%3CTrondheim%3E&amp;predicate=rdf%3Atype&amp;object=%3Cwikicat_Viking_Age_populated_places%3E&amp;feedback=TRUE'><text fill='green' x='132' y='200' >&#x2713;</text></a>
+  <a xlink:href='Feedback?factId=&amp;subject=%3CTrondheim%3E&amp;predicate=rdf%3Atype&amp;object=%3Cwikicat_Viking_Age_populated_places%3E&amp;feedback=FALSE'><text fill='red' x='142' y='200' >&#x2717;</text></a>
+  <line marker-end='url(#arrow)' stroke='blue' stroke-width='2' x1='488' x2='317' y1='236' y2='137'/>
+  <a xlink:href='SvgBrowser?entity=%3CredirectedFrom%3E'><text x='347' fill='blue' y='149' transform='rotate(390.0 347 149)'>&lt;redirectedFrom&gt;</text></a>
+  <a xlink:href='SvgBrowser?entity=%22Tr%C3%B8nderne%22%40eng'><text fill='blue' x='231' y='131'>&quot;Tr&#248;nderne&quot;@eng</text></a>
+  <a xlink:href='SvgBrowser?entity=%3CTrondheim%3E&amp;relation=%3CredirectedFrom%3E'><text fill='blue' x='231' y='143'>(more)</text></a>
+  <a xlink:href='Feedback?factId=%3Cid_77a82w_qkd_t6fy44%3E&amp;subject=%3CTrondheim%3E&amp;predicate=%3CredirectedFrom%3E&amp;object=%22Tr%C3%B8nderne%22%40eng&amp;feedback=TRUE'><text fill='green' x='266' y='143' >&#x2713;</text></a>
+  <a xlink:href='Feedback?factId=%3Cid_77a82w_qkd_t6fy44%3E&amp;subject=%3CTrondheim%3E&amp;predicate=%3CredirectedFrom%3E&amp;object=%22Tr%C3%B8nderne%22%40eng&amp;feedback=FALSE'><text fill='red' x='276' y='143' >&#x2717;</text></a>
+  <line marker-end='url(#arrow)' stroke='blue' stroke-width='2' x1='494' x2='352' y1='232' y2='90'/>
+  <a xlink:href='SvgBrowser?entity=skos%3AprefLabel'><text x='385' fill='blue' y='117' transform='rotate(405.0 385 117)'>skos:prefLabel</text></a>
+  <a xlink:href='SvgBrowser?entity=%22Trondheim%22%40eng'><text fill='blue' x='269' y='82'>&quot;Trondheim&quot;@eng</text></a>
+  <a xlink:href='Feedback?factId=%3Cid_77a82w_1sz_77a82w%3E&amp;subject=%3CTrondheim%3E&amp;predicate=skos%3AprefLabel&amp;object=%22Trondheim%22%40eng&amp;feedback=TRUE'><text fill='green' x='274' y='94' >&#x2713;</text></a>
+  <a xlink:href='Feedback?factId=%3Cid_77a82w_1sz_77a82w%3E&amp;subject=%3CTrondheim%3E&amp;predicate=skos%3AprefLabel&amp;object=%22Trondheim%22%40eng&amp;feedback=FALSE'><text fill='red' x='284' y='94' >&#x2717;</text></a>
+  <line marker-end='url(#arrow)' stroke='blue' stroke-width='2' x1='501' x2='399' y1='231' y2='55'/>
+  <a xlink:href='SvgBrowser?entity=%3CwasCreatedOnDate%3E'><text x='414' fill='blue' y='72' transform='rotate(420.0 414 72)'>&lt;wasCreatedOnDate&gt;</text></a>
+  <a xlink:href='SvgBrowser?entity=%22997-%23%23-%23%23%22%5E%5Exsd%3Adate'><text fill='blue' x='288' y='44'>&quot;997-##-##&quot;^^xsd:date</text></a>
+  <a xlink:href='Feedback?factId=%3Cid_77a82w_siu_md9waf%3E&amp;subject=%3CTrondheim%3E&amp;predicate=%3CwasCreatedOnDate%3E&amp;object=%22997-%23%23-%23%23%22%5E%5Exsd%3Adate&amp;feedback=TRUE'><text fill='green' x='293' y='56' >&#x2713;</text></a>
+  <a xlink:href='Feedback?factId=%3Cid_77a82w_siu_md9waf%3E&amp;subject=%3CTrondheim%3E&amp;predicate=%3CwasCreatedOnDate%3E&amp;object=%22997-%23%23-%23%23%22%5E%5Exsd%3Adate&amp;feedback=FALSE'><text fill='red' x='303' y='56' >&#x2717;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3Cid_1oxp9zt_115_1rozm4e%3E' ><image x='323' y='48' xlink:href='static/flags/en.png' width='15' height='10' /></a>
+  <a xlink:href='SvgBrowser?entity=%3Cid_1oxp9zt_115_nydq30%3E' ><image x='343' y='48' xlink:href='static/flags/fa.png' width='15' height='10' /></a>
+  <line marker-end='url(#arrow)' stroke='blue' stroke-width='2' x1='453' x2='506' y1='32' y2='228'/>
+  <a xlink:href='SvgBrowser?entity=%3CdiedIn%3E'><text x='476' fill='blue' y='101' transform='rotate(435.0 476 101)'>&lt;diedIn&gt;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3CArthur_Prior%3E'><text fill='blue' x='380' y='20'>&lt;Arthur_Prior&gt;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3CTrondheim%3E&amp;relation=%3CdiedIn%3E'><text fill='blue' x='380' y='32'>(more)</text></a>
+  <a xlink:href='Feedback?factId=%3Cid_q4t8gd_dhj_77a82w%3E&amp;subject=%3CTrondheim%3E&amp;predicate=%3CdiedIn%3E&amp;object=%3CArthur_Prior%3E&amp;feedback=TRUE'><text fill='green' x='415' y='32' >&#x2713;</text></a>
+  <a xlink:href='Feedback?factId=%3Cid_q4t8gd_dhj_77a82w%3E&amp;subject=%3CTrondheim%3E&amp;predicate=%3CdiedIn%3E&amp;object=%3CArthur_Prior%3E&amp;feedback=FALSE'><text fill='red' x='425' y='32' >&#x2717;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3Cid_h5h6h8_115_12h42rb%3E' ><image x='445' y='24' xlink:href='static/flags/en.png' width='15' height='10' /></a>
+  <line marker-end='url(#arrow)' stroke='blue' stroke-width='2' x1='511' x2='512' y1='25' y2='228'/>
+  <a xlink:href='SvgBrowser?entity=%3ChasCapital%3E'><text x='507' fill='blue' y='137' transform='rotate(270.0 507 137)'>&lt;hasCapital&gt;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3CS%C3%B8r-Tr%C3%B8ndelag%3E'><text fill='blue' x='511' y='12'>&lt;S&#248;r-Tr&#248;ndelag&gt;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3CTrondheim%3E&amp;relation=%3ChasCapital%3E'><text fill='blue' x='511' y='24'>(more)</text></a>
+  <a xlink:href='Feedback?factId=%3Cid_v7moil_789_77a82w%3E&amp;subject=%3CTrondheim%3E&amp;predicate=%3ChasCapital%3E&amp;object=%3CS%C3%B8r-Tr%C3%B8ndelag%3E&amp;feedback=TRUE'><text fill='green' x='546' y='24' >&#x2713;</text></a>
+  <a xlink:href='Feedback?factId=%3Cid_v7moil_789_77a82w%3E&amp;subject=%3CTrondheim%3E&amp;predicate=%3ChasCapital%3E&amp;object=%3CS%C3%B8r-Tr%C3%B8ndelag%3E&amp;feedback=FALSE'><text fill='red' x='556' y='24' >&#x2717;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3Cid_m9faw_115_hki58v%3E' ><image x='576' y='16' xlink:href='static/flags/nl.png' width='15' height='10' /></a>
+  <line marker-end='url(#arrow)' stroke='blue' stroke-width='2' x1='570' x2='517' y1='32' y2='228'/>
+  <a xlink:href='SvgBrowser?entity=%3CisLeaderOf%3E'><text x='537' fill='blue' y='140' transform='rotate(285.0 537 140)'>&lt;isLeaderOf&gt;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3CRita_Ottervik%3E'><text fill='blue' x='573' y='20'>&lt;Rita_Ottervik&gt;</text></a>
+  <a xlink:href='Feedback?factId=%3Cid_1ttf6uv_1c7_77a82w%3E&amp;subject=%3CTrondheim%3E&amp;predicate=%3CisLeaderOf%3E&amp;object=%3CRita_Ottervik%3E&amp;feedback=TRUE'><text fill='green' x='578' y='32' >&#x2713;</text></a>
+  <a xlink:href='Feedback?factId=%3Cid_1ttf6uv_1c7_77a82w%3E&amp;subject=%3CTrondheim%3E&amp;predicate=%3CisLeaderOf%3E&amp;object=%3CRita_Ottervik%3E&amp;feedback=FALSE'><text fill='red' x='588' y='32' >&#x2717;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3Cid_11uj847_115_1rozm4e%3E' ><image x='608' y='24' xlink:href='static/flags/en.png' width='15' height='10' /></a>
+  <line marker-end='url(#arrow)' stroke='blue' stroke-width='2' x1='624' x2='523' y1='55' y2='229'/>
+  <a xlink:href='SvgBrowser?entity=%3CisLocatedIn%3E'><text x='564' fill='blue' y='150' transform='rotate(300.0 564 150)'>&lt;isLocatedIn&gt;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3CScandinavian_Customized_Prosthesis%3E'><text fill='blue' x='630' y='44'>&lt;Scandinavian_Customized_Prosthesis&gt;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3CTrondheim%3E&amp;relation=%3CisLocatedIn%3E'><text fill='blue' x='630' y='56'>(more)</text></a>
+  <a xlink:href='Feedback?factId=%3Cid_1jyjpye_z7a_77a82w%3E&amp;subject=%3CTrondheim%3E&amp;predicate=%3CisLocatedIn%3E&amp;object=%3CScandinavian_Customized_Prosthesis%3E&amp;feedback=TRUE'><text fill='green' x='665' y='56' >&#x2713;</text></a>
+  <a xlink:href='Feedback?factId=%3Cid_1jyjpye_z7a_77a82w%3E&amp;subject=%3CTrondheim%3E&amp;predicate=%3CisLocatedIn%3E&amp;object=%3CScandinavian_Customized_Prosthesis%3E&amp;feedback=FALSE'><text fill='red' x='675' y='56' >&#x2717;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3Cid_1ksenmw_115_1re372o%3E' ><image x='695' y='48' xlink:href='static/flags/en.png' width='15' height='10' /></a>
+  <line marker-end='url(#arrow)' stroke='blue' stroke-width='2' x1='671' x2='530' y1='90' y2='231'/>
+  <a xlink:href='SvgBrowser?entity=%3ClinksTo%3E'><text x='588' fill='blue' y='167' transform='rotate(315.0 588 167)'>&lt;linksTo&gt;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3CAarhus%3E'><text fill='blue' x='679' y='82'>&lt;Aarhus&gt;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3CTrondheim%3E&amp;relation=%3ClinksTo%3E'><text fill='blue' x='679' y='94'>(more)</text></a>
+  <a xlink:href='Feedback?factId=&amp;subject=%3CTrondheim%3E&amp;predicate=%3ClinksTo%3E&amp;object=%3CAarhus%3E&amp;feedback=TRUE'><text fill='green' x='714' y='94' >&#x2713;</text></a>
+  <a xlink:href='Feedback?factId=&amp;subject=%3CTrondheim%3E&amp;predicate=%3ClinksTo%3E&amp;object=%3CAarhus%3E&amp;feedback=FALSE'><text fill='red' x='724' y='94' >&#x2717;</text></a>
+  <line marker-end='url(#arrow)' stroke='blue' stroke-width='2' x1='706' x2='538' y1='137' y2='234'/>
+  <a xlink:href='SvgBrowser?entity=%3ClivesIn%3E'><text x='607' fill='blue' y='189' transform='rotate(330.0 607 189)'>&lt;livesIn&gt;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3CKjersti_Buaas%3E'><text fill='blue' x='717' y='131'>&lt;Kjersti_Buaas&gt;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3CTrondheim%3E&amp;relation=%3ClivesIn%3E'><text fill='blue' x='717' y='143'>(more)</text></a>
+  <a xlink:href='Feedback?factId=%3Cid_7s2ibh_12k_77a82w%3E&amp;subject=%3CTrondheim%3E&amp;predicate=%3ClivesIn%3E&amp;object=%3CKjersti_Buaas%3E&amp;feedback=TRUE'><text fill='green' x='752' y='143' >&#x2713;</text></a>
+  <a xlink:href='Feedback?factId=%3Cid_7s2ibh_12k_77a82w%3E&amp;subject=%3CTrondheim%3E&amp;predicate=%3ClivesIn%3E&amp;object=%3CKjersti_Buaas%3E&amp;feedback=FALSE'><text fill='red' x='762' y='143' >&#x2717;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3Cid_xc2h1v_115_z7ubv7%3E' ><image x='782' y='135' xlink:href='static/flags/en.png' width='15' height='10' /></a>
+  <line marker-end='url(#arrow)' stroke='blue' stroke-width='2' x1='729' x2='545' y1='191' y2='241'/>
+  <a xlink:href='SvgBrowser?entity=%3CwasBornIn%3E'><text x='619' fill='blue' y='216' transform='rotate(345.0 619 216)'>&lt;wasBornIn&gt;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3CRune_Bratseth%3E'><text fill='blue' x='741' y='188'>&lt;Rune_Bratseth&gt;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3CTrondheim%3E&amp;relation=%3CwasBornIn%3E'><text fill='blue' x='741' y='200'>(more)</text></a>
+  <a xlink:href='Feedback?factId=%3Cid_1l0mv1q_oyl_77a82w%3E&amp;subject=%3CTrondheim%3E&amp;predicate=%3CwasBornIn%3E&amp;object=%3CRune_Bratseth%3E&amp;feedback=TRUE'><text fill='green' x='776' y='200' >&#x2713;</text></a>
+  <a xlink:href='Feedback?factId=%3Cid_1l0mv1q_oyl_77a82w%3E&amp;subject=%3CTrondheim%3E&amp;predicate=%3CwasBornIn%3E&amp;object=%3CRune_Bratseth%3E&amp;feedback=FALSE'><text fill='red' x='786' y='200' >&#x2717;</text></a>
+  <a xlink:href='SvgBrowser?entity=%3Cid_1tpgam6_115_dfammc%3E' ><image x='806' y='192' xlink:href='static/flags/en.png' width='15' height='10' /></a>
+  <a xlink:href='SvgBrowser?entity=%3Cid_1tpgam6_115_1xjez6a%3E' ><image x='826' y='192' xlink:href='static/flags/de.png' width='15' height='10' /></a>
+  <a xlink:href='SvgBrowser?entity=%3Cid_1tpgam6_115_lm6jdp%3E' ><image x='846' y='192' xlink:href='static/flags/fr.png' width='15' height='10' /></a>
+  <text x='485' y='255'>&lt;Trondheim&gt;</text>
+</svg>

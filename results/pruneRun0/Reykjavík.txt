@@ -1,0 +1,30 @@
+Query Words: William, whole
+Root nodes Found: 203
+Total execution time: 76
+
+Query Words: Thomas, California
+Root nodes Found: 203
+Total execution time: 57
+
+Query Words: Park, Church
+Root nodes Found: 203
+Total execution time: 50
+
+Query Words: District, objects
+Root nodes Found: 203
+Total execution time: 52
+
+Query Words: descent, Football
+Root nodes Found: 203
+Total execution time: 48
+
+Query Words: William, whole, Thomas, California
+Root nodes Found: 203
+Nodes visited: 203
+Total execution time: 50
+
+Query Words: Park, Church, District, objects
+Root nodes Found: 203
+Nodes visited: 203
+Total execution time: 46
+

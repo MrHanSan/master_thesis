@@ -1,0 +1,28 @@
+Comparison of R Tree, MVR Tree and TPR Tree
+https://pdfs.semanticscholar.org/4003/f355a39aa210a4bfbc6871b951ff3a324558.pdf
+
+Efficient Index Structures for Spatio-Temporal Objects
+http://www.dbs.uni-hannover.de/schriften/publications/KL2000a.pdf
+
+High-Dimensional Spatio-Temporal Indexing
+https://www.researchgate.net/publication/301287415_High-Dimensional_Spatio-Temporal_Indexing
+
+R-Tree Based Indexing of General Spatio-Temporal Data
+http://timecenter.cs.aau.dk/TimeCenterPublications/TR-45.pdf
+
+A cost model for spatio-temporal queries using the TPR-tree
+https://klevas.mif.vu.lt/~algis/DSA/Rtreespatial4.pdf
+
+Top-k Exploration of Query Candidates for Efficient Keyword Search on Graph-Shaped (RDF) Data
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4812421&tag=1
+https://ieeexplore.ieee.org/document/4812421
+
+Scalable Keyword Search on Large RDF Data
+https://ieeexplore.ieee.org/document/6720109
+
+Keyword Search over RDF Graphs
+https://www.dc.fi.udc.es/~roi/publications/cikm2011c.pdf
+
+BLINKS: ranked keyword searches on graphs
+https://dl.acm.org/doi/10.1145/1247480.1247516
+
