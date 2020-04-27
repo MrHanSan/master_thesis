@@ -1,0 +1,67 @@
+Query Words: William, whole
+Root nodes Found: 203
+Nodes visited: 7507
+Total execution time: 14005
+
+Query Words: Thomas, California
+Root nodes Found: 203
+
+	http://yago-knowledge.org/resource/Los_Angeles   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [Thomas]
+		http://yago-knowledge.org/resource/Los_Angeles_County,_California   [California]
+http://yago-knowledge.org/resource/Sense8   []
+Score: 0.09090909090909091
+----
+
+Nodes visited: 7507
+Total execution time: 13038
+
+Query Words: Park, Church
+Root nodes Found: 203
+
+http://yago-knowledge.org/resource/Sense8   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Ware_Bottom_Church   [Church]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 7507
+Total execution time: 13027
+
+Query Words: District, objects
+Root nodes Found: 203
+Nodes visited: 7507
+Total execution time: 13039
+
+Query Words: descent, Football
+Root nodes Found: 203
+Nodes visited: 7507
+Total execution time: 13047
+
+Query Words: William, whole, Thomas, California
+Root nodes Found: 203
+
+	http://yago-knowledge.org/resource/Los_Angeles   []
+http://yago-knowledge.org/resource/Sense8   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [Thomas]
+		http://yago-knowledge.org/resource/California   [California]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.045454545454545456
+----
+
+Nodes visited: 7507
+Total execution time: 13042
+
+Query Words: Park, Church, District, objects
+Root nodes Found: 203
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Ware_Bottom_Church   [Church]
+http://yago-knowledge.org/resource/Sense8   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 7507
+Total execution time: 13021
+

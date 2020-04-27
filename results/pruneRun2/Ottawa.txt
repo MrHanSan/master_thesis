@@ -1,0 +1,155 @@
+Query Words: William, whole
+Root nodes Found: 917
+Nodes visited: 917
+Total execution time: 212
+
+Query Words: Thomas, California
+Root nodes Found: 917
+
+http://yago-knowledge.org/resource/2007_Stanley_Cup_Finals   []
+	http://yago-knowledge.org/resource/Anaheim,_California   [California]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Cancer_Survivors_Park   []
+	http://yago-knowledge.org/resource/Bakersfield,_California   [California]
+Score: 0.16666666666666666
+----
+
+Nodes visited: 932
+Total execution time: 199
+
+Query Words: Park, Church
+Root nodes Found: 917
+
+http://yago-knowledge.org/resource/Liberal_Party_of_Canada_leadership_election,_1958   []
+	http://yago-knowledge.org/resource/Lansdowne_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Liberal_Party_of_Canada_leadership_election,_1919   []
+	http://yago-knowledge.org/resource/Lansdowne_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/TD_Place_Stadium   []
+	http://yago-knowledge.org/resource/Lansdowne_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Progressive_Conservative_leadership_convention,_1956   []
+	http://yago-knowledge.org/resource/Lansdowne_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/National_Conservative_leadership_convention,_1938   []
+	http://yago-knowledge.org/resource/Lansdowne_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Liberal_Party_of_Canada_leadership_election,_1948   []
+	http://yago-knowledge.org/resource/Lansdowne_Park   [Park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Lansdowne_Park   [Park]
+http://yago-knowledge.org/resource/Progressive_Conservative_leadership_convention,_1948   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Moss_Park_Armoury   [Park]
+http://yago-knowledge.org/resource/Canadian_Armed_Forces   []
+Score: 0.16666666666666666
+----
+
+Nodes visited: 925
+Total execution time: 145
+
+Query Words: District, objects
+Root nodes Found: 917
+Nodes visited: 917
+Total execution time: 145
+
+Query Words: descent, Football
+Root nodes Found: 917
+Nodes visited: 917
+Total execution time: 143
+
+Query Words: William, whole, Thomas, California
+Root nodes Found: 917
+
+	http://yago-knowledge.org/resource/Anaheim,_California   [California]
+http://yago-knowledge.org/resource/2007_Stanley_Cup_Finals   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/Cancer_Survivors_Park   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 932
+Total execution time: 176
+
+Query Words: Park, Church, District, objects
+Root nodes Found: 917
+
+http://yago-knowledge.org/resource/Liberal_Party_of_Canada_leadership_election,_1919   []
+	http://yago-knowledge.org/resource/Lansdowne_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Progressive_Conservative_leadership_convention,_1948   []
+	http://yago-knowledge.org/resource/Lansdowne_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Lansdowne_Park   [Park]
+http://yago-knowledge.org/resource/Liberal_Party_of_Canada_leadership_election,_1958   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Liberal_Party_of_Canada_leadership_election,_1948   []
+	http://yago-knowledge.org/resource/Lansdowne_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Canadian_Armed_Forces   []
+	http://yago-knowledge.org/resource/Moss_Park_Armoury   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Lansdowne_Park   [Park]
+http://yago-knowledge.org/resource/Progressive_Conservative_leadership_convention,_1956   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Lansdowne_Park   [Park]
+http://yago-knowledge.org/resource/National_Conservative_leadership_convention,_1938   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Lansdowne_Park   [Park]
+http://yago-knowledge.org/resource/TD_Place_Stadium   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 925
+Total execution time: 146
+

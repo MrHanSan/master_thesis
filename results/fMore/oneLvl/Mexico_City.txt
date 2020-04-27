@@ -1,0 +1,127 @@
+Query Words: William, whole
+Root nodes Found: 976
+Nodes visited: 4320
+Total execution time: 9923
+
+Query Words: Thomas, California
+Root nodes Found: 976
+
+http://yago-knowledge.org/resource/Electric_Daisy_Carnival   []
+	http://yago-knowledge.org/resource/San_Bernardino,_California   [California]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Disney_Junior_(Latin_America)   []
+	http://yago-knowledge.org/resource/Burbank,_California   [California]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Irvine,_California   [California]
+http://yago-knowledge.org/resource/KCON_(music_festival)   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/ESPN_Deportes   []
+Score: 0.16666666666666666
+----
+
+Nodes visited: 4320
+Total execution time: 5844
+
+Query Words: Park, Church
+Root nodes Found: 976
+Nodes visited: 4320
+Total execution time: 5590
+
+Query Words: District, objects
+Root nodes Found: 976
+Nodes visited: 4320
+Total execution time: 5636
+
+Query Words: descent, Football
+Root nodes Found: 976
+Nodes visited: 4320
+Total execution time: 5784
+
+Query Words: William, Park
+Root nodes Found: 976
+Nodes visited: 4320
+Total execution time: 6339
+
+Query Words: District, objects
+Root nodes Found: 976
+Nodes visited: 4320
+Total execution time: 5914
+
+Query Words: Thomas, California
+Root nodes Found: 976
+
+http://yago-knowledge.org/resource/KCON_(music_festival)   []
+	http://yago-knowledge.org/resource/Irvine,_California   [California]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/ESPN_Deportes   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/San_Bernardino,_California   [California]
+http://yago-knowledge.org/resource/Electric_Daisy_Carnival   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/Disney_Junior_(Latin_America)   []
+Score: 0.16666666666666666
+----
+
+Nodes visited: 4320
+Total execution time: 5622
+
+Query Words: William, whole, Thomas, California
+Root nodes Found: 976
+
+http://yago-knowledge.org/resource/Electric_Daisy_Carnival   []
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/ESPN_Deportes   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/KCON_(music_festival)   []
+	http://yago-knowledge.org/resource/Irvine,_California   [California]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Disney_Junior_(Latin_America)   []
+	http://yago-knowledge.org/resource/Burbank,_California   [California]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 4320
+Total execution time: 5602
+
+Query Words: Park, Church, District, objects
+Root nodes Found: 976
+Nodes visited: 4320
+Total execution time: 5612
+
+Query Words: descent, Football, William, Park
+Root nodes Found: 976
+Nodes visited: 4320
+Total execution time: 5644
+

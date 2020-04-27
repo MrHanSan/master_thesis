@@ -1,0 +1,83 @@
+Query Words: William, whole
+Root nodes Found: 976
+Nodes visited: 976
+Total execution time: 283
+
+Query Words: Thomas, California
+Root nodes Found: 976
+
+http://yago-knowledge.org/resource/ESPN_Deportes   []
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/KCON_(music_festival)   []
+	http://yago-knowledge.org/resource/Irvine,_California   [California]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Disney_Junior_(Latin_America)   []
+	http://yago-knowledge.org/resource/Burbank,_California   [California]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/Electric_Daisy_Carnival   []
+Score: 0.16666666666666666
+----
+
+Nodes visited: 1002
+Total execution time: 235
+
+Query Words: Park, Church
+Root nodes Found: 976
+Nodes visited: 976
+Total execution time: 180
+
+Query Words: District, objects
+Root nodes Found: 976
+Nodes visited: 976
+Total execution time: 220
+
+Query Words: descent, Football
+Root nodes Found: 976
+Nodes visited: 976
+Total execution time: 183
+
+Query Words: William, whole, Thomas, California
+Root nodes Found: 976
+
+http://yago-knowledge.org/resource/ESPN_Deportes   []
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Irvine,_California   [California]
+http://yago-knowledge.org/resource/KCON_(music_festival)   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Disney_Junior_(Latin_America)   []
+	http://yago-knowledge.org/resource/California   [California]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/Electric_Daisy_Carnival   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 1002
+Total execution time: 229
+
+Query Words: Park, Church, District, objects
+Root nodes Found: 976
+Nodes visited: 976
+Total execution time: 202
+

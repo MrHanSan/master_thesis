@@ -1,0 +1,37 @@
+Mexico_City.txt
+6832
+1494
+7
+nums.txt
+6832
+1494
+7
+Ottawa.txt
+13251
+2660
+14
+Beijing.txt
+22729
+4757
+21
+London.txt
+68012
+19069
+28
+Cairo.txt
+71323
+19719
+35
+Wellington.txt
+73423
+20101
+42
+Reykjavík.txt
+74844
+20467
+49
+
+totals: 
+avg time/query: 417.6938775510204
+avg time/root: 0.2734621345732457
+avg root/query: 1527.4285714285713

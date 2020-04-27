@@ -54,6 +54,7 @@ public class Main {
                 System.out.println("\nTotal execution time: " + (endTime - startTime));
             }
 
+            queryWords = readQueryWords("rndZipf4.txt");
             for (int i = 0; i < queryWords.size()-4; i += 4) {
                 queryWordsString = "";
                 HashSet<String> queryWordsSet = new HashSet<>();
@@ -110,7 +111,6 @@ public class Main {
                         "SELECT DISTINCT ?s ?p WHERE { ?s ?p <" + RESOURCE + place + "> . " +
                         "FILTER ( ?p = <http://yago-knowledge.org/resource/isLocatedIn> ) . " +
                         "}";
-//                        "SELECT DISTINCT ?s ?p ?o WHERE { <" + RESOURCE + place + "> ?p ?o . " +
 
         Query query = QueryFactory.create(queryString);
 
@@ -139,14 +139,13 @@ public class Main {
 
 
     public static int traverseStart(Model model, HashSet<String> queryWords, String place) {
-
         // Use a list in parent node for all children that gets a hit.
         // group all hit Children
         // while hitListChildren is not empty: select child, check for hit children in child, ... something, its dinnertime...
         // use node level for tabs when printing, displaying inheratance
         List<YagoNode> roots = getRoots(model, place);
         List<YagoNode> nodes = new ArrayList<YagoNode>();
-        int maxDepth = 2;
+        int maxDepth = 1;
         int nodeCount = 0;
         HashSet<YagoNode> hitNodes = new HashSet<>();
 
@@ -190,6 +189,7 @@ public class Main {
     public static void findMinSubgraph (HashSet<YagoNode> rootNodes, HashSet<String> queryWords, String place) {
         HashSet<YagoNode> minTree = new HashSet<>();
         HashSet<YagoNode> parentList = new HashSet<>();
+        HashSet<String> removeWords = new HashSet<>();
         final AtomicBoolean newMin = new AtomicBoolean(false);
 
         for (YagoNode node : rootNodes) {
@@ -212,8 +212,9 @@ public class Main {
                                         newNode.getDepth() <= min.getDepth()) {
                             newMin.set(true);
                             for (String s : newNode.getNodeMatchWords()) {
-                                if (min.getNodeMatchWords().contains(s)) min.removeNodeMatchWord(s);
+                                if (min.getNodeMatchWords().contains(s)) removeWords.add(s);
                             }
+                            min.getNodeMatchWords().removeAll(removeWords);
                         }
                         else {
                             newMin.set(false);
@@ -295,10 +296,11 @@ public class Main {
 
                     if (sub == null || !sub.isURIResource()) continue;
                     String str = sub.toString();
-                    String[] a = str.split("/");
+                    String[] uriSplit = str.split("/");
+                    String[] tokens = uriSplit[uriSplit.length-1].replaceAll(",", "").split("_");
                     children.add(new YagoNode(yagoNode, str));
 //                    for (String word : queryWords) {
-//                        if (Arrays.asList(a[a.length - 1].replaceAll(",", "").split("_")).contains(word)) {
+//                        if (Arrays.asList(tokens).contains(word)) {
 //                            children.add(new YagoNode(yagoNode, str));
 //                            break;
 //                        }

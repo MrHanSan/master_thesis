@@ -1,0 +1,295 @@
+Query Words: William, whole
+Root nodes Found: 300
+
+	http://yago-knowledge.org/resource/Boston   []
+http://yago-knowledge.org/resource/Music_Tech_Fest   []
+		http://yago-knowledge.org/resource/William_J._Devine_Memorial_Golf_Course   [William]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Los_Angeles_International_Airport   []
+http://yago-knowledge.org/resource/Air_New_Zealand   []
+		http://yago-knowledge.org/resource/William_P._Hobby_Airport   [William]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 34470
+Total execution time: 17011
+
+Query Words: Thomas, California
+Root nodes Found: 300
+
+		http://yago-knowledge.org/resource/California   [California]
+	http://yago-knowledge.org/resource/Los_Angeles_International_Airport   []
+http://yago-knowledge.org/resource/Air_New_Zealand   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [Thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Power_Rangers_Ninja_Storm   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [Thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Power_Rangers_Mystic_Force   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [Thomas]
+http://yago-knowledge.org/resource/Power_Rangers_Dino_Thunder   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 34470
+Total execution time: 15971
+
+Query Words: Park, Church
+Root nodes Found: 300
+
+http://yago-knowledge.org/resource/Power_Rangers_Ninja_Storm   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Action_at_Mount_Zion_Church   [Church]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/New_Zealand_Ministry_of_Works   []
+	http://yago-knowledge.org/resource/Bridge_to_Nowhere_(New_Zealand)   []
+		http://yago-knowledge.org/resource/Whanganui_National_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Power_Rangers_Mystic_Force   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Ezra_Church   [Church]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/New_Zealand_Democratic_Party_for_Social_Credit   []
+	http://yago-knowledge.org/resource/Invercargill   []
+		http://yago-knowledge.org/resource/Rugby_Park_Stadium   [Park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Power_Rangers_Dino_Thunder   []
+		http://yago-knowledge.org/resource/Battle_of_Namozine_Church   [Church]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/University_Challenge_(New_Zealand_TV_series)   []
+		http://yago-knowledge.org/resource/Rugby_Park_Stadium   [Park]
+	http://yago-knowledge.org/resource/Invercargill   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Manapouri_Power_Station   []
+http://yago-knowledge.org/resource/Meridian_Energy   []
+		http://yago-knowledge.org/resource/Fiordland_National_Park   [Park]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Glacier_Park_International_Airport   [Park]
+	http://yago-knowledge.org/resource/Los_Angeles_International_Airport   []
+http://yago-knowledge.org/resource/Air_New_Zealand   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 34470
+Total execution time: 16043
+
+Query Words: District, objects
+Root nodes Found: 300
+
+http://yago-knowledge.org/resource/1999-2000_World_Sevens_Series   []
+		http://yago-knowledge.org/resource/Cape_Winelands_District_Municipality   [District]
+	http://yago-knowledge.org/resource/Stellenbosch   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Waipa_District   [District]
+	http://yago-knowledge.org/resource/Hamilton_Airport_(New_Zealand)   []
+http://yago-knowledge.org/resource/Wellington_International_Airport   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Vancouver   []
+http://yago-knowledge.org/resource/2015-16_World_Rugby_Sevens_Series   []
+		http://yago-knowledge.org/resource/Metro_Vancouver_Regional_District   [District]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Waikato_District   [District]
+	http://yago-knowledge.org/resource/Hauauru_ma_raki   []
+http://yago-knowledge.org/resource/Contact_Energy   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Vancouver   []
+		http://yago-knowledge.org/resource/Metro_Vancouver_Regional_District   [District]
+http://yago-knowledge.org/resource/2016-17_World_Rugby_Sevens_Series   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 34470
+Total execution time: 15991
+
+Query Words: descent, Football
+Root nodes Found: 300
+Nodes visited: 34470
+Total execution time: 15955
+
+Query Words: William, whole, Thomas, California
+Root nodes Found: 300
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Power_Rangers_Ninja_Storm   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [Thomas]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Power_Rangers_Mystic_Force   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [Thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Music_Tech_Fest   []
+	http://yago-knowledge.org/resource/Boston   []
+		http://yago-knowledge.org/resource/William_J._Devine_Memorial_Golf_Course   [William]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [Thomas]
+http://yago-knowledge.org/resource/Power_Rangers_Dino_Thunder   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Los_Angeles_International_Airport   []
+		http://yago-knowledge.org/resource/William_P._Hobby_Airport   [William]
+		http://yago-knowledge.org/resource/California   [California]
+http://yago-knowledge.org/resource/Air_New_Zealand   []
+Score: 0.05555555555555555
+----
+
+Nodes visited: 34470
+Total execution time: 15759
+
+Query Words: Park, Church, District, objects
+Root nodes Found: 300
+
+http://yago-knowledge.org/resource/2015-16_World_Rugby_Sevens_Series   []
+	http://yago-knowledge.org/resource/Vancouver   []
+		http://yago-knowledge.org/resource/Metro_Vancouver_Regional_District   [District]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/New_Zealand_Democratic_Party_for_Social_Credit   []
+	http://yago-knowledge.org/resource/Invercargill   []
+		http://yago-knowledge.org/resource/Rugby_Park_Stadium   [Park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Hamilton_Airport_(New_Zealand)   []
+		http://yago-knowledge.org/resource/Waipa_District   [District]
+http://yago-knowledge.org/resource/Wellington_International_Airport   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Power_Rangers_Ninja_Storm   []
+		http://yago-knowledge.org/resource/Action_at_Mount_Zion_Church   [Church]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Metro_Vancouver_Regional_District   [District]
+	http://yago-knowledge.org/resource/Vancouver   []
+http://yago-knowledge.org/resource/2016-17_World_Rugby_Sevens_Series   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Power_Rangers_Dino_Thunder   []
+		http://yago-knowledge.org/resource/Battle_of_Ezra_Church   [Church]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Fiordland_National_Park   [Park]
+	http://yago-knowledge.org/resource/Manapouri_Power_Station   []
+http://yago-knowledge.org/resource/Meridian_Energy   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Power_Rangers_Mystic_Force   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Ezra_Church   [Church]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Bridge_to_Nowhere_(New_Zealand)   []
+http://yago-knowledge.org/resource/New_Zealand_Ministry_of_Works   []
+		http://yago-knowledge.org/resource/Whanganui_National_Park   [Park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/1999-2000_World_Sevens_Series   []
+	http://yago-knowledge.org/resource/Stellenbosch   []
+		http://yago-knowledge.org/resource/Cape_Winelands_District_Municipality   [District]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Rugby_Park_Stadium   [Park]
+http://yago-knowledge.org/resource/University_Challenge_(New_Zealand_TV_series)   []
+	http://yago-knowledge.org/resource/Invercargill   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Air_New_Zealand   []
+	http://yago-knowledge.org/resource/Los_Angeles_International_Airport   []
+		http://yago-knowledge.org/resource/Glacier_Park_International_Airport   [Park]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Waikato_District   [District]
+http://yago-knowledge.org/resource/Contact_Energy   []
+	http://yago-knowledge.org/resource/Hauauru_ma_raki   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 34470
+Total execution time: 15778
+

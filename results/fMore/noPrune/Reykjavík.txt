@@ -1,0 +1,108 @@
+Query Words: William, whole
+Root nodes Found: 203
+Nodes visited: 7507
+Total execution time: 13738
+
+Query Words: Thomas, California
+Root nodes Found: 203
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Sense8   []
+	http://yago-knowledge.org/resource/San_Francisco   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [Thomas]
+		http://yago-knowledge.org/resource/California   [California]
+Score: 0.09090909090909091
+----
+
+Nodes visited: 7507
+Total execution time: 12938
+
+Query Words: Park, Church
+Root nodes Found: 203
+
+	http://yago-knowledge.org/resource/Chicago   []
+http://yago-knowledge.org/resource/Sense8   []
+		http://yago-knowledge.org/resource/Maggie_Daley_Park_ice_skating_ribbon   [Park]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 7507
+Total execution time: 12909
+
+Query Words: District, objects
+Root nodes Found: 203
+Nodes visited: 7507
+Total execution time: 12887
+
+Query Words: descent, Football
+Root nodes Found: 203
+Nodes visited: 7507
+Total execution time: 12877
+
+Query Words: William, Park
+Root nodes Found: 203
+
+	http://yago-knowledge.org/resource/San_Francisco   []
+http://yago-knowledge.org/resource/Sense8   []
+		http://yago-knowledge.org/resource/Candlestick_Park   [Park]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 7507
+Total execution time: 12859
+
+Query Words: District, objects
+Root nodes Found: 203
+Nodes visited: 7507
+Total execution time: 13519
+
+Query Words: Thomas, California
+Root nodes Found: 203
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [Thomas]
+http://yago-knowledge.org/resource/Sense8   []
+	http://yago-knowledge.org/resource/United_States   []
+	http://yago-knowledge.org/resource/Los_Angeles   []
+		http://yago-knowledge.org/resource/Los_Angeles_County,_California   [California]
+Score: 0.09090909090909091
+----
+
+Nodes visited: 7507
+Total execution time: 13126
+
+Query Words: William, whole, Thomas, California
+Root nodes Found: 203
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Sense8   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [Thomas]
+Score: 0.041666666666666664
+----
+
+Nodes visited: 7507
+Total execution time: 12986
+
+Query Words: Park, Church, District, objects
+Root nodes Found: 203
+
+http://yago-knowledge.org/resource/Sense8   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Skirmish_at_Aenon_Church   [Church]
+Score: 0.041666666666666664
+----
+
+Nodes visited: 7507
+Total execution time: 12961
+
+Query Words: descent, Football, William, Park
+Root nodes Found: 203
+
+	http://yago-knowledge.org/resource/San_Francisco   []
+http://yago-knowledge.org/resource/Sense8   []
+		http://yago-knowledge.org/resource/Candlestick_Park   [Park]
+Score: 0.041666666666666664
+----
+
+Nodes visited: 7507
+Total execution time: 12990
+

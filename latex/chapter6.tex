@@ -9,19 +9,77 @@ When running the query, two sets are displayed, one with mostly random input dat
 
 Because most of the randomly selected places had few possible root nodes, the table contains only the manually selected.
 
+- time/query \\
+- time/root \\
+- roots found/ query \\
+
+- accuracy/ result\\
+- avg highest accuracy/ query\\
+
 \begin{tikzpicture}
-    \begin{axis}[
-        symbolic x coords={Oslo, London, New York City},
-        xtick=data
-      ]
-        \addplot[ybar,fill=blue] coordinates {
-            (Oslo,   640106)
-            (London,   181004)
-            (New York City,   2507057)
-        };
-    \end{axis}
+\begin{axis}[
+	title={Avg. time/ query in ms},
+	every axis plot post/.style={/pgf/number format/fixed},
+	symbolic x coords={"No pruning", "No pruning 1 depth", "Pruning"},
+	visualization depends on=rawy\as\rawy, % Save the unclipped values
+	nodes near coords={\pgfmathprintnumber{\rawy}},
+    xtick=data]
+    \addplot[ybar,fill=blue] coordinates {("No pruning",124706.824) ("No pruning 1 depth",14707.1081) ("Pruning",413.405)};
+\end{axis}
 \end{tikzpicture}
 
+\begin{tikzpicture}
+\begin{axis}[
+	title={Avg. time/ root in ms},
+	every axis plot post/.style={/pgf/number format/fixed},
+	symbolic x coords={"No pruning", "No pruning 1 depth", "Pruning"},
+	visualization depends on=rawy\as\rawy, % Save the unclipped values
+	nodes near coords={\pgfmathprintnumber{\rawy}},
+    xtick=data]
+    \addplot[ybar,fill=blue] coordinates {("No pruning",93.9698) ("No pruning 1 depth",11.0822) ("Pruning",0.3115)};
+\end{axis}
+\end{tikzpicture}
+
+
 \subsection{Accuracy}
+
+\begin{tikzpicture}
+\begin{axis}[
+	title={Avg. nodes/ root},
+	every axis plot post/.style={/pgf/number format/fixed},
+	symbolic x coords={"No pruning", "No pruning 1 depth", "Pruning"},
+	visualization depends on=rawy\as\rawy, % Save the unclipped values
+	nodes near coords={\pgfmathprintnumber{\rawy}},
+    xtick=data]
+    \addplot[ybar,fill=blue] coordinates {("No pruning",238.3766) ("No pruning 1 depth",4.8876) ("Pruning",1.0142)};
+\end{axis}
+\end{tikzpicture}
+
+\begin{tikzpicture}
+\begin{axis}[
+	title={Avg. total accuracy},
+	every axis plot post/.style={/pgf/number format/fixed},
+	symbolic x coords={"No pruning", "No pruning 1 depth", "Pruning"},
+	visualization depends on=rawy\as\rawy, % Save the unclipped values
+	nodes near coords={\pgfmathprintnumber{\rawy}},
+    xtick=data]
+    \addplot[ybar,fill=blue] coordinates {("No pruning",0.0665) ("No pruning 1 depth",0.1289) ("Pruning",0.1287)};
+\end{axis}
+\end{tikzpicture}
+
+\begin{tikzpicture}
+\begin{axis}[
+	title={Avg. top accuracy/ query},
+	every axis plot post/.style={/pgf/number format/fixed},
+	symbolic x coords={"No pruning", "No pruning 1 depth", "Pruning"},
+	visualization depends on=rawy\as\rawy, % Save the unclipped values
+	nodes near coords={\pgfmathprintnumber{\rawy}},
+    xtick=data]
+    \addplot[ybar,fill=blue] coordinates {("No pruning",0.1001) ("No pruning 1 depth",0.0543) ("Pruning",0.05428)};
+\end{axis}
+\end{tikzpicture}
+
+% Define root nodes
+
 
 \clearpage

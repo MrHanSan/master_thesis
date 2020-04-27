@@ -1,0 +1,5 @@
+avg time/query: 147780.306122449
+avg time/root: 96.75104216770883
+avg root/query: 1527.4285714285713
+avg nodes/root: 257.6401715568382
+avg accuracy: nan

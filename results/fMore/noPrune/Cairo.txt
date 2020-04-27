@@ -1,0 +1,132 @@
+Query Words: William, whole
+Root nodes Found: 473
+Nodes visited: 46475
+Total execution time: 48601
+
+Query Words: Thomas, California
+Root nodes Found: 473
+Nodes visited: 46475
+Total execution time: 42899
+
+Query Words: Park, Church
+Root nodes Found: 473
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [Church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Awakening_Records   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Saadani_National_Park   [Park]
+	http://yago-knowledge.org/resource/Julius_Nyerere_International_Airport   []
+http://yago-knowledge.org/resource/Cairo_International_Airport   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 46475
+Total execution time: 42771
+
+Query Words: District, objects
+Root nodes Found: 473
+
+		http://yago-knowledge.org/resource/Jerusalem_District   [District]
+	http://yago-knowledge.org/resource/Jerusalem   []
+http://yago-knowledge.org/resource/United_Nations_Truce_Supervision_Organization   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Wuhan_Tianhe_International_Airport   []
+		http://yago-knowledge.org/resource/Huangpi_District   [District]
+http://yago-knowledge.org/resource/Cairo_International_Airport   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 46475
+Total execution time: 42289
+
+Query Words: descent, Football
+Root nodes Found: 473
+Nodes visited: 46475
+Total execution time: 42282
+
+Query Words: William, Park
+Root nodes Found: 473
+
+http://yago-knowledge.org/resource/Cairo_International_Airport   []
+		http://yago-knowledge.org/resource/Saadani_National_Park   [Park]
+	http://yago-knowledge.org/resource/Julius_Nyerere_International_Airport   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 46475
+Total execution time: 42848
+
+Query Words: District, objects
+Root nodes Found: 473
+
+	http://yago-knowledge.org/resource/Ben_Gurion_Airport   []
+http://yago-knowledge.org/resource/Cairo_International_Airport   []
+		http://yago-knowledge.org/resource/Central_District_(Israel)   [District]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Jerusalem_District   [District]
+	http://yago-knowledge.org/resource/Jerusalem   []
+http://yago-knowledge.org/resource/United_Nations_Truce_Supervision_Organization   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 46475
+Total execution time: 42237
+
+Query Words: Thomas, California
+Root nodes Found: 473
+Nodes visited: 46475
+Total execution time: 42138
+
+Query Words: William, whole, Thomas, California
+Root nodes Found: 473
+Nodes visited: 46475
+Total execution time: 42415
+
+Query Words: Park, Church, District, objects
+Root nodes Found: 473
+
+http://yago-knowledge.org/resource/United_Nations_Truce_Supervision_Organization   []
+		http://yago-knowledge.org/resource/Jerusalem_District   [District]
+	http://yago-knowledge.org/resource/Jerusalem   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [Church]
+http://yago-knowledge.org/resource/Awakening_Records   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Tianjin_Binhai_International_Airport   []
+http://yago-knowledge.org/resource/Cairo_International_Airport   []
+		http://yago-knowledge.org/resource/Dongli_District   [District]
+Score: 0.041666666666666664
+----
+
+Nodes visited: 46475
+Total execution time: 42573
+
+Query Words: descent, Football, William, Park
+Root nodes Found: 473
+
+	http://yago-knowledge.org/resource/O._R._Tambo_International_Airport   []
+		http://yago-knowledge.org/resource/Kempton_Park,_Gauteng   [Park]
+http://yago-knowledge.org/resource/Cairo_International_Airport   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 46475
+Total execution time: 42456
+
