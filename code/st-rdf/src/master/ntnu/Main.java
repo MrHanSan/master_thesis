@@ -260,17 +260,17 @@ public class Main {
                 newMin.set(false);
                 for (YagoNode min : minTree) {
                     removeWords.clear();
-                    if (!min.getNodeMatchWords().containsAll(newNode.getNodeMatchWords())) {
+                    if (newNode.getNodeMatchWords().equals(min.getNodeMatchWords()) &&
+                            newNode.getDepth() < min.getDepth()) {
+                        minTree.remove(min);
+                        minTree.add(newNode);
+                    }
+                    else if (!min.getNodeMatchWords().containsAll(newNode.getNodeMatchWords())) {
                         newMin.set(true);
                         for (String s : newNode.getNodeMatchWords()) {
                             if (min.getNodeMatchWords().contains(s)) removeWords.add(s);
                         }
                         min.getNodeMatchWords().removeAll(removeWords);
-                    }
-                    else if (newNode.getNodeMatchWords().equals(min.getNodeMatchWords()) &&
-                            newNode.getDepth() < min.getDepth()) {
-                        minTree.remove(min);
-                        minTree.add(newNode);
                     }
                 }
                 if (newMin.get()) {
