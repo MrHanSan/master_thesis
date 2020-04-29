@@ -7,19 +7,9 @@ Graph based models allows complex relations to be modeled. Finding relations in 
 
 Using RDF projects like YAGO (Yet Another Great Ontology) \cite{yago} have created graphs containing spatial and temporal data (spatiotemporal). This makes it possible to apply reason to the dataset, and derive new information from what is already there. This is a feature that typically separates a KG from an ontology \cite{KGDefYago}. In a graph, spatiotemporal data will be described using at least 2 vertices, one for a start date, and one for a place. When modeling time intervals, multiple vertices are needed.\\
 
-Currently searching in RDF data is still something being developed. Keyword search and text search is still something that is missing fully developed solutions, and when combining keyword search with spatiotemporal search, there is even less %Rewrite...
-\\
-Using frameworks such as Jena, it is possible to build solutions for keyword search, and spatiotemporal search, but when building such a solution, there needs to be done research into aspects such as speed, memory usage, accuracy, and ranking.\\
+There are few applications using RDF as an information storage system. Some of the more well known are DBPedia, YAGO, and Creative Commons. These applications often consists of a large linked dataset, or in the case of Creative Commons, it is used for embedding licenses. The applications built with RDF usually don't have much utility. A common utility built on top of RDF data sets are tools used to describe social relations, though there have been developed applications such as MusicBrainz that use RDF for relations between songs, artists, albums and other tags given to entities.\\
 
-- definitions (Find names, and some definitions)\\
-- Result tree\\
-- Possible results\\
-- Root nodes\\
-- Top set of results\\
-- Queries\\
-- Entire tree from root?\\
-- Pruning method\\
-- algorithms\\
+Creating methods that allows for easy access to information in RDF data makes it possible to create applications with more utility. Keyword and text search in RDF data is still something being developed and improved. Using frameworks such as Jena, it is possible to build solutions for keyword search, and spatiotemporal search. In this thesis (paper?) methods for efficient keyword search on spatial and temporal data will be explored.\\
 
 % Today large collections of information is available, but for this information to be useful, efficient retrieval methods is needed. More and more information is also being generated in collections with specific uses, such as a school wiki, or an article collection for a company. All this different types of information collections need methods for retrieval.\\
 

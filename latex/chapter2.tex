@@ -3,6 +3,20 @@
 \chapter{Background}
 
 \section{Definitions}
+- definitions (Find names, and some definitions)\\
+- Result tree: Result r for a given query q with tokens Qt on an RDF graph G$\langle$V, E$\rangle$, where the result forms a minimum spanning tree Tm$\langle$V', E'$\rangle$, V' contains a set of tokens Tt, Tm is rooted in a place vertex p, so that V' $\subseteq$V, E'$\subseteq$E, and Tt$\subseteq$Qt
+
+- Possible results: Collection of all result trees rt for a given query q\\
+
+- Root nodes: Node with a yagoGeoEntity class, used as the starting node when traversing the graph.\\
+
+- Accuracy: Score given to a result tree, where score is based on nodes n in the result tree, node distance nd from root, query q, and node tokens nt, and number of query words hit h so that sum(nt/len(q))/sum(n*(nd+1)) = score and nt (= q\\
+
+- Queries: Any set of words from in English set of words.\\
+
+- Pruning: Removal of unnecessary nodes n, where the removed nodes tokens nt is not part of the query tokens qt, nt$\nsubseteq$Qt.\\
+
+
 Knowledge base, ontology and knowledge graph are terms with multiple definitions, and are often used interchangeably. The definitions here are used to clarify what they mean in this paper, and is not a definitive definition.
 
 \subsection{Knowledge Base}
