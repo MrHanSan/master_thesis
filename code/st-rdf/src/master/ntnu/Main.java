@@ -275,7 +275,7 @@ public class Main {
                         continue;
                     }
                     if (newNode.getNodeMatchWords().containsAll(min.getNodeMatchWords()) &&
-                            newNode.getDepth() < min.getDepth()) {
+                            newNode.getDepth() <= min.getDepth()) {
                         removeNodes.add(min);
                     }
                 }
