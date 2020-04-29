@@ -259,6 +259,15 @@ public class Main {
                 newMin.set(false);
                 removeNodes.clear();
                 for (YagoNode min : minTree) {
+                    if (!min.getNodeMatchWords().containsAll(newNode.getNodeMatchWords())) {
+                        newMin.set(true);
+                        min.getNodeMatchWords().removeAll(newNode.getNodeMatchWords());
+                    }
+                }
+                if (newMin.get()) {
+                    minTree.add(newNode);
+                }
+                for (YagoNode min : minTree) {
                     if (min.getNodeMatchWords().size() == 0) {
                         removeNodes.add(min);
                     }
@@ -266,10 +275,6 @@ public class Main {
                             newNode.getDepth() < min.getDepth()) {
                         removeNodes.add(min);
                         newMin.set(true);
-                    }
-                    else if (!min.getNodeMatchWords().containsAll(newNode.getNodeMatchWords())) {
-                        newMin.set(true);
-                        min.getNodeMatchWords().removeAll(newNode.getNodeMatchWords());
                     }
                 }
                 if (newMin.get()) {
