@@ -278,6 +278,7 @@ public class Main {
                 minTree.removeAll(removeNodes);
             }
         }
+        System.out.println(minTree);
         for (YagoNode min : minTree) {
             YagoNode n = min;
             for (int i=min.getDepth(); i>0;i--) {
