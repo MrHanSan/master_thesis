@@ -275,6 +275,7 @@ public class Main {
                     if (!min.getNodeMatchWords().containsAll(newNode.getNodeMatchWords())) {
                         removeMin = min;
                         newMin.set(true);
+                        System.out.println("new: " + newNode.getNodeMatchWords());
                     }
                 }
                 if (newMin.get()) {
