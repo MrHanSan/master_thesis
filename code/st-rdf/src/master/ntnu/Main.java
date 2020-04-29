@@ -92,7 +92,12 @@ public class Main {
         try(BufferedReader br = new BufferedReader(new FileReader(fileName))) {
             for(String line; (line = br.readLine()) != null; ) {
                 if(!line.isEmpty()) {
-                    queryWords.add(line.split(" ")[0].toLowerCase());
+                    if (fileName.contains("place")) {
+                        queryWords.add(line.split(" ")[0]);
+                    }
+                    else{
+                        queryWords.add(line.split(" ")[0].toLowerCase());
+                    }
                 }
             }
         } catch (IOException e) {
