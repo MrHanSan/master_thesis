@@ -159,14 +159,12 @@ public class Main {
             }
             while (!nodes.isEmpty()) {
                 nodeCount += 1;
-                System.out.println(nodes.size());
                 YagoNode node = nodes.get(0);
 
                 if (node.getDepth() > maxDepth) {
                     nodes.remove(0);
                     continue;
                 }
-                System.out.println(node.getTokenList());
                 for (String word : queryWords) {
                     if (node.getTokenList().contains(word.toLowerCase())) {
                         node.addNodeMatchWord(word);
@@ -181,9 +179,7 @@ public class Main {
                 }
                 nodes.remove(0);
             }
-            System.out.println("");
-            System.out.println("Found Match...");
-            findMinSubgraph(root, queryWords, place);
+           findMinSubgraph(root, queryWords, place);
         }
         return nodeCount;
     }
@@ -243,14 +239,17 @@ public class Main {
         HashSet<String> removeWords = new HashSet<>();
         final AtomicBoolean newMin = new AtomicBoolean(false);
         minTree.add(rootNode);
-        System.out.println("Hits: " + rootNode.getHitChildren().size());
 
         // Check if root contains all words
         if (rootNode.getTokenList().containsAll(queryWords)) {
             rankSubGraphs(minTree, queryWords, place);
         }
+        // Or if there is no hits
+        else if (rootNode.getHitChildren().size() == 0) {
+            return;
+        }
 
-        // Else find the node with most fitting words.
+        // Else find the node(s) with most fitting words.
         else {
             for (YagoNode newNode : rootNode.getHitChildren()) {
                 newMin.set(false);
@@ -272,7 +271,7 @@ public class Main {
                 if (newMin.get()) {
                     minTree.add(newNode);
                 }
-                minTree.removeIf(e -> (e.getNodeMatchWords().isEmpty()));
+                minTree.removeIf(n -> (n.getNodeMatchWords().isEmpty()));
             }
         }
         for (YagoNode min : minTree) {
