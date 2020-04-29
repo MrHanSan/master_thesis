@@ -268,7 +268,7 @@ public class Main {
                     minTree.add(newNode);
                 }
             }
-            for (YagoNode newNode : minTree) {
+            for (YagoNode newNode : rootNode.getHitChildren()) {
                 for (YagoNode min : minTree) {
                     if (min.getNodeMatchWords().size() == 0) {
                         removeNodes.add(min);
