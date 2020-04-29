@@ -274,6 +274,11 @@ public class Main {
                         System.out.println(min.getNodeMatchWords());
                         break;
                     }
+                    else if (min.getNodeMatchWords().containsAll(newNode.getNodeMatchWords()) &&
+                            min.getDepth() > newNode.getDepth()) {
+                        removeNodes.add(min);
+                        continue;
+                    }
                     if (!min.getNodeMatchWords().containsAll(newNode.getNodeMatchWords())) {
                         removeMin = min;
                         newMin.set(true);
