@@ -270,6 +270,9 @@ public class Main {
                     if (min.getNodeMatchWords().containsAll(newNode.getNodeMatchWords()) &&
                             min.getDepth() < newNode.getDepth()) {
                         newMin.set(false);
+                        System.out.println("depth");
+                        System.out.println(newNode.getNodeMatchWords());
+                        System.out.println(min.getNodeMatchWords());
                         break;
                     }
                     if (!min.getNodeMatchWords().containsAll(newNode.getNodeMatchWords())) {
