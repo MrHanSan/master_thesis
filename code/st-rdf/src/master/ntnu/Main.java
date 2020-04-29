@@ -166,7 +166,6 @@ public class Main {
                     nodes.remove(0);
                     continue;
                 }
-                System.out.println(queryWords);
                 System.out.println(node.getTokenList());
                 for (String word : queryWords) {
                     if (node.getTokenList().contains(word.toLowerCase())) {
