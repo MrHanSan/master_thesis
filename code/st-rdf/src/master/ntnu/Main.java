@@ -205,9 +205,7 @@ public class Main {
                 newMin.set(false);
                 for (YagoNode min : minTree) {
                     removeWords.clear();
-                    if (!min.getNodeMatchWords().containsAll(newNode.getNodeMatchWords()) ||
-                            newNode.getNodeMatchWords().equals(min.getNodeMatchWords()) &&
-                                    newNode.getDepth() < min.getDepth()) {
+                    if (!min.getNodeMatchWords().containsAll(newNode.getNodeMatchWords())) {
                         newMin.set(true);
                         for (String s : newNode.getNodeMatchWords()) {
                             if (min.getNodeMatchWords().contains(s)) removeWords.add(s);
@@ -215,6 +213,11 @@ public class Main {
                         System.out.println(min.getNodeMatchWords());
                         min.getNodeMatchWords().removeAll(removeWords);
                         System.out.println(min.getNodeMatchWords());
+                    }
+                    else if (newNode.getNodeMatchWords().equals(min.getNodeMatchWords()) &&
+                            newNode.getDepth() < min.getDepth()) {
+                        minTree.remove(min);
+                        minTree.add(newNode);
                     }
                 }
                 if (newMin.get()) {
