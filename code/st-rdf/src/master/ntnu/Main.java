@@ -145,7 +145,7 @@ public class Main {
         // use node level for tabs when printing, displaying inheratance
         List<YagoNode> roots = getRoots(model, place);
         List<YagoNode> nodes = new ArrayList<YagoNode>();
-        int maxDepth = 1;
+        int maxDepth = 0;
         int nodeCount = 0;
         HashSet<YagoNode> hitNodes = new HashSet<>();
 
@@ -153,6 +153,11 @@ public class Main {
         for (YagoNode root : roots) {
             nodes.clear();
             nodes.add(root);
+            for (String word : queryWords) {
+                if (root.getTokenList().contains(word)) {
+                    root.addNodeMatchWord(word);
+                }
+            }
             while (!nodes.isEmpty()) {
                 nodeCount += 1;
                 //            System.out.println(nodes.size());
@@ -163,11 +168,6 @@ public class Main {
                     if (node.getTokenList().contains(word)) {
                         node.addNodeMatchWord(word);
                         node.addHitChild(node);
-                        YagoNode n = node;
-                        for (int i = node.getDepth(); i > 0; i--) {
-                            n = n.getParent();
-                            if (n.getDepth() == 0) hitNodes.add(n);
-                        }
                     }
                 }
                 if (node.getTokenList().equals(queryWords)) maxDepth = node.getDepth();
@@ -177,65 +177,60 @@ public class Main {
                 }
                 nodes.remove(0);
             }
+            System.out.println("");
+            System.out.println("Found Match...");
+            findMinSubgraph(root, queryWords, place);
         }
-        System.out.println("");
-        System.out.println("Found Match...");
-        findMinSubgraph(hitNodes, queryWords, place);
         return nodeCount;
     }
 
 
     // Useing kruskals -ish algo(?) Write something about that...
-    public static void findMinSubgraph (HashSet<YagoNode> rootNodes, HashSet<String> queryWords, String place) {
+    public static void findMinSubgraph (YagoNode rootNode, HashSet<String> queryWords, String place) {
         HashSet<YagoNode> minTree = new HashSet<>();
         HashSet<YagoNode> parentList = new HashSet<>();
         HashSet<String> removeWords = new HashSet<>();
         final AtomicBoolean newMin = new AtomicBoolean(false);
+        minTree.add(rootNode);
 
-        for (YagoNode node : rootNodes) {
-            parentList.clear();
-            minTree.clear();
-            minTree.add(node);
-
-            // Check if root contains all words
-            if (node.getTokenList().containsAll(queryWords)) {
-                rankSubGraphs(minTree, queryWords, place);
-            }
-
-            // Else find the node with most fitting words.
-            else {
-                for (YagoNode newNode : node.getHitChildren()) {
-                    removeWords.clear();
-                    newMin.set(false);
-                    for (YagoNode min : minTree) {
-                        if (!min.getNodeMatchWords().containsAll(newNode.getNodeMatchWords()) ||
-                                newNode.getNodeMatchWords().equals(min.getNodeMatchWords()) &&
-                                        newNode.getDepth() < min.getDepth()) {
-                            newMin.set(true);
-                            for (String s : newNode.getNodeMatchWords()) {
-                                if (min.getNodeMatchWords().contains(s)) removeWords.add(s);
-                            }
-                            min.getNodeMatchWords().removeAll(removeWords);
-                        }
-                    }
-                    if (newMin.get()) {
-                        minTree.add(newNode);
-                    }
-                    minTree.removeIf(e -> (e.getNodeMatchWords().isEmpty()));
-                }
-            }
-            for (YagoNode min : minTree) {
-                YagoNode n = min;
-                for (int i=min.getDepth(); i>0;i--) {
-                    if (n.getParent() != null) {
-                        parentList.add(n.getParent());
-                        n = n.getParent();
-                    }
-                }
-            }
-            minTree.addAll(parentList);
+        // Check if root contains all words
+        if (rootNode.getTokenList().containsAll(queryWords)) {
             rankSubGraphs(minTree, queryWords, place);
         }
+
+        // Else find the node with most fitting words.
+        else {
+            for (YagoNode newNode : rootNode.getHitChildren()) {
+                newMin.set(false);
+                for (YagoNode min : minTree) {
+                    removeWords.clear();
+                    if (!min.getNodeMatchWords().containsAll(newNode.getNodeMatchWords()) ||
+                            newNode.getNodeMatchWords().equals(min.getNodeMatchWords()) &&
+                                    newNode.getDepth() < min.getDepth()) {
+                        newMin.set(true);
+                        for (String s : newNode.getNodeMatchWords()) {
+                            if (min.getNodeMatchWords().contains(s)) removeWords.add(s);
+                        }
+                        min.getNodeMatchWords().removeAll(removeWords);
+                    }
+                }
+                if (newMin.get()) {
+                    minTree.add(newNode);
+                }
+                minTree.removeIf(e -> (e.getNodeMatchWords().isEmpty()));
+            }
+        }
+        for (YagoNode min : minTree) {
+            YagoNode n = min;
+            for (int i=min.getDepth(); i>0;i--) {
+                if (n.getParent() != null) {
+                    parentList.add(n.getParent());
+                    n = n.getParent();
+                }
+            }
+        }
+        minTree.addAll(parentList);
+        rankSubGraphs(minTree, queryWords, place);
     }
 
 
