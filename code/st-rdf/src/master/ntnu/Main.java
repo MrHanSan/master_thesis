@@ -166,7 +166,7 @@ public class Main {
                     System.out.println("BRRRRTTTTT");
                     System.out.println(node.getDepth());
                     System.out.println(node.getNodeData());
-                    break;
+                    continue;
                 }
                 for (String word : queryWords) {
                     if (node.getTokenList().contains(word)) {
@@ -244,6 +244,10 @@ public class Main {
         HashSet<String> removeWords = new HashSet<>();
         final AtomicBoolean newMin = new AtomicBoolean(false);
         minTree.add(rootNode);
+
+        for (YagoNode n : rootNode.getHitChildren()) {
+            System.out.println(n.getNodeData());
+        }
 
         // Check if root contains all words
         if (rootNode.getTokenList().containsAll(queryWords)) {
