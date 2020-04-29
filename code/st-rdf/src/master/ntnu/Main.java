@@ -170,9 +170,7 @@ public class Main {
                     continue;
                 }
                 for (String word : queryWords) {
-                    System.out.println(node.getTokenList());
-                    System.out.println(word);
-                    if (node.getTokenList().contains(word)) {
+                    if (node.getTokenList().contains(word.toLowerCase())) {
                         node.addNodeMatchWord(word);
                         node.addHitChild(node);
                         System.out.println(node.getHitChildren().size());
