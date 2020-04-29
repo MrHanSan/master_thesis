@@ -241,6 +241,7 @@ public class Main {
         HashSet<YagoNode> minTree = new HashSet<>();
         HashSet<YagoNode> parentList = new HashSet<>();
         HashSet<YagoNode> removeNodes = new HashSet<>();
+        YagoNode removeMin = null;
         final AtomicBoolean newMin = new AtomicBoolean(false);
         minTree.add(rootNode);
 
@@ -256,6 +257,9 @@ public class Main {
         // Else find the most fitting nodes.
         else {
             for (YagoNode newNode : rootNode.getHitChildren()) {
+                if (newNode.getNodeMatchWords().size() == 0) {
+                    continue;
+                }
                 newMin.set(false);
                 removeNodes.clear();
                 for (YagoNode min : minTree) {
@@ -263,19 +267,20 @@ public class Main {
                         removeNodes.add(min);
                         continue;
                     }
-                    else if (newNode.getNodeMatchWords().size() == 0) {
-                        break;
-                    }
-                    else if (min.getNodeMatchWords().containsAll(newNode.getNodeMatchWords()) &&
-                            min.getDepth() > newNode.getDepth()) {
+                    if (min.getNodeMatchWords().containsAll(newNode.getNodeMatchWords()) &&
+                            min.getDepth() < newNode.getDepth()) {
                         newMin.set(false);
                         break;
                     }
                     if (!min.getNodeMatchWords().containsAll(newNode.getNodeMatchWords())) {
+                        removeMin = min;
                         newMin.set(true);
                     }
                 }
                 if (newMin.get()) {
+                    if (removeMin != null) {
+                        removeMin.getNodeMatchWords().removeAll(newNode.getNodeMatchWords());
+                    }
                     minTree.add(newNode);
                 }
                 minTree.removeAll(removeNodes);
