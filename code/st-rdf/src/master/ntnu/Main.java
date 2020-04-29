@@ -298,13 +298,14 @@ public class Main {
                     String str = sub.toString();
                     String[] uriSplit = str.split("/");
                     String[] tokens = uriSplit[uriSplit.length-1].replaceAll(",", "").split("_");
-                    children.add(new YagoNode(yagoNode, str));
-//                    for (String word : queryWords) {
-//                        if (Arrays.asList(tokens).contains(word)) {
-//                            children.add(new YagoNode(yagoNode, str));
-//                            break;
-//                        }
-//                    }
+                    System.out.println(tokens);
+                    // children.add(new YagoNode(yagoNode, str));
+                   for (String word : queryWords) {
+                       if (Arrays.asList(tokens).contains(word)) {
+                           children.add(new YagoNode(yagoNode, str));
+                           break;
+                       }
+                   }
                 }
             } catch (QueryParseException | NullPointerException e) {
 //                System.out.println(entity);
