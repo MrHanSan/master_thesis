@@ -174,7 +174,6 @@ public class Main {
                     if (node.getTokenList().contains(word)) {
                         node.addNodeMatchWord(word);
                         node.addHitChild(node);
-                        System.out.println(node.getHitChildren().size());
                     }
                 }
                 if (node.getTokenList().equals(queryWords)) maxDepth = node.getDepth();
@@ -241,7 +240,7 @@ public class Main {
     public static void findMinSubgraph (YagoNode rootNode, HashSet<String> queryWords, String place) {
         HashSet<YagoNode> minTree = new HashSet<>();
         HashSet<YagoNode> parentList = new HashSet<>();
-        HashSet<String> removeWords = new HashSet<>();
+        HashSet<YagoNode> removeNodes = new HashSet<>();
         final AtomicBoolean newMin = new AtomicBoolean(false);
         minTree.add(rootNode);
 
@@ -254,29 +253,29 @@ public class Main {
             return;
         }
 
-        // Else find the node(s) with most fitting words.
+        // Else find the most fitting nodes.
         else {
             for (YagoNode newNode : rootNode.getHitChildren()) {
                 newMin.set(false);
+                removeNodes.clear();
                 for (YagoNode min : minTree) {
-                    removeWords.clear();
-                    if (newNode.getNodeMatchWords().equals(min.getNodeMatchWords()) &&
+                    if (min.getNodeMatchWords().size() == 0) {
+                        removeNodes.add(min);
+                    }
+                    if (newNode.getNodeMatchWords().containsAll(min.getNodeMatchWords()) &&
                             newNode.getDepth() < min.getDepth()) {
-                        minTree.remove(min);
-                        minTree.add(newNode);
+                        removeNodes.add(min);
+                        newMin.set(true);
                     }
                     else if (!min.getNodeMatchWords().containsAll(newNode.getNodeMatchWords())) {
                         newMin.set(true);
-                        for (String s : newNode.getNodeMatchWords()) {
-                            if (min.getNodeMatchWords().contains(s)) removeWords.add(s);
-                        }
-                        min.getNodeMatchWords().removeAll(removeWords);
+                        min.getNodeMatchWords().removeAll(newNode.getNodeMatchWords());
                     }
                 }
                 if (newMin.get()) {
                     minTree.add(newNode);
                 }
-                minTree.removeIf(n -> (n.getNodeMatchWords().isEmpty()));
+                minTree.removeAll(removeNodes);
             }
         }
         for (YagoNode min : minTree) {
