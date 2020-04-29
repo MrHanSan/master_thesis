@@ -163,12 +163,10 @@ public class Main {
                 YagoNode node = nodes.get(0);
 
                 if (node.getDepth() > maxDepth) {
-                    System.out.println("BRRRRTTTTT");
-                    System.out.println(node.getDepth());
-                    System.out.println(node.getNodeData());
                     nodes.remove(0);
                     continue;
                 }
+                System.out.println(root.getHitChildren() == node.getHitChildren());
                 for (String word : queryWords) {
                     if (node.getTokenList().contains(word.toLowerCase())) {
                         node.addNodeMatchWord(word);
@@ -245,6 +243,7 @@ public class Main {
         HashSet<String> removeWords = new HashSet<>();
         final AtomicBoolean newMin = new AtomicBoolean(false);
         minTree.add(rootNode);
+        System.out.println("Hits: " + rootNode.getHitChildren().size());
 
         // Check if root contains all words
         if (rootNode.getTokenList().containsAll(queryWords)) {
