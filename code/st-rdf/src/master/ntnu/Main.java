@@ -137,7 +137,6 @@ public class Main {
         return roots;
     }
 
-
     public static int traverseStart(Model model, HashSet<String> queryWords, String place) {
         // Use a list in parent node for all children that gets a hit.
         // group all hit Children
@@ -145,7 +144,7 @@ public class Main {
         // use node level for tabs when printing, displaying inheratance
         List<YagoNode> roots = getRoots(model, place);
         List<YagoNode> nodes = new ArrayList<YagoNode>();
-        int maxDepth = 1;
+        int maxDepth = 2;
         int nodeCount = 0;
         HashSet<YagoNode> hitNodes = new HashSet<>();
 
@@ -168,6 +167,7 @@ public class Main {
                     if (node.getTokenList().contains(word)) {
                         node.addNodeMatchWord(word);
                         node.addHitChild(node);
+                        System.out.println(node.getHitChildren().size());
                     }
                 }
                 if (node.getTokenList().equals(queryWords)) maxDepth = node.getDepth();
@@ -184,6 +184,53 @@ public class Main {
         return nodeCount;
     }
 
+    public static ArrayList<YagoNode> traverse (Model model, YagoNode yagoNode, HashSet<String> queryWords) {
+        String entity = yagoNode.getNodeData();
+        ArrayList<YagoNode> children = new ArrayList<YagoNode>();
+        if (entity == null) return null;
+        if (entity.contains("<") || entity.contains(">") || entity.contains("\"") || entity.contains(" ")) return null;
+
+        String queryString 	= "PREFIX rdf:<http://www.w3.org/1999/02/22-rdf-syntax-ns#> " +
+                "SELECT DISTINCT ?p ?o WHERE { " +
+                "<" + entity + "> ?p ?o . " +
+                "FILTER ( ?p != rdf:type ) " +
+                "}";
+
+        try {
+            Query query = QueryFactory.create(queryString);
+//            System.out.println("trav");
+            try (QueryExecution qexec = QueryExecutionFactory.create(query, model)) {
+                ResultSet results = qexec.execSelect();
+                while (results.hasNext()) {
+                    QuerySolution soln = results.nextSolution();
+//                    System.out.println("?s " + entity + " " + soln);
+                    RDFNode sub = soln.get("o");
+
+//                    System.out.println(soln);
+
+                    if (sub == null || !sub.isURIResource()) continue;
+                    String str = sub.toString();
+                    String[] uriSplit = str.split("/");
+                    String[] tokens = uriSplit[uriSplit.length-1].replaceAll("[,()]", "").split("_");
+                    children.add(new YagoNode(yagoNode, str));
+//                    for (String word : queryWords) {
+//                        if (Arrays.asList(tokens).contains(word)) {
+//                            children.add(new YagoNode(yagoNode, str));
+//                            break;
+//                        }
+//                    }
+                }
+            } catch (QueryParseException | NullPointerException e) {
+//                System.out.println(entity);
+//                System.out.println(e);
+//                System.out.println();
+            }
+        } catch (QueryParseException e) {
+            System.out.println(queryString);
+            return null;
+        }
+        return children;
+    }
 
     // Useing kruskals -ish algo(?) Write something about that...
     public static void findMinSubgraph (YagoNode rootNode, HashSet<String> queryWords, String place) {
@@ -236,7 +283,6 @@ public class Main {
         rankSubGraphs(minTree, queryWords, place);
     }
 
-
     public static void rankSubGraphs(HashSet<YagoNode> rootNodes, HashSet<String> queryWords, String place) {
         double score = 0.0;
         double hitRate = 0.0;
@@ -262,55 +308,6 @@ public class Main {
         scoreString += "\n";
         System.out.println(scoreString);
         WriteResults(scoreString, place);
-    }
-
-
-    public static ArrayList<YagoNode> traverse (Model model, YagoNode yagoNode, HashSet<String> queryWords) {
-        String entity = yagoNode.getNodeData();
-        ArrayList<YagoNode> children = new ArrayList<YagoNode>();
-        if (entity == null) return null;
-        if (entity.contains("<") || entity.contains(">") || entity.contains("\"") || entity.contains(" ")) return null;
-
-        String queryString 	= "PREFIX rdf:<http://www.w3.org/1999/02/22-rdf-syntax-ns#> " +
-                "SELECT DISTINCT ?p ?o WHERE { " +
-                "<" + entity + "> ?p ?o . " +
-                "FILTER ( ?p != rdf:type ) " +
-                "}";
-
-        try {
-            Query query = QueryFactory.create(queryString);
-//            System.out.println("trav");
-            try (QueryExecution qexec = QueryExecutionFactory.create(query, model)) {
-                ResultSet results = qexec.execSelect();
-                while (results.hasNext()) {
-                    QuerySolution soln = results.nextSolution();
-                    System.out.println("?s " + entity + " " + soln);
-                    RDFNode sub = soln.get("o");
-
-//                    System.out.println(soln);
-
-                    if (sub == null || !sub.isURIResource()) continue;
-                    String str = sub.toString();
-                    String[] uriSplit = str.split("/");
-                    String[] tokens = uriSplit[uriSplit.length-1].replaceAll("[,()]", "").split("_");
-                     children.add(new YagoNode(yagoNode, str));
-//                    for (String word : queryWords) {
-//                        if (Arrays.asList(tokens).contains(word)) {
-//                            children.add(new YagoNode(yagoNode, str));
-//                            break;
-//                        }
-//                    }
-                }
-            } catch (QueryParseException | NullPointerException e) {
-//                System.out.println(entity);
-//                System.out.println(e);
-//                System.out.println();
-            }
-        } catch (QueryParseException e) {
-            System.out.println(queryString);
-            return null;
-        }
-        return children;
     }
 
     public static ArrayList<YagoNode> temporalNodes (Model modes, YagoNode yagoNode) {
