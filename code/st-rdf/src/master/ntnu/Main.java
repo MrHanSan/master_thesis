@@ -262,12 +262,9 @@ public class Main {
                 }
                 newMin.set(false);
                 removeNodes.clear();
-                System.out.println("node: " + newNode.getHitChildren().size());
                 for (YagoNode min : minTree) {
                     if (min.getNodeMatchWords().size() == 0) {
-                        System.out.println(min.getNodeMatchWords());
                         removeNodes.add(min);
-                        continue;
                     }
                     if (min.getNodeMatchWords().containsAll(newNode.getNodeMatchWords()) &&
                             min.getDepth() < newNode.getDepth()) {
