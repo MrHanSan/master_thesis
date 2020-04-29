@@ -267,18 +267,17 @@ public class Main {
                 if (newMin.get()) {
                     minTree.add(newNode);
                 }
+            }
+            for (YagoNode newNode : minTree) {
                 for (YagoNode min : minTree) {
                     if (min.getNodeMatchWords().size() == 0) {
                         removeNodes.add(min);
+                        continue;
                     }
                     if (newNode.getNodeMatchWords().containsAll(min.getNodeMatchWords()) &&
                             newNode.getDepth() < min.getDepth()) {
                         removeNodes.add(min);
-                        newMin.set(true);
                     }
-                }
-                if (newMin.get()) {
-                    minTree.add(newNode);
                 }
                 minTree.removeAll(removeNodes);
             }
