@@ -303,7 +303,7 @@ public class Main {
                 results += "\t";
             }
             results += node.getNodeData() + "   " + node.getNodeMatchWords();
-            hitRate = node.getNodeMatchWords().size();
+            hitRate += node.getNodeMatchWords().size();
             score += node.getDepth() + 1;
         }
         System.out.println(results);
