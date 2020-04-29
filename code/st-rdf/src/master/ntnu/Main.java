@@ -205,20 +205,17 @@ public class Main {
             // Else find the node with most fitting words.
             else {
                 for (YagoNode newNode : node.getHitChildren()) {
+                    removeWords.clear()
                     newMin.set(false);
                     for (YagoNode min : minTree) {
                         if (!min.getNodeMatchWords().containsAll(newNode.getNodeMatchWords()) ||
                                 newNode.getNodeMatchWords().equals(min.getNodeMatchWords()) &&
-                                        newNode.getDepth() <= min.getDepth()) {
+                                        newNode.getDepth() < min.getDepth()) {
                             newMin.set(true);
                             for (String s : newNode.getNodeMatchWords()) {
                                 if (min.getNodeMatchWords().contains(s)) removeWords.add(s);
                             }
                             min.getNodeMatchWords().removeAll(removeWords);
-                        }
-                        else {
-                            newMin.set(false);
-                            break;
                         }
                     }
                     if (newMin.get()) {
@@ -297,15 +294,14 @@ public class Main {
                     if (sub == null || !sub.isURIResource()) continue;
                     String str = sub.toString();
                     String[] uriSplit = str.split("/");
-                    String[] tokens = uriSplit[uriSplit.length-1].replaceAll(",", "").split("_");
-                    System.out.println(tokens);
+                    String[] tokens = uriSplit[uriSplit.length-1].replaceAll("[,()]", "").split("_");
                     // children.add(new YagoNode(yagoNode, str));
-                   for (String word : queryWords) {
-                       if (Arrays.asList(tokens).contains(word)) {
-                           children.add(new YagoNode(yagoNode, str));
-                           break;
-                       }
-                   }
+                    for (String word : queryWords) {
+                        if (Arrays.asList(tokens).contains(word)) {
+                            children.add(new YagoNode(yagoNode, str));
+                            break;
+                        }
+                    }
                 }
             } catch (QueryParseException | NullPointerException e) {
 //                System.out.println(entity);
