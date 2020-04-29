@@ -205,7 +205,7 @@ public class Main {
             // Else find the node with most fitting words.
             else {
                 for (YagoNode newNode : node.getHitChildren()) {
-                    removeWords.clear()
+                    removeWords.clear();
                     newMin.set(false);
                     for (YagoNode min : minTree) {
                         if (!min.getNodeMatchWords().containsAll(newNode.getNodeMatchWords()) ||
