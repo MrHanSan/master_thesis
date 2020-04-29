@@ -183,7 +183,7 @@ public class Main {
                 }
                 nodes.remove(0);
             }
-           findMinSubgraph(root, queryWords, place);
+            findMinSubgraph(root, queryWords, place);
         }
         return nodeCount;
     }
@@ -259,25 +259,24 @@ public class Main {
                 newMin.set(false);
                 removeNodes.clear();
                 for (YagoNode min : minTree) {
-                    if (!min.getNodeMatchWords().containsAll(newNode.getNodeMatchWords())) {
-                        newMin.set(true);
-                        min.getNodeMatchWords().removeAll(newNode.getNodeMatchWords());
-                    }
-                }
-                if (newMin.get()) {
-                    minTree.add(newNode);
-                }
-            }
-            for (YagoNode newNode : rootNode.getHitChildren()) {
-                for (YagoNode min : minTree) {
                     if (min.getNodeMatchWords().size() == 0) {
                         removeNodes.add(min);
                         continue;
                     }
-                    if (newNode.getNodeMatchWords().containsAll(min.getNodeMatchWords()) &&
-                            newNode.getDepth() <= min.getDepth() && newNode != min) {
-                        removeNodes.add(min);
+                    else if (newNode.getNodeMatchWords().size() == 0) {
+                        break;
                     }
+                    else if (min.getNodeMatchWords().containsAll(newNode.getNodeMatchWords()) &&
+                            min.getDepth() > newNode.getDepth()) {
+                        newMin.set(false);
+                        break;
+                    }
+                    if (!min.getNodeMatchWords().containsAll(newNode.getNodeMatchWords())) {
+                        newMin.set(true);
+                    }
+                }
+                if (newMin.get()) {
+                    minTree.add(newNode);
                 }
                 minTree.removeAll(removeNodes);
             }
