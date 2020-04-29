@@ -263,6 +263,7 @@ public class Main {
                 newMin.set(false);
                 removeNodes.clear();
                 for (YagoNode min : minTree) {
+                    System.out.println(min.getNodeMatchWords());
                     if (min.getNodeMatchWords().size() == 0) {
                         removeNodes.add(min);
                         continue;
