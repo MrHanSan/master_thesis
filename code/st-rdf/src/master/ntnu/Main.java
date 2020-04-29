@@ -192,8 +192,7 @@ public class Main {
         HashSet<String> removeWords = new HashSet<>();
         final AtomicBoolean newMin = new AtomicBoolean(false);
         minTree.add(rootNode);
-        System.out.println("Chur 1");
-        System.out.println(rootNode.getNodeMatchWords());
+        System.out.println(rootNode.getNodeMatchWords() + " 1");
 
         // Check if root contains all words
         if (rootNode.getTokenList().containsAll(queryWords)) {
@@ -211,11 +210,9 @@ public class Main {
                         for (String s : newNode.getNodeMatchWords()) {
                             if (min.getNodeMatchWords().contains(s)) removeWords.add(s);
                         }
-                        System.out.println("Chur 2");
-                        System.out.println(min.getNodeMatchWords());
+                        System.out.println(min.getNodeMatchWords() + " 2");
                         min.getNodeMatchWords().removeAll(removeWords);
-                        System.out.println("Chur 3");
-                        System.out.println(min.getNodeMatchWords());
+                        System.out.println(min.getNodeMatchWords() + " 3");
                     }
                     else if (newNode.getNodeMatchWords().equals(min.getNodeMatchWords()) &&
                             newNode.getDepth() < min.getDepth()) {
