@@ -15,7 +15,7 @@ public class YagoNode {
         this.nodeData = nodeData;
         this.tokenList = new HashSet<>();
         String[] a = nodeData.split("/");
-        this.tokenList.addAll(Arrays.asList(a[a.length-1].replaceAll("[,()]", "").split("_")));
+        this.tokenList.addAll(Arrays.asList(a[a.length-1].replaceAll("[,()]", "").toLowerCase().split("_")));
         depth = 0;
         hitChildren = new HashSet<YagoNode>();
         nodeMatchWords = new HashSet<String>();
@@ -26,7 +26,7 @@ public class YagoNode {
         this.nodeData = nodeData;
         this.tokenList = new HashSet<>();
         String[] a = nodeData.split("/");
-        this.tokenList.addAll(Arrays.asList(a[a.length-1].replaceAll("[,()]", "").split("_")));
+        this.tokenList.addAll(Arrays.asList(a[a.length-1].replaceAll("[,()]", "").toLowerCase().split("_")));
         depth = parent.getDepth()+1;
         hitChildren = parent.hitChildren;
         nodeMatchWords = new HashSet<String>();

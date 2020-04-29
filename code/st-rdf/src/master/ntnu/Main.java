@@ -92,7 +92,7 @@ public class Main {
         try(BufferedReader br = new BufferedReader(new FileReader(fileName))) {
             for(String line; (line = br.readLine()) != null; ) {
                 if(!line.isEmpty()) {
-                    queryWords.add(line.split(" ")[0]);
+                    queryWords.add(line.split(" ")[0].toLowerCase());
                 }
             }
         } catch (IOException e) {
@@ -166,7 +166,7 @@ public class Main {
                     continue;
                 }
                 for (String word : queryWords) {
-                    if (node.getTokenList().contains(word.toLowerCase())) {
+                    if (node.getTokenList().contains(word)) {
                         node.addNodeMatchWord(word);
                         node.addHitChild(node);
                         System.out.println(node.getHitChildren().size());
@@ -298,9 +298,7 @@ public class Main {
                 results += "\t";
             }
             results += node.getNodeData() + "   " + node.getNodeMatchWords();
-           for (String s : node.getTokenList()) {
-                if (queryWords.contains(s)) hitRate += 1;
-            }
+            hitRate = node.getNodeMatchWords().size();
             score += node.getDepth() + 1;
         }
         System.out.println(results);
