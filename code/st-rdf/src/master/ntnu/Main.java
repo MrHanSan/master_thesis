@@ -159,10 +159,15 @@ public class Main {
             }
             while (!nodes.isEmpty()) {
                 nodeCount += 1;
-                //            System.out.println(nodes.size());
+                System.out.println(nodes.size());
                 YagoNode node = nodes.get(0);
 
-                if (node.getDepth() > maxDepth) break;
+                if (node.getDepth() > maxDepth) {
+                    System.out.println("BRRRRTTTTT");
+                    System.out.println(node.getDepth());
+                    System.out.println(node.getNodeData());
+                    break;
+                }
                 for (String word : queryWords) {
                     if (node.getTokenList().contains(word)) {
                         node.addNodeMatchWord(word);
