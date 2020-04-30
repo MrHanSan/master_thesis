@@ -1,0 +1,139 @@
+Query Words: william, whole
+Root nodes Found: 203
+Nodes visited: 676668
+Total execution time: 15308
+
+Query Words: thomas, california
+Root nodes Found: 203
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Sense8   []
+	http://yago-knowledge.org/resource/Los_Angeles   []
+Score: 0.09090909090909091
+----
+
+Nodes visited: 676668
+Total execution time: 14017
+
+Query Words: park, church
+Root nodes Found: 203
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Sense8   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Ware_Bottom_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/Church_of_Iceland   [church]
+Score: 0.5
+----
+
+Nodes visited: 676668
+Total execution time: 14156
+
+Query Words: district, objects
+Root nodes Found: 203
+
+http://yago-knowledge.org/resource/Sense8   []
+	http://yago-knowledge.org/resource/Mumbai   []
+		http://yago-knowledge.org/resource/Mumbai_Suburban_district   [district]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 676668
+Total execution time: 14059
+
+Query Words: descent, football
+Root nodes Found: 203
+Nodes visited: 676668
+Total execution time: 13965
+
+Query Words: william, park
+Root nodes Found: 203
+
+http://yago-knowledge.org/resource/Sense8   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 676668
+Total execution time: 14085
+
+Query Words: district, objects
+Root nodes Found: 203
+
+	http://yago-knowledge.org/resource/Mumbai   []
+		http://yago-knowledge.org/resource/Mumbai_Suburban_district   [district]
+http://yago-knowledge.org/resource/Sense8   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 676668
+Total execution time: 13926
+
+Query Words: thomas, california
+Root nodes Found: 203
+
+	http://yago-knowledge.org/resource/Los_Angeles   []
+http://yago-knowledge.org/resource/Sense8   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+		http://yago-knowledge.org/resource/California   [california]
+Score: 0.09090909090909091
+----
+
+Nodes visited: 676668
+Total execution time: 13975
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 203
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/San_Francisco   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Sense8   []
+Score: 0.045454545454545456
+----
+
+Nodes visited: 676668
+Total execution time: 13920
+
+Query Words: park, church, district, objects
+Root nodes Found: 203
+
+	http://yago-knowledge.org/resource/San_Francisco   []
+	http://yago-knowledge.org/resource/Mumbai   []
+http://yago-knowledge.org/resource/Sense8   []
+		http://yago-knowledge.org/resource/Candlestick_Park   [park]
+		http://yago-knowledge.org/resource/Mumbai_City_district   [district]
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Salem_Church   [church]
+Score: 0.046875
+----
+
+
+http://yago-knowledge.org/resource/Church_of_Iceland   [church]
+Score: 0.25
+----
+
+Nodes visited: 676668
+Total execution time: 14752
+
+Query Words: descent, football, william, park
+Root nodes Found: 203
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Sense8   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+Score: 0.041666666666666664
+----
+
+Nodes visited: 676668
+Total execution time: 14059
+
