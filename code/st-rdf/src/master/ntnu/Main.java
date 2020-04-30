@@ -215,7 +215,7 @@ public class Main {
                     if (sub == null || !sub.isURIResource()) continue;
                     String str = sub.toString();
                     String[] uriSplit = str.split("/");
-                    String[] tokens = uriSplit[uriSplit.length-1].replaceAll("[,()]", "").split("_");
+                    String[] tokens = uriSplit[uriSplit.length-1].replaceAll("[,()]", "").toLowerCase().split("_");
 //                    children.add(new YagoNode(yagoNode, str));
                     for (String word : queryWords) {
                         if (Arrays.asList(tokens).contains(word)) {
