@@ -288,6 +288,7 @@ public class Main {
                     }
                     minTree.add(newNode);
                 }
+                minTree.removeAll(removeNodes);
             }
         }
         for (YagoNode min : minTree) {
