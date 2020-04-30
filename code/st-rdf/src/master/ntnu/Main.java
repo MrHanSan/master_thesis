@@ -295,6 +295,7 @@ public class Main {
                 minTree.removeAll(removeNodes);
             }
         }
+        System.out.println("");
         for (YagoNode n : minTree) {
             System.out.println(n.getNodeData());
         }
