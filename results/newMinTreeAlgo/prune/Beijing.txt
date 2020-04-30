@@ -1,0 +1,2316 @@
+Query Words: william, whole
+Root nodes Found: 1354
+Nodes visited: 1354
+Total execution time: 1849
+
+Query Words: thomas, california
+Root nodes Found: 1354
+
+http://yago-knowledge.org/resource/Wokai   []
+	http://yago-knowledge.org/resource/Oakland,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Nestlé   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Analogix   []
+	http://yago-knowledge.org/resource/Santa_Clara,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Redwood_City,_California   [california]
+http://yago-knowledge.org/resource/Perfect_World_(company)   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/R20_Regions_of_Climate_Action   []
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/I-Jet_Media   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Orange_County,_California   [california]
+http://yago-knowledge.org/resource/Keiretsu_Forum   []
+Score: 0.16666666666666666
+----
+
+Nodes visited: 1451
+Total execution time: 715
+
+Query Words: park, church
+Root nodes Found: 1354
+
+http://yago-knowledge.org/resource/Wonderland_Amusement_Park_(Beijing)   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Huanghe_Hydropower_Golmud_Solar_Park   [park]
+http://yago-knowledge.org/resource/State_Power_Investment_Corporation   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_Park   [park]
+http://yago-knowledge.org/resource/Monument_to_Nizami_Ganjavi_in_Beijing   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Chaoyang_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Jingshan_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St._Joseph's_Church,_Beijing   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Beijing_Shijingshan_Amusement_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Bailu_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Fengtai_District   []
+	http://yago-knowledge.org/resource/Lotus_Pond_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Jingyi_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Shijingshan_District   []
+	http://yago-knowledge.org/resource/Beijing_Shijingshan_Amusement_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Lotus_Pond_Park   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_Park   [park]
+http://yago-knowledge.org/resource/Beijing_Great_Wheel   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Fahai_Temple_Forest_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Duzhong_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Dongba_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Beijing_World_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Guta_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Purple_Bamboo_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Longtan_Lake_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Beihai_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Daoxiang_Lake_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Ming_City_Wall_Relics_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Tuanjiehu_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Beijing_Expo_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Zhongshan_Park_(Beijing)   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Yuyuantan_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Olympic_Forest_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Yaowa_Lake_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Yuan_Dynasty_City_Wall_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Taoranting_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Jintian_Park   [park]
+Score: 0.5
+----
+
+Nodes visited: 1360
+Total execution time: 587
+
+Query Words: district, objects
+Root nodes Found: 1354
+
+http://yago-knowledge.org/resource/Civil_Aviation_Administration_of_China   []
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Changping_District   [district]
+http://yago-knowledge.org/resource/Wonderland_Amusement_Park_(Beijing)   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+http://yago-knowledge.org/resource/Beijing_University_International_Hospital   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Xicheng_District   [district]
+http://yago-knowledge.org/resource/China_National_Center_for_the_Performing_Arts_Orchestra   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Canaan_Creative   []
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/China-Japan_Friendship_Hospital   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+http://yago-knowledge.org/resource/China_National_Space_Administration   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/OASIS_International_Hospital   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Aviation_Industry_Corporation_of_China   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+http://yago-knowledge.org/resource/LeSports_Center   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+http://yago-knowledge.org/resource/Yenching_Academy   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Daystar_Academy   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Workers'_Stadium   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Xicheng_District   [district]
+http://yago-knowledge.org/resource/Norinco   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Nestlé   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+http://yago-knowledge.org/resource/New_Oriental   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Peking_University_Third_Hospital   []
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Chaoyang_Park   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Western_Academy_of_Beijing   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+http://yago-knowledge.org/resource/China_Academy_of_Space_Technology   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/China_Post   []
+	http://yago-knowledge.org/resource/Xicheng_District   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Beijing_Capital_International_Airport   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+http://yago-knowledge.org/resource/CR_Snow   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Xicheng_District   [district]
+http://yago-knowledge.org/resource/Great_Hall_of_the_People   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Beijing_Jingshan_School   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/CCTV-1   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Changping_District   [district]
+http://yago-knowledge.org/resource/Cooperation_Consortium_of_Beijing_High_Technology_Universities   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+http://yago-knowledge.org/resource/Peking_University   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/BN_Vocational_School   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Shisanling_Pumped_Storage_Power_Station   []
+	http://yago-knowledge.org/resource/Changping_District   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Changping_District   [district]
+http://yago-knowledge.org/resource/Reignwood_LPGA_Classic   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Xicheng_District   [district]
+http://yago-knowledge.org/resource/National_Centre_for_the_Performing_Arts_(China)   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Xiaomi   []
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+http://yago-knowledge.org/resource/Tsinghua_International_School   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/State_Tobacco_Monopoly_Administration   []
+	http://yago-knowledge.org/resource/Xicheng_District   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Chinese_Basketball_Association_(organisation)   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Beijing_Museum_of_Natural_History   []
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/CCTV-7   []
+	http://yago-knowledge.org/resource/Beijing_central_business_district   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+http://yago-knowledge.org/resource/China_South_Industries_Group   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/National_Bureau_of_Statistics_of_China   []
+	http://yago-knowledge.org/resource/Xicheng_District   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/CGTN_(TV_channel)   []
+	http://yago-knowledge.org/resource/Beijing_central_business_district   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Beijing_Sinobo_Guoan_F.C.   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Chaonei_No._81   []
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Sinopec   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Liubiju   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Wangjing_SOHO   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Hanergy   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Beijing_Film_Academy   []
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Beijing_City_International_School   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/China_Machinery_Engineering_Corporation   []
+	http://yago-knowledge.org/resource/Xicheng_District   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Aura_Gallery   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Xicheng_District   [district]
+http://yago-knowledge.org/resource/High_School_Affiliated_to_Beijing_Normal_University   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Shunyi_District   [district]
+http://yago-knowledge.org/resource/Air_China   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Beijing_BISS_International_School   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Shijingshan_District   [district]
+http://yago-knowledge.org/resource/Beijing_Shijingshan_Amusement_Park   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Xicheng_District   [district]
+http://yago-knowledge.org/resource/State_Grid_Corporation_of_China   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Capital_Museum   []
+	http://yago-knowledge.org/resource/Xicheng_District   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/BAW   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/China_National_Petroleum_Corporation   []
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/China_International_Capital_Corporation   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Beijing_Huiwen_Middle_School   []
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Fengtai_District   [district]
+http://yago-knowledge.org/resource/Museum_of_the_War_of_Chinese_People's_Resistance_Against_Japanese_Aggression   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Niujie_Mosque   []
+	http://yago-knowledge.org/resource/Xicheng_District   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Xicheng_District   [district]
+http://yago-knowledge.org/resource/Communist_Party_of_China   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/China_Printing_Museum   []
+	http://yago-knowledge.org/resource/Daxing_District   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+http://yago-knowledge.org/resource/Aeroengine_Corporation_of_China   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Beijing_central_business_district   [district]
+http://yago-knowledge.org/resource/Fairmont_Beijing   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Lycée�Français�International�Charles�de�Gaulle�de�Pékin   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+http://yago-knowledge.org/resource/National_Art_Museum_of_China   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+http://yago-knowledge.org/resource/PetroChina   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/CCTV-证券资讯   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Tongzhou_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Universal_Studios_Beijing   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/CCTV-Storm_Music   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/CCTV-Golf_&_Tennis   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Fengtai_District   [district]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/CCTV-China_Television_Shopping_Channel   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/CCTV-Nostalgia_Theater   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Shijingshan_District   [district]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/CCTV-Storm_Theater   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/CCTV-Storm_Football   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/China_National_Philatelic_Corporation   []
+	http://yago-knowledge.org/resource/Xuanwu_District,_Beijing   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/CCTV-TV_Guide   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/CCTV-新科动漫   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/CCTV-The_First_Theater   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Changping_District   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Shunyi_District   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/West_Chang'an_Avenue_Subdistrict   []
+	http://yago-knowledge.org/resource/Xicheng_District   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Xicheng_District   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Tongzhou_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Lucheng,_Beijing   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Tongzhou_District,_Beijing   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Haidian_District   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Beixinqiao_Subdistrict   []
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Daxing_District   [district]
+http://yago-knowledge.org/resource/Yinghai,_Beijing   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Daxing_District   [district]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Chongwen_District   [district]
+http://yago-knowledge.org/resource/Chinese_Squash_Association   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Zuojiazhuang_Subdistrict   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Mentougou_District   [district]
+http://yago-knowledge.org/resource/Mount_Miaofeng   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Maizidian_Subdistrict   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Yizhuang,_Beijing   []
+	http://yago-knowledge.org/resource/Daxing_District   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Huanghuacheng   []
+	http://yago-knowledge.org/resource/Huairou_District   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Dongsi_Subdistrict,_Beijing   []
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Yongshun,_Beijing   []
+	http://yago-knowledge.org/resource/Tongzhou_District,_Beijing   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Mentougou_District   [district]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Xicheng_District   [district]
+http://yago-knowledge.org/resource/Miaoying_Temple   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Zizhuyuan_Subdistrict   []
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Miyun_District   [district]
+http://yago-knowledge.org/resource/Gubeikou   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Miyun_District   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Beijing_World_Park   []
+	http://yago-knowledge.org/resource/Fengtai_District   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Jiaodoukou_Subdistrict   []
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Gaobeidian,_Beijing   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Andingmen_Subdistrict   []
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Chaoyangmen_Subdistrict   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Jingshan_Subdistrict,_Beijing   []
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+http://yago-knowledge.org/resource/Qinglongqiao_Subdistrict   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Shidu,_Beijing   []
+	http://yago-knowledge.org/resource/Fangshan_District   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Fangshan_District   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Qinghuayuan_Subdistrict   []
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+http://yago-knowledge.org/resource/Huayuan_Road_Subdistrict,_Beijing   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Si'de_Gongyuan   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Donghuamen_Subdistrict   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Mutianyu_Village   []
+	http://yago-knowledge.org/resource/Huairou_District   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Ganjiakou_Subdistrict   []
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+http://yago-knowledge.org/resource/World_Mahjong_Organization   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Mentougou_District   [district]
+http://yago-knowledge.org/resource/Mount_Ling_(Beijing)   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Miyun_Town   []
+	http://yago-knowledge.org/resource/Miyun_District   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Jiugong   []
+	http://yago-knowledge.org/resource/Daxing_District   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Tongzhou_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Majuqiao   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Balizhuang_Subdistrict,_Chaoyang_District,_Beijing   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Beixiaguan_Subdistrict   []
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+http://yago-knowledge.org/resource/Yanyuan_Subdistrict   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Miaofengshan   []
+	http://yago-knowledge.org/resource/Mentougou_District   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Zhongcang_Subdistrict   []
+	http://yago-knowledge.org/resource/Tongzhou_District,_Beijing   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Nanluoguxiang   []
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Dongsi_Mosque   []
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Qinghe_Subdistrict,_Beijing   []
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Huairou_District   [district]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Shuangjing_Subdistrict,_Beijing   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+http://yago-knowledge.org/resource/Wanliu   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Pinggu_District   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Yanqing_District   [district]
+Score: 0.5
+----
+
+Nodes visited: 1483
+Total execution time: 628
+
+Query Words: descent, football
+Root nodes Found: 1354
+
+http://yago-knowledge.org/resource/CITIC_Group   []
+	http://yago-knowledge.org/resource/City_Football_Group   [football]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/CCTV-Storm_Football   [football]
+http://yago-knowledge.org/resource/China_Central_Television   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/China_Arena_Football_League   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/CCTV-Storm_Football   [football]
+Score: 0.5
+----
+
+Nodes visited: 1356
+Total execution time: 431
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 1354
+
+http://yago-knowledge.org/resource/Wokai   []
+	http://yago-knowledge.org/resource/Oakland,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Nestlé   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Analogix   []
+	http://yago-knowledge.org/resource/Santa_Clara,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Perfect_World_(company)   []
+	http://yago-knowledge.org/resource/Redwood_City,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [california]
+http://yago-knowledge.org/resource/R20_Regions_of_Climate_Action   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/I-Jet_Media   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Keiretsu_Forum   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 1453
+Total execution time: 518
+
+Query Words: park, church, district, objects
+Root nodes Found: 1354
+
+http://yago-knowledge.org/resource/Civil_Aviation_Administration_of_China   []
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Changping_District   [district]
+http://yago-knowledge.org/resource/Wonderland_Amusement_Park_(Beijing)   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Beijing_University_International_Hospital   []
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/China_National_Center_for_the_Performing_Arts_Orchestra   []
+	http://yago-knowledge.org/resource/Xicheng_District   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+http://yago-knowledge.org/resource/Canaan_Creative   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/China-Japan_Friendship_Hospital   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+http://yago-knowledge.org/resource/China_National_Space_Administration   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/OASIS_International_Hospital   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Aviation_Industry_Corporation_of_China   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/LeSports_Center   []
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Yenching_Academy   []
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Daystar_Academy   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Workers'_Stadium   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/State_Power_Investment_Corporation   []
+	http://yago-knowledge.org/resource/Huanghe_Hydropower_Golmud_Solar_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_Park   [park]
+http://yago-knowledge.org/resource/Monument_to_Nizami_Ganjavi_in_Beijing   []
+		http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Norinco   []
+	http://yago-knowledge.org/resource/Xicheng_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Nestlé   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+http://yago-knowledge.org/resource/New_Oriental   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Peking_University_Third_Hospital   []
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Chaoyang_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Western_Academy_of_Beijing   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+http://yago-knowledge.org/resource/China_Academy_of_Space_Technology   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/China_Post   []
+	http://yago-knowledge.org/resource/Xicheng_District   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Shunyi_District   [district]
+http://yago-knowledge.org/resource/Beijing_Capital_International_Airport   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+http://yago-knowledge.org/resource/CR_Snow   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Xicheng_District   [district]
+http://yago-knowledge.org/resource/Great_Hall_of_the_People   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Beijing_Jingshan_School   []
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/CCTV-1   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Cooperation_Consortium_of_Beijing_High_Technology_Universities   []
+	http://yago-knowledge.org/resource/Changping_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Peking_University   []
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/BN_Vocational_School   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Changping_District   [district]
+http://yago-knowledge.org/resource/Shisanling_Pumped_Storage_Power_Station   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Changping_District   [district]
+http://yago-knowledge.org/resource/Reignwood_LPGA_Classic   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/National_Centre_for_the_Performing_Arts_(China)   []
+	http://yago-knowledge.org/resource/Xicheng_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Jingshan_Park   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+http://yago-knowledge.org/resource/Xiaomi   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Tsinghua_International_School   []
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Xicheng_District   [district]
+http://yago-knowledge.org/resource/State_Tobacco_Monopoly_Administration   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Chinese_Basketball_Association_(organisation)   []
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Beijing_Museum_of_Natural_History   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/CCTV-7   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+http://yago-knowledge.org/resource/China_South_Industries_Group   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/National_Bureau_of_Statistics_of_China   []
+	http://yago-knowledge.org/resource/Xicheng_District   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beijing_central_business_district   [district]
+http://yago-knowledge.org/resource/CGTN_(TV_channel)   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Beijing_Sinobo_Guoan_F.C.   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Chaonei_No._81   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Sinopec   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Liubiju   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/St._Joseph's_Church,_Beijing   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Wangjing_SOHO   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Hanergy   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Beijing_Film_Academy   []
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Beijing_City_International_School   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Xicheng_District   [district]
+http://yago-knowledge.org/resource/China_Machinery_Engineering_Corporation   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Aura_Gallery   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/High_School_Affiliated_to_Beijing_Normal_University   []
+	http://yago-knowledge.org/resource/Xicheng_District   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Shunyi_District   [district]
+http://yago-knowledge.org/resource/Air_China   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Beijing_BISS_International_School   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Shijingshan_District   [district]
+http://yago-knowledge.org/resource/Beijing_Shijingshan_Amusement_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Xicheng_District   [district]
+http://yago-knowledge.org/resource/State_Grid_Corporation_of_China   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Capital_Museum   []
+	http://yago-knowledge.org/resource/Xicheng_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Bailu_Park   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/BAW   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/China_National_Petroleum_Corporation   []
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/China_International_Capital_Corporation   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Beijing_Huiwen_Middle_School   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Museum_of_the_War_of_Chinese_People's_Resistance_Against_Japanese_Aggression   []
+	http://yago-knowledge.org/resource/Fengtai_District   [district]
+		http://yago-knowledge.org/resource/Lotus_Pond_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Xicheng_District   [district]
+http://yago-knowledge.org/resource/Niujie_Mosque   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Communist_Party_of_China   []
+	http://yago-knowledge.org/resource/Xicheng_District   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Daxing_District   [district]
+http://yago-knowledge.org/resource/China_Printing_Museum   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+http://yago-knowledge.org/resource/Aeroengine_Corporation_of_China   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Beijing_central_business_district   [district]
+http://yago-knowledge.org/resource/Fairmont_Beijing   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Lycée�Français�International�Charles�de�Gaulle�de�Pékin   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/National_Art_Museum_of_China   []
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+http://yago-knowledge.org/resource/PetroChina   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/CCTV-证券资讯   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Tongzhou_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Universal_Studios_Beijing   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/CCTV-Storm_Music   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/CCTV-Golf_&_Tennis   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Jingyi_Park   [park]
+http://yago-knowledge.org/resource/Fengtai_District   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Jingyi_Park   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/CCTV-China_Television_Shopping_Channel   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/CCTV-Nostalgia_Theater   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Shijingshan_District   [district]
+	http://yago-knowledge.org/resource/Beijing_Shijingshan_Amusement_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Lotus_Pond_Park   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/CCTV-Storm_Theater   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/CCTV-Storm_Football   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Xuanwu_District,_Beijing   [district]
+http://yago-knowledge.org/resource/China_National_Philatelic_Corporation   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/CCTV-TV_Guide   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/CCTV-新科动漫   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/CCTV-The_First_Theater   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Changping_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Shunyi_District   [district]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Xicheng_District   [district]
+http://yago-knowledge.org/resource/West_Chang'an_Avenue_Subdistrict   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Xicheng_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_Park   [park]
+		http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Beijing_Great_Wheel   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Lucheng,_Beijing   []
+	http://yago-knowledge.org/resource/Tongzhou_District,_Beijing   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Tongzhou_District,_Beijing   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Haidian_District   [district]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Beixinqiao_Subdistrict   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Yinghai,_Beijing   []
+	http://yago-knowledge.org/resource/Daxing_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Daxing_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Fahai_Temple_Forest_Park   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Chongwen_District   [district]
+http://yago-knowledge.org/resource/Chinese_Squash_Association   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Zuojiazhuang_Subdistrict   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Duzhong_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Mount_Miaofeng   []
+	http://yago-knowledge.org/resource/Mentougou_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Maizidian_Subdistrict   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Yizhuang,_Beijing   []
+	http://yago-knowledge.org/resource/Daxing_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Huanghuacheng   []
+	http://yago-knowledge.org/resource/Huairou_District   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Dongsi_Subdistrict,_Beijing   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Tongzhou_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Yongshun,_Beijing   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Mentougou_District   [district]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Xicheng_District   [district]
+http://yago-knowledge.org/resource/Miaoying_Temple   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Zizhuyuan_Subdistrict   []
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Dongba_Park   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Miyun_District   [district]
+http://yago-knowledge.org/resource/Gubeikou   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Miyun_District   [district]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Fengtai_District   [district]
+http://yago-knowledge.org/resource/Beijing_World_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Jiaodoukou_Subdistrict   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Guta_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Gaobeidian,_Beijing   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Andingmen_Subdistrict   []
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Purple_Bamboo_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Longtan_Lake_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Beihai_Park   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Chaoyangmen_Subdistrict   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Daoxiang_Lake_Park   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Jingshan_Subdistrict,_Beijing   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+http://yago-knowledge.org/resource/Qinglongqiao_Subdistrict   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Fangshan_District   [district]
+http://yago-knowledge.org/resource/Shidu,_Beijing   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Fangshan_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Ming_City_Wall_Relics_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Qinghuayuan_Subdistrict   []
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Huayuan_Road_Subdistrict,_Beijing   []
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Si'de_Gongyuan   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Donghuamen_Subdistrict   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Tuanjiehu_Park   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Huairou_District   [district]
+http://yago-knowledge.org/resource/Mutianyu_Village   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Ganjiakou_Subdistrict   []
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Beijing_Expo_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Zhongshan_Park_(Beijing)   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Yuyuantan_Park   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+http://yago-knowledge.org/resource/World_Mahjong_Organization   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Olympic_Forest_Park   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Mentougou_District   [district]
+http://yago-knowledge.org/resource/Mount_Ling_(Beijing)   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Yaowa_Lake_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Miyun_Town   []
+	http://yago-knowledge.org/resource/Miyun_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Yuan_Dynasty_City_Wall_Park   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Daxing_District   [district]
+http://yago-knowledge.org/resource/Jiugong   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Tongzhou_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Majuqiao   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Taoranting_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Balizhuang_Subdistrict,_Chaoyang_District,_Beijing   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Beixiaguan_Subdistrict   []
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+http://yago-knowledge.org/resource/Yanyuan_Subdistrict   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mentougou_District   [district]
+http://yago-knowledge.org/resource/Miaofengshan   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Zhongcang_Subdistrict   []
+	http://yago-knowledge.org/resource/Tongzhou_District,_Beijing   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Nanluoguxiang   []
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Dongsi_Mosque   []
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+http://yago-knowledge.org/resource/Qinghe_Subdistrict,_Beijing   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Huairou_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Jintian_Park   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Shuangjing_Subdistrict,_Beijing   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Wanliu   []
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Pinggu_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Yanqing_District   [district]
+Score: 0.25
+----
+
+Nodes visited: 1499
+Total execution time: 503
+
+Query Words: descent, football, william, park
+Root nodes Found: 1354
+
+http://yago-knowledge.org/resource/Wonderland_Amusement_Park_(Beijing)   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/CITIC_Group   []
+	http://yago-knowledge.org/resource/City_Football_Group   [football]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Huanghe_Hydropower_Golmud_Solar_Park   [park]
+http://yago-knowledge.org/resource/State_Power_Investment_Corporation   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_Park   [park]
+http://yago-knowledge.org/resource/Monument_to_Nizami_Ganjavi_in_Beijing   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Chaoyang_Park   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/CCTV-Storm_Football   [football]
+http://yago-knowledge.org/resource/China_Central_Television   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Jingshan_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Beijing_Shijingshan_Amusement_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bailu_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/China_Arena_Football_League   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Fengtai_District   []
+	http://yago-knowledge.org/resource/Lotus_Pond_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Jingyi_Park   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Beijing_Shijingshan_Amusement_Park   [park]
+http://yago-knowledge.org/resource/Shijingshan_District   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Lotus_Pond_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/CCTV-Storm_Football   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Beijing_Great_Wheel   []
+	http://yago-knowledge.org/resource/Chaoyang_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Fahai_Temple_Forest_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Duzhong_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Dongba_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Beijing_World_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Guta_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Purple_Bamboo_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Longtan_Lake_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Beihai_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Daoxiang_Lake_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Ming_City_Wall_Relics_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Tuanjiehu_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Beijing_Expo_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Zhongshan_Park_(Beijing)   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Yuyuantan_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Olympic_Forest_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Yaowa_Lake_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Yuan_Dynasty_City_Wall_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Taoranting_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Jintian_Park   [park]
+Score: 0.25
+----
+
+Nodes visited: 1362
+Total execution time: 350
+
