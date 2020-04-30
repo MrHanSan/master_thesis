@@ -257,13 +257,14 @@ public class Main {
         // Else find the most fitting nodes.
         else {
             for (YagoNode newNode : rootNode.getHitChildren()) {
-                if (newNode.getNodeMatchWords().size() == 0) {
+                if (newNode.getNodeMatchWords().isEmpty()) {
                     continue;
                 }
                 newMin.set(false);
                 removeNodes.clear();
+                if (minTree.isEmpty()) minTree.add(newNode);
                 for (YagoNode min : minTree) {
-                    if (min.getNodeMatchWords().size() == 0) {
+                    if (min.getNodeMatchWords().isEmpty()) {
                         removeNodes.add(min);
                     }
                     if (min.getNodeMatchWords().containsAll(newNode.getNodeMatchWords()) &&
@@ -275,7 +276,7 @@ public class Main {
                         break;
                     }
                     else if (min.getNodeMatchWords().containsAll(newNode.getNodeMatchWords()) &&
-                            min.getDepth() > newNode.getDepth()) {
+                            min.getDepth() > newNode.getDepth() && newNode.getNodeMatchWords().size() != 0) {
                         removeNodes.add(min);
                         continue;
                     }
