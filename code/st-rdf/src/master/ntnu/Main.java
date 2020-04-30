@@ -261,6 +261,7 @@ public class Main {
                     continue;
                 }
                 newMin.set(false);
+                System.out.println(newNode.getNodeData());
                 if (minTree.isEmpty()) minTree.add(newNode);
                 for (YagoNode min : minTree) {
                     if (min.getNodeMatchWords().isEmpty()) {
