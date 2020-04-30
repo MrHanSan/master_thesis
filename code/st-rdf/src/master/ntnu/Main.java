@@ -261,7 +261,6 @@ public class Main {
                     continue;
                 }
                 newMin.set(false);
-                System.out.println(newNode.getNodeData());
                 if (minTree.isEmpty()) minTree.add(newNode);
                 for (YagoNode min : minTree) {
                     if (min.getNodeMatchWords().isEmpty()) {
@@ -270,22 +269,17 @@ public class Main {
                     if (min.getNodeMatchWords().containsAll(newNode.getNodeMatchWords()) &&
                             min.getDepth() < newNode.getDepth()) {
                         newMin.set(false);
-                        System.out.println("depth");
-                        System.out.println(newNode.getNodeMatchWords());
-                        System.out.println(min.getNodeMatchWords());
                         break;
                     }
                     else if (min.getNodeMatchWords().containsAll(newNode.getNodeMatchWords()) &&
-                            min.getDepth() >= newNode.getDepth()) {
+                            min.getDepth() >= newNode.getDepth() && min != newNode) {
                         removeNodes.add(min);
                         newMin.set(true);
-                        System.out.println("better: " + newNode.getNodeMatchWords());
                         continue;
                     }
                     if (!min.getNodeMatchWords().containsAll(newNode.getNodeMatchWords())) {
                         removeMin = min;
                         newMin.set(true);
-                        System.out.println("new: " + newNode.getNodeMatchWords());
                     }
                 }
                 if (newMin.get()) {
@@ -294,19 +288,12 @@ public class Main {
                     }
                     minTree.add(newNode);
                 }
-                minTree.removeAll(removeNodes);
             }
         }
-        System.out.println("");
-        for (YagoNode n : minTree) {
-            System.out.println(n.getNodeData());
-        }
-        System.out.println("min tree size: "+ minTree.size());
         for (YagoNode min : minTree) {
             YagoNode n = min;
             for (int i=min.getDepth(); i>0;i--) {
                 if (n.getParent() != null) {
-                    System.out.println(n.getParent().getNodeData());
                     parentList.add(n.getParent());
                     n = n.getParent();
                 }
