@@ -295,11 +295,15 @@ public class Main {
                 minTree.removeAll(removeNodes);
             }
         }
+        for (YagoNode n : minTree) {
+            System.out.println(n.getNodeData());
+        }
         System.out.println("min tree size: "+ minTree.size());
         for (YagoNode min : minTree) {
             YagoNode n = min;
             for (int i=min.getDepth(); i>0;i--) {
                 if (n.getParent() != null) {
+                    System.out.println(n.getParent().getNodeData());
                     parentList.add(n.getParent());
                     n = n.getParent();
                 }
