@@ -275,7 +275,7 @@ public class Main {
                         break;
                     }
                     else if (min.getNodeMatchWords().containsAll(newNode.getNodeMatchWords()) &&
-                            min.getDepth() > newNode.getDepth() && newNode.getNodeMatchWords().size() != 0) {
+                            min.getDepth() > newNode.getDepth()) {
                         removeNodes.add(min);
                         continue;
                     }
@@ -291,8 +291,8 @@ public class Main {
                     }
                     minTree.add(newNode);
                 }
+                minTree.removeAll(removeNodes);
             }
-            minTree.removeAll(removeNodes);
         }
         System.out.println("min tree size: "+ minTree.size());
         for (YagoNode min : minTree) {
