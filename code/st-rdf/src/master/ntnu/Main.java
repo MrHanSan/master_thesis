@@ -261,7 +261,6 @@ public class Main {
                     continue;
                 }
                 newMin.set(false);
-                removeNodes.clear();
                 if (minTree.isEmpty()) minTree.add(newNode);
                 for (YagoNode min : minTree) {
                     if (min.getNodeMatchWords().isEmpty()) {
@@ -292,8 +291,8 @@ public class Main {
                     }
                     minTree.add(newNode);
                 }
-                minTree.removeAll(removeNodes);
             }
+            minTree.removeAll(removeNodes);
         }
         System.out.println("min tree size: "+ minTree.size());
         for (YagoNode min : minTree) {
