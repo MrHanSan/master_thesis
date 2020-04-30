@@ -276,8 +276,10 @@ public class Main {
                         break;
                     }
                     else if (min.getNodeMatchWords().containsAll(newNode.getNodeMatchWords()) &&
-                            min.getDepth() > newNode.getDepth()) {
+                            min.getDepth() >= newNode.getDepth()) {
                         removeNodes.add(min);
+                        newMin.set(true);
+                        System.out.println("better: " + newNode.getNodeMatchWords());
                         continue;
                     }
                     if (!min.getNodeMatchWords().containsAll(newNode.getNodeMatchWords())) {
