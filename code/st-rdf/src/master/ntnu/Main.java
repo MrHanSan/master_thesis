@@ -149,7 +149,7 @@ public class Main {
         // use node level for tabs when printing, displaying inheratance
         List<YagoNode> roots = getRoots(model, place);
         List<YagoNode> nodes = new ArrayList<YagoNode>();
-        int maxDepth = 2;
+        int maxDepth = 1;
         int nodeCount = 0;
         HashSet<YagoNode> hitNodes = new HashSet<>();
 
