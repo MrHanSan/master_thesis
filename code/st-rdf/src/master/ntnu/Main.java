@@ -329,7 +329,7 @@ public class Main {
         WriteResults(scoreString, place);
     }
 
-    public static ArrayList<YagoNode> temporalNodes (Model modes, YagoNode yagoNode) {
+    public static ArrayList<YagoNode> temporalNodes (Model model, YagoNode yagoNode) {
         String entity = yagoNode.getNodeData();
         ArrayList<YagoNode> children = new ArrayList<YagoNode>();
         if (entity == null) return null;
@@ -340,6 +340,29 @@ public class Main {
                 "s? ?p ?o . " +
                 "FILTER ( datatype(?o) =  xsd:date ) . " +
                 "}";
+
+
+        try {
+            Query query = QueryFactory.create(queryString);
+            try (QueryExecution qexec = QueryExecutionFactory.create(query, model)) {
+                ResultSet results = qexec.execSelect();
+                while (results.hasNext()) {
+                    QuerySolution soln = results.nextSolution();
+                    System.out.println(soln);
+                    RDFNode sub = soln.get("o");
+                    if (sub == null || !sub.isURIResource()) continue;
+                    String str = sub.toString();
+                    String[] uriSplit = str.split("/");
+                }
+            } catch (QueryParseException | NullPointerException e) {
+                System.out.println(entity);
+                System.out.println(e);
+                System.out.println();
+            }
+        } catch (QueryParseException e) {
+            System.out.println(queryString);
+            return null;
+        }
 
         return children;
     }

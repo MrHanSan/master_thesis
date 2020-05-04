@@ -5,17 +5,12 @@
 \section{Dataset}
 When selecting a data set an important feature was accurate spatial and temporal data. For this Yago was selected. Yago allows for download of subsets of data, and contains all the necessary data. Yagos high accuracy was also a benefit of this data set. From Yago, the data selected was the entire Yago taxonomy, the entire Yago core, and from Geonames the sets GeonamesOnlyData, GeonamesClassIds, GeonamesGlosses, GeonamesTypes, and GeonamesClasses were selected. These sets makes it possible to build a complete graph of the entities in Yago, but keeps the disk usage as low as possible.\\
 
-Yago taxonomy is used to create a structure ...
-
-- Using parts of Yago\\
 - Short description of each of the parts\\
 - preprocessing: replace non-unicode chars, replacing space with underscore in URIs, terminate triplet where missing termination, remove double quotes in URIs, remove backslash unless legal escape sequence\\
 - tdbloader for persistent queriable storage\\
 - Structure of graph? Here or in Yago description?\\
 % awk -F ' ' '{a[$1] += $2} END{for (i in a) print i, a[i]}' topMiddle100stemmed.txt | sort -k 2 -n > topMiddle.txt
 
-
-\includegraphics[width=\textwidth]{example-image-c}
 
 \section{Queries}
 When selecting the keywords used in queries, a semi random selection method was used at first. This method created three pools of words, rare words (less than 1000 occurrences) uncommon words (less than 100 000 occurrences) and common words (more than 100 000 occurrences). The three pools where created by stemming all words, then counting occurrences. From each pool of words, a set of 100 where randomly selected, and from those 100, 10 where selected manually to ensure a range of occurrences, and to ensure no stop words, misspelled words or other errors were in the final set of keywords.\\
@@ -28,7 +23,12 @@ Generating random queries can create results that will not have any hits.\\
 Find a good method of creating queries.\\
 
 \section{Pruning}
+A simple method to improve performance when searching in large data sets is to remove data that is unnecessary to search.
+
 \subsection{Predicate pruning}
+Predicate pruning is the process of eliminating predicates from the search. The taxonomy of Yago creates assigns predicates to one or more group or class. By selecting specific groups or classes it is possible to follow the types of data searched for, while eliminating a lot of other data. When pruning based on classes or groups the type of data returned must be known beforehand, to ensure that no possible hits is overlooked.\\
+
+Another possible method for pruning is to specify the exact predicates to follow. This will remove a lot of data, but is possibility when searching for something specific. This will also greatly increase the speed of the search, and reduce the memory usage for the search. 
 
 \section{Evaluation}
 There are multiple possible methods for evaluating the indexing and search methods. A good method for evaluating the retrieval methods is time. The faster information can be retrieved the better the retrieval method should be, assuming the information retrieved is correct. For the purpose of this theses time complexity will be the main evaluation method, along with evaluation of how well the retrieved information fits the query.\\
