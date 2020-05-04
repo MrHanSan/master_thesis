@@ -1,0 +1,5163 @@
+Query Words: william, whole
+Root nodes Found: 6469
+
+http://yago-knowledge.org/resource/William_Hill_(bookmaker)   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/William_Morris_Gallery   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Network_Rail   []
+	http://yago-knowledge.org/resource/Fort_William_Station_Sidings   [william]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/William_Press_Group   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/William_Ellis_School   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/William_Morris_Sixth_Form   [william]
+Score: 0.5
+----
+
+Nodes visited: 6471
+Total execution time: 2194
+
+Query Words: thomas, california
+Root nodes Found: 6469
+
+http://yago-knowledge.org/resource/PolyGram_Filmed_Entertainment   []
+	http://yago-knowledge.org/resource/Universal_City,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Jane_by_Design   []
+	http://yago-knowledge.org/resource/Santa_Clarita,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Bellator_MMA_in_2016   []
+	http://yago-knowledge.org/resource/Anaheim,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Burbank,_California   [california]
+http://yago-knowledge.org/resource/Cookie_Jar_Group   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Universal_City,_California   [california]
+http://yago-knowledge.org/resource/Universal_Pictures   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Ontario,_California   [california]
+http://yago-knowledge.org/resource/2013_in_Glory   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Bellator_MMA_in_2017   []
+	http://yago-knowledge.org/resource/Inglewood,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Kate_Sharpley_Library   []
+	http://yago-knowledge.org/resource/Berkeley,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/St_Thomas_the_Apostle_College   [thomas]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Project_Panther_Bidco   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Street_Soul_Productions   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Houlihan_Lokey   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Blue_Star_Infotech   []
+	http://yago-knowledge.org/resource/Santa_Clara,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Thomas_Tallis_School   [thomas]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Sapphire_Ventures   []
+	http://yago-knowledge.org/resource/Palo_Alto,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [california]
+http://yago-knowledge.org/resource/Island_Records   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/HIT_Entertainment   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Manga_Entertainment   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [california]
+http://yago-knowledge.org/resource/Jingle_Punks_Music   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/World_Vision_International   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Melendez_Films   []
+	http://yago-knowledge.org/resource/Burbank,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/The_Initiative_Collective   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/GV_(company)   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Foster_City,_California   [california]
+http://yago-knowledge.org/resource/Kennet_Partners   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/TPG_Capital   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/PEN_Center_USA   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/CloudMade   []
+	http://yago-knowledge.org/resource/Menlo_Park,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Bishop_Thomas_Grant_School   [thomas]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Amerindo_Investment_Advisors   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Voilà�Hotel�Rewards   []
+	http://yago-knowledge.org/resource/Newport_Beach,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Palo_Alto,_California   [california]
+http://yago-knowledge.org/resource/The_Cybersmile_Foundation   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Thomas_Young_Centre   [thomas]
+Score: 0.5
+----
+
+Nodes visited: 6837
+Total execution time: 1751
+
+Query Words: park, church
+Root nodes Found: 6469
+
+http://yago-knowledge.org/resource/Alexandra_Park_Racecourse   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/de/Hyde_Park_Motor_Stores   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Finsbury_Park_station   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_Farmhouse_Museum   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Stonebridge_Park_station   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Cedar_Park,_Texas   [park]
+http://yago-knowledge.org/resource/Bellator_MMA_in_2016   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Drayton_Park_railway_station   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/British_International_Motor_Show   []
+	http://yago-knowledge.org/resource/Battersea_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Sizaire-Berwick   []
+	http://yago-knowledge.org/resource/Park_Royal   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Blackheath_Bluecoat_Church_of_England_School   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/British_Rail   []
+	http://yago-knowledge.org/resource/Finsbury_Park_TMD   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Swimming_at_the_2012_Summer_Olympics   []
+	http://yago-knowledge.org/resource/Hyde_Park,_London   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/The_Great_Exhibition   []
+	http://yago-knowledge.org/resource/Hyde_Park,_London   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Equestrian_at_the_2012_Summer_Olympics   []
+	http://yago-knowledge.org/resource/Greenwich_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Modern_pentathlon_at_the_2012_Summer_Olympics   []
+	http://yago-knowledge.org/resource/Greenwich_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Battersea_Park_Street_Circuit   [park]
+http://yago-knowledge.org/resource/2016_London_ePrix   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Football_at_the_2012_Summer_Olympics   []
+	http://yago-knowledge.org/resource/Hampden_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Equestrian_at_the_2012_Summer_Paralympics   []
+	http://yago-knowledge.org/resource/Greenwich_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/St_Anne's_Church,_Soho   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Griffin_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Holland_Park_tube_station   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Park_Theatre_(London)   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Grange_Park_railway_station   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Orleans_Park_School   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Regent's_Park   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Christ_Church,_Jerusalem   [church]
+http://yago-knowledge.org/resource/Church's_Ministry_Among_Jewish_People   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/New_Mersey_Shopping_Park   [park]
+http://yago-knowledge.org/resource/British_Land   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Hyde_Park_Winter_Wonderland   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Chiswick_Park_Cricket_Ground   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St_Peter's_Roman_Catholic_Church,_Woolwich   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Battersea_Park_railway_station   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Newbury_Park_tube_station   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Galore_Park   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Finsbury_Park,_London   [park]
+http://yago-knowledge.org/resource/The_Silver_Bullet   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Twyford_Church_of_England_High_School   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Queens_Park_Rangers_F.C.   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+http://yago-knowledge.org/resource/Cardinal_Vaughan_Memorial_School   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Cricklewood_Baptist_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Hilton_London_Hyde_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St_James's_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Brockwell_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St_Alfege_Church,_Greenwich   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St_Pancras_New_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Archbishop_Tenison's_Church_of_England_School   [church]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Tufnell_Park   [park]
+http://yago-knowledge.org/resource/Acland_Burghley_School   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Tower_Hamlets_Cemetery_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Electra_Private_Equity   []
+	http://yago-knowledge.org/resource/Park_Resorts   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Honor_Oak_Park_railway_station   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Belsize_Park_FC   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/EDF_Energy   []
+	http://yago-knowledge.org/resource/Langley_Park_Wind_Farm   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/St_Mary_Magdalen_Roman_Catholic_Church_Mortlake   [church]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Wembley_Park   [park]
+http://yago-knowledge.org/resource/Wembley_Conference_Centre   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/St_Mary's_Church,_Rotherhithe   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St_Columba's_Church,_London   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Our_Lady_of_Perpetual_Help_Catholic_Church,_London   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St_Peter's_Church,_Walworth   [church]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Downsview_Park_(TTC)   [park]
+http://yago-knowledge.org/resource/Aedas   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Basketball_Arena_(London)   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Olympic_Stadium_(London)   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Belsize_Park_RFC   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St_Casimir's_Lithuanian_Church   [church]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Manor_Park,_London   [park]
+http://yago-knowledge.org/resource/St_Michael's_Church,_Romford_Road   [church]
+Score: 0.3333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Methodist_Church_of_Great_Britain   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Tufnell_Park_tube_station   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/London_Designer_Outlet   []
+	http://yago-knowledge.org/resource/Wembley_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/New_Park_Street_Chapel   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St_Matthew's_Church,_Willesden   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Bowes_Park_railway_station   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St_Peter's_Italian_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St_Helen's_Church,_Bishopsgate   [church]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Upton_Park,_London   [park]
+http://yago-knowledge.org/resource/Boleyn_Ground   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/London_Hilton_on_Park_Lane   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/BHP_Billiton   []
+	http://yago-knowledge.org/resource/Norwich_Park_coal_mine   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/St_James's_Church,_Paddington   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Bush_Hill_Park_railway_station   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/fr/Drayton_Park   [park]
+http://yago-knowledge.org/resource/Emirates_Stadium   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/InterContinental_London_Park_Lane   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/London_Aquatics_Centre   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Queen's_Park_(London)_station   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Patron_Capital   []
+	http://yago-knowledge.org/resource/Arlington_Business_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Ivy_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Network_Rail   []
+	http://yago-knowledge.org/resource/Wanstead_Park_railway_station   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Highams_Park_School   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St_Anselm's_Church,_Southall   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Chelsea_Old_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Hyde_Park_Corner_tube_station   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St_Michael's_Church,_Camden_Town   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Royal_Dutch_Shell   []
+	http://yago-knowledge.org/resource/Pocking_Solar_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Ravenscourt_Park_tube_station   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/The_Worst_Witch_(1998_TV_series)   []
+	http://yago-knowledge.org/resource/Loseley_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Handicap_International   []
+	http://yago-knowledge.org/resource/Takoma_Park,_Maryland   [park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Canons_Park   [park]
+http://yago-knowledge.org/resource/The_Hive_Stadium   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Regent's_Park_Open_Air_Theatre   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Ravenscourt_Park_Football_Club   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St_Elizabeth_of_Portugal_Church   [church]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Bow_Church_DLR_station   [church]
+http://yago-knowledge.org/resource/Transport_for_London   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+http://yago-knowledge.org/resource/Water_Polo_Arena   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/St_Barnabas'_Church,_Manor_Park   [church, park]
+Score: 1.0
+----
+
+
+http://yago-knowledge.org/resource/St_Barnabas'_Church,_Manor_Park   [church, park]
+Score: 1.0
+----
+
+
+	http://yago-knowledge.org/resource/Raynes_Park   [park]
+http://yago-knowledge.org/resource/British_Salmson   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/St_James'_Church,_Norlands   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Brondesbury_Park_railway_station   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/French_Protestant_Church_of_London   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Forster_Memorial_Park   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Richmond_Park   [park]
+http://yago-knowledge.org/resource/Thatched_House_Lodge   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/One_Park_Drive   [park]
+http://yago-knowledge.org/resource/Canary_Wharf_Group   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Thorpe_Park   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+http://yago-knowledge.org/resource/ArcelorMittal_Orbit   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/White_Lodge,_Richmond_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St_Luke's_Church,_Kentish_Town   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Hyde_Park_Barracks,_London   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Four_Seasons_Hotel_London_at_Park_Lane   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Gisburne_Park   [park]
+http://yago-knowledge.org/resource/BMI_Healthcare   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Lovebox_Festival   []
+	http://yago-knowledge.org/resource/Victoria_Park,_London   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Riverbank_Arena   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Wireless_Festival   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Sheraton_Grand_London_Park_Lane_Hotel   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+http://yago-knowledge.org/resource/Lee_Valley_VeloPark   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/City_of_London   []
+	http://yago-knowledge.org/resource/Labatt_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Park_Royal   [park]
+http://yago-knowledge.org/resource/Best-One   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Christ_Church,_Spitalfields   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Regent's_University_London   []
+	http://yago-knowledge.org/resource/Regent's_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Twyford_Church_of_England_Academies_Trust   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/M1_motorway   []
+	http://yago-knowledge.org/resource/Donington_Park_services   [park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Park_Crescent,_London   [park]
+http://yago-knowledge.org/resource/International_Students_House,_London   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Holy_Trinity_Church,_Marylebone   [church]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+http://yago-knowledge.org/resource/Leighton_House_Museum   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Highlands_School,_Grange_Park   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Park_Royal   [park]
+http://yago-knowledge.org/resource/Diageo   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Gidea_Park_Carriage_Holding_Sidings   [park]
+http://yago-knowledge.org/resource/TfL_Rail   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Flamingoes_F.C.   []
+	http://yago-knowledge.org/resource/Battersea_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Queens_Park_Community_School   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St_Ignatius_Church,_Stamford_Hill   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St_Mary_Magdalene_Church,_Holloway_Road   [church]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Ivy_Park   [park]
+http://yago-knowledge.org/resource/Topshop   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/The_Park_Tower_Knightsbridge_Hotel   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Crystal_Palace_F.C.   []
+	http://yago-knowledge.org/resource/Selhurst_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Selhurst_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Green_Park_tube_station   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/All_Souls_Church,_Langham_Place   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St_George's_Garrison_Church,_Woolwich   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Rosslyn_Park_F.C.   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Songdo_Central_Park   [park]
+http://yago-knowledge.org/resource/Kohn_Pedersen_Fox   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Elthorne_Park_High_School   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Great_Capital_Run   []
+	http://yago-knowledge.org/resource/Hyde_Park,_London   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/St_Peter's_Church,_Eaton_Square   [church]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Hyde_Park_Corner   [park]
+http://yago-knowledge.org/resource/Royal_Aeronautical_Society   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Crystal_Palace_Park_Cricket_Ground   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Finsbury_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St_James's_Church,_Piccadilly   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Northumberland_Park_railway_station   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Grove_Park_Cemetery   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Menlo_Park,_California   [park]
+http://yago-knowledge.org/resource/CloudMade   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/St_Mary_on_Paddington_Green_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Christ_Church,_Brixton_Road   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Alexandra_Park_School   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Underage_Festival   []
+	http://yago-knowledge.org/resource/Victoria_Park,_London   [park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Regent's_Park   [park]
+http://yago-knowledge.org/resource/London_Zoo   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Wembley_Park_Cricket_Ground   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Battersea_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Gunnersbury_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/BT_Sport   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Church_of_Christ_the_King,_Bloomsbury   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Wembley_Arena   []
+	http://yago-knowledge.org/resource/Wembley_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/London_Legacy_Development_Corporation   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Regent's_Park   [park]
+http://yago-knowledge.org/resource/Winfield_House   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Park_Place_(Croydon)   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Park_Lane   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Amerindo_Investment_Advisors   []
+	http://yago-knowledge.org/resource/399_Park_Avenue   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Boston_Manor_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Green_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Richmond_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/All_Saints_Church,_West_Ham   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Park_Plaza_Westminster_Bridge   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_St_Mary_Axe   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Dagenham_Park_Church_of_England_School   [church, park]
+Score: 1.0
+----
+
+
+http://yago-knowledge.org/resource/Dagenham_Park_Church_of_England_School   [church, park]
+Score: 1.0
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Greece,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Holland_Park   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+http://yago-knowledge.org/resource/Embassy_of_Slovakia,_London   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Bushy_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Park_High_School,_Stanmore   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Dutch_Church,_Austin_Friars   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Regent's_Park_Barracks   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Winter_Park,_Florida   [park]
+http://yago-knowledge.org/resource/it/Lista_degli_eventi_speciali_di_WWE_NXT   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Hyde_Park,_London   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St_Etheldreda's_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Over_the_Air   []
+	http://yago-knowledge.org/resource/Bletchley_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+http://yago-knowledge.org/resource/Embassy_of_Lebanon,_London   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Crofton_Park   [park]
+http://yago-knowledge.org/resource/Rivoli_Ballroom   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Trent_Park   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+http://yago-knowledge.org/resource/Embassy_of_Paraguay,_London   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Langdon_Park_School   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Clissold_Park   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Hampden_Park   [park]
+http://yago-knowledge.org/resource/London_Grand_Prix   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/St_Andrew_Holborn_(church)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Morden_Hall_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Park_Royal_Stadium   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+http://yago-knowledge.org/resource/Embassy_of_Uzbekistan,_London   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Havering_Country_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Temple_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Sacred_Heart_Church,_Battersea   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St_Luke's_Church,_Chelsea   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Turkmenistan,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Christ_Church_Highbury   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Christ_Church_Greyfriars   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/East_Ham_Baptist_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Jordan,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Upton_Park,_London   [park]
+http://yago-knowledge.org/resource/David_Haye_vs._Dereck_Chisora   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/St_Nicholas_Church,_Chiswick   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Marriott_London_Park_Lane   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Wormholt_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_St_Peter_ad_Vincula   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/pl/Acton_Hill_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Crystal_Palace_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Deptford_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Ukraine,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/New_Wine_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Doxa_Deo_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Open_Air_Theatre,_Barra_Hall_Park   [park]
+Score: 0.5
+----
+
+Nodes visited: 6593
+Total execution time: 1443
+
+Query Words: district, objects
+Root nodes Found: 6469
+
+http://yago-knowledge.org/resource/Debden_tube_station   []
+	http://yago-knowledge.org/resource/Epping_Forest_District   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Epping_Forest_District   [district]
+http://yago-knowledge.org/resource/Theydon_Bois_tube_station   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Epping_tube_station   []
+	http://yago-knowledge.org/resource/Epping_Forest_District   [district]
+Score: 0.16666666666666666
+----
+
+Nodes visited: 6472
+Total execution time: 1291
+
+Query Words: descent, football
+Root nodes Found: 6469
+
+http://yago-knowledge.org/resource/Football_at_the_1908_Summer_Olympics   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Football_at_the_1948_Summer_Olympics   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Football_5-a-side_at_the_2012_Summer_Paralympics   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Football_at_the_2012_Summer_Olympics_-_Women's_tournament   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Football_7-a-side_at_the_2012_Summer_Paralympics   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Football_at_the_2012_Summer_Olympics   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Football_at_the_2012_Summer_Olympics_-_Men's_tournament   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/London_Football_Association   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Football_Against_Racism_in_Europe   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/North_Greenwich_(football_ground)   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Freestyle_Football_Federation   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Arsenal_Football_Club_Museum   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Harlequin_Ladies_Football_Club   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Sports_Interactive   []
+	http://yago-knowledge.org/resource/Football_Manager_2007   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Northolt_Rugby_Football_Club   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/King's_College_London_Rugby_Football_Club   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Ravenscourt_Park_Football_Club   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Football_DataCo   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Barking_Rugby_Football_Club   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Lennox_Football_Club   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Staines_Rugby_Football_Club   [football]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Total_Football_(video_game)   [football]
+http://yago-knowledge.org/resource/Domark_Software   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Old_Alleynian_Football_Club   [football]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/This_Is_Football   [football]
+http://yago-knowledge.org/resource/SIE_London_Studio   []
+Score: 0.16666666666666666
+----
+
+Nodes visited: 6486
+Total execution time: 1277
+
+Query Words: william, park
+Root nodes Found: 6469
+
+http://yago-knowledge.org/resource/Alexandra_Park_Racecourse   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/de/Hyde_Park_Motor_Stores   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Finsbury_Park_station   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Stonebridge_Park_station   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Bellator_MMA_in_2016   []
+	http://yago-knowledge.org/resource/Cedar_Park,_Texas   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Drayton_Park_railway_station   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/British_International_Motor_Show   []
+	http://yago-knowledge.org/resource/Battersea_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Park_Royal   [park]
+http://yago-knowledge.org/resource/Sizaire-Berwick   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/William_Hill_(bookmaker)   [william]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Finsbury_Park_TMD   [park]
+http://yago-knowledge.org/resource/British_Rail   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Hyde_Park,_London   [park]
+http://yago-knowledge.org/resource/Swimming_at_the_2012_Summer_Olympics   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/The_Great_Exhibition   []
+	http://yago-knowledge.org/resource/Hyde_Park,_London   [park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Greenwich_Park   [park]
+http://yago-knowledge.org/resource/Equestrian_at_the_2012_Summer_Olympics   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Greenwich_Park   [park]
+http://yago-knowledge.org/resource/Modern_pentathlon_at_the_2012_Summer_Olympics   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/2016_London_ePrix   []
+	http://yago-knowledge.org/resource/Battersea_Park_Street_Circuit   [park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Hampden_Park   [park]
+http://yago-knowledge.org/resource/Football_at_the_2012_Summer_Olympics   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Greenwich_Park   [park]
+http://yago-knowledge.org/resource/Equestrian_at_the_2012_Summer_Paralympics   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Griffin_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Holland_Park_tube_station   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Park_Theatre_(London)   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Grange_Park_railway_station   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Orleans_Park_School   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Regent's_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/British_Land   []
+	http://yago-knowledge.org/resource/Birstall_Shopping_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Hyde_Park_Winter_Wonderland   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Chiswick_Park_Cricket_Ground   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Battersea_Park_railway_station   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/William_Morris_Gallery   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Newbury_Park_tube_station   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Galore_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/The_Silver_Bullet   []
+	http://yago-knowledge.org/resource/Finsbury_Park,_London   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Queens_Park_Rangers_F.C.   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+http://yago-knowledge.org/resource/Cardinal_Vaughan_Memorial_School   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Hilton_London_Hyde_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St_James's_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Brockwell_Park   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Tufnell_Park   [park]
+http://yago-knowledge.org/resource/Acland_Burghley_School   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Tower_Hamlets_Cemetery_Park   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Park_Resorts   [park]
+http://yago-knowledge.org/resource/Electra_Private_Equity   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Honor_Oak_Park_railway_station   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Belsize_Park_FC   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Langley_Park_Wind_Farm   [park]
+http://yago-knowledge.org/resource/EDF_Energy   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Wembley_Park   [park]
+http://yago-knowledge.org/resource/Wembley_Conference_Centre   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Downsview_Park_(TTC)   [park]
+http://yago-knowledge.org/resource/Aedas   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Basketball_Arena_(London)   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+http://yago-knowledge.org/resource/Olympic_Stadium_(London)   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Belsize_Park_RFC   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Manor_Park,_London   [park]
+http://yago-knowledge.org/resource/St_Michael's_Church,_Romford_Road   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Tufnell_Park_tube_station   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Wembley_Park   [park]
+http://yago-knowledge.org/resource/London_Designer_Outlet   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/New_Park_Street_Chapel   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Bowes_Park_railway_station   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Upton_Park,_London   [park]
+http://yago-knowledge.org/resource/Boleyn_Ground   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/London_Hilton_on_Park_Lane   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/BHP_Billiton   []
+	http://yago-knowledge.org/resource/Norwich_Park_coal_mine   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Bush_Hill_Park_railway_station   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Emirates_Stadium   []
+	http://yago-knowledge.org/resource/fr/Drayton_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/InterContinental_London_Park_Lane   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/London_Aquatics_Centre   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Queen's_Park_(London)_station   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Patron_Capital   []
+	http://yago-knowledge.org/resource/Arlington_Business_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Ivy_Park   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Fort_William_Station_Sidings   [william]
+http://yago-knowledge.org/resource/Network_Rail   []
+	http://yago-knowledge.org/resource/Oakleigh_Park_railway_station   [park]
+Score: 0.2
+----
+
+
+http://yago-knowledge.org/resource/Highams_Park_School   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Hyde_Park_Corner_tube_station   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Royal_Dutch_Shell   []
+	http://yago-knowledge.org/resource/Pocking_Solar_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Ravenscourt_Park_tube_station   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Loseley_Park   [park]
+http://yago-knowledge.org/resource/The_Worst_Witch_(1998_TV_series)   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Handicap_International   []
+	http://yago-knowledge.org/resource/Takoma_Park,_Maryland   [park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Canons_Park   [park]
+http://yago-knowledge.org/resource/The_Hive_Stadium   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Regent's_Park_Open_Air_Theatre   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Ravenscourt_Park_Football_Club   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Water_Polo_Arena   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/St_Barnabas'_Church,_Manor_Park   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Raynes_Park   [park]
+http://yago-knowledge.org/resource/British_Salmson   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Brondesbury_Park_railway_station   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Forster_Memorial_Park   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Richmond_Park   [park]
+http://yago-knowledge.org/resource/Thatched_House_Lodge   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Canary_Wharf_Group   []
+	http://yago-knowledge.org/resource/One_Park_Drive   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Thorpe_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/William_Press_Group   [william]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+http://yago-knowledge.org/resource/ArcelorMittal_Orbit   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/White_Lodge,_Richmond_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Hyde_Park_Barracks,_London   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/William_Ellis_School   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Four_Seasons_Hotel_London_at_Park_Lane   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/BMI_Healthcare   []
+	http://yago-knowledge.org/resource/Gisburne_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Victoria_Park,_London   [park]
+http://yago-knowledge.org/resource/Lovebox_Festival   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Riverbank_Arena   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Wireless_Festival   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Sheraton_Grand_London_Park_Lane_Hotel   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+http://yago-knowledge.org/resource/Lee_Valley_VeloPark   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Labatt_Park   [park]
+http://yago-knowledge.org/resource/City_of_London   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Park_Royal   [park]
+http://yago-knowledge.org/resource/Best-One   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Regent's_University_London   []
+	http://yago-knowledge.org/resource/Regent's_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/M1_motorway   []
+	http://yago-knowledge.org/resource/Donington_Park_services   [park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Park_Crescent,_London   [park]
+http://yago-knowledge.org/resource/International_Students_House,_London   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Leighton_House_Museum   []
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Highlands_School,_Grange_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Diageo   []
+	http://yago-knowledge.org/resource/Park_Royal   [park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Gidea_Park_Carriage_Holding_Sidings   [park]
+http://yago-knowledge.org/resource/TfL_Rail   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Flamingoes_F.C.   []
+	http://yago-knowledge.org/resource/Battersea_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Queens_Park_Community_School   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Ivy_Park   [park]
+http://yago-knowledge.org/resource/Topshop   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/The_Park_Tower_Knightsbridge_Hotel   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Crystal_Palace_F.C.   []
+	http://yago-knowledge.org/resource/Selhurst_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Selhurst_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Green_Park_tube_station   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/William_Morris_Sixth_Form   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Rosslyn_Park_F.C.   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Kohn_Pedersen_Fox   []
+	http://yago-knowledge.org/resource/Madison_Square_Park_Tower   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Elthorne_Park_High_School   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Hyde_Park,_London   [park]
+http://yago-knowledge.org/resource/Great_Capital_Run   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Royal_Aeronautical_Society   []
+	http://yago-knowledge.org/resource/Hyde_Park_Corner   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Crystal_Palace_Park_Cricket_Ground   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Finsbury_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Northumberland_Park_railway_station   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Grove_Park_Cemetery   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/CloudMade   []
+	http://yago-knowledge.org/resource/Menlo_Park,_California   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Alexandra_Park_School   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Victoria_Park,_London   [park]
+http://yago-knowledge.org/resource/Underage_Festival   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Regent's_Park   [park]
+http://yago-knowledge.org/resource/London_Zoo   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Wembley_Park_Cricket_Ground   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Battersea_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Gunnersbury_Park   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+http://yago-knowledge.org/resource/BT_Sport   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Wembley_Arena   []
+	http://yago-knowledge.org/resource/Wembley_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/London_Legacy_Development_Corporation   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Regent's_Park   [park]
+http://yago-knowledge.org/resource/Winfield_House   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Park_Place_(Croydon)   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Park_Lane   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/399_Park_Avenue   [park]
+http://yago-knowledge.org/resource/Amerindo_Investment_Advisors   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Boston_Manor_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Green_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Richmond_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Park_Plaza_Westminster_Bridge   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Dagenham_Park_Church_of_England_School   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+http://yago-knowledge.org/resource/Embassy_of_Greece,_London   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Holland_Park   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+http://yago-knowledge.org/resource/Embassy_of_Slovakia,_London   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Bushy_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Park_High_School,_Stanmore   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Regent's_Park_Barracks   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Winter_Park,_Florida   [park]
+http://yago-knowledge.org/resource/it/Lista_degli_eventi_speciali_di_WWE_NXT   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Hyde_Park,_London   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Bletchley_Park   [park]
+http://yago-knowledge.org/resource/Over_the_Air   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Lebanon,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Rivoli_Ballroom   []
+	http://yago-knowledge.org/resource/Crofton_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Trent_Park   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+http://yago-knowledge.org/resource/Embassy_of_Paraguay,_London   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Langdon_Park_School   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Clissold_Park   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Hampden_Park   [park]
+http://yago-knowledge.org/resource/London_Grand_Prix   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Morden_Hall_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Park_Royal_Stadium   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Uzbekistan,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Havering_Country_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Turkmenistan,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Jordan,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Upton_Park,_London   [park]
+http://yago-knowledge.org/resource/David_Haye_vs._Dereck_Chisora   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Marriott_London_Park_Lane   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Wormholt_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Crystal_Palace_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Deptford_Park   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+http://yago-knowledge.org/resource/Embassy_of_Ukraine,_London   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Open_Air_Theatre,_Barra_Hall_Park   [park]
+Score: 0.5
+----
+
+Nodes visited: 6592
+Total execution time: 1391
+
+Query Words: district, objects
+Root nodes Found: 6469
+
+	http://yago-knowledge.org/resource/Epping_Forest_District   [district]
+http://yago-knowledge.org/resource/Debden_tube_station   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Epping_Forest_District   [district]
+http://yago-knowledge.org/resource/Theydon_Bois_tube_station   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Epping_Forest_District   [district]
+http://yago-knowledge.org/resource/Epping_tube_station   []
+Score: 0.16666666666666666
+----
+
+Nodes visited: 6472
+Total execution time: 1489
+
+Query Words: thomas, california
+Root nodes Found: 6469
+
+	http://yago-knowledge.org/resource/Universal_City,_California   [california]
+http://yago-knowledge.org/resource/PolyGram_Filmed_Entertainment   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Clarita,_California   [california]
+http://yago-knowledge.org/resource/Jane_by_Design   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Bellator_MMA_in_2016   []
+	http://yago-knowledge.org/resource/Anaheim,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Cookie_Jar_Group   []
+	http://yago-knowledge.org/resource/Burbank,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Universal_Pictures   []
+	http://yago-knowledge.org/resource/Universal_City,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Ontario,_California   [california]
+http://yago-knowledge.org/resource/2013_in_Glory   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Bellator_MMA_in_2017   []
+	http://yago-knowledge.org/resource/Inglewood,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Kate_Sharpley_Library   []
+	http://yago-knowledge.org/resource/Berkeley,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/St_Thomas_the_Apostle_College   [thomas]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Project_Panther_Bidco   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Street_Soul_Productions   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Houlihan_Lokey   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Clara,_California   [california]
+http://yago-knowledge.org/resource/Blue_Star_Infotech   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Thomas_Tallis_School   [thomas]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Sapphire_Ventures   []
+	http://yago-knowledge.org/resource/Palo_Alto,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Island_Records   []
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/HIT_Entertainment   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Manga_Entertainment   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [california]
+http://yago-knowledge.org/resource/Jingle_Punks_Music   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/World_Vision_International   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Melendez_Films   []
+	http://yago-knowledge.org/resource/Burbank,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/The_Initiative_Collective   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/GV_(company)   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Foster_City,_California   [california]
+http://yago-knowledge.org/resource/Kennet_Partners   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/TPG_Capital   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/PEN_Center_USA   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Menlo_Park,_California   [california]
+http://yago-knowledge.org/resource/CloudMade   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Bishop_Thomas_Grant_School   [thomas]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Amerindo_Investment_Advisors   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Voilà�Hotel�Rewards   []
+	http://yago-knowledge.org/resource/Newport_Beach,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/The_Cybersmile_Foundation   []
+	http://yago-knowledge.org/resource/Palo_Alto,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Thomas_Young_Centre   [thomas]
+Score: 0.5
+----
+
+Nodes visited: 6837
+Total execution time: 1589
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 6469
+
+http://yago-knowledge.org/resource/PolyGram_Filmed_Entertainment   []
+	http://yago-knowledge.org/resource/Universal_City,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Jane_by_Design   []
+	http://yago-knowledge.org/resource/Santa_Clarita,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/San_Jose,_California   [california]
+http://yago-knowledge.org/resource/Bellator_MMA_in_2016   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Cookie_Jar_Group   []
+	http://yago-knowledge.org/resource/Burbank,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Universal_City,_California   [california]
+http://yago-knowledge.org/resource/Universal_Pictures   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_Hill_(bookmaker)   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/2013_in_Glory   []
+	http://yago-knowledge.org/resource/Ontario,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Bellator_MMA_in_2017   []
+	http://yago-knowledge.org/resource/Inglewood,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Kate_Sharpley_Library   []
+	http://yago-knowledge.org/resource/Berkeley,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/St_Thomas_the_Apostle_College   [thomas]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Project_Panther_Bidco   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_Morris_Gallery   [william]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Street_Soul_Productions   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Houlihan_Lokey   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Blue_Star_Infotech   []
+	http://yago-knowledge.org/resource/Santa_Clara,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Thomas_Tallis_School   [thomas]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Fort_William_Station_Sidings   [william]
+http://yago-knowledge.org/resource/Network_Rail   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Sapphire_Ventures   []
+	http://yago-knowledge.org/resource/Palo_Alto,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [california]
+http://yago-knowledge.org/resource/Island_Records   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/HIT_Entertainment   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Manga_Entertainment   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_Press_Group   [william]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [california]
+http://yago-knowledge.org/resource/Jingle_Punks_Music   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_Ellis_School   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/World_Vision_International   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Melendez_Films   []
+	http://yago-knowledge.org/resource/Burbank,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/The_Initiative_Collective   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/GV_(company)   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Foster_City,_California   [california]
+http://yago-knowledge.org/resource/Kennet_Partners   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/TPG_Capital   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_Morris_Sixth_Form   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/PEN_Center_USA   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/CloudMade   []
+	http://yago-knowledge.org/resource/Menlo_Park,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Bishop_Thomas_Grant_School   [thomas]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Amerindo_Investment_Advisors   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Newport_Beach,_California   [california]
+http://yago-knowledge.org/resource/Voilà�Hotel�Rewards   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/The_Cybersmile_Foundation   []
+	http://yago-knowledge.org/resource/Palo_Alto,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Thomas_Young_Centre   [thomas]
+Score: 0.25
+----
+
+Nodes visited: 6849
+Total execution time: 1592
+
+Query Words: park, church, district, objects
+Root nodes Found: 6469
+
+http://yago-knowledge.org/resource/Alexandra_Park_Racecourse   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/de/Hyde_Park_Motor_Stores   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Finsbury_Park_station   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_Farmhouse_Museum   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Stonebridge_Park_station   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Cedar_Park,_Texas   [park]
+http://yago-knowledge.org/resource/Bellator_MMA_in_2016   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Drayton_Park_railway_station   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/British_International_Motor_Show   []
+	http://yago-knowledge.org/resource/Battersea_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Park_Royal   [park]
+http://yago-knowledge.org/resource/Sizaire-Berwick   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Blackheath_Bluecoat_Church_of_England_School   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Debden_tube_station   []
+	http://yago-knowledge.org/resource/Epping_Forest_District   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Finsbury_Park_TMD   [park]
+http://yago-knowledge.org/resource/British_Rail   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Hyde_Park,_London   [park]
+http://yago-knowledge.org/resource/Swimming_at_the_2012_Summer_Olympics   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Hyde_Park,_London   [park]
+http://yago-knowledge.org/resource/The_Great_Exhibition   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Greenwich_Park   [park]
+http://yago-knowledge.org/resource/Equestrian_at_the_2012_Summer_Olympics   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Greenwich_Park   [park]
+http://yago-knowledge.org/resource/Modern_pentathlon_at_the_2012_Summer_Olympics   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/2016_London_ePrix   []
+	http://yago-knowledge.org/resource/Battersea_Park_Street_Circuit   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Football_at_the_2012_Summer_Olympics   []
+	http://yago-knowledge.org/resource/Hampden_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Greenwich_Park   [park]
+http://yago-knowledge.org/resource/Equestrian_at_the_2012_Summer_Paralympics   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/St_Anne's_Church,_Soho   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Griffin_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Holland_Park_tube_station   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Park_Theatre_(London)   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Grange_Park_railway_station   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Orleans_Park_School   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Regent's_Park   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Christ_Church,_Jerusalem   [church]
+http://yago-knowledge.org/resource/Church's_Ministry_Among_Jewish_People   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/British_Land   []
+	http://yago-knowledge.org/resource/Birstall_Shopping_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Hyde_Park_Winter_Wonderland   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Chiswick_Park_Cricket_Ground   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/St_Peter's_Roman_Catholic_Church,_Woolwich   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Battersea_Park_railway_station   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Theydon_Bois_tube_station   []
+	http://yago-knowledge.org/resource/Epping_Forest_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Newbury_Park_tube_station   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Galore_Park   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Finsbury_Park,_London   [park]
+http://yago-knowledge.org/resource/The_Silver_Bullet   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Twyford_Church_of_England_High_School   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Queens_Park_Rangers_F.C.   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Cardinal_Vaughan_Memorial_School   []
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Cricklewood_Baptist_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Hilton_London_Hyde_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/St_James's_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Brockwell_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/St_Alfege_Church,_Greenwich   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/St_Pancras_New_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Archbishop_Tenison's_Church_of_England_School   [church]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Tufnell_Park   [park]
+http://yago-knowledge.org/resource/Acland_Burghley_School   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Tower_Hamlets_Cemetery_Park   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Park_Resorts   [park]
+http://yago-knowledge.org/resource/Electra_Private_Equity   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Honor_Oak_Park_railway_station   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Belsize_Park_FC   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Langley_Park_Wind_Farm   [park]
+http://yago-knowledge.org/resource/EDF_Energy   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/St_Mary_Magdalen_Roman_Catholic_Church_Mortlake   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Wembley_Conference_Centre   []
+	http://yago-knowledge.org/resource/Wembley_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/St_Mary's_Church,_Rotherhithe   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/St_Columba's_Church,_London   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Our_Lady_of_Perpetual_Help_Catholic_Church,_London   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/St_Peter's_Church,_Walworth   [church]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Downsview_Park_(TTC)   [park]
+http://yago-knowledge.org/resource/Aedas   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+http://yago-knowledge.org/resource/Basketball_Arena_(London)   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+http://yago-knowledge.org/resource/Olympic_Stadium_(London)   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Belsize_Park_RFC   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/St_Casimir's_Lithuanian_Church   [church]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Manor_Park,_London   [park]
+http://yago-knowledge.org/resource/St_Michael's_Church,_Romford_Road   [church]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Methodist_Church_of_Great_Britain   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Tufnell_Park_tube_station   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Wembley_Park   [park]
+http://yago-knowledge.org/resource/London_Designer_Outlet   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/New_Park_Street_Chapel   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/St_Matthew's_Church,_Willesden   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bowes_Park_railway_station   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Epping_Forest_District   [district]
+http://yago-knowledge.org/resource/Epping_tube_station   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/St_Peter's_Italian_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/St_Helen's_Church,_Bishopsgate   [church]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Upton_Park,_London   [park]
+http://yago-knowledge.org/resource/Boleyn_Ground   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/London_Hilton_on_Park_Lane   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/BHP_Billiton   []
+	http://yago-knowledge.org/resource/Norwich_Park_coal_mine   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/St_James's_Church,_Paddington   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bush_Hill_Park_railway_station   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/fr/Drayton_Park   [park]
+http://yago-knowledge.org/resource/Emirates_Stadium   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/InterContinental_London_Park_Lane   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+http://yago-knowledge.org/resource/London_Aquatics_Centre   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Queen's_Park_(London)_station   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Patron_Capital   []
+	http://yago-knowledge.org/resource/Arlington_Business_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Ivy_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Network_Rail   []
+	http://yago-knowledge.org/resource/Carpenders_Park_railway_station   [park]
+	http://yago-knowledge.org/resource/Brondesbury_Park_railway_station   [park]
+		http://yago-knowledge.org/resource/Three_Rivers_District   [district]
+Score: 0.09375
+----
+
+
+http://yago-knowledge.org/resource/Highams_Park_School   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/St_Anselm's_Church,_Southall   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Chelsea_Old_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Hyde_Park_Corner_tube_station   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/St_Michael's_Church,_Camden_Town   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Royal_Dutch_Shell   []
+	http://yago-knowledge.org/resource/Pocking_Solar_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Ravenscourt_Park_tube_station   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/The_Worst_Witch_(1998_TV_series)   []
+	http://yago-knowledge.org/resource/Loseley_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Handicap_International   []
+	http://yago-knowledge.org/resource/Takoma_Park,_Maryland   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/The_Hive_Stadium   []
+	http://yago-knowledge.org/resource/Canons_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Regent's_Park_Open_Air_Theatre   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Ravenscourt_Park_Football_Club   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/St_Elizabeth_of_Portugal_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Transport_for_London   []
+	http://yago-knowledge.org/resource/Bow_Church_DLR_station   [church]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+http://yago-knowledge.org/resource/Water_Polo_Arena   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/St_Barnabas'_Church,_Manor_Park   [church, park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Raynes_Park   [park]
+http://yago-knowledge.org/resource/British_Salmson   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/St_James'_Church,_Norlands   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Brondesbury_Park_railway_station   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/French_Protestant_Church_of_London   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Forster_Memorial_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Thatched_House_Lodge   []
+	http://yago-knowledge.org/resource/Richmond_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/One_Park_Drive   [park]
+http://yago-knowledge.org/resource/Canary_Wharf_Group   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Thorpe_Park   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+http://yago-knowledge.org/resource/ArcelorMittal_Orbit   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/White_Lodge,_Richmond_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/St_Luke's_Church,_Kentish_Town   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Hyde_Park_Barracks,_London   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Four_Seasons_Hotel_London_at_Park_Lane   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Gisburne_Park   [park]
+http://yago-knowledge.org/resource/BMI_Healthcare   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Victoria_Park,_London   [park]
+http://yago-knowledge.org/resource/Lovebox_Festival   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Riverbank_Arena   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Wireless_Festival   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Sheraton_Grand_London_Park_Lane_Hotel   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+http://yago-knowledge.org/resource/Lee_Valley_VeloPark   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Labatt_Park   [park]
+http://yago-knowledge.org/resource/City_of_London   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Best-One   []
+	http://yago-knowledge.org/resource/Park_Royal   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Christ_Church,_Spitalfields   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Regent's_University_London   []
+	http://yago-knowledge.org/resource/Regent's_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Twyford_Church_of_England_Academies_Trust   [church]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Donington_Park_services   [park]
+http://yago-knowledge.org/resource/M1_motorway   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/International_Students_House,_London   []
+	http://yago-knowledge.org/resource/Park_Crescent,_London   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Holy_Trinity_Church,_Marylebone   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Leighton_House_Museum   []
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Highlands_School,_Grange_Park   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Park_Royal   [park]
+http://yago-knowledge.org/resource/Diageo   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Gidea_Park_Carriage_Holding_Sidings   [park]
+http://yago-knowledge.org/resource/TfL_Rail   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Battersea_Park   [park]
+http://yago-knowledge.org/resource/Flamingoes_F.C.   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Queens_Park_Community_School   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/St_Ignatius_Church,_Stamford_Hill   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/St_Mary_Magdalene_Church,_Holloway_Road   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Topshop   []
+	http://yago-knowledge.org/resource/Ivy_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/The_Park_Tower_Knightsbridge_Hotel   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Crystal_Palace_F.C.   []
+	http://yago-knowledge.org/resource/Selhurst_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Selhurst_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Green_Park_tube_station   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/All_Souls_Church,_Langham_Place   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/St_George's_Garrison_Church,_Woolwich   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Rosslyn_Park_F.C.   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Songdo_Central_Park   [park]
+http://yago-knowledge.org/resource/Kohn_Pedersen_Fox   []
+		http://yago-knowledge.org/resource/Songdo_International_Business_District   [district]
+	http://yago-knowledge.org/resource/Madison_Square_Park_Tower   [park]
+Score: 0.09375
+----
+
+
+http://yago-knowledge.org/resource/Elthorne_Park_High_School   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Hyde_Park,_London   [park]
+http://yago-knowledge.org/resource/Great_Capital_Run   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/St_Peter's_Church,_Eaton_Square   [church]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Hyde_Park_Corner   [park]
+http://yago-knowledge.org/resource/Royal_Aeronautical_Society   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Crystal_Palace_Park_Cricket_Ground   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Finsbury_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/St_James's_Church,_Piccadilly   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Northumberland_Park_railway_station   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Grove_Park_Cemetery   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Menlo_Park,_California   [park]
+http://yago-knowledge.org/resource/CloudMade   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/St_Mary_on_Paddington_Green_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Christ_Church,_Brixton_Road   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Alexandra_Park_School   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Underage_Festival   []
+	http://yago-knowledge.org/resource/Victoria_Park,_London   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/London_Zoo   []
+	http://yago-knowledge.org/resource/Regent's_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Wembley_Park_Cricket_Ground   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Battersea_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Gunnersbury_Park   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+http://yago-knowledge.org/resource/BT_Sport   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Church_of_Christ_the_King,_Bloomsbury   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Wembley_Arena   []
+	http://yago-knowledge.org/resource/Wembley_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/London_Legacy_Development_Corporation   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Regent's_Park   [park]
+http://yago-knowledge.org/resource/Winfield_House   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Park_Place_(Croydon)   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Park_Lane   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Amerindo_Investment_Advisors   []
+	http://yago-knowledge.org/resource/399_Park_Avenue   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Boston_Manor_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Green_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Richmond_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/All_Saints_Church,_West_Ham   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Park_Plaza_Westminster_Bridge   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_St_Mary_Axe   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Dagenham_Park_Church_of_England_School   [church, park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+http://yago-knowledge.org/resource/Embassy_of_Greece,_London   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Holland_Park   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+http://yago-knowledge.org/resource/Embassy_of_Slovakia,_London   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Bushy_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Park_High_School,_Stanmore   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Dutch_Church,_Austin_Friars   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Regent's_Park_Barracks   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Winter_Park,_Florida   [park]
+http://yago-knowledge.org/resource/it/Lista_degli_eventi_speciali_di_WWE_NXT   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Hyde_Park,_London   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/St_Etheldreda's_Church   [church]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Bletchley_Park   [park]
+http://yago-knowledge.org/resource/Over_the_Air   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+http://yago-knowledge.org/resource/Embassy_of_Lebanon,_London   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Crofton_Park   [park]
+http://yago-knowledge.org/resource/Rivoli_Ballroom   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Trent_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Paraguay,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Langdon_Park_School   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Clissold_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/London_Grand_Prix   []
+	http://yago-knowledge.org/resource/Hampden_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/St_Andrew_Holborn_(church)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Morden_Hall_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Park_Royal_Stadium   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+http://yago-knowledge.org/resource/Embassy_of_Uzbekistan,_London   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Havering_Country_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Temple_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Sacred_Heart_Church,_Battersea   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/St_Luke's_Church,_Chelsea   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Turkmenistan,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Christ_Church_Highbury   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Christ_Church_Greyfriars   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/East_Ham_Baptist_Church   [church]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+http://yago-knowledge.org/resource/Embassy_of_Jordan,_London   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/David_Haye_vs._Dereck_Chisora   []
+	http://yago-knowledge.org/resource/Upton_Park,_London   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/St_Nicholas_Church,_Chiswick   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Marriott_London_Park_Lane   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Wormholt_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_St_Peter_ad_Vincula   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/pl/Acton_Hill_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Crystal_Palace_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Deptford_Park   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+http://yago-knowledge.org/resource/Embassy_of_Ukraine,_London   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/New_Wine_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Doxa_Deo_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Open_Air_Theatre,_Barra_Hall_Park   [park]
+Score: 0.25
+----
+
+Nodes visited: 6598
+Total execution time: 1418
+
+Query Words: descent, football, william, park
+Root nodes Found: 6469
+
+http://yago-knowledge.org/resource/Alexandra_Park_Racecourse   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/de/Hyde_Park_Motor_Stores   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Finsbury_Park_station   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Stonebridge_Park_station   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bellator_MMA_in_2016   []
+	http://yago-knowledge.org/resource/Cedar_Park,_Texas   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Drayton_Park_railway_station   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Battersea_Park   [park]
+http://yago-knowledge.org/resource/British_International_Motor_Show   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Sizaire-Berwick   []
+	http://yago-knowledge.org/resource/Park_Royal   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_Hill_(bookmaker)   [william]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Finsbury_Park_TMD   [park]
+http://yago-knowledge.org/resource/British_Rail   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Hyde_Park,_London   [park]
+http://yago-knowledge.org/resource/Swimming_at_the_2012_Summer_Olympics   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Football_at_the_1908_Summer_Olympics   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Football_at_the_1948_Summer_Olympics   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Football_5-a-side_at_the_2012_Summer_Paralympics   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/The_Great_Exhibition   []
+	http://yago-knowledge.org/resource/Hyde_Park,_London   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Football_at_the_2012_Summer_Olympics_-_Women's_tournament   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Equestrian_at_the_2012_Summer_Olympics   []
+	http://yago-knowledge.org/resource/Greenwich_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Greenwich_Park   [park]
+http://yago-knowledge.org/resource/Modern_pentathlon_at_the_2012_Summer_Olympics   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/2016_London_ePrix   []
+	http://yago-knowledge.org/resource/Battersea_Park_Street_Circuit   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Football_7-a-side_at_the_2012_Summer_Paralympics   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Football_at_the_2012_Summer_Olympics   [football]
+	http://yago-knowledge.org/resource/Hampden_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Equestrian_at_the_2012_Summer_Paralympics   []
+	http://yago-knowledge.org/resource/Greenwich_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Football_at_the_2012_Summer_Olympics_-_Men's_tournament   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Griffin_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Holland_Park_tube_station   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Park_Theatre_(London)   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Grange_Park_railway_station   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Orleans_Park_School   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Regent's_Park   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Teesside_Park   [park]
+http://yago-knowledge.org/resource/British_Land   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Hyde_Park_Winter_Wonderland   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Chiswick_Park_Cricket_Ground   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Battersea_Park_railway_station   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/William_Morris_Gallery   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Newbury_Park_tube_station   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Galore_Park   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Finsbury_Park,_London   [park]
+http://yago-knowledge.org/resource/The_Silver_Bullet   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Queens_Park_Rangers_F.C.   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Cardinal_Vaughan_Memorial_School   []
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Hilton_London_Hyde_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/St_James's_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Brockwell_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/London_Football_Association   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Football_Against_Racism_in_Europe   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Acland_Burghley_School   []
+	http://yago-knowledge.org/resource/Tufnell_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Tower_Hamlets_Cemetery_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Electra_Private_Equity   []
+	http://yago-knowledge.org/resource/Park_Resorts   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Honor_Oak_Park_railway_station   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Belsize_Park_FC   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Langley_Park_Wind_Farm   [park]
+http://yago-knowledge.org/resource/EDF_Energy   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Wembley_Park   [park]
+http://yago-knowledge.org/resource/Wembley_Conference_Centre   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Downsview_Park_(TTC)   [park]
+http://yago-knowledge.org/resource/Aedas   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Basketball_Arena_(London)   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/North_Greenwich_(football_ground)   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Olympic_Stadium_(London)   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Belsize_Park_RFC   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Freestyle_Football_Federation   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/St_Michael's_Church,_Romford_Road   []
+	http://yago-knowledge.org/resource/Manor_Park,_London   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Arsenal_Football_Club_Museum   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Tufnell_Park_tube_station   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Wembley_Park   [park]
+http://yago-knowledge.org/resource/London_Designer_Outlet   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/New_Park_Street_Chapel   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Harlequin_Ladies_Football_Club   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bowes_Park_railway_station   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Boleyn_Ground   []
+	http://yago-knowledge.org/resource/Upton_Park,_London   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Football_Manager_2008   [football]
+http://yago-knowledge.org/resource/Sports_Interactive   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/London_Hilton_on_Park_Lane   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/BHP_Billiton   []
+	http://yago-knowledge.org/resource/Norwich_Park_coal_mine   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Bush_Hill_Park_railway_station   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Northolt_Rugby_Football_Club   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Emirates_Stadium   []
+	http://yago-knowledge.org/resource/fr/Drayton_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/InterContinental_London_Park_Lane   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/King's_College_London_Rugby_Football_Club   [football]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+http://yago-knowledge.org/resource/London_Aquatics_Centre   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Queen's_Park_(London)_station   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Arlington_Business_Park   [park]
+http://yago-knowledge.org/resource/Patron_Capital   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Ivy_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Network_Rail   []
+	http://yago-knowledge.org/resource/Fort_William_Station_Sidings   [william]
+	http://yago-knowledge.org/resource/Queen's_Park_(London)_station   [park]
+Score: 0.1
+----
+
+
+http://yago-knowledge.org/resource/Highams_Park_School   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Hyde_Park_Corner_tube_station   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Pocking_Solar_Park   [park]
+http://yago-knowledge.org/resource/Royal_Dutch_Shell   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Ravenscourt_Park_tube_station   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Loseley_Park   [park]
+http://yago-knowledge.org/resource/The_Worst_Witch_(1998_TV_series)   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Takoma_Park,_Maryland   [park]
+http://yago-knowledge.org/resource/Handicap_International   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Canons_Park   [park]
+http://yago-knowledge.org/resource/The_Hive_Stadium   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Regent's_Park_Open_Air_Theatre   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Ravenscourt_Park_Football_Club   [football, park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+http://yago-knowledge.org/resource/Water_Polo_Arena   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/St_Barnabas'_Church,_Manor_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/British_Salmson   []
+	http://yago-knowledge.org/resource/Raynes_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Brondesbury_Park_railway_station   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Forster_Memorial_Park   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Richmond_Park   [park]
+http://yago-knowledge.org/resource/Thatched_House_Lodge   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/One_Park_Drive   [park]
+http://yago-knowledge.org/resource/Canary_Wharf_Group   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Thorpe_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/William_Press_Group   [william]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+http://yago-knowledge.org/resource/ArcelorMittal_Orbit   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/White_Lodge,_Richmond_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Football_DataCo   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Hyde_Park_Barracks,_London   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/William_Ellis_School   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Four_Seasons_Hotel_London_at_Park_Lane   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Gisburne_Park   [park]
+http://yago-knowledge.org/resource/BMI_Healthcare   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Victoria_Park,_London   [park]
+http://yago-knowledge.org/resource/Lovebox_Festival   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+http://yago-knowledge.org/resource/Riverbank_Arena   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Wireless_Festival   []
+	http://yago-knowledge.org/resource/Hyde_Park,_London   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Sheraton_Grand_London_Park_Lane_Hotel   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Lee_Valley_VeloPark   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Labatt_Park   [park]
+http://yago-knowledge.org/resource/City_of_London   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Best-One   []
+	http://yago-knowledge.org/resource/Park_Royal   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Regent's_Park   [park]
+http://yago-knowledge.org/resource/Regent's_University_London   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Barking_Rugby_Football_Club   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/M1_motorway   []
+	http://yago-knowledge.org/resource/Donington_Park_services   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/International_Students_House,_London   []
+	http://yago-knowledge.org/resource/Park_Crescent,_London   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+http://yago-knowledge.org/resource/Leighton_House_Museum   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Highlands_School,_Grange_Park   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Park_Royal   [park]
+http://yago-knowledge.org/resource/Diageo   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Gidea_Park_Carriage_Holding_Sidings   [park]
+http://yago-knowledge.org/resource/TfL_Rail   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Flamingoes_F.C.   []
+	http://yago-knowledge.org/resource/Battersea_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Queens_Park_Community_School   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Topshop   []
+	http://yago-knowledge.org/resource/Ivy_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/The_Park_Tower_Knightsbridge_Hotel   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Selhurst_Park   [park]
+http://yago-knowledge.org/resource/Crystal_Palace_F.C.   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Selhurst_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Lennox_Football_Club   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Staines_Rugby_Football_Club   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Green_Park_tube_station   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/William_Morris_Sixth_Form   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Rosslyn_Park_F.C.   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Kohn_Pedersen_Fox   []
+	http://yago-knowledge.org/resource/Madison_Square_Park_Tower   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Elthorne_Park_High_School   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Great_Capital_Run   []
+	http://yago-knowledge.org/resource/Hyde_Park,_London   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Total_Football_(video_game)   [football]
+http://yago-knowledge.org/resource/Domark_Software   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Hyde_Park_Corner   [park]
+http://yago-knowledge.org/resource/Royal_Aeronautical_Society   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Crystal_Palace_Park_Cricket_Ground   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Finsbury_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Northumberland_Park_railway_station   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Grove_Park_Cemetery   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Menlo_Park,_California   [park]
+http://yago-knowledge.org/resource/CloudMade   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Old_Alleynian_Football_Club   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Alexandra_Park_School   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/This_Is_Football   [football]
+http://yago-knowledge.org/resource/SIE_London_Studio   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Underage_Festival   []
+	http://yago-knowledge.org/resource/Victoria_Park,_London   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Regent's_Park   [park]
+http://yago-knowledge.org/resource/London_Zoo   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Wembley_Park_Cricket_Ground   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Battersea_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Gunnersbury_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/BT_Sport   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Wembley_Arena   []
+	http://yago-knowledge.org/resource/Wembley_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/London_Legacy_Development_Corporation   []
+	http://yago-knowledge.org/resource/Queen_Elizabeth_Olympic_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Winfield_House   []
+	http://yago-knowledge.org/resource/Regent's_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Park_Place_(Croydon)   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Park_Lane   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/399_Park_Avenue   [park]
+http://yago-knowledge.org/resource/Amerindo_Investment_Advisors   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Boston_Manor_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Green_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Richmond_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Park_Plaza_Westminster_Bridge   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Dagenham_Park_Church_of_England_School   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Greece,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Holland_Park   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+http://yago-knowledge.org/resource/Embassy_of_Slovakia,_London   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Bushy_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Park_High_School,_Stanmore   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Regent's_Park_Barracks   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Winter_Park,_Florida   [park]
+http://yago-knowledge.org/resource/it/Lista_degli_eventi_speciali_di_WWE_NXT   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Hyde_Park,_London   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Bletchley_Park   [park]
+http://yago-knowledge.org/resource/Over_the_Air   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+http://yago-knowledge.org/resource/Embassy_of_Lebanon,_London   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Crofton_Park   [park]
+http://yago-knowledge.org/resource/Rivoli_Ballroom   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Trent_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Paraguay,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Langdon_Park_School   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Clissold_Park   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Hampden_Park   [park]
+http://yago-knowledge.org/resource/London_Grand_Prix   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Morden_Hall_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Park_Royal_Stadium   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Uzbekistan,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Havering_Country_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Turkmenistan,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+http://yago-knowledge.org/resource/Embassy_of_Jordan,_London   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Upton_Park,_London   [park]
+http://yago-knowledge.org/resource/David_Haye_vs._Dereck_Chisora   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Marriott_London_Park_Lane   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Wormholt_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Crystal_Palace_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Deptford_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Embassy_of_Ukraine,_London   []
+	http://yago-knowledge.org/resource/Holland_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Open_Air_Theatre,_Barra_Hall_Park   [park]
+Score: 0.25
+----
+
+Nodes visited: 6609
+Total execution time: 1400
+
