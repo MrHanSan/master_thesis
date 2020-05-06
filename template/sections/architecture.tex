@@ -5,7 +5,7 @@
 
 \section{Search}
 \subsection{BFS search}
-The most basic method of finding a match for keywords is using a breadth first search (BFS) \cite{blinks}. For each keyword in the query the algorithm will find all vertices that contain the keyword. From that set of vertices the BFS search finds the first vertex that can connect all the vertices in the set. The vertex that connects the the rest of the set is the one that best fits the keywords in the search. There is however no guarantee that this set of vertices contains any spatial or temporal data. If this is the case, the search will continue until the a vertex containing spatial and temporal data is found. The first set of vertices containing all the keywords, a place, and time will be the best result using this search. The BFS search can however contain multiple times, or multiple places. To determine what time or what place best fits the query, a separate ranking algorithm can be used. BFS is also a time consuming algorithm and is used as a proof of concept and baseline in this thesis.
+The most basic method of finding a match for keywords is using a breadth first search (BFS) \citep{blinks, Shi:2016:TRS:2882903.2882941}. For each keyword in the query the algorithm will find all vertices that contain the keyword. From that set of vertices the BFS search finds the first vertex that can connect all the vertices in the set. The vertex that connects the the rest of the set is the one that best fits the keywords in the search. There is however no guarantee that this set of vertices contains any spatial or temporal data. If this is the case, the search will continue until the a vertex containing spatial and temporal data is found. The first set of vertices containing all the keywords, a place, and time will be the best result using this search. The BFS search can however contain multiple times, or multiple places. To determine what time or what place best fits the query, a separate ranking algorithm can be used. BFS is also a time consuming algorithm and is used as a proof of concept and baseline in this thesis.
 
 \begin{algorithm}[H]
     \caption{GetFullResultTree(p, t, Qt)}
@@ -33,30 +33,29 @@ The most basic method of finding a match for keywords is using a breadth first s
 
 The first part of the search is to find a set of root nodes for sub-graphs. This is done by collecting all neighbors from the place queried. The neighbors can be connected by any predicate in the first developed algorithm, but as explain in \ref{pruning} this selecting specific predicates can greatly increase speed by limiting the amount of nodes traversed. The BFS algorithm described above is used for each of the possible roots of subgraphs, stopping when all keywords are matched, or the depth of the graph exceeds the three or exceeds the currently shallowest subgraph that has matched all keywords. The reason for limiting the depth of subgraphs is to ensure at least a partial hit within a reasonable time. Limiting the depth of subgraphs to the current shallowest subgraph is done because no a deeper graph cannot be a more accurate hit.
 
-- Tokens\\
-- Objects\\
-When traversing the graph and finding a match, a node object is created. This object is used to keep track of the pseudo hierarchy in the graph. All objects contain information on the depth of the node, matched query terms, and relation to parent and children, if any. In addition root objects contains a list of all query terms hit in the sub graph. If a child node is found within multiple subgraphs, a new object will be created representing the node for each subgraph. This creates some objects that are nearly identical, but with different relations and possible different depth.\\
+When traversing the graph and finding a match, a node object is created. This object is used to keep track of the pseudo hierarchy in the graph. All objects contain information on the depth of the node, matched query terms, and relation to parent and children, if any. In addition root objects contains a list of all query terms hit in the sub graph. If a child node is found within multiple subgraphs, a new object will be created representing the node for each subgraph. This creates some objects that are nearly identical, but with different relations and possible different depth.
+
+When a node object is created, a document with tokens is created. This document is used to calculate score, and to match a node with the query words. A documnet is created from the last part of a Yago URI, after the last slash. Each URI si further split on each underscore, creating a list of words. 
 
 \begin{algorithm}
 \caption{minimum spanning graph}
 \begin{algorithmic}[1]
 \Procedure{minimum}{}
-For each node in hits:
-	for each minNode in min list:
-		if node has same hits and higher depth than minNode:
-			Break
-		if node and minNode is equal in depth and hits:
-			continue
-		if node contains other words than minNode:
-			add node
-			remove potential common words from minNode
+For each node in hits:\\
+	for each minNode in min list:\\
+		if node has same hits and higher depth than minNode:\\
+			Break\\
+		if node and minNode is equal in depth and hits:\\
+			continue\\
+		if node contains other words than minNode:\\
+			add node\\
+			remove potential common words from minNode\\
 \EndProcedure
 \end{algorithmic}
 \end{algorithm}
 
 
-- Start by finding all trees with the same  minimum depth for each node (Roots for different trees) related to the place in the query.\\
-After traversing the main graph we have found all subgraphs containing at least one query term. These subgraphs contain many nodes which hit the same terms. Before ranking the subgraphs the minimum spanning graph needs to be found. The minimum spanning tree is found using a greedy algorithm that iterates through all nodes in the subgraphs, then keeping the nodes containing the most terms, and lowest depth. The minimum tree will contain as many terms as possible, a term will only be found in one node, and the graph will be as shallow as possible.\\
+After traversing the main graph we have found all subgraphs containing at least one query term. These subgraphs contain many nodes which hit the same terms. Before ranking the subgraphs the minimum spanning graph needs to be found. The minimum spanning tree is found using a greedy algorithm that iterates through all nodes in the subgraphs, then keeping the nodes containing the most terms, and lowest depth. The minimum tree will contain as many terms as possible, a term will only be found in one node, and the graph will be as shallow as possible.
 
 - Find the minimum spanning tree for each of the root nodes containing the maximum amount of the query words.\\
 - Rank based on 1. Query words hit 2. Nodes in the tree 3. depth of the tree\\
@@ -65,22 +64,22 @@ The final piece is to rank the minimum subgraphs. This is done using the nr. 2 f
 
 
 \section{Pruning} \label{pruning}
-When using the BFS search method, all possible spatial vertices close to the queried place will be explored. This is expensive and many of the vertices will be irrelevant. Pruning the potential place vertices will reduce the amount of subgraphs traversed, and will in turn reduce the overall time used to find results for the query.\\
+When using the BFS search method, all possible spatial vertices close to the queried place will be explored. This is expensive and many of the vertices will be irrelevant. Pruning the potential place vertices will reduce the amount of subgraphs traversed, and will in turn reduce the overall time used to find results for the query.
 
 \subsection{Predicate pruning}
-When traversing the graph a lot of unnecessary predicates are followed, resulting in many extra nodes added to the search. Specifying a set of predicates that contain the relevant information can greatly increase the speed of the algorithm, and also keep the memory requirements a lot lower. When selecting predicates for traversal the information expected from the search should be the top priority. Because of this, all predicates that may contain spatial or temporal data should be kept.\\
+When traversing the graph a lot of unnecessary predicates are followed, resulting in many extra nodes added to the search. Specifying a set of predicates that contain the relevant information can greatly increase the speed of the algorithm, and also keep the memory requirements a lot lower. When selecting predicates for traversal the information expected from the search should be the top priority. Because of this, all predicates that may contain spatial or temporal data should be kept.
 
-When using the entirety of the Yago data set, most nodes are highly connected. Many of the links in the graph are from predicates such as ``linksTo'' or ``redirectedFrom''. These predicates creates a highly connected graph, and ensures a hit within a few nodes of the start. The same predicates will also often add the same nodes multiple times, create circular graphs, and take up unnecessary CPU power and memory.\\
+When using the entirety of the Yago data set, most nodes are highly connected. Many of the links in the graph are from predicates such as ``linksTo'' or ``redirectedFrom''. These predicates creates a highly connected graph, and ensures a hit within a few nodes of the start. The same predicates will also often add the same nodes multiple times, create circular graphs, and take up unnecessary CPU power and memory.
 
-When pruning predicates there are two methods that are possible to implement. The first will remove the predicates that contain little or no new information, such as ``linksTo'' or ``redirectedFrom'' mentioned above. This will still keep the graph connected, and keeps the predicates containing more useful information.\\
+When pruning predicates there are two methods that are possible to implement. The first will remove the predicates that contain little or no new information, such as ``linksTo'' or ``redirectedFrom'' mentioned above. This will still keep the graph connected, and keeps the predicates containing more useful information.
 
-An other method of pruning is to create a list of predicates to be followed. This can drastically reduce the connections in the graph, but the results will only contain information relevant to the query. When preselecting predicates there is a much greater chance of not finding a match for a query. In addition a lot of metadata could be lost, if the metadata predicates are not added to the list of predicate to be explored.\\
+An other method of pruning is to create a list of predicates to be followed. This can drastically reduce the connections in the graph, but the results will only contain information relevant to the query. When preselecting predicates there is a much greater chance of not finding a match for a query. In addition a lot of metadata could be lost, if the metadata predicates are not added to the list of predicate to be explored.
 
 \subsection{Unqualified place pruning}
-For any spatial search, a lot of places will be found. The graph also contains information on the relationship between places. To find the best possible matches for a spatial query, only places of a higher resolution should be chosen. This means that places of similar or smaller expanse should be allows to be queried, e.g. a query of Boston can return the entirety of Boston, close to Boston, or within Boston. Massachusetts has multiple predicates linking it to Boston, but should not be queried because the information returned would be less detailed than what is queried. \\
+For any spatial search, a lot of places will be found. The graph also contains information on the relationship between places. To find the best possible matches for a spatial query, only places of a higher resolution should be chosen. This means that places of similar or smaller expanse should be allows to be queried, e.g. a query of Boston can return the entirety of Boston, close to Boston, or within Boston. Massachusetts has multiple predicates linking it to Boston, but should not be queried because the information returned would be less detailed than what is queried. 
 
 \subsection{Bounding}
-When selecting places or times for a query, the boundaries should be set so that they encompass the entirety of the queried time and or place.\\
+When selecting places or times for a query, the boundaries should be set so that they encompass the entirety of the queried time and or place.
 
 \glsresetall
 

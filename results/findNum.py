@@ -27,7 +27,7 @@ for d in dirs:
                         root += int(line.split(" ")[-1])
                         score_list.append(0)
                     elif "Total execution time" in line:
-                        time += int(line.split(" ")[-1])
+                        time += float(line.split(" ")[-1])
                         highscore = 0
                         queries += 1
                     elif "Score:" in line and "NaN" not in line:
@@ -38,7 +38,7 @@ for d in dirs:
                             highscore = accuracy
                             score_list[queries] = accuracy
                     elif "Nodes visited" in line:
-                        total_nodes += int(line.split(" ")[-1])
+                        total_nodes += float(line.split(" ")[-1])
     os.chdir("../")
 
 print("avg time/query: " + str(time/queries))
@@ -46,5 +46,7 @@ print("avg time/root: " + str(time/root))
 print("avg root/query: " + str(root/queries))
 
 print("avg nodes/root: " + str(total_nodes/root))
-print("avg accuracy: " + str(total_accuracy/results))
+print("avg accuracy/root: " + str(total_accuracy/root))
+
+print("avg accuracy/result: " + str(total_accuracy/results))
 print("avg top score/query: " + str(sum(score_list)/len(score_list)))

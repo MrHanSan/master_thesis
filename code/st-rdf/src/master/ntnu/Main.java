@@ -176,6 +176,8 @@ public class Main {
                         node.addHitChild(node);
                     }
                 }
+                ArrayList<YagoNode> temoporal = temporalNodes(model, node);
+                if(temoporal != null) System.out.println(temoporal.size());
                 if (node.getTokenList().equals(queryWords)) maxDepth = node.getDepth();
                 List<YagoNode> newNodes = traverse(model, node, queryWords);
                 if (newNodes != null) {
