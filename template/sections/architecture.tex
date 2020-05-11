@@ -3,9 +3,12 @@
 % OR: \chapter{Model}
 \label{cha:architecture}
 
+When building a system for keyword search, the first implementations was based on previously created systems. This early method was based on \cite{Shi:2016:TRS:2882903.2882941} and the method was also used as the base for adding a temporal dimension to the search.
+
 \section{Search}
-\subsection{BFS search}
-The most basic method of finding a match for keywords is using a breadth first search (BFS) \citep{blinks, Shi:2016:TRS:2882903.2882941}. For each keyword in the query the algorithm will find all vertices that contain the keyword. From that set of vertices the BFS search finds the first vertex that can connect all the vertices in the set. The vertex that connects the the rest of the set is the one that best fits the keywords in the search. There is however no guarantee that this set of vertices contains any spatial or temporal data. If this is the case, the search will continue until the a vertex containing spatial and temporal data is found. The first set of vertices containing all the keywords, a place, and time will be the best result using this search. The BFS search can however contain multiple times, or multiple places. To determine what time or what place best fits the query, a separate ranking algorithm can be used. BFS is also a time consuming algorithm and is used as a proof of concept and baseline in this thesis.
+One basic method of finding a match for keywords is using a breadth first search (BFS) \citep{blinks, Shi:2016:TRS:2882903.2882941}. For each keyword in the query the algorithm will find all vertices that contain the keyword. From that set of vertices the BFS search finds the first vertex that can connect all the vertices in the set. The vertex that connects the the rest of the set is the one that best fits the keywords in the search.
+
+Using BFS starting on keyword vertices works for keyword search, but not necessarily when searching for spatial or temporal data. When adding spatial or temporal vertices to the search, these can be used as a root, and a starting point for traversal. When a search initiates, a place and/ or time vertex existing in the graph needs to be selected. From this vertex or vertices, all connected places will be used as roots when searching. For the selected place vertex, the roots is geographically located within the selected place. This is done to bound the search close to the selected place. From the root nodes the search will traverse the graph looking for vertices matching the query words, and when all words are found, that subgraph is the best match for the start root. After all roots are searched, the subgraphs are given a score based on how well they fit the query.
 
 \begin{algorithm}[H]
     \caption{GetFullResultTree(p, t, Qt)}
@@ -35,7 +38,7 @@ The first part of the search is to find a set of root nodes for sub-graphs. This
 
 When traversing the graph and finding a match, a node object is created. This object is used to keep track of the pseudo hierarchy in the graph. All objects contain information on the depth of the node, matched query terms, and relation to parent and children, if any. In addition root objects contains a list of all query terms hit in the sub graph. If a child node is found within multiple subgraphs, a new object will be created representing the node for each subgraph. This creates some objects that are nearly identical, but with different relations and possible different depth.
 
-When a node object is created, a document with tokens is created. This document is used to calculate score, and to match a node with the query words. A documnet is created from the last part of a Yago URI, after the last slash. Each URI si further split on each underscore, creating a list of words. 
+When a node object is created, a document with tokens is created. This document is used to calculate score, and to match a node with the query words. A document is created from the last part of a Yago URI, after the last slash. Each URI si further split on each underscore, creating a list of words. 
 
 \begin{algorithm}
 \caption{minimum spanning graph}
@@ -56,6 +59,8 @@ For each node in hits:\\
 
 
 After traversing the main graph we have found all subgraphs containing at least one query term. These subgraphs contain many nodes which hit the same terms. Before ranking the subgraphs the minimum spanning graph needs to be found. The minimum spanning tree is found using a greedy algorithm that iterates through all nodes in the subgraphs, then keeping the nodes containing the most terms, and lowest depth. The minimum tree will contain as many terms as possible, a term will only be found in one node, and the graph will be as shallow as possible.
+
+\section{Ranking}
 
 - Find the minimum spanning tree for each of the root nodes containing the maximum amount of the query words.\\
 - Rank based on 1. Query words hit 2. Nodes in the tree 3. depth of the tree\\

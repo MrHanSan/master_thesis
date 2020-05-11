@@ -8,10 +8,12 @@
 
 \section{Discussion}
 \label{sec:Discussion}
-
 When traversing an rdf graph, the predicates chosen will have a great effect on the time used. Knowing the data searching through will help when choosing the predicate to follow. When choosing what predicates to use in the search, the goal should be to minimize the amount of unnecessary nodes found and followed. When removing predicates, the obvious downside is the possibility of missing some results, and decreasing the accuracy.
+
+BFS search can take ua a lot of memory. This is because all nodes have to be stored while searching. It is possible to limit the maximum distance a node can be from the root node, which in turn will limit the amount of nodes visited, and reduce the memory needed. When testing without any form of pruning, the computer would run out of memory. Because of this, no results are gathered from a method following all edges of each node. Following all edges on each node would also lead to highly connected category nodes being discovered. With more than 120 million nodes, and 350.000 classes, each node would on average be connected to more than 340 other nodes, from the classes alone. Following this with a depth of 3, the average search would visit more than 40 million nodes.
 
 - limitations\\
 - Effectiveness of pruning\\
 - choice of query terms\\
 - Root nodes\\
+- other methods for increasing speed\\
