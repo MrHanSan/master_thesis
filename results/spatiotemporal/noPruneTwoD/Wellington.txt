@@ -1,0 +1,444 @@
+Query Words: william, whole
+Root nodes Found: 2
+Nodes visited: 495
+Total execution time: 278
+
+Query Words: thomas, california
+Root nodes Found: 2
+Nodes visited: 495
+Total execution time: 96
+
+Query Words: park, church
+Root nodes Found: 2
+Nodes visited: 495
+Total execution time: 95
+
+Query Words: district, objects
+Root nodes Found: 2
+Nodes visited: 495
+Total execution time: 99
+
+Query Words: descent, football
+Root nodes Found: 2
+Nodes visited: 495
+Total execution time: 112
+
+Query Words: william, park
+Root nodes Found: 2
+Nodes visited: 495
+Total execution time: 99
+
+Query Words: district, objects
+Root nodes Found: 2
+Nodes visited: 495
+Total execution time: 108
+
+Query Words: thomas, california
+Root nodes Found: 2
+Nodes visited: 495
+Total execution time: 90
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 2
+Nodes visited: 495
+Total execution time: 94
+
+Query Words: park, church, district, objects
+Root nodes Found: 2
+Nodes visited: 495
+Total execution time: 97
+
+Query Words: descent, football, william, park
+Root nodes Found: 2
+Nodes visited: 495
+Total execution time: 99
+
+Query Words: william, whole
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 67
+
+Query Words: thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 63
+
+Query Words: park, church
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 64
+
+Query Words: district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 66
+
+Query Words: descent, football
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 64
+
+Query Words: william, park
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 69
+
+Query Words: district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 67
+
+Query Words: thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 63
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 69
+
+Query Words: park, church, district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 73
+
+Query Words: descent, football, william, park
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 66
+
+Query Words: william, whole
+Root nodes Found: 1
+
+		http://yago-knowledge.org/resource/William_P._Hobby_Airport   [william]
+	http://yago-knowledge.org/resource/Los_Angeles_International_Airport   []
+http://yago-knowledge.org/resource/Air_New_Zealand   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 20315
+Total execution time: 1142
+
+Query Words: thomas, california
+Root nodes Found: 1
+
+http://yago-knowledge.org/resource/Air_New_Zealand   []
+	http://yago-knowledge.org/resource/Los_Angeles_International_Airport   []
+		http://yago-knowledge.org/resource/California   [california]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 20315
+Total execution time: 432
+
+Query Words: park, church
+Root nodes Found: 1
+
+http://yago-knowledge.org/resource/Air_New_Zealand   []
+		http://yago-knowledge.org/resource/Glacier_Park_International_Airport   [park]
+	http://yago-knowledge.org/resource/Los_Angeles_International_Airport   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 20315
+Total execution time: 422
+
+Query Words: district, objects
+Root nodes Found: 1
+Nodes visited: 20315
+Total execution time: 408
+
+Query Words: descent, football
+Root nodes Found: 1
+Nodes visited: 20315
+Total execution time: 402
+
+Query Words: william, park
+Root nodes Found: 1
+
+		http://yago-knowledge.org/resource/William_P._Hobby_Airport   [william]
+http://yago-knowledge.org/resource/Air_New_Zealand   []
+	http://yago-knowledge.org/resource/Los_Angeles_International_Airport   []
+		http://yago-knowledge.org/resource/Glacier_Park_International_Airport   [park]
+Score: 0.1111111111111111
+----
+
+Nodes visited: 20315
+Total execution time: 415
+
+Query Words: district, objects
+Root nodes Found: 1
+Nodes visited: 20315
+Total execution time: 403
+
+Query Words: thomas, california
+Root nodes Found: 1
+
+		http://yago-knowledge.org/resource/California   [california]
+	http://yago-knowledge.org/resource/Los_Angeles_International_Airport   []
+http://yago-knowledge.org/resource/Air_New_Zealand   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 20315
+Total execution time: 411
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 1
+
+http://yago-knowledge.org/resource/Air_New_Zealand   []
+		http://yago-knowledge.org/resource/William_P._Hobby_Airport   [william]
+	http://yago-knowledge.org/resource/Los_Angeles_International_Airport   []
+		http://yago-knowledge.org/resource/California   [california]
+Score: 0.05555555555555555
+----
+
+Nodes visited: 20315
+Total execution time: 411
+
+Query Words: park, church, district, objects
+Root nodes Found: 1
+
+	http://yago-knowledge.org/resource/Los_Angeles_International_Airport   []
+		http://yago-knowledge.org/resource/Glacier_Park_International_Airport   [park]
+http://yago-knowledge.org/resource/Air_New_Zealand   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 20315
+Total execution time: 406
+
+Query Words: descent, football, william, park
+Root nodes Found: 1
+
+http://yago-knowledge.org/resource/Air_New_Zealand   []
+		http://yago-knowledge.org/resource/Glacier_Park_International_Airport   [park]
+	http://yago-knowledge.org/resource/Los_Angeles_International_Airport   []
+		http://yago-knowledge.org/resource/William_P._Hobby_Airport   [william]
+Score: 0.05555555555555555
+----
+
+Nodes visited: 20315
+Total execution time: 412
+
+Query Words: william, whole
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 65
+
+Query Words: thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 59
+
+Query Words: park, church
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 61
+
+Query Words: district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 60
+
+Query Words: descent, football
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 58
+
+Query Words: william, park
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 63
+
+Query Words: district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 59
+
+Query Words: thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 62
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 62
+
+Query Words: park, church, district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 60
+
+Query Words: descent, football, william, park
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 60
+
+Query Words: william, whole
+Root nodes Found: 1
+Nodes visited: 4471
+Total execution time: 169
+
+Query Words: thomas, california
+Root nodes Found: 1
+Nodes visited: 4471
+Total execution time: 166
+
+Query Words: park, church
+Root nodes Found: 1
+Nodes visited: 4471
+Total execution time: 171
+
+Query Words: district, objects
+Root nodes Found: 1
+Nodes visited: 4471
+Total execution time: 170
+
+Query Words: descent, football
+Root nodes Found: 1
+Nodes visited: 4471
+Total execution time: 166
+
+Query Words: william, park
+Root nodes Found: 1
+Nodes visited: 4471
+Total execution time: 171
+
+Query Words: district, objects
+Root nodes Found: 1
+Nodes visited: 4471
+Total execution time: 166
+
+Query Words: thomas, california
+Root nodes Found: 1
+Nodes visited: 4471
+Total execution time: 171
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 1
+Nodes visited: 4471
+Total execution time: 168
+
+Query Words: park, church, district, objects
+Root nodes Found: 1
+Nodes visited: 4471
+Total execution time: 174
+
+Query Words: descent, football, william, park
+Root nodes Found: 1
+Nodes visited: 4471
+Total execution time: 171
+
+Query Words: william, whole
+Root nodes Found: 1
+Nodes visited: 4471
+Total execution time: 173
+
+Query Words: thomas, california
+Root nodes Found: 1
+Nodes visited: 4471
+Total execution time: 171
+
+Query Words: park, church
+Root nodes Found: 1
+Nodes visited: 4471
+Total execution time: 171
+
+Query Words: district, objects
+Root nodes Found: 1
+Nodes visited: 4471
+Total execution time: 168
+
+Query Words: descent, football
+Root nodes Found: 1
+Nodes visited: 4471
+Total execution time: 181
+
+Query Words: william, park
+Root nodes Found: 1
+Nodes visited: 4471
+Total execution time: 178
+
+Query Words: district, objects
+Root nodes Found: 1
+Nodes visited: 4471
+Total execution time: 181
+
+Query Words: thomas, california
+Root nodes Found: 1
+Nodes visited: 4471
+Total execution time: 172
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 1
+Nodes visited: 4471
+Total execution time: 177
+
+Query Words: park, church, district, objects
+Root nodes Found: 1
+Nodes visited: 4471
+Total execution time: 172
+
+Query Words: descent, football, william, park
+Root nodes Found: 1
+Nodes visited: 4471
+Total execution time: 172
+
+Query Words: william, whole
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 61
+
+Query Words: thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 67
+
+Query Words: park, church
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 67
+
+Query Words: district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 68
+
+Query Words: descent, football
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 64
+
+Query Words: william, park
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 63
+
+Query Words: district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 63
+
+Query Words: thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 67
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 65
+
+Query Words: park, church, district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 63
+
+Query Words: descent, football, william, park
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 66
+

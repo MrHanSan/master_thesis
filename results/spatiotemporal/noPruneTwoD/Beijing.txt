@@ -1,0 +1,1993 @@
+Query Words: william, whole
+Root nodes Found: 17
+Nodes visited: 77212
+Total execution time: 3604
+
+Query Words: thomas, california
+Root nodes Found: 17
+
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [california]
+http://yago-knowledge.org/resource/R20_Regions_of_Climate_Action   []
+Score: 0.16666666666666666
+----
+
+Nodes visited: 77212
+Total execution time: 2673
+
+Query Words: park, church
+Root nodes Found: 17
+
+http://yago-knowledge.org/resource/Beijing_International_Challenge   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Beijing_International_Challenger   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/The_Gem_of_Life   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/2010_China_Open_(snooker)   []
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Beijing_Television_Cultural_Center_fire   []
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/2010_Beijing_International_Challenge   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Meituan.com   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/China_Xinhua_News_Network_Corporation   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Yuehua_Entertainment   []
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/21Vianet   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Jiepang   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/IQiyi   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/World_Chocolate_Wonderland   []
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/YiNongDai   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Superior_Aviation_Beijing   []
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/CNC_World   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/R20_Regions_of_Climate_Action   []
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 77212
+Total execution time: 2702
+
+Query Words: district, objects
+Root nodes Found: 17
+Nodes visited: 77212
+Total execution time: 2665
+
+Query Words: descent, football
+Root nodes Found: 17
+Nodes visited: 77212
+Total execution time: 2668
+
+Query Words: william, park
+Root nodes Found: 17
+
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Beijing_International_Challenge   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Beijing_International_Challenger   []
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/The_Gem_of_Life   []
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/2010_China_Open_(snooker)   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Beijing_Television_Cultural_Center_fire   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/2010_Beijing_International_Challenge   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Meituan.com   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/China_Xinhua_News_Network_Corporation   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Yuehua_Entertainment   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/21Vianet   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Jiepang   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/IQiyi   []
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/World_Chocolate_Wonderland   []
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/YiNongDai   []
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Superior_Aviation_Beijing   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/CNC_World   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/R20_Regions_of_Climate_Action   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 77212
+Total execution time: 2714
+
+Query Words: district, objects
+Root nodes Found: 17
+Nodes visited: 77212
+Total execution time: 2662
+
+Query Words: thomas, california
+Root nodes Found: 17
+
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [california]
+http://yago-knowledge.org/resource/R20_Regions_of_Climate_Action   []
+Score: 0.16666666666666666
+----
+
+Nodes visited: 77212
+Total execution time: 2663
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 17
+
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [california]
+http://yago-knowledge.org/resource/R20_Regions_of_Climate_Action   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 77212
+Total execution time: 2682
+
+Query Words: park, church, district, objects
+Root nodes Found: 17
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Beijing_International_Challenge   []
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Beijing_International_Challenger   []
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/The_Gem_of_Life   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/2010_China_Open_(snooker)   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Beijing_Television_Cultural_Center_fire   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/2010_Beijing_International_Challenge   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Meituan.com   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/China_Xinhua_News_Network_Corporation   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Yuehua_Entertainment   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/21Vianet   []
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Jiepang   []
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/IQiyi   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/World_Chocolate_Wonderland   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/YiNongDai   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Superior_Aviation_Beijing   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/CNC_World   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/R20_Regions_of_Climate_Action   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 77212
+Total execution time: 2735
+
+Query Words: descent, football, william, park
+Root nodes Found: 17
+
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Beijing_International_Challenge   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Beijing_International_Challenger   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/The_Gem_of_Life   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/2010_China_Open_(snooker)   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Beijing_Television_Cultural_Center_fire   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/2010_Beijing_International_Challenge   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Meituan.com   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/China_Xinhua_News_Network_Corporation   []
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Yuehua_Entertainment   []
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/21Vianet   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Jiepang   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/IQiyi   []
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/World_Chocolate_Wonderland   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/YiNongDai   []
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Superior_Aviation_Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/CNC_World   []
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/R20_Regions_of_Climate_Action   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 77212
+Total execution time: 2737
+
+Query Words: william, whole
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 281
+
+Query Words: thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 280
+
+Query Words: park, church
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 281
+
+Query Words: district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 288
+
+Query Words: descent, football
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 291
+
+Query Words: william, park
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 282
+
+Query Words: district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 284
+
+Query Words: thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 280
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 282
+
+Query Words: park, church, district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 280
+
+Query Words: descent, football, william, park
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 285
+
+Query Words: william, whole
+Root nodes Found: 5
+Nodes visited: 21555
+Total execution time: 1013
+
+Query Words: thomas, california
+Root nodes Found: 5
+Nodes visited: 21555
+Total execution time: 1014
+
+Query Words: park, church
+Root nodes Found: 5
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/China_Democratic_League   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Minzu_University_of_China   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Beijing_Institute_of_Technology   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/2009_Beijing_International_Challenge   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Beijing_Foreign_Studies_University   []
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 21555
+Total execution time: 1027
+
+Query Words: district, objects
+Root nodes Found: 5
+Nodes visited: 21555
+Total execution time: 1015
+
+Query Words: descent, football
+Root nodes Found: 5
+Nodes visited: 21555
+Total execution time: 1015
+
+Query Words: william, park
+Root nodes Found: 5
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/China_Democratic_League   []
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Minzu_University_of_China   []
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Beijing_Institute_of_Technology   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/2009_Beijing_International_Challenge   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Beijing_Foreign_Studies_University   []
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 21555
+Total execution time: 1022
+
+Query Words: district, objects
+Root nodes Found: 5
+Nodes visited: 21555
+Total execution time: 1015
+
+Query Words: thomas, california
+Root nodes Found: 5
+Nodes visited: 21555
+Total execution time: 1009
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 5
+Nodes visited: 21555
+Total execution time: 1016
+
+Query Words: park, church, district, objects
+Root nodes Found: 5
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/China_Democratic_League   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Minzu_University_of_China   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Beijing_Institute_of_Technology   []
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/2009_Beijing_International_Challenge   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Beijing_Foreign_Studies_University   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.041666666666666664
+----
+
+Nodes visited: 21555
+Total execution time: 1021
+
+Query Words: descent, football, william, park
+Root nodes Found: 5
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/China_Democratic_League   []
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Minzu_University_of_China   []
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Beijing_Institute_of_Technology   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/2009_Beijing_International_Challenge   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Beijing_Foreign_Studies_University   []
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 21555
+Total execution time: 1091
+
+Query Words: william, whole
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 291
+
+Query Words: thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 279
+
+Query Words: park, church
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 278
+
+Query Words: district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 282
+
+Query Words: descent, football
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 277
+
+Query Words: william, park
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 281
+
+Query Words: district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 294
+
+Query Words: thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 284
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 279
+
+Query Words: park, church, district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 279
+
+Query Words: descent, football, william, park
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 282
+
+Query Words: william, whole
+Root nodes Found: 13
+Nodes visited: 81213
+Total execution time: 3458
+
+Query Words: thomas, california
+Root nodes Found: 13
+Nodes visited: 81213
+Total execution time: 2593
+
+Query Words: park, church
+Root nodes Found: 13
+
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Tian_Mingjian_incident   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Ninetowns_Internet_Technology_Group   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Pactera   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/VanceInfo   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Western_Zhou_Yan_State_Capital_Museum   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Beijing_Capital_Airlines   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Yew_Chung_International_School_of_Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Shenhua_Group   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Volvo_China_Open   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/China_Shenhua_Energy   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/China_Unicom   []
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/China_International_Capital_Corporation   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/SOHO_China   []
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 81213
+Total execution time: 2609
+
+Query Words: district, objects
+Root nodes Found: 13
+
+		http://yago-knowledge.org/resource/Weicheng_District,_Xianyang   [district]
+http://yago-knowledge.org/resource/Beijing_Capital_Airlines   []
+	http://yago-knowledge.org/resource/Xi'an_Xianyang_International_Airport   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/China_International_Capital_Corporation   []
+Score: 0.16666666666666666
+----
+
+Nodes visited: 81213
+Total execution time: 2585
+
+Query Words: descent, football
+Root nodes Found: 13
+Nodes visited: 81213
+Total execution time: 2583
+
+Query Words: william, park
+Root nodes Found: 13
+
+http://yago-knowledge.org/resource/Tian_Mingjian_incident   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Ninetowns_Internet_Technology_Group   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Pactera   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/VanceInfo   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Western_Zhou_Yan_State_Capital_Museum   []
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Beijing_Capital_Airlines   []
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Yew_Chung_International_School_of_Beijing   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Shenhua_Group   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Volvo_China_Open   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/China_Shenhua_Energy   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/China_Unicom   []
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/China_International_Capital_Corporation   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/SOHO_China   []
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 81213
+Total execution time: 2627
+
+Query Words: district, objects
+Root nodes Found: 13
+
+		http://yago-knowledge.org/resource/Xiaoshan_District   [district]
+	http://yago-knowledge.org/resource/Hangzhou_Xiaoshan_International_Airport   []
+http://yago-knowledge.org/resource/Beijing_Capital_Airlines   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/China_International_Capital_Corporation   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.16666666666666666
+----
+
+Nodes visited: 81213
+Total execution time: 2655
+
+Query Words: thomas, california
+Root nodes Found: 13
+Nodes visited: 81213
+Total execution time: 2573
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 13
+Nodes visited: 81213
+Total execution time: 2582
+
+Query Words: park, church, district, objects
+Root nodes Found: 13
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Tian_Mingjian_incident   []
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Ninetowns_Internet_Technology_Group   []
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Pactera   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/VanceInfo   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Western_Zhou_Yan_State_Capital_Museum   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Xiaoshan_District   [district]
+http://yago-knowledge.org/resource/Beijing_Capital_Airlines   []
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Hangzhou_Xiaoshan_International_Airport   []
+Score: 0.045454545454545456
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Yew_Chung_International_School_of_Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Shenhua_Group   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Volvo_China_Open   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/China_Shenhua_Energy   []
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/China_Unicom   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/China_International_Capital_Corporation   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.0625
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/SOHO_China   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.041666666666666664
+----
+
+Nodes visited: 81213
+Total execution time: 2637
+
+Query Words: descent, football, william, park
+Root nodes Found: 13
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Tian_Mingjian_incident   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Ninetowns_Internet_Technology_Group   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Pactera   []
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/VanceInfo   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Western_Zhou_Yan_State_Capital_Museum   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Beijing_Capital_Airlines   []
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Yew_Chung_International_School_of_Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Shenhua_Group   []
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Volvo_China_Open   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/China_Shenhua_Energy   []
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/China_Unicom   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/China_International_Capital_Corporation   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/SOHO_China   []
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 81213
+Total execution time: 2618
+
+Query Words: william, whole
+Root nodes Found: 2
+Nodes visited: 11008
+Total execution time: 682
+
+Query Words: thomas, california
+Root nodes Found: 2
+Nodes visited: 11008
+Total execution time: 665
+
+Query Words: park, church
+Root nodes Found: 2
+
+http://yago-knowledge.org/resource/International_Union_of_Geological_Sciences   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Beijing_University_of_Technology   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 11008
+Total execution time: 662
+
+Query Words: district, objects
+Root nodes Found: 2
+Nodes visited: 11008
+Total execution time: 668
+
+Query Words: descent, football
+Root nodes Found: 2
+Nodes visited: 11008
+Total execution time: 662
+
+Query Words: william, park
+Root nodes Found: 2
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/International_Union_of_Geological_Sciences   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Beijing_University_of_Technology   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 11008
+Total execution time: 665
+
+Query Words: district, objects
+Root nodes Found: 2
+Nodes visited: 11008
+Total execution time: 666
+
+Query Words: thomas, california
+Root nodes Found: 2
+Nodes visited: 11008
+Total execution time: 663
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 2
+Nodes visited: 11008
+Total execution time: 659
+
+Query Words: park, church, district, objects
+Root nodes Found: 2
+
+http://yago-knowledge.org/resource/International_Union_of_Geological_Sciences   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Beijing_University_of_Technology   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 11008
+Total execution time: 666
+
+Query Words: descent, football, william, park
+Root nodes Found: 2
+
+http://yago-knowledge.org/resource/International_Union_of_Geological_Sciences   []
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Beijing_University_of_Technology   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 11008
+Total execution time: 665
+
+Query Words: william, whole
+Root nodes Found: 16
+Nodes visited: 66053
+Total execution time: 2862
+
+Query Words: thomas, california
+Root nodes Found: 16
+
+http://yago-knowledge.org/resource/Analogix   []
+	http://yago-knowledge.org/resource/Santa_Clara,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+		http://yago-knowledge.org/resource/California   [california]
+	http://yago-knowledge.org/resource/San_Diego   []
+http://yago-knowledge.org/resource/Phalanx_Biotech_Group   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 66053
+Total execution time: 2355
+
+Query Words: park, church
+Root nodes Found: 16
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Fight_for_Love_(TV_series)   []
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Peking_University_Founder_Technology_College   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Sinotrans_Limited   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/China_Railway_Museum   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Daystar_Academy   []
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Huanghe_Hydropower_Golmud_Solar_Park   [park]
+http://yago-knowledge.org/resource/State_Power_Investment_Corporation   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Affinity_Equity_Partners   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/China_Guodian_Corporation   []
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Cheung_Kong_Graduate_School_of_Business   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Miss_International_China   []
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Today_Art_Museum   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/China_Datang_Corporation   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Analogix   []
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/China_Yangtze_Power   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Phalanx_Biotech_Group   []
+	http://yago-knowledge.org/resource/San_Diego   []
+		http://yago-knowledge.org/resource/Petco_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/State_Grid_Corporation_of_China   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 66053
+Total execution time: 2383
+
+Query Words: district, objects
+Root nodes Found: 16
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Daystar_Academy   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/China_Yangtze_Power   []
+		http://yago-knowledge.org/resource/Yiling_District   [district]
+	http://yago-knowledge.org/resource/Three_Gorges_Dam   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Xicheng_District   [district]
+http://yago-knowledge.org/resource/State_Grid_Corporation_of_China   []
+Score: 0.16666666666666666
+----
+
+Nodes visited: 66053
+Total execution time: 2356
+
+Query Words: descent, football
+Root nodes Found: 16
+Nodes visited: 66053
+Total execution time: 2363
+
+Query Words: william, park
+Root nodes Found: 16
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Fight_for_Love_(TV_series)   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Peking_University_Founder_Technology_College   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Sinotrans_Limited   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/China_Railway_Museum   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Daystar_Academy   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/State_Power_Investment_Corporation   []
+	http://yago-knowledge.org/resource/Huanghe_Hydropower_Golmud_Solar_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Affinity_Equity_Partners   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/China_Guodian_Corporation   []
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Cheung_Kong_Graduate_School_of_Business   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Miss_International_China   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Today_Art_Museum   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/China_Datang_Corporation   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Analogix   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/China_Yangtze_Power   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Phalanx_Biotech_Group   []
+	http://yago-knowledge.org/resource/San_Diego   []
+		http://yago-knowledge.org/resource/Amici_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/State_Grid_Corporation_of_China   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 66053
+Total execution time: 2376
+
+Query Words: district, objects
+Root nodes Found: 16
+
+http://yago-knowledge.org/resource/Daystar_Academy   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/China_Yangtze_Power   []
+	http://yago-knowledge.org/resource/Three_Gorges_Dam   []
+		http://yago-knowledge.org/resource/Yiling_District   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Xicheng_District   [district]
+http://yago-knowledge.org/resource/State_Grid_Corporation_of_China   []
+Score: 0.16666666666666666
+----
+
+Nodes visited: 66053
+Total execution time: 2362
+
+Query Words: thomas, california
+Root nodes Found: 16
+
+http://yago-knowledge.org/resource/Analogix   []
+	http://yago-knowledge.org/resource/Santa_Clara,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+		http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Phalanx_Biotech_Group   []
+	http://yago-knowledge.org/resource/San_Diego   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 66053
+Total execution time: 2352
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 16
+
+http://yago-knowledge.org/resource/Analogix   []
+	http://yago-knowledge.org/resource/Santa_Clara,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Phalanx_Biotech_Group   []
+	http://yago-knowledge.org/resource/San_Diego   []
+		http://yago-knowledge.org/resource/California   [california]
+Score: 0.041666666666666664
+----
+
+Nodes visited: 66053
+Total execution time: 2356
+
+Query Words: park, church, district, objects
+Root nodes Found: 16
+
+http://yago-knowledge.org/resource/Fight_for_Love_(TV_series)   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Peking_University_Founder_Technology_College   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Sinotrans_Limited   []
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/China_Railway_Museum   []
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Daystar_Academy   []
+Score: 0.0625
+----
+
+
+http://yago-knowledge.org/resource/State_Power_Investment_Corporation   []
+	http://yago-knowledge.org/resource/Huanghe_Hydropower_Golmud_Solar_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Affinity_Equity_Partners   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/China_Guodian_Corporation   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Cheung_Kong_Graduate_School_of_Business   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Miss_International_China   []
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Today_Art_Museum   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/China_Datang_Corporation   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Analogix   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+	http://yago-knowledge.org/resource/Three_Gorges_Dam   []
+http://yago-knowledge.org/resource/China_Yangtze_Power   []
+		http://yago-knowledge.org/resource/Yiling_District   [district]
+Score: 0.045454545454545456
+----
+
+
+http://yago-knowledge.org/resource/Phalanx_Biotech_Group   []
+	http://yago-knowledge.org/resource/San_Diego   []
+		http://yago-knowledge.org/resource/Amici_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Xicheng_District   [district]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/State_Grid_Corporation_of_China   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.0625
+----
+
+Nodes visited: 66053
+Total execution time: 2470
+
+Query Words: descent, football, william, park
+Root nodes Found: 16
+
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Fight_for_Love_(TV_series)   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Peking_University_Founder_Technology_College   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Sinotrans_Limited   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/China_Railway_Museum   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Daystar_Academy   []
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Huanghe_Hydropower_Golmud_Solar_Park   [park]
+http://yago-knowledge.org/resource/State_Power_Investment_Corporation   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Affinity_Equity_Partners   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/China_Guodian_Corporation   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Cheung_Kong_Graduate_School_of_Business   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Miss_International_China   []
+	http://yago-knowledge.org/resource/Beijing   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+http://yago-knowledge.org/resource/Today_Art_Museum   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/China_Datang_Corporation   []
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/Analogix   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/China_Yangtze_Power   []
+	http://yago-knowledge.org/resource/Beijing   []
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Phalanx_Biotech_Group   []
+		http://yago-knowledge.org/resource/Petco_Park   [park]
+	http://yago-knowledge.org/resource/San_Diego   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Olympic_Park_Observation_Tower   [park]
+	http://yago-knowledge.org/resource/Beijing   []
+http://yago-knowledge.org/resource/State_Grid_Corporation_of_China   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 66053
+Total execution time: 2527
+

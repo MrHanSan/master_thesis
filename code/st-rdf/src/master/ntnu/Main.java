@@ -15,6 +15,7 @@ import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 import java.util.*;
 import java.util.concurrent.atomic.AtomicBoolean;
+import java.lang.NumberFormatException;
 
 public class Main {
     public static void main(String[] args) {
@@ -58,6 +59,7 @@ public class Main {
                             "\n\n", place);
 
                     System.out.println("\nTotal execution time: " + (endTime - startTime));
+                    if (nodeCount == -1) break;
                 }
 
                 queryWords = readQueryWords("rndZipf4.txt");
@@ -87,6 +89,7 @@ public class Main {
                             "\n\n", place);
 
                     System.out.println("\nTotal execution time: " + (endTime - startTime));
+                    if (nodeCount == -1) break;
                 }
             }
         }
@@ -120,30 +123,29 @@ public class Main {
         List<YagoNode> roots = new ArrayList<YagoNode>();
         final String RESOURCE = "http://yago-knowledge.org/resource/";
         String queryString =
-                "PREFIX yago:<" + RESOURCE + "> " +
-                        "PREFIX rdf:<http://www.w3.org/1999/02/22-rdf-syntax-ns#> " +
-                        "PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema> " +
-                        "SELECT DISTINCT ?s WHERE { ?s ?p <" + RESOURCE + place + "> . " +
+                "PREFIX yago:<http://yago-knowledge.org/resource/> "+
+                        "SELECT DISTINCT ?s WHERE { ?s ?p yago:" + place + " . " +
                         "FILTER ( ?p =  <http://yago-knowledge.org/resource/isLocatedIn> ) . " +
                         "}";
 
-        Query query = QueryFactory.create(queryString);
-        try (QueryExecution qexec = QueryExecutionFactory.create(query, model) ) {
-            ResultSet results = qexec.execSelect();
-            while(results.hasNext()) {
-                try {
+        try {
+            Query query = QueryFactory.create(queryString);
+            try (QueryExecution qexec = QueryExecutionFactory.create(query, model)) {
+                ResultSet results = qexec.execSelect();
+                while (results.hasNext()) {
                     QuerySolution soln = results.nextSolution();
-                    // System.out.println(soln);
+                    if (soln == null) continue;
                     RDFNode sub = soln.get("s");
-                    if( !sub.isURIResource() ) continue;
+                    if (sub == null || !sub.isURIResource()) continue;
                     roots.add(new YagoNode(sub.toString()));
-                } catch (NoSuchElementException | NullPointerException e) {
-                    System.out.println("Root error: ");
-                    System.out.println(e);
                 }
+            } catch (NoSuchElementException | NullPointerException e) {
+                System.out.println("result error");
+                System.out.println(e);
             }
         } catch (NullPointerException e) {
             System.out.println("Root outer error");
+            System.out.println(queryString);
             System.out.println(e);
         }
         return roots;
@@ -153,12 +155,13 @@ public class Main {
         List<YagoNode> roots = new ArrayList<YagoNode>();
         String dateString = "?date >= \"" + date.split(" ")[0] +"\"^^xsd:date && ?date <= \"" + date.split(" ")[1] + "\"^^xsd:date";
 
-        String queryString = "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> " +
+        String queryString = "PREFIX xsd:<http://www.w3.org/2001/XMLSchema#> " +
             "PREFIX yago:<http://yago-knowledge.org/resource/> " +
             "PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema> " +
-            "SELECT * " +
+            "SELECT DISTINCT ?s " +
             "WHERE {" +
-                "VALUES ?p {yago:wasCreatedOnDate yago:wasDestroyedOnDate} " +
+                "VALUES ?p {yago:wasCreatedOnDate yago:wasDestroyedOnDate yago:wasBornOnDate yago:diedOnDate " +
+                     "yago:startedOnDate yago:created yago:happendOnDate yago:occursSince yago:occursUntil} " +
                 "?s ?p ?date . " +
                 "FILTER (" + dateString + " && ?p != rdfs:label)" +
             "}";
@@ -166,15 +169,20 @@ public class Main {
         try {
             Query query = QueryFactory.create(queryString);
             try (QueryExecution qexec = QueryExecutionFactory.create(query, model)) {
-                ResultSet results = qexec.execSelect();
-                while (results.hasNext()) {
-                    QuerySolution soln = results.nextSolution();
+                ResultSet resultSet = qexec.execSelect();
+                while (resultSet.hasNext()) {
+                    try {
+                    QuerySolution soln = resultSet.nextSolution();
+                    if (soln == null) continue;
                     RDFNode sub = soln.get("s");
                     if (sub == null || !sub.isURIResource()) continue;
-                    // System.out.println("date: " + soln);
                     roots.add(new YagoNode(sub.toString()));
+                    } catch (NullPointerException e) {
+                        System.out.println(e);
+                    }
                 }
             } catch (QueryParseException | NullPointerException e) {
+                System.out.println("time loop");
                 System.out.println(e);
             }
         } catch (QueryParseException e) {
@@ -193,15 +201,17 @@ public class Main {
         // use node level for tabs when printing, displaying inheratance
 
         List<YagoNode> spatialRoots = getRoots(model, place);
-        List<YagoNode> temporalRoots = getTemporalNodes(model, dates);
-        List<YagoNode> roots = new ArrayList<YagoNode>(temporalRoots);
-        roots.retainAll(spatialRoots);
-        if (roots.isEmpty()) {
-            roots.addAll(spatialRoots);
-            roots.addAll(temporalRoots);
-        } 
+        // List<YagoNode> temporalRoots = getTemporalNodes(model, dates);
+        List<YagoNode> roots = new ArrayList<YagoNode>();
+        for (YagoNode r : spatialRoots) {
+            List<YagoNode> spatiotemporal = temporalTraverse(model, r, dates);
+            if (spatiotemporal != null) {
+                roots.addAll(spatiotemporal);
+            }
+        }
+        // List<YagoNode> roots = new ArrayList<YagoNode>(temporalRoots);
         List<YagoNode> nodes = new ArrayList<YagoNode>();
-        int maxDepth = 1;
+        int maxDepth = 2;
         int nodeCount = 0;
         HashSet<YagoNode> hitNodes = new HashSet<>();
 
@@ -264,16 +274,62 @@ public class Main {
                     String str = sub.toString();
                     String[] uriSplit = str.split("/");
                     String[] tokens = uriSplit[uriSplit.length-1].replaceAll("[,()]", "").toLowerCase().split("_");
-                    children.add(new YagoNode(yagoNode, str));
-                    // for (String word : queryWords) {
-                        // if (Arrays.asList(tokens).contains(word)) {
-                        //     children.add(new YagoNode(yagoNode, str));
-                        //     break;
-                        // }
-                    // }
+                    // children.add(new YagoNode(yagoNode, str));
+                    for (String word : queryWords) {
+                        if (Arrays.asList(tokens).contains(word)) {
+                            children.add(new YagoNode(yagoNode, str));
+                            break;
+                        }
+                    }
                 }
             } catch (QueryParseException | NullPointerException e) {
             //    System.out.println(e);
+            }
+        } catch (QueryParseException e) {
+            System.out.println(queryString);
+            return null;
+        }
+        return children;
+    }
+    
+    public static ArrayList<YagoNode> temporalTraverse(Model model, YagoNode yagoNode, String dates) {
+        String entity = yagoNode.getNodeData();
+        ArrayList<YagoNode> children = new ArrayList<YagoNode>();
+        Integer startDate = Integer.parseInt(dates.split(" ")[0].replace("-", ""));
+        Integer endDate = Integer.parseInt(dates.split(" ")[1].replace("-", ""));
+        if (entity == null) return null;
+        if (entity.contains("<") || entity.contains(">") || entity.contains("\"") || entity.contains(" ")) return null;
+
+        String queryString 	= "PREFIX rdf:<http://www.w3.org/1999/02/22-rdf-syntax-ns#> " +
+                "PREFIX xsd:<http://www.w3.org/2001/XMLSchema#> " +
+                "PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema> " +
+                "SELECT DISTINCT * WHERE { " +
+                "<" + entity + "> ?p ?o . " +
+                "} ";
+
+        try {
+            Query query = QueryFactory.create(queryString);
+            try (QueryExecution qexec = QueryExecutionFactory.create(query, model)) {
+                ResultSet results = qexec.execSelect();
+                while (results.hasNext()) {
+                    QuerySolution soln = results.nextSolution();
+                    RDFNode sub = soln.get("o");
+                    if (sub == null) continue;
+                    String str = sub.toString();
+                    if (str.contains("^^http://www.w3.org/2001/XMLSchema#date")){
+                        String dateString = str.replace("-", "").replace("#", "0").replace("^", "_").split("_")[0];
+                        try{
+                            Integer date = Integer.parseInt(dateString);
+                            if (date >= startDate && date <= endDate){
+                                children.add(yagoNode);
+                            }
+                        } catch(NumberFormatException e) {
+                            System.out.println(yagoNode);
+                        }
+                    }
+                }
+            } catch (QueryParseException | NullPointerException e) {
+               System.out.println(e);
             }
         } catch (QueryParseException e) {
             System.out.println(queryString);
