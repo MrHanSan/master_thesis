@@ -1,0 +1,2049 @@
+Query Words: william, whole
+Root nodes Found: 992
+Nodes visited: 152969
+Total execution time: 13210
+
+Query Words: thomas, california
+Root nodes Found: 992
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/ESPN_Deportes   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Disney_Junior_(Latin_America)   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Electric_Daisy_Carnival   []
+	http://yago-knowledge.org/resource/San_Bernardino,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Irvine,_California   [california]
+http://yago-knowledge.org/resource/KCON_(music_festival)   []
+Score: 0.16666666666666666
+----
+
+Nodes visited: 152969
+Total execution time: 9176
+
+Query Words: park, church
+Root nodes Found: 992
+
+http://yago-knowledge.org/resource/Cerro_de_la_Estrella_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Desierto_de_los_Leones_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Fuentes_Brotantes_de_Tlalpan_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_La_Soledad,_Mexico_City   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_San_Bernardo,_Mexico_City   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/El_Tepeyac_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Cumbres_del_Ajusco_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Condesa_pocket_park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Bosque_de_Nativitas_Park,_Xochimilco   [park]
+Score: 0.5
+----
+
+Nodes visited: 152969
+Total execution time: 9219
+
+Query Words: district, objects
+Root nodes Found: 992
+Nodes visited: 152969
+Total execution time: 9226
+
+Query Words: descent, football
+Root nodes Found: 992
+Nodes visited: 152969
+Total execution time: 9101
+
+Query Words: william, park
+Root nodes Found: 992
+
+http://yago-knowledge.org/resource/Cerro_de_la_Estrella_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Desierto_de_los_Leones_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Fuentes_Brotantes_de_Tlalpan_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/El_Tepeyac_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Cumbres_del_Ajusco_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Condesa_pocket_park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Bosque_de_Nativitas_Park,_Xochimilco   [park]
+Score: 0.5
+----
+
+Nodes visited: 152969
+Total execution time: 9105
+
+Query Words: district, objects
+Root nodes Found: 992
+Nodes visited: 152969
+Total execution time: 9079
+
+Query Words: thomas, california
+Root nodes Found: 992
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/ESPN_Deportes   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Burbank,_California   [california]
+http://yago-knowledge.org/resource/Disney_Junior_(Latin_America)   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Electric_Daisy_Carnival   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Irvine,_California   [california]
+http://yago-knowledge.org/resource/KCON_(music_festival)   []
+Score: 0.16666666666666666
+----
+
+Nodes visited: 152969
+Total execution time: 9153
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 992
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/ESPN_Deportes   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Burbank,_California   [california]
+http://yago-knowledge.org/resource/Disney_Junior_(Latin_America)   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Electric_Daisy_Carnival   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/KCON_(music_festival)   []
+	http://yago-knowledge.org/resource/Irvine,_California   [california]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 152969
+Total execution time: 9099
+
+Query Words: park, church, district, objects
+Root nodes Found: 992
+
+http://yago-knowledge.org/resource/Cerro_de_la_Estrella_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Desierto_de_los_Leones_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Fuentes_Brotantes_de_Tlalpan_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_La_Soledad,_Mexico_City   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_San_Bernardo,_Mexico_City   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/El_Tepeyac_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Cumbres_del_Ajusco_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Condesa_pocket_park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bosque_de_Nativitas_Park,_Xochimilco   [park]
+Score: 0.25
+----
+
+Nodes visited: 152969
+Total execution time: 9110
+
+Query Words: descent, football, william, park
+Root nodes Found: 992
+
+http://yago-knowledge.org/resource/Cerro_de_la_Estrella_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Desierto_de_los_Leones_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Fuentes_Brotantes_de_Tlalpan_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/El_Tepeyac_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Cumbres_del_Ajusco_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Condesa_pocket_park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bosque_de_Nativitas_Park,_Xochimilco   [park]
+Score: 0.25
+----
+
+Nodes visited: 152969
+Total execution time: 9125
+
+Query Words: william, whole
+Root nodes Found: 986
+Nodes visited: 155221
+Total execution time: 9075
+
+Query Words: thomas, california
+Root nodes Found: 986
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/ESPN_Deportes   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Disney_Junior_(Latin_America)   []
+	http://yago-knowledge.org/resource/Burbank,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Electric_Daisy_Carnival   []
+	http://yago-knowledge.org/resource/San_Bernardino,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Irvine,_California   [california]
+http://yago-knowledge.org/resource/KCON_(music_festival)   []
+Score: 0.16666666666666666
+----
+
+Nodes visited: 155221
+Total execution time: 9397
+
+Query Words: park, church
+Root nodes Found: 986
+
+http://yago-knowledge.org/resource/Cerro_de_la_Estrella_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Desierto_de_los_Leones_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Fuentes_Brotantes_de_Tlalpan_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_La_Soledad,_Mexico_City   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_San_Bernardo,_Mexico_City   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/El_Tepeyac_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Cumbres_del_Ajusco_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Condesa_pocket_park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Bosque_de_Nativitas_Park,_Xochimilco   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Swiss_National_Park   [park]
+Score: 0.5
+----
+
+Nodes visited: 155221
+Total execution time: 9676
+
+Query Words: district, objects
+Root nodes Found: 986
+Nodes visited: 155221
+Total execution time: 9409
+
+Query Words: descent, football
+Root nodes Found: 986
+Nodes visited: 155221
+Total execution time: 9067
+
+Query Words: william, park
+Root nodes Found: 986
+
+http://yago-knowledge.org/resource/Cerro_de_la_Estrella_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Desierto_de_los_Leones_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Fuentes_Brotantes_de_Tlalpan_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/El_Tepeyac_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Cumbres_del_Ajusco_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Condesa_pocket_park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Bosque_de_Nativitas_Park,_Xochimilco   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Swiss_National_Park   [park]
+Score: 0.5
+----
+
+Nodes visited: 155221
+Total execution time: 9097
+
+Query Words: district, objects
+Root nodes Found: 986
+Nodes visited: 155221
+Total execution time: 9062
+
+Query Words: thomas, california
+Root nodes Found: 986
+
+http://yago-knowledge.org/resource/ESPN_Deportes   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Disney_Junior_(Latin_America)   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Electric_Daisy_Carnival   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/KCON_(music_festival)   []
+	http://yago-knowledge.org/resource/Irvine,_California   [california]
+Score: 0.16666666666666666
+----
+
+Nodes visited: 155221
+Total execution time: 9105
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 986
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/ESPN_Deportes   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Disney_Junior_(Latin_America)   []
+	http://yago-knowledge.org/resource/Burbank,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Electric_Daisy_Carnival   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/KCON_(music_festival)   []
+	http://yago-knowledge.org/resource/Irvine,_California   [california]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 155221
+Total execution time: 9082
+
+Query Words: park, church, district, objects
+Root nodes Found: 986
+
+http://yago-knowledge.org/resource/Cerro_de_la_Estrella_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Desierto_de_los_Leones_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Fuentes_Brotantes_de_Tlalpan_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_La_Soledad,_Mexico_City   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_San_Bernardo,_Mexico_City   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/El_Tepeyac_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Cumbres_del_Ajusco_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Condesa_pocket_park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bosque_de_Nativitas_Park,_Xochimilco   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Swiss_National_Park   [park]
+Score: 0.25
+----
+
+Nodes visited: 155221
+Total execution time: 9076
+
+Query Words: descent, football, william, park
+Root nodes Found: 986
+
+http://yago-knowledge.org/resource/Cerro_de_la_Estrella_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Desierto_de_los_Leones_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Fuentes_Brotantes_de_Tlalpan_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/El_Tepeyac_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Cumbres_del_Ajusco_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Condesa_pocket_park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bosque_de_Nativitas_Park,_Xochimilco   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Swiss_National_Park   [park]
+Score: 0.25
+----
+
+Nodes visited: 155221
+Total execution time: 9064
+
+Query Words: william, whole
+Root nodes Found: 981
+Nodes visited: 145649
+Total execution time: 8975
+
+Query Words: thomas, california
+Root nodes Found: 981
+
+http://yago-knowledge.org/resource/ESPN_Deportes   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Disney_Junior_(Latin_America)   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Electric_Daisy_Carnival   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Irvine,_California   [california]
+http://yago-knowledge.org/resource/KCON_(music_festival)   []
+Score: 0.16666666666666666
+----
+
+Nodes visited: 145649
+Total execution time: 8997
+
+Query Words: park, church
+Root nodes Found: 981
+
+http://yago-knowledge.org/resource/Cerro_de_la_Estrella_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Desierto_de_los_Leones_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Fuentes_Brotantes_de_Tlalpan_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_La_Soledad,_Mexico_City   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_San_Bernardo,_Mexico_City   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/El_Tepeyac_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Cumbres_del_Ajusco_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Condesa_pocket_park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Bosque_de_Nativitas_Park,_Xochimilco   [park]
+Score: 0.5
+----
+
+Nodes visited: 145649
+Total execution time: 9035
+
+Query Words: district, objects
+Root nodes Found: 981
+Nodes visited: 145649
+Total execution time: 9006
+
+Query Words: descent, football
+Root nodes Found: 981
+Nodes visited: 145649
+Total execution time: 8992
+
+Query Words: william, park
+Root nodes Found: 981
+
+http://yago-knowledge.org/resource/Cerro_de_la_Estrella_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Desierto_de_los_Leones_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Fuentes_Brotantes_de_Tlalpan_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/El_Tepeyac_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Cumbres_del_Ajusco_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Condesa_pocket_park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Bosque_de_Nativitas_Park,_Xochimilco   [park]
+Score: 0.5
+----
+
+Nodes visited: 145649
+Total execution time: 9024
+
+Query Words: district, objects
+Root nodes Found: 981
+Nodes visited: 145649
+Total execution time: 9215
+
+Query Words: thomas, california
+Root nodes Found: 981
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/ESPN_Deportes   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Disney_Junior_(Latin_America)   []
+	http://yago-knowledge.org/resource/Burbank,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/San_Bernardino,_California   [california]
+http://yago-knowledge.org/resource/Electric_Daisy_Carnival   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Irvine,_California   [california]
+http://yago-knowledge.org/resource/KCON_(music_festival)   []
+Score: 0.16666666666666666
+----
+
+Nodes visited: 145649
+Total execution time: 9284
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 981
+
+http://yago-knowledge.org/resource/ESPN_Deportes   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Disney_Junior_(Latin_America)   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/San_Bernardino,_California   [california]
+http://yago-knowledge.org/resource/Electric_Daisy_Carnival   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/KCON_(music_festival)   []
+	http://yago-knowledge.org/resource/Irvine,_California   [california]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 145649
+Total execution time: 9779
+
+Query Words: park, church, district, objects
+Root nodes Found: 981
+
+http://yago-knowledge.org/resource/Cerro_de_la_Estrella_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Desierto_de_los_Leones_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Fuentes_Brotantes_de_Tlalpan_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_La_Soledad,_Mexico_City   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_San_Bernardo,_Mexico_City   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/El_Tepeyac_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Cumbres_del_Ajusco_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Condesa_pocket_park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bosque_de_Nativitas_Park,_Xochimilco   [park]
+Score: 0.25
+----
+
+Nodes visited: 145649
+Total execution time: 9056
+
+Query Words: descent, football, william, park
+Root nodes Found: 981
+
+http://yago-knowledge.org/resource/Cerro_de_la_Estrella_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Desierto_de_los_Leones_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Fuentes_Brotantes_de_Tlalpan_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/El_Tepeyac_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Cumbres_del_Ajusco_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Condesa_pocket_park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bosque_de_Nativitas_Park,_Xochimilco   [park]
+Score: 0.25
+----
+
+Nodes visited: 145649
+Total execution time: 9055
+
+Query Words: william, whole
+Root nodes Found: 976
+Nodes visited: 145084
+Total execution time: 9011
+
+Query Words: thomas, california
+Root nodes Found: 976
+
+http://yago-knowledge.org/resource/ESPN_Deportes   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Disney_Junior_(Latin_America)   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Electric_Daisy_Carnival   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/KCON_(music_festival)   []
+	http://yago-knowledge.org/resource/Irvine,_California   [california]
+Score: 0.16666666666666666
+----
+
+Nodes visited: 145084
+Total execution time: 9026
+
+Query Words: park, church
+Root nodes Found: 976
+
+http://yago-knowledge.org/resource/Cerro_de_la_Estrella_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Desierto_de_los_Leones_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Fuentes_Brotantes_de_Tlalpan_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_La_Soledad,_Mexico_City   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_San_Bernardo,_Mexico_City   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/El_Tepeyac_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Cumbres_del_Ajusco_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Condesa_pocket_park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Bosque_de_Nativitas_Park,_Xochimilco   [park]
+Score: 0.5
+----
+
+Nodes visited: 145084
+Total execution time: 9021
+
+Query Words: district, objects
+Root nodes Found: 976
+Nodes visited: 145084
+Total execution time: 8992
+
+Query Words: descent, football
+Root nodes Found: 976
+Nodes visited: 145084
+Total execution time: 9018
+
+Query Words: william, park
+Root nodes Found: 976
+
+http://yago-knowledge.org/resource/Cerro_de_la_Estrella_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Desierto_de_los_Leones_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Fuentes_Brotantes_de_Tlalpan_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/El_Tepeyac_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Cumbres_del_Ajusco_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Condesa_pocket_park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Bosque_de_Nativitas_Park,_Xochimilco   [park]
+Score: 0.5
+----
+
+Nodes visited: 145084
+Total execution time: 9017
+
+Query Words: district, objects
+Root nodes Found: 976
+Nodes visited: 145084
+Total execution time: 8996
+
+Query Words: thomas, california
+Root nodes Found: 976
+
+http://yago-knowledge.org/resource/ESPN_Deportes   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Disney_Junior_(Latin_America)   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Electric_Daisy_Carnival   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/KCON_(music_festival)   []
+	http://yago-knowledge.org/resource/Irvine,_California   [california]
+Score: 0.16666666666666666
+----
+
+Nodes visited: 145084
+Total execution time: 8984
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 976
+
+http://yago-knowledge.org/resource/ESPN_Deportes   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Disney_Junior_(Latin_America)   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Electric_Daisy_Carnival   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/KCON_(music_festival)   []
+	http://yago-knowledge.org/resource/Irvine,_California   [california]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 145084
+Total execution time: 9022
+
+Query Words: park, church, district, objects
+Root nodes Found: 976
+
+http://yago-knowledge.org/resource/Cerro_de_la_Estrella_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Desierto_de_los_Leones_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Fuentes_Brotantes_de_Tlalpan_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_La_Soledad,_Mexico_City   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_San_Bernardo,_Mexico_City   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/El_Tepeyac_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Cumbres_del_Ajusco_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Condesa_pocket_park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bosque_de_Nativitas_Park,_Xochimilco   [park]
+Score: 0.25
+----
+
+Nodes visited: 145084
+Total execution time: 8988
+
+Query Words: descent, football, william, park
+Root nodes Found: 976
+
+http://yago-knowledge.org/resource/Cerro_de_la_Estrella_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Desierto_de_los_Leones_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Fuentes_Brotantes_de_Tlalpan_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/El_Tepeyac_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Cumbres_del_Ajusco_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Condesa_pocket_park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bosque_de_Nativitas_Park,_Xochimilco   [park]
+Score: 0.25
+----
+
+Nodes visited: 145084
+Total execution time: 9030
+
+Query Words: william, whole
+Root nodes Found: 997
+Nodes visited: 155319
+Total execution time: 9042
+
+Query Words: thomas, california
+Root nodes Found: 997
+
+http://yago-knowledge.org/resource/ESPN_Deportes   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Burbank,_California   [california]
+http://yago-knowledge.org/resource/Disney_Junior_(Latin_America)   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/San_Bernardino,_California   [california]
+http://yago-knowledge.org/resource/Electric_Daisy_Carnival   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Irvine,_California   [california]
+http://yago-knowledge.org/resource/KCON_(music_festival)   []
+Score: 0.16666666666666666
+----
+
+Nodes visited: 155319
+Total execution time: 9203
+
+Query Words: park, church
+Root nodes Found: 997
+
+http://yago-knowledge.org/resource/Cerro_de_la_Estrella_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Desierto_de_los_Leones_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Fuentes_Brotantes_de_Tlalpan_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_La_Soledad,_Mexico_City   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_San_Bernardo,_Mexico_City   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/El_Tepeyac_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Cumbres_del_Ajusco_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Condesa_pocket_park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Bosque_de_Nativitas_Park,_Xochimilco   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Xuxa_Park_(Brazilian_TV_series)   [park]
+Score: 0.5
+----
+
+Nodes visited: 155319
+Total execution time: 9768
+
+Query Words: district, objects
+Root nodes Found: 997
+Nodes visited: 155319
+Total execution time: 9257
+
+Query Words: descent, football
+Root nodes Found: 997
+Nodes visited: 155319
+Total execution time: 8976
+
+Query Words: william, park
+Root nodes Found: 997
+
+http://yago-knowledge.org/resource/Cerro_de_la_Estrella_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Desierto_de_los_Leones_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Fuentes_Brotantes_de_Tlalpan_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/El_Tepeyac_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Cumbres_del_Ajusco_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Condesa_pocket_park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Bosque_de_Nativitas_Park,_Xochimilco   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Xuxa_Park_(Brazilian_TV_series)   [park]
+Score: 0.5
+----
+
+Nodes visited: 155319
+Total execution time: 8968
+
+Query Words: district, objects
+Root nodes Found: 997
+Nodes visited: 155319
+Total execution time: 8987
+
+Query Words: thomas, california
+Root nodes Found: 997
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/ESPN_Deportes   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Disney_Junior_(Latin_America)   []
+	http://yago-knowledge.org/resource/Burbank,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/San_Bernardino,_California   [california]
+http://yago-knowledge.org/resource/Electric_Daisy_Carnival   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/KCON_(music_festival)   []
+	http://yago-knowledge.org/resource/Irvine,_California   [california]
+Score: 0.16666666666666666
+----
+
+Nodes visited: 155319
+Total execution time: 9113
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 997
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/ESPN_Deportes   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Disney_Junior_(Latin_America)   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Electric_Daisy_Carnival   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Irvine,_California   [california]
+http://yago-knowledge.org/resource/KCON_(music_festival)   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 155319
+Total execution time: 8962
+
+Query Words: park, church, district, objects
+Root nodes Found: 997
+
+http://yago-knowledge.org/resource/Cerro_de_la_Estrella_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Desierto_de_los_Leones_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Fuentes_Brotantes_de_Tlalpan_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_La_Soledad,_Mexico_City   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_San_Bernardo,_Mexico_City   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/El_Tepeyac_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Cumbres_del_Ajusco_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Condesa_pocket_park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bosque_de_Nativitas_Park,_Xochimilco   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Xuxa_Park_(Brazilian_TV_series)   [park]
+Score: 0.25
+----
+
+Nodes visited: 155319
+Total execution time: 8983
+
+Query Words: descent, football, william, park
+Root nodes Found: 997
+
+http://yago-knowledge.org/resource/Cerro_de_la_Estrella_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Desierto_de_los_Leones_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Fuentes_Brotantes_de_Tlalpan_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/El_Tepeyac_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Cumbres_del_Ajusco_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Condesa_pocket_park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bosque_de_Nativitas_Park,_Xochimilco   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Xuxa_Park_(Brazilian_TV_series)   [park]
+Score: 0.25
+----
+
+Nodes visited: 155319
+Total execution time: 8979
+
+Query Words: william, whole
+Root nodes Found: 976
+Nodes visited: 145084
+Total execution time: 8976
+
+Query Words: thomas, california
+Root nodes Found: 976
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/ESPN_Deportes   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Disney_Junior_(Latin_America)   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/San_Bernardino,_California   [california]
+http://yago-knowledge.org/resource/Electric_Daisy_Carnival   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/KCON_(music_festival)   []
+	http://yago-knowledge.org/resource/Irvine,_California   [california]
+Score: 0.16666666666666666
+----
+
+Nodes visited: 145084
+Total execution time: 8983
+
+Query Words: park, church
+Root nodes Found: 976
+
+http://yago-knowledge.org/resource/Cerro_de_la_Estrella_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Desierto_de_los_Leones_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Fuentes_Brotantes_de_Tlalpan_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_La_Soledad,_Mexico_City   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_San_Bernardo,_Mexico_City   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/El_Tepeyac_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Cumbres_del_Ajusco_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Condesa_pocket_park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Bosque_de_Nativitas_Park,_Xochimilco   [park]
+Score: 0.5
+----
+
+Nodes visited: 145084
+Total execution time: 8998
+
+Query Words: district, objects
+Root nodes Found: 976
+Nodes visited: 145084
+Total execution time: 8980
+
+Query Words: descent, football
+Root nodes Found: 976
+Nodes visited: 145084
+Total execution time: 8986
+
+Query Words: william, park
+Root nodes Found: 976
+
+http://yago-knowledge.org/resource/Cerro_de_la_Estrella_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Desierto_de_los_Leones_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Fuentes_Brotantes_de_Tlalpan_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/El_Tepeyac_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Cumbres_del_Ajusco_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Condesa_pocket_park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Bosque_de_Nativitas_Park,_Xochimilco   [park]
+Score: 0.5
+----
+
+Nodes visited: 145084
+Total execution time: 9000
+
+Query Words: district, objects
+Root nodes Found: 976
+Nodes visited: 145084
+Total execution time: 9175
+
+Query Words: thomas, california
+Root nodes Found: 976
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/ESPN_Deportes   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Disney_Junior_(Latin_America)   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Electric_Daisy_Carnival   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Irvine,_California   [california]
+http://yago-knowledge.org/resource/KCON_(music_festival)   []
+Score: 0.16666666666666666
+----
+
+Nodes visited: 145084
+Total execution time: 9392
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 976
+
+http://yago-knowledge.org/resource/ESPN_Deportes   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Disney_Junior_(Latin_America)   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Electric_Daisy_Carnival   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/KCON_(music_festival)   []
+	http://yago-knowledge.org/resource/Irvine,_California   [california]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 145084
+Total execution time: 9697
+
+Query Words: park, church, district, objects
+Root nodes Found: 976
+
+http://yago-knowledge.org/resource/Cerro_de_la_Estrella_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Desierto_de_los_Leones_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Fuentes_Brotantes_de_Tlalpan_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_La_Soledad,_Mexico_City   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_San_Bernardo,_Mexico_City   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/El_Tepeyac_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Cumbres_del_Ajusco_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Condesa_pocket_park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bosque_de_Nativitas_Park,_Xochimilco   [park]
+Score: 0.25
+----
+
+Nodes visited: 145084
+Total execution time: 9003
+
+Query Words: descent, football, william, park
+Root nodes Found: 976
+
+http://yago-knowledge.org/resource/Cerro_de_la_Estrella_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Desierto_de_los_Leones_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Fuentes_Brotantes_de_Tlalpan_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/El_Tepeyac_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Cumbres_del_Ajusco_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Condesa_pocket_park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bosque_de_Nativitas_Park,_Xochimilco   [park]
+Score: 0.25
+----
+
+Nodes visited: 145084
+Total execution time: 9089
+
+Query Words: william, whole
+Root nodes Found: 1045
+Nodes visited: 154985
+Total execution time: 9049
+
+Query Words: thomas, california
+Root nodes Found: 1045
+
+http://yago-knowledge.org/resource/ESPN_Deportes   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Disney_Junior_(Latin_America)   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Electric_Daisy_Carnival   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Irvine,_California   [california]
+http://yago-knowledge.org/resource/KCON_(music_festival)   []
+Score: 0.16666666666666666
+----
+
+Nodes visited: 154985
+Total execution time: 8971
+
+Query Words: park, church
+Root nodes Found: 1045
+
+http://yago-knowledge.org/resource/Cerro_de_la_Estrella_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Desierto_de_los_Leones_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Fuentes_Brotantes_de_Tlalpan_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_La_Soledad,_Mexico_City   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_San_Bernardo,_Mexico_City   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/El_Tepeyac_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Cumbres_del_Ajusco_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Condesa_pocket_park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Bosque_de_Nativitas_Park,_Xochimilco   [park]
+Score: 0.5
+----
+
+Nodes visited: 154985
+Total execution time: 8976
+
+Query Words: district, objects
+Root nodes Found: 1045
+Nodes visited: 154985
+Total execution time: 8941
+
+Query Words: descent, football
+Root nodes Found: 1045
+Nodes visited: 154985
+Total execution time: 8944
+
+Query Words: william, park
+Root nodes Found: 1045
+
+http://yago-knowledge.org/resource/Cerro_de_la_Estrella_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Desierto_de_los_Leones_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Fuentes_Brotantes_de_Tlalpan_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/El_Tepeyac_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Cumbres_del_Ajusco_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Condesa_pocket_park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Bosque_de_Nativitas_Park,_Xochimilco   [park]
+Score: 0.5
+----
+
+Nodes visited: 154985
+Total execution time: 8975
+
+Query Words: district, objects
+Root nodes Found: 1045
+Nodes visited: 154985
+Total execution time: 8957
+
+Query Words: thomas, california
+Root nodes Found: 1045
+
+http://yago-knowledge.org/resource/ESPN_Deportes   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Disney_Junior_(Latin_America)   []
+	http://yago-knowledge.org/resource/Burbank,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Electric_Daisy_Carnival   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Irvine,_California   [california]
+http://yago-knowledge.org/resource/KCON_(music_festival)   []
+Score: 0.16666666666666666
+----
+
+Nodes visited: 154985
+Total execution time: 8991
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 1045
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/ESPN_Deportes   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Disney_Junior_(Latin_America)   []
+	http://yago-knowledge.org/resource/Burbank,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Electric_Daisy_Carnival   []
+	http://yago-knowledge.org/resource/San_Bernardino,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/KCON_(music_festival)   []
+	http://yago-knowledge.org/resource/Irvine,_California   [california]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 154985
+Total execution time: 9102
+
+Query Words: park, church, district, objects
+Root nodes Found: 1045
+
+http://yago-knowledge.org/resource/Cerro_de_la_Estrella_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Desierto_de_los_Leones_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Fuentes_Brotantes_de_Tlalpan_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_La_Soledad,_Mexico_City   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_San_Bernardo,_Mexico_City   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/El_Tepeyac_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Cumbres_del_Ajusco_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Condesa_pocket_park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bosque_de_Nativitas_Park,_Xochimilco   [park]
+Score: 0.25
+----
+
+Nodes visited: 154985
+Total execution time: 9093
+
+Query Words: descent, football, william, park
+Root nodes Found: 1045
+
+http://yago-knowledge.org/resource/Cerro_de_la_Estrella_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Desierto_de_los_Leones_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Fuentes_Brotantes_de_Tlalpan_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/El_Tepeyac_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Cumbres_del_Ajusco_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Condesa_pocket_park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bosque_de_Nativitas_Park,_Xochimilco   [park]
+Score: 0.25
+----
+
+Nodes visited: 154985
+Total execution time: 9014
+

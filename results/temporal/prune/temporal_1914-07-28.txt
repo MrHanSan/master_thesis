@@ -1,0 +1,75 @@
+Query Words: william, whole
+Root nodes Found: 10
+Nodes visited: 10
+Total execution time: 3411
+
+Query Words: thomas, california
+Root nodes Found: 10
+Nodes visited: 10
+Total execution time: 3414
+
+Query Words: park, church
+Root nodes Found: 10
+
+http://yago-knowledge.org/resource/Swiss_National_Park   [park]
+Score: 0.5
+----
+
+Nodes visited: 10
+Total execution time: 3458
+
+Query Words: district, objects
+Root nodes Found: 10
+Nodes visited: 10
+Total execution time: 3456
+
+Query Words: descent, football
+Root nodes Found: 10
+Nodes visited: 10
+Total execution time: 3435
+
+Query Words: william, park
+Root nodes Found: 10
+
+http://yago-knowledge.org/resource/Swiss_National_Park   [park]
+Score: 0.5
+----
+
+Nodes visited: 10
+Total execution time: 3507
+
+Query Words: district, objects
+Root nodes Found: 10
+Nodes visited: 10
+Total execution time: 3431
+
+Query Words: thomas, california
+Root nodes Found: 10
+Nodes visited: 10
+Total execution time: 3399
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 10
+Nodes visited: 10
+Total execution time: 3434
+
+Query Words: park, church, district, objects
+Root nodes Found: 10
+
+http://yago-knowledge.org/resource/Swiss_National_Park   [park]
+Score: 0.25
+----
+
+Nodes visited: 10
+Total execution time: 3423
+
+Query Words: descent, football, william, park
+Root nodes Found: 10
+
+http://yago-knowledge.org/resource/Swiss_National_Park   [park]
+Score: 0.25
+----
+
+Nodes visited: 10
+Total execution time: 3426
+

@@ -1,0 +1,75 @@
+Query Words: william, whole
+Root nodes Found: 21
+Nodes visited: 21
+Total execution time: 3347
+
+Query Words: thomas, california
+Root nodes Found: 21
+Nodes visited: 21
+Total execution time: 3323
+
+Query Words: park, church
+Root nodes Found: 21
+
+http://yago-knowledge.org/resource/Xuxa_Park_(Brazilian_TV_series)   [park]
+Score: 0.5
+----
+
+Nodes visited: 21
+Total execution time: 3309
+
+Query Words: district, objects
+Root nodes Found: 21
+Nodes visited: 21
+Total execution time: 3325
+
+Query Words: descent, football
+Root nodes Found: 21
+Nodes visited: 21
+Total execution time: 3331
+
+Query Words: william, park
+Root nodes Found: 21
+
+http://yago-knowledge.org/resource/Xuxa_Park_(Brazilian_TV_series)   [park]
+Score: 0.5
+----
+
+Nodes visited: 21
+Total execution time: 3372
+
+Query Words: district, objects
+Root nodes Found: 21
+Nodes visited: 21
+Total execution time: 3406
+
+Query Words: thomas, california
+Root nodes Found: 21
+Nodes visited: 21
+Total execution time: 3376
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 21
+Nodes visited: 21
+Total execution time: 3330
+
+Query Words: park, church, district, objects
+Root nodes Found: 21
+
+http://yago-knowledge.org/resource/Xuxa_Park_(Brazilian_TV_series)   [park]
+Score: 0.25
+----
+
+Nodes visited: 21
+Total execution time: 3317
+
+Query Words: descent, football, william, park
+Root nodes Found: 21
+
+http://yago-knowledge.org/resource/Xuxa_Park_(Brazilian_TV_series)   [park]
+Score: 0.25
+----
+
+Nodes visited: 21
+Total execution time: 3297
+

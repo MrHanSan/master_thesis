@@ -1,0 +1,165 @@
+Query Words: william, whole
+Root nodes Found: 16
+Nodes visited: 68177
+Total execution time: 9220
+
+Query Words: thomas, california
+Root nodes Found: 16
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Stamford,_Texas   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Capture_of_Boer_Battery_by_British   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Tuck_School_of_Business   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 68177
+Total execution time: 6387
+
+Query Words: park, church
+Root nodes Found: 16
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Stamford,_Texas   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Old_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/Capture_of_Boer_Battery_by_British   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Salem_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Tuck_School_of_Business   []
+		http://yago-knowledge.org/resource/Battle_of_Ezra_Church   [church]
+Score: 0.1111111111111111
+----
+
+Nodes visited: 68177
+Total execution time: 6330
+
+Query Words: district, objects
+Root nodes Found: 16
+
+http://yago-knowledge.org/resource/Instituto_de_Odivelas   []
+		http://yago-knowledge.org/resource/Lisbon_District   [district]
+	http://yago-knowledge.org/resource/Odivelas   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 68177
+Total execution time: 6095
+
+Query Words: descent, football
+Root nodes Found: 16
+Nodes visited: 68177
+Total execution time: 6158
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 16
+
+http://yago-knowledge.org/resource/Stamford,_Texas   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Capture_of_Boer_Battery_by_British   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Tuck_School_of_Business   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 68177
+Total execution time: 6117
+
+Query Words: park, church, district, objects
+Root nodes Found: 16
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Skirmish_of_the_Brick_Church   [church]
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+http://yago-knowledge.org/resource/Stamford,_Texas   []
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Lisbon_District   [district]
+http://yago-knowledge.org/resource/Instituto_de_Odivelas   []
+	http://yago-knowledge.org/resource/Odivelas   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Capture_of_Boer_Battery_by_British   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Salem_Church   [church]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+http://yago-knowledge.org/resource/Tuck_School_of_Business   []
+		http://yago-knowledge.org/resource/Battle_of_Ezra_Church   [church]
+Score: 0.05555555555555555
+----
+
+Nodes visited: 68177
+Total execution time: 6088
+
+Query Words: descent, football, william, park
+Root nodes Found: 16
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+http://yago-knowledge.org/resource/Stamford,_Texas   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Capture_of_Boer_Battery_by_British   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+http://yago-knowledge.org/resource/Tuck_School_of_Business   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 68177
+Total execution time: 6106
+
