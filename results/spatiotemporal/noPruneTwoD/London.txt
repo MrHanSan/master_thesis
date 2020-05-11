@@ -1,0 +1,3150 @@
+Query Words: william, whole
+Root nodes Found: 137
+
+		http://yago-knowledge.org/resource/General_William_Tecumseh_Sherman_Monument   [william]
+	http://yago-knowledge.org/resource/Washington,_D.C.   []
+http://yago-knowledge.org/resource/SNR_Denton   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Amazing_Radio   []
+	http://yago-knowledge.org/resource/Boston   []
+		http://yago-knowledge.org/resource/William_J._Devine_Memorial_Golf_Course   [william]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/General_William_Tecumseh_Sherman_Monument   [william]
+	http://yago-knowledge.org/resource/Washington,_D.C.   []
+http://yago-knowledge.org/resource/Hogan_Lovells   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 763512
+Total execution time: 34219
+
+Query Words: thomas, california
+Root nodes Found: 136
+
+	http://yago-knowledge.org/resource/Washington,_D.C.   []
+		http://yago-knowledge.org/resource/Edmund_Burke_(Thomas)   [thomas]
+http://yago-knowledge.org/resource/SNR_Denton   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Amanpour   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/California   [california]
+	http://yago-knowledge.org/resource/Q'Viva!_The_Chosen   []
+http://yago-knowledge.org/resource/XIX_Entertainment   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+	http://yago-knowledge.org/resource/Los_Angeles   []
+http://yago-knowledge.org/resource/WhoSay   []
+		http://yago-knowledge.org/resource/Los_Angeles_County,_California   [california]
+Score: 0.09090909090909091
+----
+
+
+http://yago-knowledge.org/resource/Cascine   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Washington,_D.C.   []
+http://yago-knowledge.org/resource/Hogan_Lovells   []
+		http://yago-knowledge.org/resource/Edmund_Burke_(Thomas)   [thomas]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Musixmatch   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/GV_(company)   []
+Score: 0.16666666666666666
+----
+
+Nodes visited: 763511
+Total execution time: 28707
+
+Query Words: park, church
+Root nodes Found: 136
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/SSL_International   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/The_Late_News_(ITV)   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Richard_&_Judy   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Cable_&_Wireless_plc   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/The_Planners_Are_Coming   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/From_the_Basement   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+http://yago-knowledge.org/resource/SNR_Denton   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Denton_Wilde_Sapte   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Chloride_Group   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Natural_History_Museum,_London   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/22_Jermyn_Street   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/The_City_Uncovered   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+		http://yago-knowledge.org/resource/Pier_40_at_Hudson_River_Park   [park]
+	http://yago-knowledge.org/resource/New_York_City   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.09090909090909091
+----
+
+
+http://yago-knowledge.org/resource/The_City_Uncovered   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/New_York_City   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/MCU_Park   [park]
+Score: 0.09090909090909091
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/The_Justin_Lee_Collins_Show   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/The_Justin_Lee_Collins_Show   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Scott_Wilson_Group   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/How_to_Be_a_Composer   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/How_to_Be_a_Composer   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Reggie_Perrin   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Rock_&_Chips   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/15th_National_Television_Awards   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/UFC_95   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/fr/Drayton_Park   [park]
+http://yago-knowledge.org/resource/2010_Emirates_Cup   []
+	http://yago-knowledge.org/resource/Emirates_Stadium   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Wembley_Park   [park]
+	http://yago-knowledge.org/resource/Wembley_Arena   []
+http://yago-knowledge.org/resource/2010_Masters_(snooker)   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Penguin_Classics   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Centre_for_High_Performance   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Hoxton_railway_station   []
+		http://yago-knowledge.org/resource/Abney_Park_Cemetery   [park]
+	http://yago-knowledge.org/resource/London_Borough_of_Hackney   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Black_Butter_Records   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Amanpour   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_New_Hope_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/St_Botolph_Building   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Finsbury_Park,_London   [park]
+http://yago-knowledge.org/resource/The_Silver_Bullet   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Hyperoptic   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/The_People's_Supermarket   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Fly_Eye_Records   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/London_Borough_of_Hackney   []
+		http://yago-knowledge.org/resource/Abney_Park_Cemetery   [park]
+http://yago-knowledge.org/resource/Shoreditch_High_Street_railway_station   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Worldwide_Somali_Students_&_Professionals   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/GCU_London   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Amazing_Radio   []
+		http://yago-knowledge.org/resource/MCU_Park   [park]
+	http://yago-knowledge.org/resource/New_York_City   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Digital_Shoreditch   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Park_Avenue   [park]
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Action_at_Mount_Zion_Church   [church]
+	http://yago-knowledge.org/resource/New_York_City   []
+http://yago-knowledge.org/resource/WhoSay   []
+Score: 0.09090909090909091
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Internwise   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Children_in_Need_Rocks_the_Royal_Albert_Hall   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Self_Publish,_Be_Happy   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Cartoon_Network_Arabic   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Chapter_Spitalfields   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/MCU_Park   [park]
+http://yago-knowledge.org/resource/Cascine   []
+		http://yago-knowledge.org/resource/Battle_of_Ebenezer_Church   [church]
+	http://yago-knowledge.org/resource/New_York_City   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.09090909090909091
+----
+
+
+http://yago-knowledge.org/resource/St_Helen's_Church,_Bishopsgate   [church]
+Score: 0.5
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Ritual_Productions   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Two_Roads   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Bureau_of_Investigative_Journalism   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Shorter_House_(music_publisher)   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Never_Fade_Records   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/New_York_City   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+		http://yago-knowledge.org/resource/Shakespeare_in_the_Park_(New_York_City)   [park]
+http://yago-knowledge.org/resource/Musixmatch   []
+Score: 0.09090909090909091
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Royal_Society_of_Chemistry   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/AudioLock   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Department_for_Education   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/London_River   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/The_Big_Art_Project   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/New_York_City   []
+http://yago-knowledge.org/resource/Tri_Angle_(record_label)   []
+		http://yago-knowledge.org/resource/Park_Avenue_Tunnel_(roadway)   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/UCL_Centre_for_Digital_Humanities   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Cable_&_Wireless_Communications   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Colony_(restaurant)   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/GV_(company)   []
+	http://yago-knowledge.org/resource/New_York   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Pier_40_at_Hudson_River_Park   [park]
+Score: 0.09090909090909091
+----
+
+
+	http://yago-knowledge.org/resource/City_of_London   []
+http://yago-knowledge.org/resource/One_New_Change   []
+		http://yago-knowledge.org/resource/Labatt_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Manoto   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Mack_(publishing)   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Now_PAYG   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Mindshapes   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Polymorph_Records   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Santander_UK   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 763511
+Total execution time: 25549
+
+Query Words: district, objects
+Root nodes Found: 136
+
+	http://yago-knowledge.org/resource/Luxembourg_City   []
+http://yago-knowledge.org/resource/Conquest_Advisory   []
+		http://yago-knowledge.org/resource/Luxembourg_District   [district]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 763511
+Total execution time: 25212
+
+Query Words: descent, football
+Root nodes Found: 136
+Nodes visited: 763511
+Total execution time: 25330
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 136
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/SNR_Denton   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/Washington,_D.C.   []
+		http://yago-knowledge.org/resource/General_William_Tecumseh_Sherman_Monument   [william]
+Score: 0.045454545454545456
+----
+
+
+http://yago-knowledge.org/resource/Amanpour   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Q'Viva!_The_Chosen   []
+http://yago-knowledge.org/resource/XIX_Entertainment   []
+		http://yago-knowledge.org/resource/California   [california]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/William_J._Devine_Memorial_Golf_Course   [william]
+http://yago-knowledge.org/resource/Amazing_Radio   []
+	http://yago-knowledge.org/resource/Boston   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/WhoSay   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+		http://yago-knowledge.org/resource/California   [california]
+	http://yago-knowledge.org/resource/Silicon_Beach   []
+Score: 0.045454545454545456
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Cascine   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Edmund_Burke_(Thomas)   [thomas]
+		http://yago-knowledge.org/resource/General_William_Tecumseh_Sherman_Monument   [william]
+http://yago-knowledge.org/resource/Hogan_Lovells   []
+	http://yago-knowledge.org/resource/Washington,_D.C.   []
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Musixmatch   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/GV_(company)   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 763511
+Total execution time: 27195
+
+Query Words: park, church, district, objects
+Root nodes Found: 136
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/SSL_International   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/The_Late_News_(ITV)   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Richard_&_Judy   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Cable_&_Wireless_plc   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/The_Planners_Are_Coming   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/From_the_Basement   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/SNR_Denton   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/Denton_Wilde_Sapte   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Chloride_Group   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Natural_History_Museum,_London   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/22_Jermyn_Street   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Park_Avenue_Tunnel_(roadway)   [park]
+http://yago-knowledge.org/resource/The_City_Uncovered   []
+	http://yago-knowledge.org/resource/New_York_City   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.045454545454545456
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/The_City_Uncovered   []
+	http://yago-knowledge.org/resource/New_York_City   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+		http://yago-knowledge.org/resource/Shakespeare_in_the_Park_(New_York_City)   [park]
+Score: 0.045454545454545456
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/The_Justin_Lee_Collins_Show   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/The_Justin_Lee_Collins_Show   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Scott_Wilson_Group   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/How_to_Be_a_Composer   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/How_to_Be_a_Composer   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Reggie_Perrin   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Rock_&_Chips   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/15th_National_Television_Awards   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/UFC_95   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/2010_Emirates_Cup   []
+	http://yago-knowledge.org/resource/Emirates_Stadium   []
+		http://yago-knowledge.org/resource/fr/Drayton_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Wembley_Arena   []
+http://yago-knowledge.org/resource/2010_Masters_(snooker)   []
+		http://yago-knowledge.org/resource/Wembley_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Penguin_Classics   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Centre_for_High_Performance   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/London_Borough_of_Hackney   []
+		http://yago-knowledge.org/resource/Abney_Park_Cemetery   [park]
+http://yago-knowledge.org/resource/Hoxton_railway_station   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Black_Butter_Records   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Amanpour   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Salem_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/St_Botolph_Building   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Finsbury_Park,_London   [park]
+http://yago-knowledge.org/resource/The_Silver_Bullet   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Hyperoptic   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/The_People's_Supermarket   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Fly_Eye_Records   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Abney_Park_Cemetery   [park]
+http://yago-knowledge.org/resource/Shoreditch_High_Street_railway_station   []
+	http://yago-knowledge.org/resource/London_Borough_of_Hackney   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Worldwide_Somali_Students_&_Professionals   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/GCU_London   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Shakespeare_in_the_Park_(New_York_City)   [park]
+http://yago-knowledge.org/resource/Amazing_Radio   []
+	http://yago-knowledge.org/resource/New_York_City   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Digital_Shoreditch   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/WhoSay   []
+		http://yago-knowledge.org/resource/Battle_of_Salem_Church   [church]
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Internwise   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Children_in_Need_Rocks_the_Royal_Albert_Hall   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Self_Publish,_Be_Happy   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Cartoon_Network_Arabic   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Chapter_Spitalfields   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/New_York_City   []
+		http://yago-knowledge.org/resource/MCU_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_New_Hope_Church   [church]
+http://yago-knowledge.org/resource/Cascine   []
+Score: 0.045454545454545456
+----
+
+
+http://yago-knowledge.org/resource/St_Helen's_Church,_Bishopsgate   [church]
+Score: 0.25
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Ritual_Productions   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Two_Roads   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Bureau_of_Investigative_Journalism   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Shorter_House_(music_publisher)   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Never_Fade_Records   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/New_York_City   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Park_Avenue_Tunnel_(roadway)   [park]
+		http://yago-knowledge.org/resource/Battle_of_Namozine_Church   [church]
+http://yago-knowledge.org/resource/Musixmatch   []
+Score: 0.045454545454545456
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Royal_Society_of_Chemistry   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/AudioLock   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Luxembourg_City   []
+		http://yago-knowledge.org/resource/Luxembourg_District   [district]
+http://yago-knowledge.org/resource/Conquest_Advisory   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Department_for_Education   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/London_River   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/The_Big_Art_Project   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Shakespeare_in_the_Park_(New_York_City)   [park]
+http://yago-knowledge.org/resource/Tri_Angle_(record_label)   []
+	http://yago-knowledge.org/resource/New_York_City   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/UCL_Centre_for_Digital_Humanities   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Cable_&_Wireless_Communications   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Colony_(restaurant)   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/GV_(company)   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+		http://yago-knowledge.org/resource/Pier_40_at_Hudson_River_Park   [park]
+	http://yago-knowledge.org/resource/New_York_City   []
+Score: 0.045454545454545456
+----
+
+
+		http://yago-knowledge.org/resource/Labatt_Park   [park]
+	http://yago-knowledge.org/resource/City_of_London   []
+http://yago-knowledge.org/resource/One_New_Change   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Manoto   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Mack_(publishing)   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Now_PAYG   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Mindshapes   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Polymorph_Records   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Santander_UK   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+Nodes visited: 763511
+Total execution time: 25808
+
+Query Words: descent, football, william, park
+Root nodes Found: 136
+
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+http://yago-knowledge.org/resource/SNR_Denton   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/General_William_Tecumseh_Sherman_Monument   [william]
+	http://yago-knowledge.org/resource/Washington,_D.C.   []
+Score: 0.045454545454545456
+----
+
+
+		http://yago-knowledge.org/resource/MCU_Park   [park]
+	http://yago-knowledge.org/resource/New_York_City   []
+http://yago-knowledge.org/resource/The_City_Uncovered   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/New_York_City   []
+http://yago-knowledge.org/resource/The_City_Uncovered   []
+		http://yago-knowledge.org/resource/Park_Avenue   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/2010_Emirates_Cup   []
+		http://yago-knowledge.org/resource/fr/Drayton_Park   [park]
+	http://yago-knowledge.org/resource/Emirates_Stadium   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Wembley_Park   [park]
+	http://yago-knowledge.org/resource/Wembley_Arena   []
+http://yago-knowledge.org/resource/2010_Masters_(snooker)   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/London_Borough_of_Hackney   []
+		http://yago-knowledge.org/resource/Abney_Park_Cemetery   [park]
+http://yago-knowledge.org/resource/Hoxton_railway_station   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Amanpour   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Finsbury_Park,_London   [park]
+http://yago-knowledge.org/resource/The_Silver_Bullet   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Shoreditch_High_Street_railway_station   []
+		http://yago-knowledge.org/resource/Abney_Park_Cemetery   [park]
+	http://yago-knowledge.org/resource/London_Borough_of_Hackney   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Boston   []
+	http://yago-knowledge.org/resource/New_York_City   []
+http://yago-knowledge.org/resource/Amazing_Radio   []
+		http://yago-knowledge.org/resource/William_J._Devine_Memorial_Golf_Course   [william]
+		http://yago-knowledge.org/resource/Park_Avenue   [park]
+Score: 0.045454545454545456
+----
+
+
+http://yago-knowledge.org/resource/WhoSay   []
+	http://yago-knowledge.org/resource/New_York_City   []
+		http://yago-knowledge.org/resource/Park_Avenue   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Cascine   []
+		http://yago-knowledge.org/resource/Park_Avenue   [park]
+	http://yago-knowledge.org/resource/New_York_City   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Washington,_D.C.   []
+http://yago-knowledge.org/resource/Hogan_Lovells   []
+		http://yago-knowledge.org/resource/General_William_Tecumseh_Sherman_Monument   [william]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/New_York_City   []
+http://yago-knowledge.org/resource/Musixmatch   []
+		http://yago-knowledge.org/resource/Park_Avenue   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Tri_Angle_(record_label)   []
+	http://yago-knowledge.org/resource/New_York_City   []
+		http://yago-knowledge.org/resource/Pier_40_at_Hudson_River_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/California   []
+http://yago-knowledge.org/resource/GV_(company)   []
+		http://yago-knowledge.org/resource/Marsh_Creek_State_Park_(California)   [park]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Labatt_Park   [park]
+http://yago-knowledge.org/resource/One_New_Change   []
+	http://yago-knowledge.org/resource/City_of_London   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 763511
+Total execution time: 25305
+
+Query Words: william, whole
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1574
+
+Query Words: thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1535
+
+Query Words: park, church
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1551
+
+Query Words: district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1543
+
+Query Words: descent, football
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1539
+
+Query Words: william, park
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1543
+
+Query Words: district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1547
+
+Query Words: thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1540
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1530
+
+Query Words: park, church, district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1530
+
+Query Words: descent, football, william, park
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1536
+
+Query Words: william, whole
+Root nodes Found: 29
+Nodes visited: 93636
+Total execution time: 4767
+
+Query Words: thomas, california
+Root nodes Found: 29
+Nodes visited: 93636
+Total execution time: 4380
+
+Query Words: park, church
+Root nodes Found: 29
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/British_Union_of_Fascists   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Gate_Theatre_Studio   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/London_Borough_of_Hackney   []
+http://yago-knowledge.org/resource/Haggerston_railway_station   []
+		http://yago-knowledge.org/resource/Abney_Park_Cemetery   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Little_Theatre_in_the_Adelphi   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Radio_Belgique   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/DS_Smith   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/All_Hallows,_Twickenham   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Puffin_Books   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Highams_Park_School   [park]
+Score: 0.5
+----
+
+Nodes visited: 93636
+Total execution time: 4437
+
+Query Words: district, objects
+Root nodes Found: 29
+Nodes visited: 93636
+Total execution time: 4402
+
+Query Words: descent, football
+Root nodes Found: 29
+Nodes visited: 93636
+Total execution time: 4401
+
+Query Words: william, park
+Root nodes Found: 29
+
+		http://yago-knowledge.org/resource/Abney_Park_Cemetery   [park]
+	http://yago-knowledge.org/resource/London_Borough_of_Hackney   []
+http://yago-knowledge.org/resource/Haggerston_railway_station   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Highams_Park_School   [park]
+Score: 0.5
+----
+
+Nodes visited: 93636
+Total execution time: 4402
+
+Query Words: district, objects
+Root nodes Found: 29
+Nodes visited: 93636
+Total execution time: 4394
+
+Query Words: thomas, california
+Root nodes Found: 29
+Nodes visited: 93636
+Total execution time: 4396
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 29
+Nodes visited: 93636
+Total execution time: 4386
+
+Query Words: park, church, district, objects
+Root nodes Found: 29
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/British_Union_of_Fascists   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Gate_Theatre_Studio   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Abney_Park_Cemetery   [park]
+	http://yago-knowledge.org/resource/London_Borough_of_Hackney   []
+http://yago-knowledge.org/resource/Haggerston_railway_station   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Little_Theatre_in_the_Adelphi   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Radio_Belgique   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/DS_Smith   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/All_Hallows,_Twickenham   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Puffin_Books   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Highams_Park_School   [park]
+Score: 0.25
+----
+
+Nodes visited: 93636
+Total execution time: 4417
+
+Query Words: descent, football, william, park
+Root nodes Found: 29
+
+	http://yago-knowledge.org/resource/London_Borough_of_Hackney   []
+http://yago-knowledge.org/resource/Haggerston_railway_station   []
+		http://yago-knowledge.org/resource/Abney_Park_Cemetery   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Highams_Park_School   [park]
+Score: 0.25
+----
+
+Nodes visited: 93636
+Total execution time: 4434
+
+Query Words: william, whole
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1543
+
+Query Words: thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1560
+
+Query Words: park, church
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1545
+
+Query Words: district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1541
+
+Query Words: descent, football
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1536
+
+Query Words: william, park
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1551
+
+Query Words: district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1594
+
+Query Words: thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1609
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1582
+
+Query Words: park, church, district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1588
+
+Query Words: descent, football, william, park
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1597
+
+Query Words: william, whole
+Root nodes Found: 65
+Nodes visited: 422601
+Total execution time: 16474
+
+Query Words: thomas, california
+Root nodes Found: 65
+
+http://yago-knowledge.org/resource/Hemdale_Film_Corporation   []
+		http://yago-knowledge.org/resource/Los_Angeles_County,_California   [california]
+	http://yago-knowledge.org/resource/Los_Angeles   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Ricochet_(TV_production_company)   []
+		http://yago-knowledge.org/resource/California   [california]
+	http://yago-knowledge.org/resource/Los_Angeles   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 422601
+Total execution time: 14226
+
+Query Words: park, church
+Root nodes Found: 65
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Working_Lunch   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Eastern_Electricity   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/S._G._Warburg_&_Co.   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Hemdale_Film_Corporation   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Constitution_Unit   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/History_(European_TV_channel)   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Sun_Life_&_Provincial_Holdings   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/New_York_City   []
+http://yago-knowledge.org/resource/World_Business_Report   []
+		http://yago-knowledge.org/resource/Park_Avenue   [park]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.09090909090909091
+----
+
+
+http://yago-knowledge.org/resource/Newsquest   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Avocet_Mining   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Maggie_Daley_Park_ice_skating_ribbon   [park]
+	http://yago-knowledge.org/resource/Chicago   []
+http://yago-knowledge.org/resource/Syclo   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Brit_plc   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/EasyJet   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/FTSE_Group   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Cineworld   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Maimonides_Foundation   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Lo_Recordings   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Fortuna_Pop!   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Interoute   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Lloyds_Banking_Group   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Zafferano   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/National_Outsourcing_Association   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/BBC_World_News   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Howdens_Joinery   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 422601
+Total execution time: 12943
+
+Query Words: district, objects
+Root nodes Found: 65
+Nodes visited: 422601
+Total execution time: 12897
+
+Query Words: descent, football
+Root nodes Found: 65
+
+http://yago-knowledge.org/resource/Harlequin_Ladies_Football_Club   [football]
+Score: 0.5
+----
+
+Nodes visited: 422601
+Total execution time: 12898
+
+Query Words: william, park
+Root nodes Found: 65
+
+	http://yago-knowledge.org/resource/New_York_City   []
+http://yago-knowledge.org/resource/World_Business_Report   []
+		http://yago-knowledge.org/resource/Park_Avenue   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Syclo   []
+	http://yago-knowledge.org/resource/Chicago   []
+		http://yago-knowledge.org/resource/Maggie_Daley_Park_ice_skating_ribbon   [park]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 422601
+Total execution time: 13030
+
+Query Words: district, objects
+Root nodes Found: 65
+Nodes visited: 422601
+Total execution time: 12929
+
+Query Words: thomas, california
+Root nodes Found: 65
+
+	http://yago-knowledge.org/resource/Los_Angeles   []
+http://yago-knowledge.org/resource/Hemdale_Film_Corporation   []
+		http://yago-knowledge.org/resource/California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Los_Angeles   []
+http://yago-knowledge.org/resource/Ricochet_(TV_production_company)   []
+		http://yago-knowledge.org/resource/Los_Angeles_County,_California   [california]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 422601
+Total execution time: 12890
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 65
+
+	http://yago-knowledge.org/resource/Los_Angeles   []
+http://yago-knowledge.org/resource/Hemdale_Film_Corporation   []
+		http://yago-knowledge.org/resource/Los_Angeles_County,_California   [california]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Ricochet_(TV_production_company)   []
+		http://yago-knowledge.org/resource/California   [california]
+	http://yago-knowledge.org/resource/Los_Angeles   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 422601
+Total execution time: 12979
+
+Query Words: park, church, district, objects
+Root nodes Found: 65
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Working_Lunch   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Eastern_Electricity   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/S._G._Warburg_&_Co.   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Hemdale_Film_Corporation   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Constitution_Unit   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/History_(European_TV_channel)   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Sun_Life_&_Provincial_Holdings   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/New_York_City   []
+http://yago-knowledge.org/resource/World_Business_Report   []
+		http://yago-knowledge.org/resource/Pier_40_at_Hudson_River_Park   [park]
+Score: 0.045454545454545456
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Newsquest   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Avocet_Mining   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Chicago   []
+		http://yago-knowledge.org/resource/Maggie_Daley_Park_ice_skating_ribbon   [park]
+http://yago-knowledge.org/resource/Syclo   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Brit_plc   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/EasyJet   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/FTSE_Group   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Cineworld   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Maimonides_Foundation   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Lo_Recordings   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Fortuna_Pop!   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Interoute   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Lloyds_Banking_Group   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Zafferano   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/National_Outsourcing_Association   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/BBC_World_News   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Howdens_Joinery   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 422601
+Total execution time: 13076
+
+Query Words: descent, football, william, park
+Root nodes Found: 65
+
+	http://yago-knowledge.org/resource/New_York_City   []
+		http://yago-knowledge.org/resource/Pier_40_at_Hudson_River_Park   [park]
+http://yago-knowledge.org/resource/World_Business_Report   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Syclo   []
+		http://yago-knowledge.org/resource/Maggie_Daley_Park_ice_skating_ribbon   [park]
+	http://yago-knowledge.org/resource/Chicago   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Harlequin_Ladies_Football_Club   [football]
+Score: 0.25
+----
+
+Nodes visited: 422601
+Total execution time: 12969
+
+Query Words: william, whole
+Root nodes Found: 15
+Nodes visited: 44407
+Total execution time: 2961
+
+Query Words: thomas, california
+Root nodes Found: 15
+Nodes visited: 44407
+Total execution time: 2796
+
+Query Words: park, church
+Root nodes Found: 15
+
+http://yago-knowledge.org/resource/SSP_Group   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/BCIS   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Crown_Estate   []
+	http://yago-knowledge.org/resource/King's_Observatory   []
+		http://yago-knowledge.org/resource/Old_Deer_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/National_Plant_Hire_Guide   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 44407
+Total execution time: 2904
+
+Query Words: district, objects
+Root nodes Found: 15
+Nodes visited: 44407
+Total execution time: 2875
+
+Query Words: descent, football
+Root nodes Found: 15
+Nodes visited: 44407
+Total execution time: 2898
+
+Query Words: william, park
+Root nodes Found: 15
+
+	http://yago-knowledge.org/resource/King's_Observatory   []
+http://yago-knowledge.org/resource/Crown_Estate   []
+		http://yago-knowledge.org/resource/Old_Deer_Park   [park]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 44407
+Total execution time: 2938
+
+Query Words: district, objects
+Root nodes Found: 15
+Nodes visited: 44407
+Total execution time: 2908
+
+Query Words: thomas, california
+Root nodes Found: 15
+Nodes visited: 44407
+Total execution time: 2888
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 15
+Nodes visited: 44407
+Total execution time: 2986
+
+Query Words: park, church, district, objects
+Root nodes Found: 15
+
+http://yago-knowledge.org/resource/SSP_Group   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/BCIS   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Crown_Estate   []
+		http://yago-knowledge.org/resource/Old_Deer_Park   [park]
+	http://yago-knowledge.org/resource/King's_Observatory   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/National_Plant_Hire_Guide   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+Nodes visited: 44407
+Total execution time: 3121
+
+Query Words: descent, football, william, park
+Root nodes Found: 15
+
+		http://yago-knowledge.org/resource/Old_Deer_Park   [park]
+http://yago-knowledge.org/resource/Crown_Estate   []
+	http://yago-knowledge.org/resource/King's_Observatory   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 44407
+Total execution time: 3139
+
+Query Words: william, whole
+Root nodes Found: 92
+
+		http://yago-knowledge.org/resource/General_William_Tecumseh_Sherman_Monument   [william]
+	http://yago-knowledge.org/resource/Washington,_D.C.   []
+http://yago-knowledge.org/resource/24_(TV_series)   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Network_Rail   []
+	http://yago-knowledge.org/resource/Fort_William_Station_Sidings   [william]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Department_for_Transport   []
+	http://yago-knowledge.org/resource/Network_Rail   []
+		http://yago-knowledge.org/resource/Fort_William_Station_Sidings   [william]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 472054
+Total execution time: 19249
+
+Query Words: thomas, california
+Root nodes Found: 92
+
+	http://yago-knowledge.org/resource/Washington,_D.C.   []
+		http://yago-knowledge.org/resource/Edmund_Burke_(Thomas)   [thomas]
+http://yago-knowledge.org/resource/24_(TV_series)   []
+	http://yago-knowledge.org/resource/Los_Angeles   []
+		http://yago-knowledge.org/resource/Los_Angeles_County,_California   [california]
+Score: 0.09090909090909091
+----
+
+
+	http://yago-knowledge.org/resource/Los_Angeles_Stadium   []
+http://yago-knowledge.org/resource/Aedas   []
+		http://yago-knowledge.org/resource/California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/San_Francisco   []
+		http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Pine_River_Capital_Management   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Reuben_Foundation   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 472054
+Total execution time: 16415
+
+Query Words: park, church
+Root nodes Found: 92
+
+http://yago-knowledge.org/resource/Live_with_Chris_Moyles   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Richard_&_Judy   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Angela_Hartnett_at_The_Connaught   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Murphy's_Law_(TV_series)   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/BBC_Food   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Enterprise_Oil   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Freskanova   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/24_(TV_series)   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/UFC_38   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/WBX   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Played_in_Britain   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/PacketExchange   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Critical_Music   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Indie_Boyz   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/TD_Tom_Davies   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/8_Canada_Square   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Adaadat   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Langley_Park_Wind_Farm   [park]
+http://yago-knowledge.org/resource/EDF_Energy   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Aedas   []
+	http://yago-knowledge.org/resource/Downsview_Park_(TTC)   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Data_Explorers   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Necessary_Records   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Milk_&_Honey_(bar)   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Seven_Arts_Pictures   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Subsea_7   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/New_York_City   []
+http://yago-knowledge.org/resource/Pine_River_Capital_Management   []
+		http://yago-knowledge.org/resource/Pier_40_at_Hudson_River_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Network_Rail   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+	http://yago-knowledge.org/resource/Wanstead_Park_railway_station   [park]
+Score: 0.125
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/BBC_Four   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/EOffice   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Digi-Guys   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/MEC_(media_agency)   []
+		http://yago-knowledge.org/resource/Pier_40_at_Hudson_River_Park   [park]
+	http://yago-knowledge.org/resource/New_York_City   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/The_Mall_Fund   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/London_Dragons   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/London_College_of_Creative_Media   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Department_for_Transport   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/Network_Rail   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Honor_Oak_Park_railway_station   [park]
+Score: 0.09090909090909091
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+		http://yago-knowledge.org/resource/Skirmish_of_the_Brick_Church   [church]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Reuben_Foundation   []
+Score: 0.1111111111111111
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Heavenly_Group_Ltd   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/JML_Direct_TV   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Topshop   []
+		http://yago-knowledge.org/resource/Ivy_Park   [park]
+http://yago-knowledge.org/resource/Arcadia_Group   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Southbank_Sinfonia   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Utility_Warehouse   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Sci-Fi-London   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Soundway_Records   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 472054
+Total execution time: 16655
+
+Query Words: district, objects
+Root nodes Found: 92
+
+	http://yago-knowledge.org/resource/Carpenders_Park_railway_station   []
+		http://yago-knowledge.org/resource/Three_Rivers_District   [district]
+http://yago-knowledge.org/resource/Network_Rail   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 472054
+Total execution time: 16371
+
+Query Words: descent, football
+Root nodes Found: 92
+Nodes visited: 472054
+Total execution time: 16321
+
+Query Words: william, park
+Root nodes Found: 92
+
+		http://yago-knowledge.org/resource/General_William_Tecumseh_Sherman_Monument   [william]
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+	http://yago-knowledge.org/resource/Washington,_D.C.   []
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/24_(TV_series)   []
+Score: 0.09090909090909091
+----
+
+
+	http://yago-knowledge.org/resource/Langley_Park_Wind_Farm   [park]
+http://yago-knowledge.org/resource/EDF_Energy   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Downsview_Park_(TTC)   [park]
+http://yago-knowledge.org/resource/Aedas   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/New_York_City   []
+		http://yago-knowledge.org/resource/Park_Avenue_Tunnel_(roadway)   [park]
+http://yago-knowledge.org/resource/Pine_River_Capital_Management   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Fort_William_Station_Sidings   [william]
+http://yago-knowledge.org/resource/Network_Rail   []
+	http://yago-knowledge.org/resource/Greenwich_Park_branch_line   [park]
+Score: 0.2
+----
+
+
+	http://yago-knowledge.org/resource/New_York_City   []
+http://yago-knowledge.org/resource/MEC_(media_agency)   []
+		http://yago-knowledge.org/resource/Pier_40_at_Hudson_River_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Department_for_Transport   []
+	http://yago-knowledge.org/resource/Network_Rail   []
+		http://yago-knowledge.org/resource/Fort_William_Station_Sidings   [william]
+		http://yago-knowledge.org/resource/Greenwich_Park_branch_line   [park]
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/Reuben_Foundation   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Ivy_Park   [park]
+	http://yago-knowledge.org/resource/Topshop   []
+http://yago-knowledge.org/resource/Arcadia_Group   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 472054
+Total execution time: 16290
+
+Query Words: district, objects
+Root nodes Found: 92
+
+		http://yago-knowledge.org/resource/Three_Rivers_District   [district]
+http://yago-knowledge.org/resource/Network_Rail   []
+	http://yago-knowledge.org/resource/Carpenders_Park_railway_station   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 472054
+Total execution time: 16311
+
+Query Words: thomas, california
+Root nodes Found: 92
+
+	http://yago-knowledge.org/resource/Los_Angeles   []
+		http://yago-knowledge.org/resource/Los_Angeles_County,_California   [california]
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/24_(TV_series)   []
+Score: 0.09090909090909091
+----
+
+
+		http://yago-knowledge.org/resource/City_of_Industry,_California   [california]
+	http://yago-knowledge.org/resource/Los_Angeles_Stadium   []
+http://yago-knowledge.org/resource/Aedas   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/California   [california]
+	http://yago-knowledge.org/resource/San_Francisco   []
+http://yago-knowledge.org/resource/Pine_River_Capital_Management   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Reuben_Foundation   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 472054
+Total execution time: 16455
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 92
+
+http://yago-knowledge.org/resource/24_(TV_series)   []
+	http://yago-knowledge.org/resource/Los_Angeles   []
+	http://yago-knowledge.org/resource/Washington,_D.C.   []
+		http://yago-knowledge.org/resource/California   [california]
+		http://yago-knowledge.org/resource/Edmund_Burke_(Thomas)   [thomas]
+		http://yago-knowledge.org/resource/General_William_Tecumseh_Sherman_Monument   [william]
+Score: 0.05357142857142857
+----
+
+
+	http://yago-knowledge.org/resource/Los_Angeles_Stadium   []
+http://yago-knowledge.org/resource/Aedas   []
+		http://yago-knowledge.org/resource/City_of_Industry,_California   [california]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Pine_River_Capital_Management   []
+	http://yago-knowledge.org/resource/San_Francisco   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Network_Rail   []
+	http://yago-knowledge.org/resource/Fort_William_Station_Sidings   [william]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Department_for_Transport   []
+		http://yago-knowledge.org/resource/Fort_William_Station_Sidings   [william]
+	http://yago-knowledge.org/resource/Network_Rail   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Reuben_Foundation   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+Nodes visited: 472054
+Total execution time: 17029
+
+Query Words: park, church, district, objects
+Root nodes Found: 92
+
+http://yago-knowledge.org/resource/Live_with_Chris_Moyles   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Richard_&_Judy   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Angela_Hartnett_at_The_Connaught   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Murphy's_Law_(TV_series)   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/BBC_Food   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Enterprise_Oil   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Freskanova   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Saint_Mary's_Church   [church]
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/24_(TV_series)   []
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/UFC_38   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/WBX   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Played_in_Britain   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/PacketExchange   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Critical_Music   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Indie_Boyz   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/TD_Tom_Davies   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/8_Canada_Square   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Adaadat   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/EDF_Energy   []
+	http://yago-knowledge.org/resource/Langley_Park_Wind_Farm   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Downsview_Park_(TTC)   [park]
+http://yago-knowledge.org/resource/Aedas   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Data_Explorers   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Necessary_Records   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Milk_&_Honey_(bar)   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Seven_Arts_Pictures   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Subsea_7   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/San_Francisco   []
+http://yago-knowledge.org/resource/Pine_River_Capital_Management   []
+		http://yago-knowledge.org/resource/Candlestick_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Three_Rivers_District   [district]
+http://yago-knowledge.org/resource/Network_Rail   []
+	http://yago-knowledge.org/resource/Carpenders_Park_railway_station   [park]
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/Wanstead_Park_railway_station   [park]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.07692307692307693
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/BBC_Four   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/EOffice   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Digi-Guys   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Park_Avenue   [park]
+	http://yago-knowledge.org/resource/New_York_City   []
+http://yago-knowledge.org/resource/MEC_(media_agency)   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/The_Mall_Fund   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/London_Dragons   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/London_College_of_Creative_Media   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Network_Rail   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Department_for_Transport   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+		http://yago-knowledge.org/resource/Woodgrange_Park_railway_station   [park]
+Score: 0.045454545454545456
+----
+
+
+http://yago-knowledge.org/resource/Reuben_Foundation   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_New_Hope_Church   [church]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Heavenly_Group_Ltd   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/JML_Direct_TV   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Topshop   []
+http://yago-knowledge.org/resource/Arcadia_Group   []
+		http://yago-knowledge.org/resource/Ivy_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Southbank_Sinfonia   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Utility_Warehouse   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Sci-Fi-London   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Soundway_Records   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+Nodes visited: 472054
+Total execution time: 17963
+
+Query Words: descent, football, william, park
+Root nodes Found: 92
+
+		http://yago-knowledge.org/resource/General_William_Tecumseh_Sherman_Monument   [william]
+	http://yago-knowledge.org/resource/United_States   []
+	http://yago-knowledge.org/resource/Washington,_D.C.   []
+http://yago-knowledge.org/resource/24_(TV_series)   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+Score: 0.045454545454545456
+----
+
+
+http://yago-knowledge.org/resource/EDF_Energy   []
+	http://yago-knowledge.org/resource/Langley_Park_Wind_Farm   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Aedas   []
+	http://yago-knowledge.org/resource/Downsview_Park_(TTC)   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Pine_River_Capital_Management   []
+	http://yago-knowledge.org/resource/New_York_City   []
+		http://yago-knowledge.org/resource/Pier_40_at_Hudson_River_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Network_Rail   []
+	http://yago-knowledge.org/resource/Fort_William_Station_Sidings   [william]
+	http://yago-knowledge.org/resource/Drayton_Park_railway_station   [park]
+Score: 0.1
+----
+
+
+	http://yago-knowledge.org/resource/New_York   []
+http://yago-knowledge.org/resource/MEC_(media_agency)   []
+		http://yago-knowledge.org/resource/Belmont_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Network_Rail   []
+		http://yago-knowledge.org/resource/Fort_William_Station_Sidings   [william]
+http://yago-knowledge.org/resource/Department_for_Transport   []
+		http://yago-knowledge.org/resource/Oakleigh_Park_railway_station   [park]
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/Reuben_Foundation   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Ivy_Park   [park]
+	http://yago-knowledge.org/resource/Topshop   []
+http://yago-knowledge.org/resource/Arcadia_Group   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 472054
+Total execution time: 16363
+
