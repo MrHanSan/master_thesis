@@ -24,17 +24,18 @@ Each query is given a score. This score will be used to see how pruning, and dif
 \label{sec:experimentalSetup}
 
 \section{Data set}
-When selecting a data set an important feature was accurate spatial and temporal data. For this Yago was selected. Yago allows for download of subsets of data, and contains all the necessary data. The high accuracy in Yago was also a benefit of this data set. From Yago, the data selected was the entire Yago taxonomy, the entire Yago core, and from Genomes the sets GeonamesOnlyData, GeonamesClassIds, GeonamesGlosses, GeonamesTypes, and GeonamesClasses were selected. These sets makes it possible to build a complete graph of the entities in Yago, but keeps the disk usage as low as possible.\\
+All of the data used is from YAGO. YAGO was selected for the large open data set, rich taxonomy, and for the spatial and temporal parts of the ontology. There are several data sets available for download, divided into categories. For running experiments data from taxonomy, core, and geonames were selected. From the taxonomy category, all data sets where used. This data describes class structure, entities, and defines relationships.
 
-- Short description of each of the parts\\
-- preprocessing: replace non-unicode chars, replacing space with underscore in URIs, terminate triplet where missing termination, remove double quotes in URIs, remove backslash unless legal escape sequence\\
-- tdbloader for persistent queryable storage\\
-- Structure of graph? Here or in Yago description?\\
-% awk -F ' ' '{a[$1] += $2} END{for (i in a) print i, a[i]}' topMiddle100stemmed.txt | sort -k 2 -n > topMiddle.txt
+From the core category all data was also used. The core contains is most of the data used in the graph. This includes dates, relationships between nodes, literals, and labels. Most of the vertexes and edges used in the experiment comes from this category, but this data can be further structured using some of the data from other categories.
 
+Geonames contains data and structure for geographical vertexes. These vertexes have a hierarchical structure based on what places are located within others. In addition, the data contains literals for coordinates, alternative names and links for neighbors. In addition the category contains additional classes and types specific for the geographical vertex.
+
+Before the data could be loaded into a store, some preprocessing was necessary. This includes replacing non-unicode character, and replacing spaces with underscore in URIs. In addition the data from YAGO contained som illegal characters for Jena, such as double quoted URIs and illegal escape sequences. There were also some unterminated ttl lines. All the data was run through a sed script to ensure correctly formatted data for Jena. After formatting the data correctly a persistent TDB storage was created using tdbloader from Jena.
+
+% sed -i 's/|/-/g' ./* && sed -i 's/\\\\/-/g' ./* && sed -i 's/–/-/g' ./*
 
 \section{Queries}
-When selecting the keywords used in queries, a semi random selection method was used at first. This method created three pools of words, rare words (less than 1000 occurrences) uncommon words (less than 100 000 occurrences) and common words (more than 100 000 occurrences). The three pools where created by stemming all words, then counting occurrences. From each pool of words, a set of 100 where randomly selected, and from those 100, 10 where selected manually to ensure a range of occurrences, and to ensure no stop words, misspelled words or other errors were in the final set of keywords.\\
+When selecting the keywords used in queries, a semi random selection method was used at first. This method created three pools of words, rare words (less than 1000 occurrences) uncommon words (less than 100 000 occurrences) and common words (more than 100 000 occurrences). The three pools where created by stemming all words, then counting occurrences. From each pool of words, a set of 100 where randomly selected, and from those 100, 10 where selected manually to ensure a range of occurrences, and to ensure no stop words, misspelled words or other errors were in the final set of keywords.
 
 A second set of words were also chosen to ensure a larger hit rate. This set was a random selection of 20 words from the top 150 words. From the 20 random words 10 where manually selected, the 150 word number was selected based on Zipfs law \cite{zipf}.\\
 
@@ -47,7 +48,7 @@ Find a good method of creating queries.\\
 A simple method to improve performance when searching in large data sets is to remove data that is unnecessary to search.
 
 \subsection{Predicate pruning}
-Predicate pruning is the process of eliminating predicates from the search. The taxonomy of Yago creates assigns predicates to one or more group or class. By selecting specific groups or classes it is possible to follow the types of data searched for, while eliminating a lot of other data. When pruning based on classes or groups the type of data returned must be known beforehand, to ensure that no possible hits is overlooked.\\
+Predicate pruning is the process of eliminating predicates from the search. The taxonomy of Yago creates assigns predicates to one or more group or class. By selecting specific groups or classes it is possible to follow the types of data searched for, while eliminating a lot of other data. When pruning based on classes or groups the type of data returned must be known beforehand, to ensure that no possible hits is overlooked.
 
 Another possible method for pruning is to specify the exact predicates to follow. This will remove a lot of data, but is possibility when searching for something specific. This will also greatly increase the speed of the search, and reduce the memory usage for the search. 
 
@@ -56,20 +57,18 @@ Another possible method for pruning is to specify the exact predicates to follow
 \section{Experimental Results}
 \label{sec:experimentalResults}
 
-\section{BFS search}
-BFS search without any pruning and search depth of 3 were unable to finish due to memory constraints and taking too long. Search with a depth of 2 may finish, depending on on the connectedness of the nodes discovered, and the amount of root nodes found in the search.
+- Most roots dont have a result for the query\\
+- Some form of pruning, or reduction in the amount of visited nodes is needed.\\
+- Most hits that significantly increase accuracy occurs in the first set of neighboring nodes?\\
+
 
 \subsection{Time}
-When running the query, two sets are displayed, one with mostly random input data, and one with more closely selected data.
+% - time/query \\
+% - time/root \\
+% - roots found/ query \\
 
-Because most of the randomly selected places had few possible root nodes, the table contains only the manually selected.
-
-- time/query \\
-- time/root \\
-- roots found/ query \\
-
-- accuracy/ result\\
-- avg highest accuracy/ query\\
+% - accuracy/ result\\
+% - avg highest accuracy/ query\\
 
 \begin{tikzpicture}
 \begin{axis}[
