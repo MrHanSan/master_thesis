@@ -1,0 +1,1615 @@
+Query Words: william, whole
+Root nodes Found: 489
+Nodes visited: 489
+Total execution time: 4642
+
+Query Words: thomas, california
+Root nodes Found: 489
+Nodes visited: 489
+Total execution time: 3755
+
+Query Words: park, church
+Root nodes Found: 489
+
+http://yago-knowledge.org/resource/Botroseya_Church_bombing   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/2011_Imbaba_church_attacks   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_the_Virgin_Mary_(Haret_Zuweila)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Evangelical_Church_of_Egypt_(Synod_of_the_Nile)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Saint_Mark_Coptic_Orthodox_Church_(Heliopolis)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Al-Azhar_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Coptic_Catholic_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Coptic_Orthodox_Church_of_Alexandria   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/The_Hanging_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Greek_Orthodox_Church_of_Alexandria   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_Saint_Menas_(Cairo)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_St._George_(Cairo)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Saint_Mary_Church_(Haret_Elroum)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Cultural_Park_for_Children   [park]
+Score: 0.5
+----
+
+Nodes visited: 489
+Total execution time: 3761
+
+Query Words: district, objects
+Root nodes Found: 489
+Nodes visited: 489
+Total execution time: 3830
+
+Query Words: descent, football
+Root nodes Found: 489
+
+http://yago-knowledge.org/resource/fr/Football_aux_Jeux_panarabes_de_1965   [football]
+Score: 0.5
+----
+
+Nodes visited: 489
+Total execution time: 3820
+
+Query Words: william, park
+Root nodes Found: 489
+
+http://yago-knowledge.org/resource/Al-Azhar_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Cultural_Park_for_Children   [park]
+Score: 0.5
+----
+
+Nodes visited: 489
+Total execution time: 3743
+
+Query Words: district, objects
+Root nodes Found: 489
+Nodes visited: 489
+Total execution time: 3871
+
+Query Words: thomas, california
+Root nodes Found: 489
+Nodes visited: 489
+Total execution time: 3855
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 489
+Nodes visited: 489
+Total execution time: 3895
+
+Query Words: park, church, district, objects
+Root nodes Found: 489
+
+http://yago-knowledge.org/resource/Botroseya_Church_bombing   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/2011_Imbaba_church_attacks   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_the_Virgin_Mary_(Haret_Zuweila)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Evangelical_Church_of_Egypt_(Synod_of_the_Nile)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Saint_Mark_Coptic_Orthodox_Church_(Heliopolis)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Al-Azhar_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Coptic_Catholic_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Coptic_Orthodox_Church_of_Alexandria   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/The_Hanging_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Greek_Orthodox_Church_of_Alexandria   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_Saint_Menas_(Cairo)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_St._George_(Cairo)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Saint_Mary_Church_(Haret_Elroum)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Cultural_Park_for_Children   [park]
+Score: 0.25
+----
+
+Nodes visited: 489
+Total execution time: 3942
+
+Query Words: descent, football, william, park
+Root nodes Found: 489
+
+http://yago-knowledge.org/resource/Al-Azhar_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/fr/Football_aux_Jeux_panarabes_de_1965   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Cultural_Park_for_Children   [park]
+Score: 0.25
+----
+
+Nodes visited: 489
+Total execution time: 4056
+
+Query Words: william, whole
+Root nodes Found: 483
+Nodes visited: 483
+Total execution time: 4438
+
+Query Words: thomas, california
+Root nodes Found: 483
+Nodes visited: 483
+Total execution time: 3883
+
+Query Words: park, church
+Root nodes Found: 483
+
+http://yago-knowledge.org/resource/Botroseya_Church_bombing   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/2011_Imbaba_church_attacks   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_the_Virgin_Mary_(Haret_Zuweila)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Evangelical_Church_of_Egypt_(Synod_of_the_Nile)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Saint_Mark_Coptic_Orthodox_Church_(Heliopolis)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Al-Azhar_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Coptic_Catholic_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Coptic_Orthodox_Church_of_Alexandria   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/The_Hanging_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Greek_Orthodox_Church_of_Alexandria   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_Saint_Menas_(Cairo)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_St._George_(Cairo)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Saint_Mary_Church_(Haret_Elroum)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Cultural_Park_for_Children   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Swiss_National_Park   [park]
+Score: 0.5
+----
+
+Nodes visited: 483
+Total execution time: 3732
+
+Query Words: district, objects
+Root nodes Found: 483
+Nodes visited: 483
+Total execution time: 3730
+
+Query Words: descent, football
+Root nodes Found: 483
+
+http://yago-knowledge.org/resource/fr/Football_aux_Jeux_panarabes_de_1965   [football]
+Score: 0.5
+----
+
+Nodes visited: 483
+Total execution time: 3741
+
+Query Words: william, park
+Root nodes Found: 483
+
+http://yago-knowledge.org/resource/Al-Azhar_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Cultural_Park_for_Children   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Swiss_National_Park   [park]
+Score: 0.5
+----
+
+Nodes visited: 483
+Total execution time: 3727
+
+Query Words: district, objects
+Root nodes Found: 483
+Nodes visited: 483
+Total execution time: 3731
+
+Query Words: thomas, california
+Root nodes Found: 483
+Nodes visited: 483
+Total execution time: 3757
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 483
+Nodes visited: 483
+Total execution time: 3731
+
+Query Words: park, church, district, objects
+Root nodes Found: 483
+
+http://yago-knowledge.org/resource/Botroseya_Church_bombing   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/2011_Imbaba_church_attacks   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_the_Virgin_Mary_(Haret_Zuweila)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Evangelical_Church_of_Egypt_(Synod_of_the_Nile)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Saint_Mark_Coptic_Orthodox_Church_(Heliopolis)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Al-Azhar_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Coptic_Catholic_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Coptic_Orthodox_Church_of_Alexandria   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/The_Hanging_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Greek_Orthodox_Church_of_Alexandria   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_Saint_Menas_(Cairo)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_St._George_(Cairo)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Saint_Mary_Church_(Haret_Elroum)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Cultural_Park_for_Children   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Swiss_National_Park   [park]
+Score: 0.25
+----
+
+Nodes visited: 483
+Total execution time: 3727
+
+Query Words: descent, football, william, park
+Root nodes Found: 483
+
+http://yago-knowledge.org/resource/Al-Azhar_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/fr/Football_aux_Jeux_panarabes_de_1965   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Cultural_Park_for_Children   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Swiss_National_Park   [park]
+Score: 0.25
+----
+
+Nodes visited: 483
+Total execution time: 3743
+
+Query Words: william, whole
+Root nodes Found: 478
+Nodes visited: 478
+Total execution time: 3728
+
+Query Words: thomas, california
+Root nodes Found: 478
+Nodes visited: 478
+Total execution time: 3728
+
+Query Words: park, church
+Root nodes Found: 478
+
+http://yago-knowledge.org/resource/Botroseya_Church_bombing   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/2011_Imbaba_church_attacks   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_the_Virgin_Mary_(Haret_Zuweila)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Evangelical_Church_of_Egypt_(Synod_of_the_Nile)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Saint_Mark_Coptic_Orthodox_Church_(Heliopolis)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Al-Azhar_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Coptic_Catholic_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Coptic_Orthodox_Church_of_Alexandria   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/The_Hanging_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Greek_Orthodox_Church_of_Alexandria   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_Saint_Menas_(Cairo)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_St._George_(Cairo)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Saint_Mary_Church_(Haret_Elroum)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Cultural_Park_for_Children   [park]
+Score: 0.5
+----
+
+Nodes visited: 478
+Total execution time: 3729
+
+Query Words: district, objects
+Root nodes Found: 478
+Nodes visited: 478
+Total execution time: 3732
+
+Query Words: descent, football
+Root nodes Found: 478
+
+http://yago-knowledge.org/resource/fr/Football_aux_Jeux_panarabes_de_1965   [football]
+Score: 0.5
+----
+
+Nodes visited: 478
+Total execution time: 3721
+
+Query Words: william, park
+Root nodes Found: 478
+
+http://yago-knowledge.org/resource/Al-Azhar_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Cultural_Park_for_Children   [park]
+Score: 0.5
+----
+
+Nodes visited: 478
+Total execution time: 3720
+
+Query Words: district, objects
+Root nodes Found: 478
+Nodes visited: 478
+Total execution time: 3717
+
+Query Words: thomas, california
+Root nodes Found: 478
+Nodes visited: 478
+Total execution time: 3724
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 478
+Nodes visited: 478
+Total execution time: 3715
+
+Query Words: park, church, district, objects
+Root nodes Found: 478
+
+http://yago-knowledge.org/resource/Botroseya_Church_bombing   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/2011_Imbaba_church_attacks   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_the_Virgin_Mary_(Haret_Zuweila)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Evangelical_Church_of_Egypt_(Synod_of_the_Nile)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Saint_Mark_Coptic_Orthodox_Church_(Heliopolis)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Al-Azhar_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Coptic_Catholic_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Coptic_Orthodox_Church_of_Alexandria   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/The_Hanging_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Greek_Orthodox_Church_of_Alexandria   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_Saint_Menas_(Cairo)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_St._George_(Cairo)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Saint_Mary_Church_(Haret_Elroum)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Cultural_Park_for_Children   [park]
+Score: 0.25
+----
+
+Nodes visited: 478
+Total execution time: 3732
+
+Query Words: descent, football, william, park
+Root nodes Found: 478
+
+http://yago-knowledge.org/resource/Al-Azhar_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/fr/Football_aux_Jeux_panarabes_de_1965   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Cultural_Park_for_Children   [park]
+Score: 0.25
+----
+
+Nodes visited: 478
+Total execution time: 3731
+
+Query Words: william, whole
+Root nodes Found: 473
+Nodes visited: 473
+Total execution time: 3735
+
+Query Words: thomas, california
+Root nodes Found: 473
+Nodes visited: 473
+Total execution time: 3741
+
+Query Words: park, church
+Root nodes Found: 473
+
+http://yago-knowledge.org/resource/Botroseya_Church_bombing   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/2011_Imbaba_church_attacks   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_the_Virgin_Mary_(Haret_Zuweila)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Evangelical_Church_of_Egypt_(Synod_of_the_Nile)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Saint_Mark_Coptic_Orthodox_Church_(Heliopolis)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Al-Azhar_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Coptic_Catholic_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Coptic_Orthodox_Church_of_Alexandria   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/The_Hanging_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Greek_Orthodox_Church_of_Alexandria   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_Saint_Menas_(Cairo)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_St._George_(Cairo)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Saint_Mary_Church_(Haret_Elroum)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Cultural_Park_for_Children   [park]
+Score: 0.5
+----
+
+Nodes visited: 473
+Total execution time: 3741
+
+Query Words: district, objects
+Root nodes Found: 473
+Nodes visited: 473
+Total execution time: 3736
+
+Query Words: descent, football
+Root nodes Found: 473
+
+http://yago-knowledge.org/resource/fr/Football_aux_Jeux_panarabes_de_1965   [football]
+Score: 0.5
+----
+
+Nodes visited: 473
+Total execution time: 3761
+
+Query Words: william, park
+Root nodes Found: 473
+
+http://yago-knowledge.org/resource/Al-Azhar_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Cultural_Park_for_Children   [park]
+Score: 0.5
+----
+
+Nodes visited: 473
+Total execution time: 3748
+
+Query Words: district, objects
+Root nodes Found: 473
+Nodes visited: 473
+Total execution time: 3750
+
+Query Words: thomas, california
+Root nodes Found: 473
+Nodes visited: 473
+Total execution time: 3742
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 473
+Nodes visited: 473
+Total execution time: 3748
+
+Query Words: park, church, district, objects
+Root nodes Found: 473
+
+http://yago-knowledge.org/resource/Botroseya_Church_bombing   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/2011_Imbaba_church_attacks   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_the_Virgin_Mary_(Haret_Zuweila)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Evangelical_Church_of_Egypt_(Synod_of_the_Nile)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Saint_Mark_Coptic_Orthodox_Church_(Heliopolis)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Al-Azhar_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Coptic_Catholic_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Coptic_Orthodox_Church_of_Alexandria   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/The_Hanging_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Greek_Orthodox_Church_of_Alexandria   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_Saint_Menas_(Cairo)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_St._George_(Cairo)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Saint_Mary_Church_(Haret_Elroum)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Cultural_Park_for_Children   [park]
+Score: 0.25
+----
+
+Nodes visited: 473
+Total execution time: 3752
+
+Query Words: descent, football, william, park
+Root nodes Found: 473
+
+http://yago-knowledge.org/resource/Al-Azhar_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/fr/Football_aux_Jeux_panarabes_de_1965   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Cultural_Park_for_Children   [park]
+Score: 0.25
+----
+
+Nodes visited: 473
+Total execution time: 3749
+
+Query Words: william, whole
+Root nodes Found: 494
+Nodes visited: 494
+Total execution time: 3609
+
+Query Words: thomas, california
+Root nodes Found: 494
+Nodes visited: 494
+Total execution time: 3627
+
+Query Words: park, church
+Root nodes Found: 494
+
+http://yago-knowledge.org/resource/Botroseya_Church_bombing   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/2011_Imbaba_church_attacks   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_the_Virgin_Mary_(Haret_Zuweila)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Evangelical_Church_of_Egypt_(Synod_of_the_Nile)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Saint_Mark_Coptic_Orthodox_Church_(Heliopolis)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Al-Azhar_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Coptic_Catholic_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Coptic_Orthodox_Church_of_Alexandria   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/The_Hanging_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Greek_Orthodox_Church_of_Alexandria   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_Saint_Menas_(Cairo)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_St._George_(Cairo)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Saint_Mary_Church_(Haret_Elroum)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Cultural_Park_for_Children   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Xuxa_Park_(Brazilian_TV_series)   [park]
+Score: 0.5
+----
+
+Nodes visited: 494
+Total execution time: 3671
+
+Query Words: district, objects
+Root nodes Found: 494
+Nodes visited: 494
+Total execution time: 3718
+
+Query Words: descent, football
+Root nodes Found: 494
+
+http://yago-knowledge.org/resource/fr/Football_aux_Jeux_panarabes_de_1965   [football]
+Score: 0.5
+----
+
+Nodes visited: 494
+Total execution time: 3869
+
+Query Words: william, park
+Root nodes Found: 494
+
+http://yago-knowledge.org/resource/Al-Azhar_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Cultural_Park_for_Children   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Xuxa_Park_(Brazilian_TV_series)   [park]
+Score: 0.5
+----
+
+Nodes visited: 494
+Total execution time: 3833
+
+Query Words: district, objects
+Root nodes Found: 494
+Nodes visited: 494
+Total execution time: 3992
+
+Query Words: thomas, california
+Root nodes Found: 494
+Nodes visited: 494
+Total execution time: 4233
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 494
+Nodes visited: 494
+Total execution time: 3729
+
+Query Words: park, church, district, objects
+Root nodes Found: 494
+
+http://yago-knowledge.org/resource/Botroseya_Church_bombing   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/2011_Imbaba_church_attacks   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_the_Virgin_Mary_(Haret_Zuweila)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Evangelical_Church_of_Egypt_(Synod_of_the_Nile)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Saint_Mark_Coptic_Orthodox_Church_(Heliopolis)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Al-Azhar_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Coptic_Catholic_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Coptic_Orthodox_Church_of_Alexandria   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/The_Hanging_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Greek_Orthodox_Church_of_Alexandria   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_Saint_Menas_(Cairo)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_St._George_(Cairo)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Saint_Mary_Church_(Haret_Elroum)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Cultural_Park_for_Children   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Xuxa_Park_(Brazilian_TV_series)   [park]
+Score: 0.25
+----
+
+Nodes visited: 494
+Total execution time: 3624
+
+Query Words: descent, football, william, park
+Root nodes Found: 494
+
+http://yago-knowledge.org/resource/Al-Azhar_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/fr/Football_aux_Jeux_panarabes_de_1965   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Cultural_Park_for_Children   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Xuxa_Park_(Brazilian_TV_series)   [park]
+Score: 0.25
+----
+
+Nodes visited: 494
+Total execution time: 3614
+
+Query Words: william, whole
+Root nodes Found: 473
+Nodes visited: 473
+Total execution time: 3739
+
+Query Words: thomas, california
+Root nodes Found: 473
+Nodes visited: 473
+Total execution time: 3747
+
+Query Words: park, church
+Root nodes Found: 473
+
+http://yago-knowledge.org/resource/Botroseya_Church_bombing   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/2011_Imbaba_church_attacks   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_the_Virgin_Mary_(Haret_Zuweila)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Evangelical_Church_of_Egypt_(Synod_of_the_Nile)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Saint_Mark_Coptic_Orthodox_Church_(Heliopolis)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Al-Azhar_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Coptic_Catholic_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Coptic_Orthodox_Church_of_Alexandria   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/The_Hanging_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Greek_Orthodox_Church_of_Alexandria   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_Saint_Menas_(Cairo)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_St._George_(Cairo)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Saint_Mary_Church_(Haret_Elroum)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Cultural_Park_for_Children   [park]
+Score: 0.5
+----
+
+Nodes visited: 473
+Total execution time: 3746
+
+Query Words: district, objects
+Root nodes Found: 473
+Nodes visited: 473
+Total execution time: 3743
+
+Query Words: descent, football
+Root nodes Found: 473
+
+http://yago-knowledge.org/resource/fr/Football_aux_Jeux_panarabes_de_1965   [football]
+Score: 0.5
+----
+
+Nodes visited: 473
+Total execution time: 3739
+
+Query Words: william, park
+Root nodes Found: 473
+
+http://yago-knowledge.org/resource/Al-Azhar_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Cultural_Park_for_Children   [park]
+Score: 0.5
+----
+
+Nodes visited: 473
+Total execution time: 3739
+
+Query Words: district, objects
+Root nodes Found: 473
+Nodes visited: 473
+Total execution time: 3756
+
+Query Words: thomas, california
+Root nodes Found: 473
+Nodes visited: 473
+Total execution time: 3735
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 473
+Nodes visited: 473
+Total execution time: 3742
+
+Query Words: park, church, district, objects
+Root nodes Found: 473
+
+http://yago-knowledge.org/resource/Botroseya_Church_bombing   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/2011_Imbaba_church_attacks   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_the_Virgin_Mary_(Haret_Zuweila)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Evangelical_Church_of_Egypt_(Synod_of_the_Nile)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Saint_Mark_Coptic_Orthodox_Church_(Heliopolis)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Al-Azhar_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Coptic_Catholic_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Coptic_Orthodox_Church_of_Alexandria   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/The_Hanging_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Greek_Orthodox_Church_of_Alexandria   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_Saint_Menas_(Cairo)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_St._George_(Cairo)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Saint_Mary_Church_(Haret_Elroum)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Cultural_Park_for_Children   [park]
+Score: 0.25
+----
+
+Nodes visited: 473
+Total execution time: 3736
+
+Query Words: descent, football, william, park
+Root nodes Found: 473
+
+http://yago-knowledge.org/resource/Al-Azhar_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/fr/Football_aux_Jeux_panarabes_de_1965   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Cultural_Park_for_Children   [park]
+Score: 0.25
+----
+
+Nodes visited: 473
+Total execution time: 3741
+
+Query Words: william, whole
+Root nodes Found: 542
+Nodes visited: 542
+Total execution time: 3588
+
+Query Words: thomas, california
+Root nodes Found: 542
+Nodes visited: 542
+Total execution time: 3592
+
+Query Words: park, church
+Root nodes Found: 542
+
+http://yago-knowledge.org/resource/Botroseya_Church_bombing   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/2011_Imbaba_church_attacks   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_the_Virgin_Mary_(Haret_Zuweila)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Evangelical_Church_of_Egypt_(Synod_of_the_Nile)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Saint_Mark_Coptic_Orthodox_Church_(Heliopolis)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Al-Azhar_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Coptic_Catholic_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Coptic_Orthodox_Church_of_Alexandria   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/The_Hanging_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Greek_Orthodox_Church_of_Alexandria   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_Saint_Menas_(Cairo)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_St._George_(Cairo)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Saint_Mary_Church_(Haret_Elroum)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Cultural_Park_for_Children   [park]
+Score: 0.5
+----
+
+Nodes visited: 542
+Total execution time: 3584
+
+Query Words: district, objects
+Root nodes Found: 542
+Nodes visited: 542
+Total execution time: 3584
+
+Query Words: descent, football
+Root nodes Found: 542
+
+http://yago-knowledge.org/resource/fr/Football_aux_Jeux_panarabes_de_1965   [football]
+Score: 0.5
+----
+
+Nodes visited: 542
+Total execution time: 3577
+
+Query Words: william, park
+Root nodes Found: 542
+
+http://yago-knowledge.org/resource/Al-Azhar_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Cultural_Park_for_Children   [park]
+Score: 0.5
+----
+
+Nodes visited: 542
+Total execution time: 3585
+
+Query Words: district, objects
+Root nodes Found: 542
+Nodes visited: 542
+Total execution time: 3581
+
+Query Words: thomas, california
+Root nodes Found: 542
+Nodes visited: 542
+Total execution time: 3581
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 542
+Nodes visited: 542
+Total execution time: 3581
+
+Query Words: park, church, district, objects
+Root nodes Found: 542
+
+http://yago-knowledge.org/resource/Botroseya_Church_bombing   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/2011_Imbaba_church_attacks   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_the_Virgin_Mary_(Haret_Zuweila)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Evangelical_Church_of_Egypt_(Synod_of_the_Nile)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Saint_Mark_Coptic_Orthodox_Church_(Heliopolis)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Al-Azhar_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Coptic_Catholic_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Coptic_Orthodox_Church_of_Alexandria   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/The_Hanging_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Greek_Orthodox_Church_of_Alexandria   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_Saint_Menas_(Cairo)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_St._George_(Cairo)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Saint_Mary_Church_(Haret_Elroum)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Cultural_Park_for_Children   [park]
+Score: 0.25
+----
+
+Nodes visited: 542
+Total execution time: 3587
+
+Query Words: descent, football, william, park
+Root nodes Found: 542
+
+http://yago-knowledge.org/resource/Al-Azhar_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/fr/Football_aux_Jeux_panarabes_de_1965   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Cultural_Park_for_Children   [park]
+Score: 0.25
+----
+
+Nodes visited: 542
+Total execution time: 3585
+
