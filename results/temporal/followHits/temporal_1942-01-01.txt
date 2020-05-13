@@ -1,0 +1,181 @@
+Query Words: william, whole
+Root nodes Found: 216
+Nodes visited: 216
+Total execution time: 3142
+
+Query Words: thomas, california
+Root nodes Found: 216
+Nodes visited: 216
+Total execution time: 3105
+
+Query Words: park, church
+Root nodes Found: 216
+Nodes visited: 216
+Total execution time: 3107
+
+Query Words: district, objects
+Root nodes Found: 216
+
+http://yago-knowledge.org/resource/Huayllahuara_District   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/San_Juan_District,_Castrovirreyna   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Huamatambo_District   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Ccorca_District   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Saylla_District   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Laramarca_District   [district]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Legislative_district_of_Benguet   [district]
+http://yago-knowledge.org/resource/Buguias,_Benguet   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Yushan_(mountain)   []
+	http://yago-knowledge.org/resource/Taoyuan_District,_Kaohsiung   [district]
+Score: 0.16666666666666666
+----
+
+Nodes visited: 218
+Total execution time: 3099
+
+Query Words: descent, football
+Root nodes Found: 216
+
+http://yago-knowledge.org/resource/Andy_Davis_(American_football)   [football]
+Score: 0.5
+----
+
+Nodes visited: 216
+Total execution time: 3082
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 216
+Nodes visited: 216
+Total execution time: 3138
+
+Query Words: park, church, district, objects
+Root nodes Found: 216
+
+http://yago-knowledge.org/resource/Huayllahuara_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/San_Juan_District,_Castrovirreyna   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Huamatambo_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Ccorca_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Saylla_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Laramarca_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Buguias,_Benguet   []
+	http://yago-knowledge.org/resource/Legislative_district_of_Benguet   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Taoyuan_District,_Kaohsiung   [district]
+http://yago-knowledge.org/resource/Yushan_(mountain)   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 218
+Total execution time: 3090
+
+Query Words: descent, football, william, park
+Root nodes Found: 216
+
+http://yago-knowledge.org/resource/Andy_Davis_(American_football)   [football]
+Score: 0.25
+----
+
+Nodes visited: 216
+Total execution time: 3087
+
+Query Words: district, objects, thomas, california
+Root nodes Found: 216
+
+http://yago-knowledge.org/resource/Huayllahuara_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/San_Juan_District,_Castrovirreyna   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Huamatambo_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Ccorca_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Saylla_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Laramarca_District   [district]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Legislative_district_of_Benguet   [district]
+http://yago-knowledge.org/resource/Buguias,_Benguet   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Yushan_(mountain)   []
+	http://yago-knowledge.org/resource/Taoyuan_District,_Kaohsiung   [district]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 218
+Total execution time: 3089
+

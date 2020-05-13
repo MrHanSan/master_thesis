@@ -1,0 +1,45 @@
+Query Words: william, whole
+Root nodes Found: 7
+Nodes visited: 7
+Total execution time: 3134
+
+Query Words: thomas, california
+Root nodes Found: 7
+Nodes visited: 7
+Total execution time: 3222
+
+Query Words: park, church
+Root nodes Found: 7
+Nodes visited: 7
+Total execution time: 3176
+
+Query Words: district, objects
+Root nodes Found: 7
+Nodes visited: 7
+Total execution time: 3146
+
+Query Words: descent, football
+Root nodes Found: 7
+Nodes visited: 7
+Total execution time: 3170
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 7
+Nodes visited: 7
+Total execution time: 3080
+
+Query Words: park, church, district, objects
+Root nodes Found: 7
+Nodes visited: 7
+Total execution time: 3042
+
+Query Words: descent, football, william, park
+Root nodes Found: 7
+Nodes visited: 7
+Total execution time: 3037
+
+Query Words: district, objects, thomas, california
+Root nodes Found: 7
+Nodes visited: 7
+Total execution time: 3046
+

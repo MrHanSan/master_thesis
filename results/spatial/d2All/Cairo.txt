@@ -1,0 +1,298 @@
+Query Words: william, whole
+Root nodes Found: 473
+Nodes visited: 2037466
+Total execution time: 54595
+
+Query Words: thomas, california
+Root nodes Found: 473
+Nodes visited: 2037466
+Total execution time: 51129
+
+Query Words: park, church
+Root nodes Found: 473
+
+http://yago-knowledge.org/resource/Botroseya_Church_bombing   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/2011_Imbaba_church_attacks   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_the_Virgin_Mary_(Haret_Zuweila)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Awakening_Records   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Evangelical_Church_of_Egypt_(Synod_of_the_Nile)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Saint_Mark_Coptic_Orthodox_Church_(Heliopolis)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Al-Azhar_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Coptic_Catholic_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Coptic_Orthodox_Church_of_Alexandria   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/The_Hanging_Church   [church]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Julius_Nyerere_International_Airport   []
+		http://yago-knowledge.org/resource/Saadani_National_Park   [park]
+http://yago-knowledge.org/resource/Cairo_International_Airport   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Greek_Orthodox_Church_of_Alexandria   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_Saint_Menas_(Cairo)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_St._George_(Cairo)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Saint_Mary_Church_(Haret_Elroum)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Cultural_Park_for_Children   [park]
+Score: 0.5
+----
+
+Nodes visited: 2037466
+Total execution time: 51378
+
+Query Words: district, objects
+Root nodes Found: 473
+
+http://yago-knowledge.org/resource/Reactions_to_Innocence_of_Muslims   []
+		http://yago-knowledge.org/resource/Tiruvallur_district   [district]
+	http://yago-knowledge.org/resource/Chennai   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/United_Nations_Truce_Supervision_Organization   []
+	http://yago-knowledge.org/resource/Jerusalem   []
+		http://yago-knowledge.org/resource/Jerusalem_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Cairo_International_Airport   []
+	http://yago-knowledge.org/resource/Wuhan_Tianhe_International_Airport   []
+		http://yago-knowledge.org/resource/Huangpi_District   [district]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 2037466
+Total execution time: 50822
+
+Query Words: descent, football
+Root nodes Found: 473
+
+http://yago-knowledge.org/resource/fr/Football_aux_Jeux_panarabes_de_1965   [football]
+Score: 0.5
+----
+
+Nodes visited: 2037466
+Total execution time: 50515
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 473
+Nodes visited: 2037466
+Total execution time: 51282
+
+Query Words: park, church, district, objects
+Root nodes Found: 473
+
+http://yago-knowledge.org/resource/Reactions_to_Innocence_of_Muslims   []
+	http://yago-knowledge.org/resource/Chennai   []
+		http://yago-knowledge.org/resource/Chennai_district   [district]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Botroseya_Church_bombing   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/2011_Imbaba_church_attacks   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_the_Virgin_Mary_(Haret_Zuweila)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Awakening_Records   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Evangelical_Church_of_Egypt_(Synod_of_the_Nile)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Saint_Mark_Coptic_Orthodox_Church_(Heliopolis)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Al-Azhar_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Coptic_Catholic_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/United_Nations_Truce_Supervision_Organization   []
+		http://yago-knowledge.org/resource/Jerusalem_District   [district]
+	http://yago-knowledge.org/resource/Jerusalem   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Coptic_Orthodox_Church_of_Alexandria   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/The_Hanging_Church   [church]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Julius_Nyerere_International_Airport   []
+http://yago-knowledge.org/resource/Cairo_International_Airport   []
+		http://yago-knowledge.org/resource/Saadani_National_Park   [park]
+	http://yago-knowledge.org/resource/Chengdu_Shuangliu_International_Airport   []
+		http://yago-knowledge.org/resource/Wuhou_District   [district]
+Score: 0.045454545454545456
+----
+
+
+http://yago-knowledge.org/resource/Greek_Orthodox_Church_of_Alexandria   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_Saint_Menas_(Cairo)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_St._George_(Cairo)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Saint_Mary_Church_(Haret_Elroum)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Cultural_Park_for_Children   [park]
+Score: 0.25
+----
+
+Nodes visited: 2037466
+Total execution time: 50699
+
+Query Words: descent, football, william, park
+Root nodes Found: 473
+
+http://yago-knowledge.org/resource/Al-Azhar_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Cairo_International_Airport   []
+	http://yago-knowledge.org/resource/Julius_Nyerere_International_Airport   []
+		http://yago-knowledge.org/resource/Saadani_National_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/fr/Football_aux_Jeux_panarabes_de_1965   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Cultural_Park_for_Children   [park]
+Score: 0.25
+----
+
+Nodes visited: 2037466
+Total execution time: 51030
+
+Query Words: district, objects, thomas, california
+Root nodes Found: 473
+
+	http://yago-knowledge.org/resource/Chennai   []
+http://yago-knowledge.org/resource/Reactions_to_Innocence_of_Muslims   []
+		http://yago-knowledge.org/resource/Tiruvallur_district   [district]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/United_Nations_Truce_Supervision_Organization   []
+	http://yago-knowledge.org/resource/Jerusalem   []
+		http://yago-knowledge.org/resource/Jerusalem_District   [district]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Guangzhou_Baiyun_International_Airport   []
+		http://yago-knowledge.org/resource/Baiyun_District,_Guangzhou   [district]
+http://yago-knowledge.org/resource/Cairo_International_Airport   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 2037466
+Total execution time: 51156
+

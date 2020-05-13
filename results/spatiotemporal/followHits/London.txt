@@ -1,0 +1,820 @@
+Query Words: william, whole
+Root nodes Found: 94
+Nodes visited: 35009
+Total execution time: 6396
+
+Query Words: thomas, california
+Root nodes Found: 94
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/The_Initiative_Collective   []
+Score: 0.16666666666666666
+----
+
+Nodes visited: 35009
+Total execution time: 2884
+
+Query Words: park, church
+Root nodes Found: 94
+Nodes visited: 35009
+Total execution time: 2590
+
+Query Words: district, objects
+Root nodes Found: 94
+Nodes visited: 35009
+Total execution time: 2538
+
+Query Words: descent, football
+Root nodes Found: 94
+
+http://yago-knowledge.org/resource/Domark_Software   []
+	http://yago-knowledge.org/resource/Total_Football_(video_game)   [football]
+Score: 0.16666666666666666
+----
+
+Nodes visited: 35009
+Total execution time: 2519
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 94
+
+http://yago-knowledge.org/resource/The_Initiative_Collective   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 35009
+Total execution time: 2564
+
+Query Words: park, church, district, objects
+Root nodes Found: 94
+Nodes visited: 35009
+Total execution time: 2524
+
+Query Words: descent, football, william, park
+Root nodes Found: 94
+
+	http://yago-knowledge.org/resource/Total_Football_(video_game)   [football]
+http://yago-knowledge.org/resource/Domark_Software   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 35009
+Total execution time: 2572
+
+Query Words: district, objects, thomas, california
+Root nodes Found: 94
+
+http://yago-knowledge.org/resource/The_Initiative_Collective   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 35009
+Total execution time: 2583
+
+Query Words: william, whole
+Root nodes Found: 12
+Nodes visited: 3236
+Total execution time: 1665
+
+Query Words: thomas, california
+Root nodes Found: 12
+Nodes visited: 3236
+Total execution time: 1634
+
+Query Words: park, church
+Root nodes Found: 12
+Nodes visited: 3236
+Total execution time: 1632
+
+Query Words: district, objects
+Root nodes Found: 12
+Nodes visited: 3236
+Total execution time: 1626
+
+Query Words: descent, football
+Root nodes Found: 12
+Nodes visited: 3236
+Total execution time: 1634
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 12
+Nodes visited: 3236
+Total execution time: 1630
+
+Query Words: park, church, district, objects
+Root nodes Found: 12
+Nodes visited: 3236
+Total execution time: 1629
+
+Query Words: descent, football, william, park
+Root nodes Found: 12
+Nodes visited: 3236
+Total execution time: 1628
+
+Query Words: district, objects, thomas, california
+Root nodes Found: 12
+Nodes visited: 3236
+Total execution time: 1627
+
+Query Words: william, whole
+Root nodes Found: 6
+Nodes visited: 122
+Total execution time: 1573
+
+Query Words: thomas, california
+Root nodes Found: 6
+Nodes visited: 122
+Total execution time: 1582
+
+Query Words: park, church
+Root nodes Found: 6
+Nodes visited: 122
+Total execution time: 1620
+
+Query Words: district, objects
+Root nodes Found: 6
+Nodes visited: 122
+Total execution time: 1587
+
+Query Words: descent, football
+Root nodes Found: 6
+Nodes visited: 122
+Total execution time: 1600
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 6
+Nodes visited: 122
+Total execution time: 1587
+
+Query Words: park, church, district, objects
+Root nodes Found: 6
+Nodes visited: 122
+Total execution time: 1586
+
+Query Words: descent, football, william, park
+Root nodes Found: 6
+Nodes visited: 122
+Total execution time: 1640
+
+Query Words: district, objects, thomas, california
+Root nodes Found: 6
+Nodes visited: 122
+Total execution time: 1585
+
+Query Words: william, whole
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1544
+
+Query Words: thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1530
+
+Query Words: park, church
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1630
+
+Query Words: district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1544
+
+Query Words: descent, football
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1539
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1533
+
+Query Words: park, church, district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1536
+
+Query Words: descent, football, william, park
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1533
+
+Query Words: district, objects, thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1541
+
+Query Words: william, whole
+Root nodes Found: 120
+
+http://yago-knowledge.org/resource/William_Morris_Sixth_Form   [william]
+Score: 0.5
+----
+
+Nodes visited: 53872
+Total execution time: 3216
+
+Query Words: thomas, california
+Root nodes Found: 120
+Nodes visited: 53872
+Total execution time: 3080
+
+Query Words: park, church
+Root nodes Found: 120
+Nodes visited: 53872
+Total execution time: 3084
+
+Query Words: district, objects
+Root nodes Found: 120
+Nodes visited: 53872
+Total execution time: 3076
+
+Query Words: descent, football
+Root nodes Found: 120
+
+http://yago-knowledge.org/resource/Harlequin_Ladies_Football_Club   [football]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Football_Manager_2007   [football]
+http://yago-knowledge.org/resource/Sports_Interactive   []
+Score: 0.16666666666666666
+----
+
+Nodes visited: 53872
+Total execution time: 3066
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 120
+
+http://yago-knowledge.org/resource/William_Morris_Sixth_Form   [william]
+Score: 0.25
+----
+
+Nodes visited: 53872
+Total execution time: 3058
+
+Query Words: park, church, district, objects
+Root nodes Found: 120
+Nodes visited: 53872
+Total execution time: 2849
+
+Query Words: descent, football, william, park
+Root nodes Found: 120
+
+http://yago-knowledge.org/resource/Harlequin_Ladies_Football_Club   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Sports_Interactive   []
+	http://yago-knowledge.org/resource/Football_Manager_2016   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_Morris_Sixth_Form   [william]
+Score: 0.25
+----
+
+Nodes visited: 53872
+Total execution time: 2860
+
+Query Words: district, objects, thomas, california
+Root nodes Found: 120
+Nodes visited: 53872
+Total execution time: 2860
+
+Query Words: william, whole
+Root nodes Found: 18
+Nodes visited: 8219
+Total execution time: 1799
+
+Query Words: thomas, california
+Root nodes Found: 18
+Nodes visited: 8219
+Total execution time: 1711
+
+Query Words: park, church
+Root nodes Found: 18
+Nodes visited: 8219
+Total execution time: 1749
+
+Query Words: district, objects
+Root nodes Found: 18
+Nodes visited: 8219
+Total execution time: 1708
+
+Query Words: descent, football
+Root nodes Found: 18
+Nodes visited: 8219
+Total execution time: 1814
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 18
+Nodes visited: 8219
+Total execution time: 1710
+
+Query Words: park, church, district, objects
+Root nodes Found: 18
+Nodes visited: 8219
+Total execution time: 1718
+
+Query Words: descent, football, william, park
+Root nodes Found: 18
+Nodes visited: 8219
+Total execution time: 1714
+
+Query Words: district, objects, thomas, california
+Root nodes Found: 18
+Nodes visited: 8219
+Total execution time: 1714
+
+Query Words: william, whole
+Root nodes Found: 82
+Nodes visited: 33620
+Total execution time: 2743
+
+Query Words: thomas, california
+Root nodes Found: 82
+Nodes visited: 33620
+Total execution time: 2563
+
+Query Words: park, church
+Root nodes Found: 82
+
+http://yago-knowledge.org/resource/British_Rail   []
+	http://yago-knowledge.org/resource/Finsbury_Park_TMD   [park]
+Score: 0.16666666666666666
+----
+
+Nodes visited: 33620
+Total execution time: 2553
+
+Query Words: district, objects
+Root nodes Found: 82
+Nodes visited: 33620
+Total execution time: 2565
+
+Query Words: descent, football
+Root nodes Found: 82
+
+http://yago-knowledge.org/resource/Football_DataCo   [football]
+Score: 0.5
+----
+
+Nodes visited: 33620
+Total execution time: 2550
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 82
+Nodes visited: 33620
+Total execution time: 2549
+
+Query Words: park, church, district, objects
+Root nodes Found: 82
+
+http://yago-knowledge.org/resource/British_Rail   []
+	http://yago-knowledge.org/resource/Finsbury_Park_TMD   [park]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 33620
+Total execution time: 2559
+
+Query Words: descent, football, william, park
+Root nodes Found: 82
+
+	http://yago-knowledge.org/resource/Finsbury_Park_TMD   [park]
+http://yago-knowledge.org/resource/British_Rail   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Football_DataCo   [football]
+Score: 0.25
+----
+
+Nodes visited: 33620
+Total execution time: 2556
+
+Query Words: district, objects, thomas, california
+Root nodes Found: 82
+Nodes visited: 33620
+Total execution time: 2558
+
+Query Words: william, whole
+Root nodes Found: 94
+Nodes visited: 94
+Total execution time: 4802
+
+Query Words: thomas, california
+Root nodes Found: 94
+
+http://yago-knowledge.org/resource/The_Initiative_Collective   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+Nodes visited: 107
+Total execution time: 2107
+
+Query Words: park, church
+Root nodes Found: 94
+Nodes visited: 94
+Total execution time: 1701
+
+Query Words: district, objects
+Root nodes Found: 94
+Nodes visited: 94
+Total execution time: 1590
+
+Query Words: descent, football
+Root nodes Found: 94
+
+	http://yago-knowledge.org/resource/Total_Football_(video_game)   [football]
+http://yago-knowledge.org/resource/Domark_Software   []
+Score: 0.16666666666666666
+----
+
+Nodes visited: 95
+Total execution time: 1615
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 94
+
+http://yago-knowledge.org/resource/The_Initiative_Collective   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 107
+Total execution time: 1629
+
+Query Words: park, church, district, objects
+Root nodes Found: 94
+Nodes visited: 94
+Total execution time: 1620
+
+Query Words: descent, football, william, park
+Root nodes Found: 94
+
+	http://yago-knowledge.org/resource/Total_Football_(video_game)   [football]
+http://yago-knowledge.org/resource/Domark_Software   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 95
+Total execution time: 1596
+
+Query Words: district, objects, thomas, california
+Root nodes Found: 94
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/The_Initiative_Collective   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 107
+Total execution time: 1634
+
+Query Words: william, whole
+Root nodes Found: 12
+Nodes visited: 12
+Total execution time: 1579
+
+Query Words: thomas, california
+Root nodes Found: 12
+Nodes visited: 12
+Total execution time: 1555
+
+Query Words: park, church
+Root nodes Found: 12
+Nodes visited: 12
+Total execution time: 1575
+
+Query Words: district, objects
+Root nodes Found: 12
+Nodes visited: 12
+Total execution time: 1566
+
+Query Words: descent, football
+Root nodes Found: 12
+Nodes visited: 12
+Total execution time: 1550
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 12
+Nodes visited: 12
+Total execution time: 1694
+
+Query Words: park, church, district, objects
+Root nodes Found: 12
+Nodes visited: 12
+Total execution time: 1680
+
+Query Words: descent, football, william, park
+Root nodes Found: 12
+Nodes visited: 12
+Total execution time: 1642
+
+Query Words: district, objects, thomas, california
+Root nodes Found: 12
+Nodes visited: 12
+Total execution time: 1639
+
+Query Words: william, whole
+Root nodes Found: 6
+Nodes visited: 6
+Total execution time: 1634
+
+Query Words: thomas, california
+Root nodes Found: 6
+Nodes visited: 6
+Total execution time: 1681
+
+Query Words: park, church
+Root nodes Found: 6
+Nodes visited: 6
+Total execution time: 1643
+
+Query Words: district, objects
+Root nodes Found: 6
+Nodes visited: 6
+Total execution time: 1651
+
+Query Words: descent, football
+Root nodes Found: 6
+Nodes visited: 6
+Total execution time: 1645
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 6
+Nodes visited: 6
+Total execution time: 1616
+
+Query Words: park, church, district, objects
+Root nodes Found: 6
+Nodes visited: 6
+Total execution time: 1549
+
+Query Words: descent, football, william, park
+Root nodes Found: 6
+Nodes visited: 6
+Total execution time: 1558
+
+Query Words: district, objects, thomas, california
+Root nodes Found: 6
+Nodes visited: 6
+Total execution time: 1554
+
+Query Words: william, whole
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1563
+
+Query Words: thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1546
+
+Query Words: park, church
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1553
+
+Query Words: district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1552
+
+Query Words: descent, football
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1552
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1551
+
+Query Words: park, church, district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1557
+
+Query Words: descent, football, william, park
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1548
+
+Query Words: district, objects, thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1545
+
+Query Words: william, whole
+Root nodes Found: 120
+
+http://yago-knowledge.org/resource/William_Morris_Sixth_Form   [william]
+Score: 0.5
+----
+
+Nodes visited: 120
+Total execution time: 1610
+
+Query Words: thomas, california
+Root nodes Found: 120
+Nodes visited: 120
+Total execution time: 1586
+
+Query Words: park, church
+Root nodes Found: 120
+Nodes visited: 120
+Total execution time: 1597
+
+Query Words: district, objects
+Root nodes Found: 120
+Nodes visited: 120
+Total execution time: 1605
+
+Query Words: descent, football
+Root nodes Found: 120
+
+http://yago-knowledge.org/resource/Harlequin_Ladies_Football_Club   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Sports_Interactive   []
+	http://yago-knowledge.org/resource/Football_Manager_2011   [football]
+Score: 0.16666666666666666
+----
+
+Nodes visited: 135
+Total execution time: 1586
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 120
+
+http://yago-knowledge.org/resource/William_Morris_Sixth_Form   [william]
+Score: 0.25
+----
+
+Nodes visited: 120
+Total execution time: 1578
+
+Query Words: park, church, district, objects
+Root nodes Found: 120
+Nodes visited: 120
+Total execution time: 1646
+
+Query Words: descent, football, william, park
+Root nodes Found: 120
+
+http://yago-knowledge.org/resource/Harlequin_Ladies_Football_Club   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Sports_Interactive   []
+	http://yago-knowledge.org/resource/Football_Manager_2007   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_Morris_Sixth_Form   [william]
+Score: 0.25
+----
+
+Nodes visited: 135
+Total execution time: 1598
+
+Query Words: district, objects, thomas, california
+Root nodes Found: 120
+Nodes visited: 120
+Total execution time: 1581
+
+Query Words: william, whole
+Root nodes Found: 18
+Nodes visited: 18
+Total execution time: 1574
+
+Query Words: thomas, california
+Root nodes Found: 18
+Nodes visited: 18
+Total execution time: 1578
+
+Query Words: park, church
+Root nodes Found: 18
+Nodes visited: 18
+Total execution time: 1553
+
+Query Words: district, objects
+Root nodes Found: 18
+Nodes visited: 18
+Total execution time: 1646
+
+Query Words: descent, football
+Root nodes Found: 18
+Nodes visited: 18
+Total execution time: 1557
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 18
+Nodes visited: 18
+Total execution time: 1559
+
+Query Words: park, church, district, objects
+Root nodes Found: 18
+Nodes visited: 18
+Total execution time: 1559
+
+Query Words: descent, football, william, park
+Root nodes Found: 18
+Nodes visited: 18
+Total execution time: 1634
+
+Query Words: district, objects, thomas, california
+Root nodes Found: 18
+Nodes visited: 18
+Total execution time: 1552
+
+Query Words: william, whole
+Root nodes Found: 82
+Nodes visited: 82
+Total execution time: 1582
+
+Query Words: thomas, california
+Root nodes Found: 82
+Nodes visited: 82
+Total execution time: 1675
+
+Query Words: park, church
+Root nodes Found: 82
+
+	http://yago-knowledge.org/resource/Finsbury_Park_TMD   [park]
+http://yago-knowledge.org/resource/British_Rail   []
+Score: 0.16666666666666666
+----
+
+Nodes visited: 84
+Total execution time: 1575
+
+Query Words: district, objects
+Root nodes Found: 82
+Nodes visited: 82
+Total execution time: 1574
+
+Query Words: descent, football
+Root nodes Found: 82
+
+http://yago-knowledge.org/resource/Football_DataCo   [football]
+Score: 0.5
+----
+
+Nodes visited: 82
+Total execution time: 1674
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 82
+Nodes visited: 82
+Total execution time: 1589
+
+Query Words: park, church, district, objects
+Root nodes Found: 82
+
+	http://yago-knowledge.org/resource/Finsbury_Park_TMD   [park]
+http://yago-knowledge.org/resource/British_Rail   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 84
+Total execution time: 1572
+
+Query Words: descent, football, william, park
+Root nodes Found: 82
+
+http://yago-knowledge.org/resource/British_Rail   []
+	http://yago-knowledge.org/resource/Finsbury_Park_TMD   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Football_DataCo   [football]
+Score: 0.25
+----
+
+Nodes visited: 84
+Total execution time: 1608
+
+Query Words: district, objects, thomas, california
+Root nodes Found: 82
+Nodes visited: 82
+Total execution time: 1578
+

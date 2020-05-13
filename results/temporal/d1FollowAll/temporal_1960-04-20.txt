@@ -1,0 +1,252 @@
+Query Words: william, whole
+Root nodes Found: 144
+Nodes visited: 62811
+Total execution time: 4237
+
+Query Words: thomas, california
+Root nodes Found: 144
+
+http://yago-knowledge.org/resource/Roman_Catholic_Diocese_of_Saint_Thomas   [thomas]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Rescue_8   []
+Score: 0.16666666666666666
+----
+
+Nodes visited: 62811
+Total execution time: 4126
+
+Query Words: park, church
+Root nodes Found: 144
+
+http://yago-knowledge.org/resource/Hiyama_Prefectural_Natural_Park   [park]
+Score: 0.5
+----
+
+Nodes visited: 62811
+Total execution time: 4127
+
+Query Words: district, objects
+Root nodes Found: 144
+
+http://yago-knowledge.org/resource/Jacas_Chico_District   [district]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Federal_District_(Brazil)   [district]
+http://yago-knowledge.org/resource/Brasília   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/San_Francisco_de_Ravacayco_District   [district]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Chatuchak_District   [district]
+http://yago-knowledge.org/resource/Thai_Airways   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Lucma_District,_Mariscal_Luzuriaga   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Korai-ye_Olya   []
+	http://yago-knowledge.org/resource/Central_District_(Shushtar_County)   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Fidel_Olivas_Escudero_District   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Huay-Huay_District   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Huayllo_District   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Sobradinho,_Federal_District   [district]
+Score: 0.5
+----
+
+Nodes visited: 62811
+Total execution time: 4215
+
+Query Words: descent, football
+Root nodes Found: 144
+Nodes visited: 62811
+Total execution time: 4125
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 144
+
+http://yago-knowledge.org/resource/Roman_Catholic_Diocese_of_Saint_Thomas   [thomas]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Rescue_8   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 62811
+Total execution time: 4145
+
+Query Words: park, church, district, objects
+Root nodes Found: 144
+
+http://yago-knowledge.org/resource/Jacas_Chico_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Hiyama_Prefectural_Natural_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Brasília   []
+	http://yago-knowledge.org/resource/Federal_District_(Brazil)   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/San_Francisco_de_Ravacayco_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Thai_Airways   []
+	http://yago-knowledge.org/resource/Chatuchak_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Lucma_District,_Mariscal_Luzuriaga   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Korai-ye_Olya   []
+	http://yago-knowledge.org/resource/Shahid_Modarres_Rural_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Fidel_Olivas_Escudero_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Huay-Huay_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Huayllo_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Sobradinho,_Federal_District   [district]
+Score: 0.25
+----
+
+Nodes visited: 62811
+Total execution time: 4151
+
+Query Words: descent, football, william, park
+Root nodes Found: 144
+
+http://yago-knowledge.org/resource/Hiyama_Prefectural_Natural_Park   [park]
+Score: 0.25
+----
+
+Nodes visited: 62811
+Total execution time: 4123
+
+Query Words: district, objects, thomas, california
+Root nodes Found: 144
+
+http://yago-knowledge.org/resource/Jacas_Chico_District   [district]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Federal_District_(Brazil)   [district]
+http://yago-knowledge.org/resource/Brasília   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/San_Francisco_de_Ravacayco_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Roman_Catholic_Diocese_of_Saint_Thomas   [thomas]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Thai_Airways   []
+	http://yago-knowledge.org/resource/Chatuchak_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Lucma_District,_Mariscal_Luzuriaga   [district]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Shahid_Modarres_Rural_District   [district]
+http://yago-knowledge.org/resource/Korai-ye_Olya   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Fidel_Olivas_Escudero_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Huay-Huay_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Huayllo_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Sobradinho,_Federal_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Rescue_8   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 62811
+Total execution time: 4160
+
