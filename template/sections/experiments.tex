@@ -50,7 +50,7 @@ A simple method to improve performance when searching in large data sets is to r
 \subsection{Predicate pruning}
 Predicate pruning is the process of eliminating predicates from the search. The taxonomy of Yago creates assigns predicates to one or more group or class. By selecting specific groups or classes it is possible to follow the types of data searched for, while eliminating a lot of other data. When pruning based on classes or groups the type of data returned must be known beforehand, to ensure that no possible hits is overlooked.
 
-Another possible method for pruning is to specify the exact predicates to follow. This will remove a lot of data, but is possibility when searching for something specific. This will also greatly increase the speed of the search, and reduce the memory usage for the search. 
+Another possible method for pruning is to specify the exact predicates to follow. This will remove a lot of data, but is possibility when searching for something specific. This will also greatly increase the speed of the search, and reduce the memory usage for the search.
 
 
 % -------------------------------------------------------------------- %
@@ -65,44 +65,44 @@ Another possible method for pruning is to specify the exact predicates to follow
 	\hline
 	\multicolumn{4}{|c|}{Traversal following all edges max. distance 2}                            \\
 	\hline
-	Result type                 & Temporal data   & Spatial data    & Spatial and temporal data \\
+	Result type                    & Temporal data   & Spatial data    & Spatial and temporal data \\
 	\hline
-	Avg. time pr. query         & 5314.2027027    & 159709.648649   & 004                       \\
-	Avg. roots pr query         & 17              & 1534            & 248                       \\
-	Avg. nodes pr. root         & 2383.10132502   & 3733.25548217   & 008                       \\
-	Avg. accuracy pr. result    & 0.091049382716  & 0.0835300669383 & 008                       \\
-	Avg. top accuracy pr. query & 0.0619369369369 & 0.264895577396  & 008                       \\
-	Query miss                  &                 & 0.245495495495 & 0.253109452736            \\
-	\hline
-\end{tabular}
-%
-\begin{tabular}{ |p{3cm}||p{3cm}|p{3cm}|p{3cm}|  }
-	\hline
-	\multicolumn{4}{|c|}{Traversal following all edges max. distance 1}                        \\
-	\hline
-	Result type                 & Temporal data   & Spatial data   & Spatial and temporal data \\
-	\hline
-	Avg. time pr. query         & 3681.67567568   & 14714.6216216  & 18874.75                  \\
-	Avg. roots pr query         & 17              & 1534           & 1545                      \\
-	Avg. nodes pr. root         & 314.192517537   & 263.227635403  & 258.253143365             \\
-	Avg. accuracy pr. result    & 0.375           & 0.265449101796 & 0.264424875312            \\
-	Avg. top accuracy pr. query & 0.0405405405405 & 0.245495495495 & 0.253109452736            \\
-	Query miss                  &                 & 0.245495495495 & 0.253109452736            \\
+	Avg. time pr. query            & 5314.2027027    & 159709.648649   & 1881.52052239             \\
+	Avg. roots pr query            & 17              & 1534            & 10                        \\
+	Avg. nodes pr. root            & 2383.10132502   & 3733.25548217   & 5001.72602004             \\
+	Avg. accuracy pr. result       & 0.091049382716  & 0.0835300669383 & 0.070049993611            \\
+	Avg. top accuracy pr. query    & 0.0619369369369 & 0.292571234735  & 0.0216980909845           \\
+	Query miss (no keywords found) &                 & 7/74 (9.5\%)    & 425/536 (79.3\%)          \\
 	\hline
 \end{tabular}
-%
+
 \begin{tabular}{ |p{3cm}||p{3cm}|p{3cm}|p{3cm}|  }
 	\hline
-	\multicolumn{4}{|c|}{Traversal following edges with keyword match vertex}                  \\
+	\multicolumn{4}{|c|}{Traversal following all edges max. distance 1}                           \\
 	\hline
-	Result type                 & Temporal data   & Spatial data   & Spatial and temporal data \\
+	Result type                    & Temporal data   & Spatial data   & Spatial and temporal data \\
 	\hline
-	Avg. time pr. query         & 3459.82432432   & 390.581081081  & 4055.41231343             \\
-	Avg. roots pr query         & 17              & 1534           & 1545                      \\
-	Avg. nodes pr. root         & 1.0             & 1.02206957288  & 1.02285359769             \\
-	Avg. accuracy pr. result    & 0.375           & 0.265234608488 & 0.26422868202             \\
-	Avg. top accuracy pr. query & 0.0405405405405 & 0.245495495495 & 0.253109452736            \\
-	Query miss                  &    66/74 (89.1\%)           & 25/74 (33.8\%) & 171/536 (31.9\%)             \\
+	Avg. time pr. query            & 3681.67567568   & 14714.6216216  & 18874.75                  \\
+	Avg. roots pr query            & 17              & 1534           & 1545                      \\
+	Avg. nodes pr. root            & 314.192517537   & 263.227635403  & 258.253143365             \\
+	Avg. accuracy pr. result       & 0.375           & 0.265449101796 & 0.264424875312            \\
+	Avg. top accuracy pr. query    & 0.0405405405405 & 0.245495495495 & 0.253109452736            \\
+	Query miss (no keywords found) & 66/74 (89.1\%)  & 0.245495495495 & 0.253109452736            \\
+	\hline
+\end{tabular}
+
+\begin{tabular}{ |p{3cm}||p{3cm}|p{3cm}|p{3cm}|  }
+	\hline
+	\multicolumn{4}{|c|}{Traversal following edges with keyword match vertex}                     \\
+	\hline
+	Result type                    & Temporal data   & Spatial data   & Spatial and temporal data \\
+	\hline
+	Avg. time pr. query            & 3459.82432432   & 390.581081081  & 4055.41231343             \\
+	Avg. roots pr query            & 17              & 1534           & 1545                      \\
+	Avg. nodes pr. root            & 1.0             & 1.02206957288  & 1.02285359769             \\
+	Avg. accuracy pr. result       & 0.375           & 0.265234608488 & 0.26422868202             \\
+	Avg. top accuracy pr. query    & 0.0405405405405 & 0.245495495495 & 0.253109452736            \\
+	Query miss (no keywords found) & 66/74 (89.1\%)  & 25/74 (33.8\%) & 171/536 (31.9\%)          \\
 	\hline
 \end{tabular}
 
@@ -116,78 +116,78 @@ Another possible method for pruning is to specify the exact predicates to follow
 % - avg highest accuracy/ query\\
 
 \begin{tikzpicture}
-\begin{axis}[
-	title={Avg. time/ query in ms},
-	every axis plot post/.style={/pgf/number format/fixed},
-	symbolic x coords={"No pruning", "No pruning 1 depth", "Pruning"},
-	visualization depends on=rawy\as\rawy, % Save the unclipped values
-	nodes near coords={\pgfmathprintnumber{\rawy}},
-    xtick=data]
-    \addplot[ybar,fill=blue] coordinates {("No pruning",159709.6486) ("No pruning 1 depth",14714.6216) ("Pruning",390.5810)};
-\end{axis}
+	\begin{axis}[
+			title={Avg. time/ query in ms},
+			every axis plot post/.style={/pgf/number format/fixed},
+			symbolic x coords={"No pruning", "No pruning 1 depth", "Pruning"},
+			visualization depends on=rawy\as\rawy, % Save the unclipped values
+			nodes near coords={\pgfmathprintnumber{\rawy}},
+			xtick=data]
+		\addplot[ybar,fill=blue] coordinates {("No pruning",159709.6486) ("No pruning 1 depth",14714.6216) ("Pruning",390.5810)};
+	\end{axis}
 \end{tikzpicture}
 %
 \begin{tikzpicture}
-\begin{axis}[
-	title={Avg. time/ root in ms},
-	every axis plot post/.style={/pgf/number format/fixed},
-	symbolic x coords={"No pruning", "No pruning 1 depth", "Pruning"},
-	visualization depends on=rawy\as\rawy, % Save the unclipped values
-	nodes near coords={\pgfmathprintnumber{\rawy}},
-    xtick=data]
-    \addplot[ybar,fill=blue] coordinates {("No pruning",104.08202) ("No pruning 1 depth",9.58944) ("Pruning",0.2545398)};
-\end{axis}
+	\begin{axis}[
+			title={Avg. time/ root in ms},
+			every axis plot post/.style={/pgf/number format/fixed},
+			symbolic x coords={"No pruning", "No pruning 1 depth", "Pruning"},
+			visualization depends on=rawy\as\rawy, % Save the unclipped values
+			nodes near coords={\pgfmathprintnumber{\rawy}},
+			xtick=data]
+		\addplot[ybar,fill=blue] coordinates {("No pruning",104.08202) ("No pruning 1 depth",9.58944) ("Pruning",0.2545398)};
+	\end{axis}
 \end{tikzpicture}
 
 
 \subsection{Accuracy}
 
 \begin{tikzpicture}
-\begin{axis}[
-	title={Avg. nodes/ root},
-	every axis plot post/.style={/pgf/number format/fixed},
-	symbolic x coords={"No pruning", "No pruning 1 depth", "Pruning"},
-	visualization depends on=rawy\as\rawy, % Save the unclipped values
-	nodes near coords={\pgfmathprintnumber{\rawy}},
-    xtick=data]
-    \addplot[ybar,fill=blue] coordinates {("No pruning",3733.2554) ("No pruning 1 depth",263.2276) ("Pruning",1.0220)};
-\end{axis}
+	\begin{axis}[
+			title={Avg. nodes/ root},
+			every axis plot post/.style={/pgf/number format/fixed},
+			symbolic x coords={"No pruning", "No pruning 1 depth", "Pruning"},
+			visualization depends on=rawy\as\rawy, % Save the unclipped values
+			nodes near coords={\pgfmathprintnumber{\rawy}},
+			xtick=data]
+		\addplot[ybar,fill=blue] coordinates {("No pruning",3733.2554) ("No pruning 1 depth",263.2276) ("Pruning",1.0220)};
+	\end{axis}
 \end{tikzpicture}
 %
 \begin{tikzpicture}
-\begin{axis}[
-	title={Avg. accuracy/ hit},
-	every axis plot post/.style={/pgf/number format/fixed},
-	symbolic x coords={"No pruning", "No pruning 1 depth", "Pruning"},
-	visualization depends on=rawy\as\rawy, % Save the unclipped values
-	nodes near coords={\pgfmathprintnumber{\rawy}},
-    xtick=data]
-    \addplot[ybar,fill=blue] coordinates {("No pruning",0.08353006) ("No pruning 1 depth",0.2654491) ("Pruning",0.26523)};
-\end{axis}
+	\begin{axis}[
+			title={Avg. accuracy/ hit},
+			every axis plot post/.style={/pgf/number format/fixed},
+			symbolic x coords={"No pruning", "No pruning 1 depth", "Pruning"},
+			visualization depends on=rawy\as\rawy, % Save the unclipped values
+			nodes near coords={\pgfmathprintnumber{\rawy}},
+			xtick=data]
+		\addplot[ybar,fill=blue] coordinates {("No pruning",0.08353006) ("No pruning 1 depth",0.2654491) ("Pruning",0.26523)};
+	\end{axis}
 \end{tikzpicture}
 %
 \begin{tikzpicture}
-\begin{axis}[
-	title={Avg. overall accuracy},
-	every axis plot post/.style={/pgf/number format/fixed},
-	symbolic x coords={"No pruning", "No pruning 1 depth", "Pruning"},
-	visualization depends on=rawy\as\rawy, % Save the unclipped values
-	nodes near coords={\pgfmathprintnumber{\rawy}},
-    xtick=data]
-    \addplot[ybar,fill=blue] coordinates {("No pruning",0.01064373) ("No pruning 1 depth",0.0039040070) ("Pruning",0.00390785)};
-\end{axis}
+	\begin{axis}[
+			title={Avg. overall accuracy},
+			every axis plot post/.style={/pgf/number format/fixed},
+			symbolic x coords={"No pruning", "No pruning 1 depth", "Pruning"},
+			visualization depends on=rawy\as\rawy, % Save the unclipped values
+			nodes near coords={\pgfmathprintnumber{\rawy}},
+			xtick=data]
+		\addplot[ybar,fill=blue] coordinates {("No pruning",0.01064373) ("No pruning 1 depth",0.0039040070) ("Pruning",0.00390785)};
+	\end{axis}
 \end{tikzpicture}
 %
 \begin{tikzpicture}
-\begin{axis}[
-	title={Avg. top accuracy/ query},
-	every axis plot post/.style={/pgf/number format/fixed},
-	symbolic x coords={"No pruning", "No pruning 1 depth", "Pruning"},
-	visualization depends on=rawy\as\rawy, % Save the unclipped values
-	nodes near coords={\pgfmathprintnumber{\rawy}},
-    xtick=data]
-    \addplot[ybar,fill=blue] coordinates {("No pruning",0.2648955) ("No pruning 1 depth",0.245495) ("Pruning",0.24549)};
-\end{axis}
+	\begin{axis}[
+			title={Avg. top accuracy/ query},
+			every axis plot post/.style={/pgf/number format/fixed},
+			symbolic x coords={"No pruning", "No pruning 1 depth", "Pruning"},
+			visualization depends on=rawy\as\rawy, % Save the unclipped values
+			nodes near coords={\pgfmathprintnumber{\rawy}},
+			xtick=data]
+		\addplot[ybar,fill=blue] coordinates {("No pruning",0.2648955) ("No pruning 1 depth",0.245495) ("Pruning",0.24549)};
+	\end{axis}
 \end{tikzpicture}
 
 \glsresetall

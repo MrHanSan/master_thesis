@@ -24,11 +24,12 @@ for d in dirs:
                 for line in f:
                     if "Root nodes Found" in line:
                         root += int(line.split(" ")[-1])
-                        score_list.append(0)
                     elif "Total execution time" in line:
                         time += float(line.split(" ")[-1])
                         if highscore == 0:
                             query_miss += 1
+                        else:
+                            score_list.append(highscore)
                         highscore = 0
                         queries += 1
                     elif "Score:" in line and "NaN" not in line:
@@ -37,7 +38,6 @@ for d in dirs:
                         results += 1
                         if accuracy > highscore:
                             highscore = accuracy
-                            score_list[queries] = accuracy
                     elif "Nodes visited" in line:
                         total_nodes += float(line.split(" ")[-1])
     os.chdir("../")
