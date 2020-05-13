@@ -61,6 +61,51 @@ Another possible method for pruning is to specify the exact predicates to follow
 - Some form of pruning, or reduction in the amount of visited nodes is needed.\\
 - Most hits that significantly increase accuracy occurs in the first set of neighboring nodes?\\
 
+\begin{tabular}{ |p{3cm}||p{3cm}|p{3cm}|p{3cm}|  }
+	\hline
+	\multicolumn{4}{|c|}{Traversal following all edges max. distance 2}                            \\
+	\hline
+	Result type                 & Temporal data   & Spatial data    & Spatial and temporal data \\
+	\hline
+	Avg. time pr. query         & 5314.2027027    & 159709.648649   & 004                       \\
+	Avg. roots pr query         & 17              & 1534            & 248                       \\
+	Avg. nodes pr. root         & 2383.10132502   & 3733.25548217   & 008                       \\
+	Avg. accuracy pr. result    & 0.091049382716  & 0.0835300669383 & 008                       \\
+	Avg. top accuracy pr. query & 0.0619369369369 & 0.264895577396  & 008                       \\
+	Query miss                  &                 & 0.245495495495 & 0.253109452736            \\
+	\hline
+\end{tabular}
+%
+\begin{tabular}{ |p{3cm}||p{3cm}|p{3cm}|p{3cm}|  }
+	\hline
+	\multicolumn{4}{|c|}{Traversal following all edges max. distance 1}                        \\
+	\hline
+	Result type                 & Temporal data   & Spatial data   & Spatial and temporal data \\
+	\hline
+	Avg. time pr. query         & 3681.67567568   & 14714.6216216  & 18874.75                  \\
+	Avg. roots pr query         & 17              & 1534           & 1545                      \\
+	Avg. nodes pr. root         & 314.192517537   & 263.227635403  & 258.253143365             \\
+	Avg. accuracy pr. result    & 0.375           & 0.265449101796 & 0.264424875312            \\
+	Avg. top accuracy pr. query & 0.0405405405405 & 0.245495495495 & 0.253109452736            \\
+	Query miss                  &                 & 0.245495495495 & 0.253109452736            \\
+	\hline
+\end{tabular}
+%
+\begin{tabular}{ |p{3cm}||p{3cm}|p{3cm}|p{3cm}|  }
+	\hline
+	\multicolumn{4}{|c|}{Traversal following edges with keyword match vertex}                  \\
+	\hline
+	Result type                 & Temporal data   & Spatial data   & Spatial and temporal data \\
+	\hline
+	Avg. time pr. query         & 3459.82432432   & 390.581081081  & 4055.41231343             \\
+	Avg. roots pr query         & 17              & 1534           & 1545                      \\
+	Avg. nodes pr. root         & 1.0             & 1.02206957288  & 1.02285359769             \\
+	Avg. accuracy pr. result    & 0.375           & 0.265234608488 & 0.26422868202             \\
+	Avg. top accuracy pr. query & 0.0405405405405 & 0.245495495495 & 0.253109452736            \\
+	Query miss                  &    66/74 (89.1\%)           & 25/74 (33.8\%) & 171/536 (31.9\%)             \\
+	\hline
+\end{tabular}
+
 
 \subsection{Time}
 % - time/query \\
