@@ -32,15 +32,18 @@ public class Main {
         dataset.begin(ReadWrite.READ);
         Model model = dataset.getDefaultModel();
 
-        List<String> queryWords = readQueryWords("rndZipf.txt");
+        List<String> queryWordsTwo = readQueryWords("rndZipf.txt");
+        List<String> queryWordsFour = readQueryWords("rndZipf4.txt");
         List<String> queryPlaces = readQueryWords("place.txt");
         List<String> queryDates = readQueryWords("dates.txt");
         // String place = "";
+        // String dates = "";
 
         for (String place : queryPlaces) {
             for (String dates : queryDates) {
                 // place = "temporal_" + dates.split(" ")[0];
-                for (int i = 0; i < queryWords.size(); i += 2) {
+                List<String> queryWords = queryWordsTwo;
+                for (int i = 0; i < queryWordsTwo.size(); i += 2) {
                     queryWordsString = "";
                     HashSet<String> queryWordsSet = new HashSet<>();
                     queryWordsSet.add(queryWords.get(i));
@@ -62,8 +65,8 @@ public class Main {
                     if (nodeCount == -1) break;
                 }
 
-                queryWords = readQueryWords("rndZipf4.txt");
-                for (int i = 0; i < queryWords.size()-4; i += 4) {
+                queryWords = queryWordsFour;
+                for (int i = 0; i < queryWords.size(); i += 4) {
                     queryWordsString = "";
                     HashSet<String> queryWordsSet = new HashSet<>();
 
@@ -160,8 +163,7 @@ public class Main {
             "PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema> " +
             "SELECT DISTINCT ?s " +
             "WHERE {" +
-                "VALUES ?p {yago:wasCreatedOnDate yago:wasDestroyedOnDate yago:wasBornOnDate yago:diedOnDate " +
-                     "yago:startedOnDate yago:created yago:happendOnDate yago:occursSince yago:occursUntil} " +
+                "VALUES ?p {yago:wasCreatedOnDate yago:wasDestroyedOnDate} " +
                 "?s ?p ?date . " +
                 "FILTER (" + dateString + " && ?p != rdfs:label)" +
             "}";
@@ -202,6 +204,8 @@ public class Main {
 
         List<YagoNode> spatialRoots = getRoots(model, place);
         // List<YagoNode> temporalRoots = getTemporalNodes(model, dates);
+        // System.out.println(temporalRoots.size());
+
         List<YagoNode> roots = new ArrayList<YagoNode>();
         for (YagoNode r : spatialRoots) {
             List<YagoNode> spatiotemporal = temporalTraverse(model, r, dates);
@@ -209,7 +213,10 @@ public class Main {
                 roots.addAll(spatiotemporal);
             }
         }
+
+        // List<YagoNode> roots = new ArrayList<YagoNode>(spatialRoots);
         // List<YagoNode> roots = new ArrayList<YagoNode>(temporalRoots);
+
         List<YagoNode> nodes = new ArrayList<YagoNode>();
         int maxDepth = 2;
         int nodeCount = 0;
@@ -297,6 +304,7 @@ public class Main {
         ArrayList<YagoNode> children = new ArrayList<YagoNode>();
         Integer startDate = Integer.parseInt(dates.split(" ")[0].replace("-", ""));
         Integer endDate = Integer.parseInt(dates.split(" ")[1].replace("-", ""));
+        String dateStringHigh = "";
         if (entity == null) return null;
         if (entity.contains("<") || entity.contains(">") || entity.contains("\"") || entity.contains(" ")) return null;
 
@@ -317,13 +325,24 @@ public class Main {
                     if (sub == null) continue;
                     String str = sub.toString();
                     if (str.contains("^^http://www.w3.org/2001/XMLSchema#date")){
-                        String dateString = str.replace("-", "").replace("#", "0").replace("^", "_").split("_")[0];
+                        String dateStringLow = str.replace("-", "").replace("##", "01").replace("^", "_").split("_")[0];
+                        if (str.contains("##-##-##")) {
+                            continue;
+                        }
+                        else if (str.contains("##-##")) {
+                            dateStringHigh = str.replace("-", "").replace("####", "1231").replace("^", "_").split("_")[0];
+                        } else {
+                            dateStringHigh = str.replace("-", "").replace("##", "30").replace("^", "_").split("_")[0];
+                        }
                         try{
-                            Integer date = Integer.parseInt(dateString);
-                            if (date >= startDate && date <= endDate){
+                            Integer dateLow = Integer.parseInt(dateStringLow);
+                            Integer dateHigh = Integer.parseInt(dateStringHigh);
+                            if (dateLow <= endDate && dateHigh >= startDate){
                                 children.add(yagoNode);
                             }
                         } catch(NumberFormatException e) {
+                            System.out.println(e);
+                            System.out.println(str);
                             System.out.println(yagoNode);
                         }
                     }

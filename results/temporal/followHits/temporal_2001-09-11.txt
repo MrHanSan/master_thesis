@@ -1,0 +1,269 @@
+Query Words: william, whole
+Root nodes Found: 766
+Nodes visited: 766
+Total execution time: 3164
+
+Query Words: thomas, california
+Root nodes Found: 766
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Extinct_(2001_TV_series)   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Stone_Cold_Steve_Austin   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/OddLot_Entertainment   []
+Score: 0.16666666666666666
+----
+
+Nodes visited: 805
+Total execution time: 3174
+
+Query Words: park, church
+Root nodes Found: 766
+
+http://yago-knowledge.org/resource/Not_for_Church_Folk!   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Enchantment_(Charlotte_Church_album)   [church]
+Score: 0.5
+----
+
+Nodes visited: 766
+Total execution time: 3159
+
+Query Words: district, objects
+Root nodes Found: 766
+
+	http://yago-knowledge.org/resource/Fraser_Valley_Regional_District   [district]
+http://yago-knowledge.org/resource/CHNU-DT   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Takaichi_District,_Nara   [district]
+http://yago-knowledge.org/resource/Nara_Prefecture_Complex_of_Man'yo_Culture   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Foreign_Objects_(TV_series)   [objects]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Computer_University,_Sittwe   []
+	http://yago-knowledge.org/resource/Sittwe_District   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Bukan   []
+	http://yago-knowledge.org/resource/Central_District_(Bukan_County)   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Üzümçülər   []
+	http://yago-knowledge.org/resource/Zangilan_District   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Koh-Lanta_(season_1)   []
+	http://yago-knowledge.org/resource/Ko_Lanta_District   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Independence_Public_School_District   [district]
+Score: 0.5
+----
+
+Nodes visited: 772
+Total execution time: 3296
+
+Query Words: descent, football
+Root nodes Found: 766
+
+	http://yago-knowledge.org/resource/Brazil_national_football_team   [football]
+http://yago-knowledge.org/resource/Giovanni_Battista_Foggini   []
+Score: 0.16666666666666666
+----
+
+Nodes visited: 767
+Total execution time: 3180
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 766
+
+http://yago-knowledge.org/resource/Extinct_(2001_TV_series)   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Stone_Cold_Steve_Austin   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/OddLot_Entertainment   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 805
+Total execution time: 3340
+
+Query Words: park, church, district, objects
+Root nodes Found: 766
+
+http://yago-knowledge.org/resource/CHNU-DT   []
+	http://yago-knowledge.org/resource/Fraser_Valley_Regional_District   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Takaichi_District,_Nara   [district]
+http://yago-knowledge.org/resource/Nara_Prefecture_Complex_of_Man'yo_Culture   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Foreign_Objects_(TV_series)   [objects]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Not_for_Church_Folk!   [church]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Sittwe_District   [district]
+http://yago-knowledge.org/resource/Computer_University,_Sittwe   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Bukan   []
+	http://yago-knowledge.org/resource/Central_District_(Bukan_County)   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Üzümçülər   []
+	http://yago-knowledge.org/resource/Zangilan_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Enchantment_(Charlotte_Church_album)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Koh-Lanta_(season_1)   []
+	http://yago-knowledge.org/resource/Ko_Lanta_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Independence_Public_School_District   [district]
+Score: 0.25
+----
+
+Nodes visited: 772
+Total execution time: 3566
+
+Query Words: descent, football, william, park
+Root nodes Found: 766
+
+	http://yago-knowledge.org/resource/Brazil_national_football_team   [football]
+http://yago-knowledge.org/resource/Giovanni_Battista_Foggini   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 767
+Total execution time: 3247
+
+Query Words: district, objects, thomas, california
+Root nodes Found: 766
+
+	http://yago-knowledge.org/resource/Fraser_Valley_Regional_District   [district]
+http://yago-knowledge.org/resource/CHNU-DT   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Takaichi_District,_Nara   [district]
+http://yago-knowledge.org/resource/Nara_Prefecture_Complex_of_Man'yo_Culture   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Foreign_Objects_(TV_series)   [objects]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Extinct_(2001_TV_series)   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Computer_University,_Sittwe   []
+	http://yago-knowledge.org/resource/Sittwe_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Bukan   []
+	http://yago-knowledge.org/resource/Central_District_(Bukan_County)   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Zangilan_District   [district]
+http://yago-knowledge.org/resource/Üzümçülər   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Stone_Cold_Steve_Austin   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/OddLot_Entertainment   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Koh-Lanta_(season_1)   []
+	http://yago-knowledge.org/resource/Ko_Lanta_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Independence_Public_School_District   [district]
+Score: 0.25
+----
+
+Nodes visited: 811
+Total execution time: 3150
+

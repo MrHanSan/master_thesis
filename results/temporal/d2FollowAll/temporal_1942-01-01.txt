@@ -1,0 +1,3622 @@
+Query Words: william, whole
+Root nodes Found: 216
+
+		http://yago-knowledge.org/resource/General_William_Tecumseh_Sherman_Monument   [william]
+	http://yago-knowledge.org/resource/Washington,_D.C.   []
+http://yago-knowledge.org/resource/Voice_of_America   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/William_Penn_(Calder)   [william]
+http://yago-knowledge.org/resource/WIOQ   []
+	http://yago-knowledge.org/resource/Philadelphia   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Andy_Davis_(American_football)   []
+	http://yago-knowledge.org/resource/Washington,_D.C.   []
+		http://yago-knowledge.org/resource/General_William_Tecumseh_Sherman_Monument   [william]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 1134381
+Total execution time: 58094
+
+Query Words: thomas, california
+Root nodes Found: 216
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_Man_Who_Came_to_Dinner_(film)   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Sealed_Lips   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Hay_Foot   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Don't_Get_Personal   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Lady_for_a_Night   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Loco_Boy_Makes_Good   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Road_to_Happiness   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Today_I_Hang   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/All_Through_the_Night_(film)   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Sara_Walter_Combs   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_Bugle_Sounds   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Arizona_Terrors   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Charles_A._Towne   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Blondie_Goes_to_College   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/West_of_Tombstone   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Safeguarding_Military_Information   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/A_Date_with_the_Falcon   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Paris_Calling   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Private_Snuffy_Smith   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/A_Gentleman_at_Heart   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Fly-by-Night_(film)   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Nazi_Agent   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/The_New_Spirit   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Right_to_the_Heart   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_Fleet's_In   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/The_Lady_Has_Plans   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Torpedo_Boat_(film)   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Tulips_Shall_Grow   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Pardon_My_Stripes   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Code_of_the_Outlaw   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Cowboy_Serenade   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Obliging_Young_Lady   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Wild_Bill_Hickok_Rides   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Brooklyn_Orchid   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Norway   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Voice_of_America   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Kings_Row   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/A_Tragedy_at_Midnight   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Inez,_Kentucky   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/The_Man_Who_Returned_to_Life   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Sappy_Birthday   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Broadway_Big_Shot   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Young_America_(1942_film)   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Valley_of_the_Sun_(film)   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Mickey's_Birthday_Party   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_Hollywood_Matador   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Our_Russian_Front   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Ross_S._Sterling   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Captains_of_the_Clouds   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/The_Lady_Is_Willing_(1942_film)   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Western_Mail_(film)   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/On_the_Sunny_Side_(1942_film)   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Call_Out_the_Marines   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/South_of_Santa_Fe   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Woman_of_the_Year   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/To_Be_or_Not_to_Be_(1942_film)   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/What's_Cookin'?   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Joan_of_Paris   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Roxie_Hart_(film)   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Mr._Wise_Guy   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_Hungry_Wolf   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/The_Adventures_of_Martin_Eden   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Har_Mar_Superstar   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Cactus_Makes_Perfect   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Billy_the_Kid_Trapped   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_Mad_Doctor_of_Market_Street   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Riding_the_Wind   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Castle_in_the_Desert   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Andy_Davis_(American_football)   []
+		http://yago-knowledge.org/resource/Edmund_Burke_(Thomas)   [thomas]
+	http://yago-knowledge.org/resource/Washington,_D.C.   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Jon_Tester   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Professor_Creeps   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Don't_Talk_(film)   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Orson_Welles_Show_(radio)   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Mandrake_the_Magician_(radio)   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 1134381
+Total execution time: 54507
+
+Query Words: park, church
+Root nodes Found: 216
+
+http://yago-knowledge.org/resource/The_Man_Who_Came_to_Dinner_(film)   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+		http://yago-knowledge.org/resource/Skirmish_of_the_Brick_Church   [church]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.1111111111111111
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+http://yago-knowledge.org/resource/Sealed_Lips   []
+		http://yago-knowledge.org/resource/Battle_of_Ware_Bottom_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/Hay_Foot   []
+		http://yago-knowledge.org/resource/Battle_of_Old_Church   [church]
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+Score: 0.1111111111111111
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Don't_Get_Personal   []
+		http://yago-knowledge.org/resource/Battle_of_Ware_Bottom_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+http://yago-knowledge.org/resource/Lady_for_a_Night   []
+		http://yago-knowledge.org/resource/Battle_of_Mount_Zion_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/The_Black_Sheep_of_Whitehall   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Loco_Boy_Makes_Good   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Mount_Zion_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/Road_to_Happiness   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Salem_Church   [church]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.1111111111111111
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+http://yago-knowledge.org/resource/Today_I_Hang   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Mount_Zion_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+http://yago-knowledge.org/resource/All_Through_the_Night_(film)   []
+		http://yago-knowledge.org/resource/Battle_of_Old_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Sara_Walter_Combs   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Cumberland_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_Bugle_Sounds   []
+		http://yago-knowledge.org/resource/Action_at_Mount_Zion_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/Arizona_Terrors   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Ebenezer_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/Charles_A._Towne   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Salem_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+http://yago-knowledge.org/resource/Blondie_Goes_to_College   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Mount_Zion_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+http://yago-knowledge.org/resource/West_of_Tombstone   []
+		http://yago-knowledge.org/resource/Battle_of_New_Hope_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+http://yago-knowledge.org/resource/Safeguarding_Military_Information   []
+		http://yago-knowledge.org/resource/Battle_of_Ezra_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/A_Date_with_the_Falcon   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Ebenezer_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/Paris_Calling   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Action_at_Mount_Zion_Church   [church]
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+Score: 0.1111111111111111
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Private_Snuffy_Smith   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Ware_Bottom_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/A_Gentleman_at_Heart   []
+		http://yago-knowledge.org/resource/Battle_of_Cumberland_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/Fly-by-Night_(film)   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Mount_Zion_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/The_Big_Blockade   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Nazi_Agent   []
+		http://yago-knowledge.org/resource/Battle_of_Saint_Mary's_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Old_Church   [church]
+http://yago-knowledge.org/resource/The_New_Spirit   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/Right_to_the_Heart   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Mount_Zion_Church   [church]
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+Score: 0.1111111111111111
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_Fleet's_In   []
+		http://yago-knowledge.org/resource/Battle_of_Saint_Mary's_Church   [church]
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+Score: 0.1111111111111111
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_Lady_Has_Plans   []
+		http://yago-knowledge.org/resource/Battle_of_Saint_Mary's_Church   [church]
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+Score: 0.1111111111111111
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Old_Church   [church]
+http://yago-knowledge.org/resource/Torpedo_Boat_(film)   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+Score: 0.1111111111111111
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Tulips_Shall_Grow   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_New_Hope_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/Pardon_My_Stripes   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+		http://yago-knowledge.org/resource/Skirmish_of_the_Brick_Church   [church]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.1111111111111111
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Desert_Island_Discs   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Bombardier_Inc.   []
+		http://yago-knowledge.org/resource/La_Ronde_(amusement_park)   [park]
+	http://yago-knowledge.org/resource/Montreal   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Code_of_the_Outlaw   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+		http://yago-knowledge.org/resource/Skirmish_at_Aenon_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Ebenezer_Church   [church]
+http://yago-knowledge.org/resource/Cowboy_Serenade   []
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/Obliging_Young_Lady   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Mount_Zion_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/Wild_Bill_Hickok_Rides   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Ebenezer_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Ware_Bottom_Church   [church]
+http://yago-knowledge.org/resource/Brooklyn_Orchid   []
+Score: 0.1111111111111111
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+http://yago-knowledge.org/resource/Norway   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Namozine_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Voice_of_America   []
+		http://yago-knowledge.org/resource/Battle_of_Namozine_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/Hatter's_Castle_(film)   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+http://yago-knowledge.org/resource/Kings_Row   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_New_Hope_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/A_Tragedy_at_Midnight   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.1111111111111111
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Old_Church   [church]
+http://yago-knowledge.org/resource/Inez,_Kentucky   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/The_Man_Who_Returned_to_Life   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_New_Hope_Church   [church]
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+Score: 0.1111111111111111
+----
+
+
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+http://yago-knowledge.org/resource/Sappy_Birthday   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Namozine_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Cumberland_Church   [church]
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+http://yago-knowledge.org/resource/Broadway_Big_Shot   []
+Score: 0.1111111111111111
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+		http://yago-knowledge.org/resource/Skirmish_at_Aenon_Church   [church]
+http://yago-knowledge.org/resource/Young_America_(1942_film)   []
+Score: 0.1111111111111111
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Skirmish_of_the_Brick_Church   [church]
+http://yago-knowledge.org/resource/Valley_of_the_Sun_(film)   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/Mickey's_Birthday_Party   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Cumberland_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_Hollywood_Matador   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Salem_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+	http://yago-knowledge.org/resource/Philadelphia   []
+		http://yago-knowledge.org/resource/Citizens_Bank_Park   [park]
+http://yago-knowledge.org/resource/WIOQ   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Our_Russian_Front   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Action_at_Mount_Zion_Church   [church]
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/Ross_S._Sterling   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Cumberland_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Captains_of_the_Clouds   []
+		http://yago-knowledge.org/resource/Skirmish_of_the_Brick_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Salem_Church   [church]
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+http://yago-knowledge.org/resource/The_Lady_Is_Willing_(1942_film)   []
+Score: 0.1111111111111111
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+http://yago-knowledge.org/resource/Western_Mail_(film)   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Skirmish_of_the_Brick_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/On_the_Sunny_Side_(1942_film)   []
+		http://yago-knowledge.org/resource/Battle_of_Sappony_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Call_Out_the_Marines   []
+		http://yago-knowledge.org/resource/Skirmish_of_the_Brick_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/South_of_Santa_Fe   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Cumberland_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/Woman_of_the_Year   []
+		http://yago-knowledge.org/resource/Battle_of_Ezra_Church   [church]
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/To_Be_or_Not_to_Be_(1942_film)   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+		http://yago-knowledge.org/resource/Action_at_Mount_Zion_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/What's_Cookin'?   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+		http://yago-knowledge.org/resource/Action_at_Mount_Zion_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/Joan_of_Paris   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Mount_Zion_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/Roxie_Hart_(film)   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+		http://yago-knowledge.org/resource/Skirmish_at_Aenon_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+http://yago-knowledge.org/resource/Mr._Wise_Guy   []
+		http://yago-knowledge.org/resource/Battle_of_Sappony_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/The_Hungry_Wolf   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Namozine_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_Adventures_of_Martin_Eden   []
+		http://yago-knowledge.org/resource/Battle_of_New_Hope_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/Katharine_de_Mattos   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Har_Mar_Superstar   []
+		http://yago-knowledge.org/resource/Battle_of_Mount_Zion_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+http://yago-knowledge.org/resource/Cactus_Makes_Perfect   []
+		http://yago-knowledge.org/resource/Battle_of_Cumberland_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/Billy_the_Kid_Trapped   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Ebenezer_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+http://yago-knowledge.org/resource/The_Mad_Doctor_of_Market_Street   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Mount_Zion_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/Riding_the_Wind   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Castle_in_the_Desert   []
+		http://yago-knowledge.org/resource/Battle_of_Ware_Bottom_Church   [church]
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/Andy_Davis_(American_football)   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Cumberland_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/Jon_Tester   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+		http://yago-knowledge.org/resource/Skirmish_at_Aenon_Church   [church]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.1111111111111111
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+http://yago-knowledge.org/resource/Professor_Creeps   []
+		http://yago-knowledge.org/resource/Battle_of_Ezra_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/Don't_Talk_(film)   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Ebenezer_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/Orson_Welles_Show_(radio)   []
+		http://yago-knowledge.org/resource/Battle_of_Old_Church   [church]
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.1111111111111111
+----
+
+
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Mandrake_the_Magician_(radio)   []
+		http://yago-knowledge.org/resource/Skirmish_at_Aenon_Church   [church]
+Score: 0.1111111111111111
+----
+
+Nodes visited: 1134381
+Total execution time: 55125
+
+Query Words: district, objects
+Root nodes Found: 216
+
+http://yago-knowledge.org/resource/Huayllahuara_District   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/San_Juan_District,_Castrovirreyna   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Huamatambo_District   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Ccorca_District   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Saylla_District   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/S._Thomas'_College,_Bandarawela   []
+	http://yago-knowledge.org/resource/Bandarawela   []
+		http://yago-knowledge.org/resource/Badulla_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Laramarca_District   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Buguias,_Benguet   []
+	http://yago-knowledge.org/resource/Legislative_district_of_Benguet   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Kegalu_Vidyalaya   []
+	http://yago-knowledge.org/resource/Kegalle   []
+		http://yago-knowledge.org/resource/Kegalle_District   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Taoyuan_District,_Kaohsiung   [district]
+http://yago-knowledge.org/resource/Yushan_(mountain)   []
+Score: 0.16666666666666666
+----
+
+Nodes visited: 1134381
+Total execution time: 54137
+
+Query Words: descent, football
+Root nodes Found: 216
+
+http://yago-knowledge.org/resource/Andy_Davis_(American_football)   [football]
+Score: 0.5
+----
+
+Nodes visited: 1134381
+Total execution time: 53802
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 216
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_Man_Who_Came_to_Dinner_(film)   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Sealed_Lips   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Hay_Foot   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Don't_Get_Personal   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Lady_for_a_Night   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Loco_Boy_Makes_Good   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Road_to_Happiness   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Today_I_Hang   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/All_Through_the_Night_(film)   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Sara_Walter_Combs   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/The_Bugle_Sounds   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Arizona_Terrors   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Charles_A._Towne   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Blondie_Goes_to_College   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/West_of_Tombstone   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Safeguarding_Military_Information   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/A_Date_with_the_Falcon   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Paris_Calling   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Private_Snuffy_Smith   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/A_Gentleman_at_Heart   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Fly-by-Night_(film)   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Nazi_Agent   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/The_New_Spirit   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Right_to_the_Heart   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_Fleet's_In   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_Lady_Has_Plans   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Torpedo_Boat_(film)   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Tulips_Shall_Grow   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Pardon_My_Stripes   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Code_of_the_Outlaw   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Cowboy_Serenade   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Obliging_Young_Lady   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Wild_Bill_Hickok_Rides   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Brooklyn_Orchid   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Norway   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Voice_of_America   []
+	http://yago-knowledge.org/resource/Washington,_D.C.   []
+		http://yago-knowledge.org/resource/Edmund_Burke_(Thomas)   [thomas]
+		http://yago-knowledge.org/resource/General_William_Tecumseh_Sherman_Monument   [william]
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/Kings_Row   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/A_Tragedy_at_Midnight   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Inez,_Kentucky   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_Man_Who_Returned_to_Life   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Sappy_Birthday   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Broadway_Big_Shot   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Young_America_(1942_film)   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Valley_of_the_Sun_(film)   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Mickey's_Birthday_Party   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_Hollywood_Matador   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Philadelphia   []
+		http://yago-knowledge.org/resource/William_Penn_(Calder)   [william]
+http://yago-knowledge.org/resource/WIOQ   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Our_Russian_Front   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Ross_S._Sterling   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Captains_of_the_Clouds   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/The_Lady_Is_Willing_(1942_film)   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Western_Mail_(film)   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/On_the_Sunny_Side_(1942_film)   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Call_Out_the_Marines   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/South_of_Santa_Fe   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Woman_of_the_Year   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/To_Be_or_Not_to_Be_(1942_film)   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/What's_Cookin'?   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Joan_of_Paris   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Roxie_Hart_(film)   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Mr._Wise_Guy   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/The_Hungry_Wolf   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/The_Adventures_of_Martin_Eden   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Har_Mar_Superstar   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Cactus_Makes_Perfect   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Billy_the_Kid_Trapped   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/The_Mad_Doctor_of_Market_Street   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Riding_the_Wind   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Castle_in_the_Desert   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Washington,_D.C.   []
+		http://yago-knowledge.org/resource/Edmund_Burke_(Thomas)   [thomas]
+		http://yago-knowledge.org/resource/General_William_Tecumseh_Sherman_Monument   [william]
+http://yago-knowledge.org/resource/Andy_Davis_(American_football)   []
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Jon_Tester   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Professor_Creeps   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Don't_Talk_(film)   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Orson_Welles_Show_(radio)   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Mandrake_the_Magician_(radio)   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 1134381
+Total execution time: 54592
+
+Query Words: park, church, district, objects
+Root nodes Found: 216
+
+http://yago-knowledge.org/resource/The_Man_Who_Came_to_Dinner_(film)   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Ebenezer_Church   [church]
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Sealed_Lips   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+		http://yago-knowledge.org/resource/Skirmish_of_the_Brick_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Hay_Foot   []
+		http://yago-knowledge.org/resource/Action_at_Mount_Zion_Church   [church]
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+http://yago-knowledge.org/resource/Don't_Get_Personal   []
+		http://yago-knowledge.org/resource/Battle_of_Old_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/Lady_for_a_Night   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Saint_Mary's_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/The_Black_Sheep_of_Whitehall   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Loco_Boy_Makes_Good   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Namozine_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/Road_to_Happiness   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_New_Hope_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+http://yago-knowledge.org/resource/Today_I_Hang   []
+		http://yago-knowledge.org/resource/Battle_of_Salem_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/All_Through_the_Night_(film)   []
+		http://yago-knowledge.org/resource/Battle_of_Sappony_Church   [church]
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/Huayllahuara_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/San_Juan_District,_Castrovirreyna   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Huamatambo_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Sara_Walter_Combs   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_New_Hope_Church   [church]
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/The_Bugle_Sounds   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+		http://yago-knowledge.org/resource/Skirmish_of_the_Brick_Church   [church]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+http://yago-knowledge.org/resource/Arizona_Terrors   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Saint_Mary's_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/Ccorca_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Saylla_District   [district]
+Score: 0.25
+----
+
+
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_New_Hope_Church   [church]
+http://yago-knowledge.org/resource/Charles_A._Towne   []
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+http://yago-knowledge.org/resource/Blondie_Goes_to_College   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+http://yago-knowledge.org/resource/West_of_Tombstone   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Sappony_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Safeguarding_Military_Information   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Saint_Mary's_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Mount_Zion_Church   [church]
+http://yago-knowledge.org/resource/A_Date_with_the_Falcon   []
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/Paris_Calling   []
+		http://yago-knowledge.org/resource/Action_at_Mount_Zion_Church   [church]
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Ware_Bottom_Church   [church]
+http://yago-knowledge.org/resource/Private_Snuffy_Smith   []
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Salem_Church   [church]
+http://yago-knowledge.org/resource/A_Gentleman_at_Heart   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Fly-by-Night_(film)   []
+		http://yago-knowledge.org/resource/Skirmish_of_the_Brick_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/The_Big_Blockade   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Badulla_District   [district]
+http://yago-knowledge.org/resource/S._Thomas'_College,_Bandarawela   []
+	http://yago-knowledge.org/resource/Bandarawela   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Nazi_Agent   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Mount_Zion_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/Laramarca_District   [district]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_New_Spirit   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+http://yago-knowledge.org/resource/Right_to_the_Heart   []
+		http://yago-knowledge.org/resource/Battle_of_Cumberland_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_Fleet's_In   []
+		http://yago-knowledge.org/resource/Battle_of_Namozine_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/The_Lady_Has_Plans   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Cumberland_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/Torpedo_Boat_(film)   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Salem_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Ebenezer_Church   [church]
+http://yago-knowledge.org/resource/Tulips_Shall_Grow   []
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/Pardon_My_Stripes   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Cumberland_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Desert_Island_Discs   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Bombardier_Inc.   []
+	http://yago-knowledge.org/resource/Montreal   []
+		http://yago-knowledge.org/resource/La_Ronde_(amusement_park)   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Saint_Mary's_Church   [church]
+http://yago-knowledge.org/resource/Code_of_the_Outlaw   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Cowboy_Serenade   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Cumberland_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/Obliging_Young_Lady   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Ware_Bottom_Church   [church]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Wild_Bill_Hickok_Rides   []
+		http://yago-knowledge.org/resource/Battle_of_Namozine_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/Brooklyn_Orchid   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Saint_Mary's_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+http://yago-knowledge.org/resource/Norway   []
+		http://yago-knowledge.org/resource/Battle_of_New_Hope_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Voice_of_America   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Ebenezer_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Hatter's_Castle_(film)   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Kings_Row   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Action_at_Mount_Zion_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/A_Tragedy_at_Midnight   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Saint_Mary's_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+http://yago-knowledge.org/resource/Inez,_Kentucky   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Skirmish_at_Aenon_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_Man_Who_Returned_to_Life   []
+		http://yago-knowledge.org/resource/Battle_of_Mount_Zion_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Sappy_Birthday   []
+		http://yago-knowledge.org/resource/Battle_of_Cumberland_Church   [church]
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Namozine_Church   [church]
+http://yago-knowledge.org/resource/Broadway_Big_Shot   []
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/Young_America_(1942_film)   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Ezra_Church   [church]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Salem_Church   [church]
+http://yago-knowledge.org/resource/Valley_of_the_Sun_(film)   []
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+http://yago-knowledge.org/resource/Mickey's_Birthday_Party   []
+		http://yago-knowledge.org/resource/Battle_of_Salem_Church   [church]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/The_Hollywood_Matador   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/Buguias,_Benguet   []
+	http://yago-knowledge.org/resource/Legislative_district_of_Benguet   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Philadelphia   []
+		http://yago-knowledge.org/resource/Citizens_Bank_Park   [park]
+http://yago-knowledge.org/resource/WIOQ   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Sappony_Church   [church]
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+http://yago-knowledge.org/resource/Our_Russian_Front   []
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/Ross_S._Sterling   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Mount_Zion_Church   [church]
+Score: 0.045454545454545456
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Captains_of_the_Clouds   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_Lady_Is_Willing_(1942_film)   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Mount_Zion_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/Western_Mail_(film)   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Old_Church   [church]
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/On_the_Sunny_Side_(1942_film)   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Saint_Mary's_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+http://yago-knowledge.org/resource/Call_Out_the_Marines   []
+		http://yago-knowledge.org/resource/Battle_of_Saint_Mary's_Church   [church]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Kegalle_District   [district]
+	http://yago-knowledge.org/resource/Kegalle   []
+http://yago-knowledge.org/resource/Kegalu_Vidyalaya   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Taoyuan_District,_Kaohsiung   [district]
+http://yago-knowledge.org/resource/Yushan_(mountain)   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/South_of_Santa_Fe   []
+		http://yago-knowledge.org/resource/Skirmish_at_Aenon_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/Woman_of_the_Year   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+		http://yago-knowledge.org/resource/Skirmish_of_the_Brick_Church   [church]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/To_Be_or_Not_to_Be_(1942_film)   []
+		http://yago-knowledge.org/resource/Battle_of_Cumberland_Church   [church]
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/What's_Cookin'?   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+		http://yago-knowledge.org/resource/Skirmish_of_the_Brick_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Joan_of_Paris   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+		http://yago-knowledge.org/resource/Skirmish_of_the_Brick_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/Roxie_Hart_(film)   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Skirmish_of_the_Brick_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/Mr._Wise_Guy   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+		http://yago-knowledge.org/resource/Skirmish_at_Aenon_Church   [church]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+http://yago-knowledge.org/resource/The_Hungry_Wolf   []
+		http://yago-knowledge.org/resource/Battle_of_Saint_Mary's_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/The_Adventures_of_Martin_Eden   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Salem_Church   [church]
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/Katharine_de_Mattos   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+		http://yago-knowledge.org/resource/Skirmish_of_the_Brick_Church   [church]
+http://yago-knowledge.org/resource/Har_Mar_Superstar   []
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+http://yago-knowledge.org/resource/Cactus_Makes_Perfect   []
+		http://yago-knowledge.org/resource/Battle_of_Ware_Bottom_Church   [church]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Billy_the_Kid_Trapped   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Mount_Zion_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+http://yago-knowledge.org/resource/The_Mad_Doctor_of_Market_Street   []
+		http://yago-knowledge.org/resource/Battle_of_Old_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Ezra_Church   [church]
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Riding_the_Wind   []
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Ebenezer_Church   [church]
+http://yago-knowledge.org/resource/Castle_in_the_Desert   []
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/Andy_Davis_(American_football)   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Cumberland_Church   [church]
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+http://yago-knowledge.org/resource/Jon_Tester   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Mount_Zion_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+http://yago-knowledge.org/resource/Professor_Creeps   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Saint_Mary's_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+http://yago-knowledge.org/resource/Don't_Talk_(film)   []
+		http://yago-knowledge.org/resource/Battle_of_Mount_Zion_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+http://yago-knowledge.org/resource/Orson_Welles_Show_(radio)   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Action_at_Mount_Zion_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/Mandrake_the_Magician_(radio)   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+		http://yago-knowledge.org/resource/Action_at_Mount_Zion_Church   [church]
+Score: 0.05555555555555555
+----
+
+Nodes visited: 1134381
+Total execution time: 53909
+
+Query Words: descent, football, william, park
+Root nodes Found: 216
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_Man_Who_Came_to_Dinner_(film)   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Sealed_Lips   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Hay_Foot   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Don't_Get_Personal   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+http://yago-knowledge.org/resource/Lady_for_a_Night   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Loco_Boy_Makes_Good   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Road_to_Happiness   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Today_I_Hang   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/All_Through_the_Night_(film)   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Sara_Walter_Combs   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_Bugle_Sounds   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+http://yago-knowledge.org/resource/Arizona_Terrors   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Charles_A._Towne   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Blondie_Goes_to_College   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/West_of_Tombstone   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Safeguarding_Military_Information   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/A_Date_with_the_Falcon   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+http://yago-knowledge.org/resource/Paris_Calling   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+http://yago-knowledge.org/resource/Private_Snuffy_Smith   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/A_Gentleman_at_Heart   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+http://yago-knowledge.org/resource/Fly-by-Night_(film)   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Nazi_Agent   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/The_New_Spirit   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+http://yago-knowledge.org/resource/Right_to_the_Heart   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/The_Fleet's_In   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+http://yago-knowledge.org/resource/The_Lady_Has_Plans   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Torpedo_Boat_(film)   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Tulips_Shall_Grow   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Pardon_My_Stripes   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Montreal   []
+http://yago-knowledge.org/resource/Bombardier_Inc.   []
+		http://yago-knowledge.org/resource/Jarry_Park_Stadium   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Code_of_the_Outlaw   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Cowboy_Serenade   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Obliging_Young_Lady   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Wild_Bill_Hickok_Rides   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Brooklyn_Orchid   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Norway   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+	http://yago-knowledge.org/resource/Washington,_D.C.   []
+		http://yago-knowledge.org/resource/General_William_Tecumseh_Sherman_Monument   [william]
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+http://yago-knowledge.org/resource/Voice_of_America   []
+Score: 0.045454545454545456
+----
+
+
+http://yago-knowledge.org/resource/Kings_Row   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+http://yago-knowledge.org/resource/A_Tragedy_at_Midnight   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Inez,_Kentucky   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/The_Man_Who_Returned_to_Life   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+http://yago-knowledge.org/resource/Sappy_Birthday   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Broadway_Big_Shot   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Young_America_(1942_film)   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Valley_of_the_Sun_(film)   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Mickey's_Birthday_Party   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/The_Hollywood_Matador   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Philadelphia   []
+		http://yago-knowledge.org/resource/William_Penn_(Calder)   [william]
+		http://yago-knowledge.org/resource/Citizens_Bank_Park   [park]
+http://yago-knowledge.org/resource/WIOQ   []
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+http://yago-knowledge.org/resource/Our_Russian_Front   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Ross_S._Sterling   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+http://yago-knowledge.org/resource/Captains_of_the_Clouds   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/The_Lady_Is_Willing_(1942_film)   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+http://yago-knowledge.org/resource/Western_Mail_(film)   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/On_the_Sunny_Side_(1942_film)   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Call_Out_the_Marines   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/South_of_Santa_Fe   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Woman_of_the_Year   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/To_Be_or_Not_to_Be_(1942_film)   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/What's_Cookin'?   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Joan_of_Paris   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Roxie_Hart_(film)   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Mr._Wise_Guy   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+http://yago-knowledge.org/resource/The_Hungry_Wolf   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_Adventures_of_Martin_Eden   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+http://yago-knowledge.org/resource/Har_Mar_Superstar   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Cactus_Makes_Perfect   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+http://yago-knowledge.org/resource/Billy_the_Kid_Trapped   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+http://yago-knowledge.org/resource/The_Mad_Doctor_of_Market_Street   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Riding_the_Wind   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Castle_in_the_Desert   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Washington,_D.C.   []
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Andy_Davis_(American_football)   [football]
+		http://yago-knowledge.org/resource/General_William_Tecumseh_Sherman_Monument   [william]
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+Score: 0.06818181818181818
+----
+
+
+http://yago-knowledge.org/resource/Jon_Tester   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+http://yago-knowledge.org/resource/Professor_Creeps   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Don't_Talk_(film)   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Orson_Welles_Show_(radio)   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Mandrake_the_Magician_(radio)   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+Score: 0.041666666666666664
+----
+
+Nodes visited: 1134381
+Total execution time: 54060
+
+Query Words: district, objects, thomas, california
+Root nodes Found: 216
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_Man_Who_Came_to_Dinner_(film)   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Sealed_Lips   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Hay_Foot   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Don't_Get_Personal   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Lady_for_a_Night   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Loco_Boy_Makes_Good   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Road_to_Happiness   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Today_I_Hang   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/All_Through_the_Night_(film)   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Huayllahuara_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/San_Juan_District,_Castrovirreyna   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Huamatambo_District   [district]
+Score: 0.25
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Sara_Walter_Combs   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/The_Bugle_Sounds   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Arizona_Terrors   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Ccorca_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Saylla_District   [district]
+Score: 0.25
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Charles_A._Towne   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Blondie_Goes_to_College   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/West_of_Tombstone   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Safeguarding_Military_Information   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/A_Date_with_the_Falcon   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Paris_Calling   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Private_Snuffy_Smith   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/A_Gentleman_at_Heart   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Fly-by-Night_(film)   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Bandarawela   []
+		http://yago-knowledge.org/resource/Badulla_District   [district]
+http://yago-knowledge.org/resource/S._Thomas'_College,_Bandarawela   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Nazi_Agent   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Laramarca_District   [district]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/The_New_Spirit   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Right_to_the_Heart   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/The_Fleet's_In   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_Lady_Has_Plans   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Torpedo_Boat_(film)   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Tulips_Shall_Grow   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Pardon_My_Stripes   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Code_of_the_Outlaw   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Cowboy_Serenade   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Obliging_Young_Lady   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Wild_Bill_Hickok_Rides   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Brooklyn_Orchid   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Norway   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Edmund_Burke_(Thomas)   [thomas]
+http://yago-knowledge.org/resource/Voice_of_America   []
+	http://yago-knowledge.org/resource/Washington,_D.C.   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Kings_Row   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/A_Tragedy_at_Midnight   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Inez,_Kentucky   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/The_Man_Who_Returned_to_Life   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Sappy_Birthday   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Broadway_Big_Shot   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Young_America_(1942_film)   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Valley_of_the_Sun_(film)   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Mickey's_Birthday_Party   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_Hollywood_Matador   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Buguias,_Benguet   []
+	http://yago-knowledge.org/resource/Legislative_district_of_Benguet   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Our_Russian_Front   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Ross_S._Sterling   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Captains_of_the_Clouds   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/The_Lady_Is_Willing_(1942_film)   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Western_Mail_(film)   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/On_the_Sunny_Side_(1942_film)   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Call_Out_the_Marines   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Kegalle_District   [district]
+	http://yago-knowledge.org/resource/Kegalle   []
+http://yago-knowledge.org/resource/Kegalu_Vidyalaya   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Yushan_(mountain)   []
+	http://yago-knowledge.org/resource/Taoyuan_District,_Kaohsiung   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/South_of_Santa_Fe   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Woman_of_the_Year   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/To_Be_or_Not_to_Be_(1942_film)   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/What's_Cookin'?   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Joan_of_Paris   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Roxie_Hart_(film)   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Mr._Wise_Guy   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/The_Hungry_Wolf   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_Adventures_of_Martin_Eden   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Har_Mar_Superstar   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Cactus_Makes_Perfect   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Billy_the_Kid_Trapped   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/The_Mad_Doctor_of_Market_Street   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Riding_the_Wind   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Castle_in_the_Desert   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Washington,_D.C.   []
+http://yago-knowledge.org/resource/Andy_Davis_(American_football)   []
+		http://yago-knowledge.org/resource/Edmund_Burke_(Thomas)   [thomas]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Jon_Tester   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Professor_Creeps   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Don't_Talk_(film)   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Orson_Welles_Show_(radio)   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Mandrake_the_Magician_(radio)   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 1134381
+Total execution time: 54926
+

@@ -1,0 +1,177 @@
+Query Words: william, whole
+Root nodes Found: 7
+Nodes visited: 53528
+Total execution time: 6303
+
+Query Words: thomas, california
+Root nodes Found: 7
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Little_Women_(1918_film)   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/The_Woman_Who_Gave   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_She-Devil   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 53528
+Total execution time: 5658
+
+Query Words: park, church
+Root nodes Found: 7
+
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+http://yago-knowledge.org/resource/Little_Women_(1918_film)   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Salem_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Namozine_Church   [church]
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_Woman_Who_Gave   []
+Score: 0.1111111111111111
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_She-Devil   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+		http://yago-knowledge.org/resource/Action_at_Mount_Zion_Church   [church]
+Score: 0.1111111111111111
+----
+
+Nodes visited: 53528
+Total execution time: 5664
+
+Query Words: district, objects
+Root nodes Found: 7
+Nodes visited: 53528
+Total execution time: 5646
+
+Query Words: descent, football
+Root nodes Found: 7
+Nodes visited: 53528
+Total execution time: 5638
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 7
+
+http://yago-knowledge.org/resource/Little_Women_(1918_film)   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/The_Woman_Who_Gave   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/The_She-Devil   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 53528
+Total execution time: 5686
+
+Query Words: park, church, district, objects
+Root nodes Found: 7
+
+http://yago-knowledge.org/resource/Little_Women_(1918_film)   []
+		http://yago-knowledge.org/resource/Battle_of_Old_Church   [church]
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Saint_Mary's_Church   [church]
+http://yago-knowledge.org/resource/The_Woman_Who_Gave   []
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/The_She-Devil   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Namozine_Church   [church]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.05555555555555555
+----
+
+Nodes visited: 53528
+Total execution time: 5672
+
+Query Words: descent, football, william, park
+Root nodes Found: 7
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Little_Women_(1918_film)   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_Woman_Who_Gave   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/The_She-Devil   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 53528
+Total execution time: 5675
+
+Query Words: district, objects, thomas, california
+Root nodes Found: 7
+
+http://yago-knowledge.org/resource/Little_Women_(1918_film)   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_Woman_Who_Gave   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_She-Devil   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+Nodes visited: 53528
+Total execution time: 5682
+
