@@ -1,0 +1,30 @@
+\begin{tikzpicture}
+	\begin{axis}[
+		title{Avg. time}
+		every axis plot post/.style={/pgf/number format/fixed},
+		ybar=5pt,
+		bar width=12pt,
+		x=3cm,
+		ymin=0,
+		axis on top,
+		ymax=40000,
+		xtick=data,
+		enlarge x limits=0.2,
+		symbolic x coords={Depth 2, Depth 1, Only hits},
+		restrict y to domain*=0:48000, % Cut values off
+		visualization depends on=rawy\as\rawy, % Save the unclipped values
+		after end axis/.code={ % Draw line indicating break
+				\draw [ultra thick, white, decoration={snake, amplitude=1pt}, decorate] (rel axis cs:0,1.10) -- (rel axis cs:1,1.10);
+			},
+		nodes near coords={%
+				\pgfmathprintnumber{\rawy}% Print unclipped values
+			},
+		axis lines*=left,
+		clip=false,
+		]
+		\addplot coordinates {(Depth 2,27679) (Depth 1,4111) (Only hits,3033)};
+		\addplot coordinates {(Depth 2,166479) (Depth 1,14618) (Only hits,466)};
+		\addplot coordinates {(Depth 2,1842) (Depth 1,467) (Only hits,367)};
+		\legend{Temporal, Spatial, Spatiotemporal}
+	\end{axis}
+\end{tikzpicture}

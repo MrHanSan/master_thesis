@@ -8,7 +8,7 @@
 
 \usepackage[style=english]{csquotes}      % Context sensitive quotes
 \usepackage{lmodern}                                % Exploit the above
-
+\usepackage{parskip}            %Used for paragraph spacing, fine as long as koma is only for fonts (i think)
 % Use classic (Computer Modern) fonts for headers
 \setkomafont{disposition}{\normalfont\bfseries}
 \addtokomafont{chapterprefix}{\huge}
@@ -49,6 +49,10 @@
 % only needed if you want to pgfplots to draw figures
 \usepackage{tikzsymbols}
 \usepackage{pgfplots}
+\pgfplotsset{compat=newest}
+\usetikzlibrary{decorations.pathmorphing}
+\usepackage{siunitx}
+\usepackage{pgfplotstable}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % comments and notes, useful while working on a draft - change the option 'draft' to 'disable' in the final version
