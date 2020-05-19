@@ -2,23 +2,25 @@
 \chapter{Architecture}
 % OR: \chapter{Model}
 \label{cha:architecture}
-
 When building a system for keyword search, the first implementations was based on previously created systems. This early method was based on \cite{Shi:2016:TRS:2882903.2882941} and the method was also used as the base for adding a temporal dimension to the search.
 
+\section{Search}
+Each search will return a subgraph, based in a root. This forms a tree structure. This result can described as follows:
 \begin{description}
-    \item[Result tree:] {\em Result r for a given query q with tokens Qt on an RDF graph G$\langle$V, E$\rangle$, where the result forms a minimum spanning tree Tm$\langle$V', E'$\rangle$, V' contains a set of tokens Tt, Tm is rooted in a place vertex p, so that V' $\subseteq$V, E'$\subseteq$E, and Tt$\subseteq$Qt}
+    \item[Result tree] {\em Result r for a given query q with tokens Qt on an RDF graph G$\langle$V, E$\rangle$, where the result forms a minimum spanning tree Tm$\langle$V', E'$\rangle$, V' contains a set of tokens Tt, Tm is rooted in a place vertex p, so that V' $\subseteq$V, E'$\subseteq$E, and Tt$\subseteq$Qt}
 \end{description}
 All results from a query is given as a minimum spanning tree. This tree is call a {\em Result Tree}. A query can have multiple result trees, where each result tree is rooted in a unique place node, and each tree contains at least one query word.
 
+A root node can be described as:
 \begin{description}
-    \item[Root:] {\em Any GeoEntity node used as a start when traversing the graph, and as the place node in a result tree}
+    \item[Root] {\em Starting point of a BFS traversal, and the vertex all other vertices are connect to in a result tree}
 \end{description}
 
+A spatiotemporal root is like any other root, but with an addition:
 \begin{description}
-    \item[Accuracy:] {\em Score given to a result tree, where score is based on the number of nodes n in the result tree, node distance nd from root, query q, and number of query words hit h so that $\mathcal{F}_h = (h_i/\left\lvert q \right\rvert : i \in \mathcal{I})$ and $ \frac{\sum \mathcal{F}_h}{n*(nd+1)}$}
+    \item[spatiotemporal root\label{rootST}] {\em Any root R where the spatial input $I_s$ and temporal input $I_t$ overlaps, so that $R \in I_s \cap I_t$}
 \end{description}
 
-\section{Search}
 One basic method of finding a match for keywords is using a breadth first search (BFS) \citep{blinks, Shi:2016:TRS:2882903.2882941}. For each keyword in the query the algorithm will find all vertices that contain the keyword. From that set of vertices the BFS search finds the first vertex that can connect all the vertices in the set. The vertex that connects the the rest of the set is the one that best fits the keywords in the search.
 
 Using BFS starting on keyword vertices works for keyword search, but not necessarily when searching for spatial or temporal data. When adding spatial or temporal vertices to the search, these can be used as a root, and a starting point for traversal. When a search initiates, a place and/ or time vertex existing in the graph needs to be selected. From this vertex or vertices, all connected places will be used as roots when searching. For the selected place vertex, the roots is geographically located within the selected place. This is done to bound the search close to the selected place. From the root nodes the search will traverse the graph looking for vertices matching the query words, and when all words are found, that subgraph is the best match for the start root. After all roots are searched, the subgraphs are given a score based on how well they fit the query.
@@ -62,10 +64,14 @@ Graph traversal implementation
 
 
 \section{Ranking}
-- Minimum spanning tree based on distance from root and keywords found
-
+All result trees are given a score based on how well they fit the query. This score is called accuracy and is made up of two parts. The first part is how well a vertex fits the query words, and the other is how far it is removed from the root.
+\begin{description}
+    \item[Accuracy:] {\em Score given to a result tree, where score is based on the number of nodes n in the result tree, node distance nd from root, query q, and number of query words hit h so that $\mathcal{F}_h = (h_i/\left\lvert q \right\rvert : i \in \mathcal{I})$ and $ \frac{\sum \mathcal{F}_h}{n*(nd+1)}$}
+\end{description}
+To find the accuracy, a minimum spanning tree is first extracted from the result tree. To extract this tree, the algorithm \ref{minResultTree} is used.
 \begin{algorithm}
     \caption{FindMinimumTree(R$_t$)}
+    \label{minResultTree}
     \SetAlgoLined
     \KwResult{A minimum spanning tree based on keyword vertices found during traversal}
     ResultTree $\mathbf{R_t}$\ MinimumTree $T_m$ ADD($R_t[0]$)\;
@@ -88,16 +94,11 @@ Graph traversal implementation
     }
 \end{algorithm}
 
-- Find the minimum spanning tree for each of the root nodes containing the maximum amount of the query words.\\
-- Rank based on 1. Query words hit 2. Nodes in the tree 3. depth of the tree\\
- % f(L(Tp), S(q, p)) = L(Tp) × S(q, p). \cite{Shi:2016:TRS:2882903.2882941} % Ranking formula 2
-The final piece is to rank the minimum subgraphs. This is done using the nr. 2 formula found in \cite{Shi:2016:TRS:2882903.2882941}. 
-
-
-\section{Pruning} \label{pruning}
+\section{Pruning}
+\label{pruning}
 When using the BFS search method, all possible spatial vertices close to the queried place will be explored. This is expensive and many of the vertices will be irrelevant. Pruning the potential place vertices will reduce the amount of subgraphs traversed, and will in turn reduce the overall time used to find results for the query.
 
-\subsection{Predicate pruning}
+\subsection{Predicate selection}
 When traversing the graph a lot of unnecessary predicates are followed, resulting in many extra nodes added to the search. Specifying a set of predicates that contain the relevant information can greatly increase the speed of the algorithm, and also keep the memory requirements a lot lower. When selecting predicates for traversal the information expected from the search should be the top priority. Because of this, all predicates that may contain spatial or temporal data should be kept.
 
 When using the entirety of the Yago data set, most nodes are highly connected. Many of the links in the graph are from predicates such as ``linksTo'' or ``redirectedFrom''. These predicates creates a highly connected graph, and ensures a hit within a few nodes of the start. The same predicates will also often add the same nodes multiple times, create circular graphs, and take up unnecessary CPU power and memory.
@@ -106,7 +107,7 @@ When pruning predicates there are two methods that are possible to implement. Th
 
 An other method of pruning is to create a list of predicates to be followed. This can drastically reduce the connections in the graph, but the results will only contain information relevant to the query. When preselecting predicates there is a much greater chance of not finding a match for a query. In addition a lot of metadata could be lost, if the metadata predicates are not added to the list of predicate to be explored.
 
-\subsection{Unqualified place pruning}
+\subsection{Place hierarchy}
 For any spatial search, a lot of places will be found. The graph also contains information on the relationship between places. To find the best possible matches for a spatial query, only places of a higher resolution should be chosen. This means that places of similar or smaller expanse should be allows to be queried, e.g. a query of Boston can return the entirety of Boston, close to Boston, or within Boston. Massachusetts has multiple predicates linking it to Boston, but should not be queried because the information returned would be less detailed than what is queried. 
 
 \subsection{Bounding}

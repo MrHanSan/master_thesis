@@ -14,17 +14,15 @@ In the section \ref{cha:related_work} previous methods used for keyword searches
 \begin{description}
     \item[Research question 2] {\em What methods can be used to achieve greater speed and accuracy for searches on RDF data.}
 \end{description}
-
 This thesis looked at the parameters of a search that could increased speed, and decreased accuracy. When increasing speed, the main goal should be to reduce the amount of root vertices used as starting points for a search. Reducing the edges followed will also have a great effect on the speed. To be able to do this, processing the query, so that a structure can be created from the keywords is a possibility.
 
 \begin{description}
     \item[Research question 3] {\em How do spatial and temporal RDF query methods differ from from other query methods.}
 \end{description}
-
 Using a BFS for traversing the graph, a spatiotemporal search does not need to differ from spatial or temporal search. When selecting the roots used as starting points for the search, a spatiotemporal search needs to find roots that fall into both the spatial dimensions of the search, and the temporal. This makes the total set of roots used for a spatiotemporal search less than if the search was done just on one dimension.
 
 \section{Future Work}
 \label{sec:futureWork}
-Combining structured queries natural language processing with graph traversal can yield grat bennigfits for ssearching graphs. 
+Combining structured queries natural language processing with graph traversal can yield great benefits for searching graphs. 
 
-Indexing and traversal form keywords and not just nodes is a possibility for increasing the effectivness of searches. Adding toi this, finding shortest paths in the graph is another method for fiding results.
+Indexing and traversal form keywords and not just nodes is a possibility for increasing the effectiveness of searches. Adding toi this, finding shortest paths in the graph is another method for finding results.

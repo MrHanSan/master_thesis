@@ -2,7 +2,7 @@
 \chapter{Introduction}
 \label{cha:Introduction}
 
-In computer science, graphs are structures used for representing relationships between objects. A graph consists of vertices connected by edges, where the vertices represent the objects, and the edges represents the relationship. A graph can take on different shapes, giving the graph special properties. By giving the edges a direction the graph can take on further properties.
+In computer science, graphs are structures used for representing relationships between objects. A graph consists of vertices, sometimes called nodes, connected by edges, where the vertices represent the objects, and the edges represents the relationship. A graph can take on different shapes, giving the graph special properties. By giving the edges a direction the graph can take on further properties.
 
 A graph where the edges have a direction is called a directed graph as seen in figure \ref{fig:DAG}. Here the vertices are connected to each other, with an arrow displaying the direction. An example of an undirected graph can be seen in figure \ref{fig:DAGvsAG}. In both types of graphs a vertex can have multiple edges. Graphs can contain cycles, meaning that vertices are connected to each other so that it is possible to follow edges in such a way that it leads back to the initial vertex. An example of such a cyclic graph can be seen in figure \ref{fig:DAGvsDG}. Acyclic graphs have an inherent topological ordering. This ordering makes it possible to find properties in the graph, such as the shortest path between two vertices.
 
@@ -51,19 +51,16 @@ Accomplishing this goal proves that RDF graphs can be used as a tool for structu
 \begin{description}
     \item[Research question 1] {\em How can spatiotemporal data be integrated into exiting keyword query methods for RDF data?}
 \end{description}
-
 Extending existing methods for searching RDF data can make it simpler to search spatiotemporal data. By combining methods for temporal and spatial search, methods for spatiotemporal search should be possible to research.
 
 \begin{description}
     \item[Research question 2] {\em What methods can be used to achieve greater speed and accuracy for searches on RDF data?}
 \end{description}
-
 An important aspect of any search is speed and accuracy. Since searching in graphs usually entails some form of traversal, the methods of traversal, as well as factors that affect speed and accuracy will be researched.
 
 \begin{description}
     \item[Research question 3] {\em How do spatial and temporal RDF query methods differ from from other query methods?}
 \end{description}
-
 Comparing spatial, temporal and spatiotemporal searches can tell how spatiotemporal data differs in RDF graphs. This is important so that optimized methods can be developed.
 
 \section{Research Method}

@@ -1,10 +1,25 @@
 %!TEX root = ../report.tex
-\chapter{Evaluation and Discussion}
+\chapter{Discussion and limitations}
 \label{cha:Discussion}
 
 \section{Discussion}
 \label{sec:Discussion}
-When traversing an rdf graph, the predicates chosen will have a great effect on the time used. Knowing the data searching through will help when choosing the predicate to follow. When choosing what predicates to use in the search, the goal should be to minimize the amount of unnecessary nodes found and followed. When removing predicates, the obvious downside is the possibility of missing some results, and decreasing the accuracy.
+Using traditional methods for graph traversal it is possible to implement keyword search on RDF graphs. One such method is the use of BFS to find a minimum spanning subgraph containing the query words. Using spatial nodes as a root for the subgraph, creating a minimum spanning tree, it is possible to retrieve spatial data from such a keyword search. The same method is used when searching for spatial data as with other keyword searches, with the key difference being to root the BFS in a spatial vertex.
+
+This BFS method can be implemented with a temporal dimension instead of spatial. When changing the data type of the root from spatial to temporal, the traversal method stays the same, but the root used is matched with temporal input instead of spatial input. The result tree for a temporal search can be ranked using the same methods as used for spatial search.
+
+Combining spatial and temporal data makes spatiotemporal search possible. These searches will be rooted in a vertex containing spatial and temporal data matching the input, as defined in \ref{rootST}. Because the root needs to contain both the spatial and the temporal input, the subset of vertices containing this wil be small. This makes spatiotemporal searches quick to execute, but the accuracy will suffer. A method that could be implemented to increase the hit rate of these searches would be to change the criteria for one of the two dimensions. The search could be rooted in either space or time, and then look for the other dimension as a special case while traversing.
+
+Spatiotemporal searches rooted only in time could be accomplished by discarding all result trees that are unable to find a vertex inside the queried location. To discover vertices inside a location the ``isLocatedIn'' predicate would be followed. This predicate would be followed from all vertices that is connected to another vertex with that predicate. Using this predicate to move upwards in the hierarchy it creates while looking for the queried place will determine if the discovered vertex is located inside the search area. A maximum distance of three should be used when following this predicate, as this will traverse the hierarchy up to at least country level, and possibly up to the earth vertex. Since we are looking for a specific vertex, and only looking at the vertices above in the hierarchy this will not add more than three extra visited vertices for each vertex connected with the isLocatedIn predicate. This will not increase the time used by any significant margin compared to the regular temporal search.
+
+Rooting spatiotemporal search in a spatial vertex and treating the temporal dimension as a special case does not require any extra traversal. During traversal, the search would look for vertices connected by a temporal predicate. This can be done by comparing predicates with a predetermined list of temporal predicates, checking the if the type of the object is ``xsd:date'' or ``xsd:dateTime'', or it can be done by checking if the ``rdfs:range'' of the predicate is ``xsd:date'' or ``xsd:dateTime''. Checking the predicate would add an extra traversal to each predicate connected to a vertex since the rdfs:range is treated as any other vertex. Using a predetermined list requires more knowledge of the data set, and adds some small overhead. Checking the type of the objects is the fastest since this would not require any extra traversal, and carries little overhead. This would not require any extra knowledge about the data set, assuming that no extra user added date types are created for the graph.
+
+% \item[Research question 2] {\em What methods can be used to achieve greater speed and accuracy for searches on RDF data.}
+% \item[Research question 3] {\em How do spatial and temporal RDF query methods differ from from other query methods.}
+When traversing an rdf graph, the predicates chosen will have a great effect on the time used. 
+Knowing the data searching through will help when choosing the predicate to follow. 
+When choosing what predicates to use in the search, the goal should be to minimize the amount of unnecessary nodes found and followed. 
+When removing predicates, the obvious downside is the possibility of missing some results, and decreasing the accuracy.
 
 BFS search can take ua a lot of memory. This is because all nodes have to be stored while searching. It is possible to limit the maximum distance a node can be from the root node, which in turn will limit the amount of nodes visited, and reduce the memory needed. When testing without any form of pruning, the computer would run out of memory. Because of this, no results are gathered from a method following all edges of each node. Following all edges on each node would also lead to highly connected category nodes being discovered. With more than 120 million nodes, and 350.000 classes, each node would on average be connected to more than 340 other nodes, from the classes alone. Following this with a depth of 3, the average search would visit more than 40 million nodes.
 
@@ -12,14 +27,14 @@ From the results we can see that reducing the amount of nodes traversed results 
 
 Reduction of root nodes is the most important for increasing speed. To be able to reduce the roots while maintaining accuracy, using more sophisticated natural language processing is an option. Implementing a system for inferring structure from the keywords would make it possible to find connections where the object and predicate is related to the query. Using the taxonomy from YAGO, this is possible to implement.
 
-Natural language processing also have the possible benefit of pruning some predicates. This would reduce the amount of vertices visited, and if this can be done without reducing accuracy, it would greatly increase the effctivness when searching through RDF graphs.
+Natural language processing also have the possible benefit of pruning some predicates. This would reduce the amount of vertices visited, and if this can be done without reducing accuracy, it would greatly increase the effectiveness when searching through RDF graphs.
 
 Using an index for keywords can be used to find shortest paths without exploring the entire graph. Such a shortest path should be the best result for a given keyword, but depending on how it is implemented, it might not find the best solution for vertices containing multiple keywords. This is because a vertex containing more than one keyword at a higher depth may score better than multiple vertices containing one keyword each at a lower depth. The score would depend on the amount of keywords in a single vertex, and the difference in depth. If even a single vertex is found at the same depth as the multi-keyword vertex, the result tree with the fewest vertices will score better. 
 
 
-\subsection{limitations}
-- choice of query terms\\
-- Root nodes\\
+\section{limitations}
+% - choice of query terms\\
+% - Root nodes\\
 
 Some temporal vertices in YAGO use a so called ``wildcard date''. These dates contain a ``\#'' symbol for parts of the date, making it impossible to directly query such dates when selecting roots. This means that the temporal search have some possible vertices missing from the set of root nodes used when traversing the graph. This could have been remedied by creating two new temporal vertices for such dates, one start date indicating the lowest possible value a wildcard date could have, and an end date indicating the highest possible value a wildcard could have.
 

@@ -2,11 +2,6 @@
 \chapter{Background Theory}
 %OR: \chapter{Tools and Methods}
 \label{cha:background_theory}
-- Graphs Theory, traversal\\
-- RDF Queries, Yago, DBPedia\\
-- Uses for RDF as ontology + KG\\
-    - Deriving new knowledge from what is there and structure\\
-
 \section{Graph theory}
 Graph theory is the study of graphs as mathematical structures that models relationships between objects in a collection. A graph consists of vertices connected by edges, \emph{G(V,E)}. In computer science, graph theory is used in areas such as data mining, image segmentation, networking and more\cite{riaz2011applications}. 
 
@@ -96,17 +91,6 @@ To describe a time span two facts are required. One of the facts describes a sta
 
 Yago only contains permanent spatial data for entities on earth. This means that entities like cities, buildings, rivers and mountains are given a spatial dimension. In addition, events, people, groups and artifacts can be given a spatial dimension by relating the entity to a specific place. All spatial facts must have a predicate that fall under the yagoGeoEntity class, and all objects used in a fact with a yagoGeoEntity must have a relation containing both ``hasLatitude'' and ``hasLongitude''.
 
-% \subsubsection{DBPedia}
-
-\subsection{Uses for Knowledge graphs}
-% One of the more well known uses for ths is infoboxes on search engines. These boxes use RDF data to list key facts about the top search result.
-One of the uses of knowledge graphs today is to find and display a info box in search engines. This information is a compact set of facts that tries to fit the search query. Because of the graph structure of knowledge graphs the information in the info box can be adapted to the query by choosing the predicates and related facts closest related to the query. This makes it possible to create a set of information that can give the user a quick overview of the information retrieved by the query.
-
-\subsection{Jena}
-Apache Jena is a set of tools for working with RDF and other semantic web, and linked data. The framework contains tools for querying with SPARQL, a query language made specifically for RDF graphs. Jena also contains REST-style SPARQL endpoints making the RDF data easily accessible. Using the existing standards makes it easy to use existing data sets, such as Yago or DBPedia, and build utility on top of that data using some of the tools Jena provides.
-
-
-\section{Introducing Figures}
 \begin{figure}[t]
   \centering
   \includegraphics[scale=0.3]{figs/yago_trondheim.png}
@@ -121,6 +105,15 @@ Apache Jena is a set of tools for working with RDF and other semantic web, and l
  \label{fig:Elvis}
 \end{figure}
 
-\section{Introducing Tables in the Report}
+% \subsubsection{DBPedia}
+
+\subsection{Uses for Knowledge graphs}
+% One of the more well known uses for ths is inboxes on search engines. These boxes use RDF data to list key facts about the top search result.
+One of the uses of knowledge graphs today is to find and display a info box in search engines. This information is a compact set of facts that tries to fit the search query. Because of the graph structure of knowledge graphs the information in the info box can be adapted to the query by choosing the predicates and related facts closest related to the query. This makes it possible to create a set of information that can give the user a quick overview of the information retrieved by the query.
+
+\subsection{Jena}
+Apache Jena is a framework for working with semantic web, and linked data like RDF. The framework contains tools for SPARQL querying, a query language made specifically for RDF graphs. Jena also contains REST-style SPARQL endpoints making the RDF data easily accessible. Using the existing standards makes it easy to use existing data sets, such as Yago or DBPedia, and build utility on top of that data using some of the tools Jena provides.
+
+Jena provides a persistent storage solution called TDB\footnote{https://jena.apache.org/documentation/tdb/architecture.html}. This storage contains a table for vertices, and indexing of triples, and a prefix table. The node table stores the representation of RDF ``terms'', where terms are any vertex, excluding some literals. Excluded literals are the xsd:decimal, xsd:integer, xsd:dateTime, xsd:date, and xsd:boolean types. Each vertex is stored with an ID used when data is loaded, and when querying constant terms. Node to ID mappings are stored as a B+ tree, while the ID to node mappings are stored as a sequential access file. Triples are stored in the triple table as a tuple with three node IDs. The prefix table is used for supporting mappings that again are used mainly for serialization of triples. Queries in Jena are run using ARQ, a SPARQL supported query engine.
 
 \glsresetall
