@@ -218,7 +218,7 @@ public class Main {
         // List<YagoNode> roots = new ArrayList<YagoNode>(temporalRoots);
 
         List<YagoNode> nodes = new ArrayList<YagoNode>();
-        int maxDepth = 2;
+        int maxDepth = 3;
         int nodeCount = 0;
         HashSet<YagoNode> hitNodes = new HashSet<>();
 
@@ -281,13 +281,13 @@ public class Main {
                     String str = sub.toString();
                     String[] uriSplit = str.split("/");
                     String[] tokens = uriSplit[uriSplit.length-1].replaceAll("[,()]", "").toLowerCase().split("_");
-                    // children.add(new YagoNode(yagoNode, str));
-                    for (String word : queryWords) {
-                        if (Arrays.asList(tokens).contains(word)) {
-                            children.add(new YagoNode(yagoNode, str));
-                            break;
-                        }
-                    }
+                    children.add(new YagoNode(yagoNode, str));
+                    // for (String word : queryWords) {
+                    //     if (Arrays.asList(tokens).contains(word)) {
+                    //         children.add(new YagoNode(yagoNode, str));
+                    //         break;
+                    //     }
+                    // }
                 }
             } catch (QueryParseException | NullPointerException e) {
             //    System.out.println(e);
