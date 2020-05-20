@@ -36,12 +36,9 @@ public class Main {
         List<String> queryWordsFour = readQueryWords("rndZipf4.txt");
         List<String> queryPlaces = readQueryWords("place.txt");
         List<String> queryDates = readQueryWords("dates.txt");
-        // String place = "";
-        // String dates = "";
 
         for (String place : queryPlaces) {
             for (String dates : queryDates) {
-                // place = "temporal_" + dates.split(" ")[0];
                 List<String> queryWords = queryWordsTwo;
                 for (int i = 0; i < queryWordsTwo.size(); i += 2) {
                     queryWordsString = "";
@@ -203,8 +200,6 @@ public class Main {
         // use node level for tabs when printing, displaying inheratance
 
         List<YagoNode> spatialRoots = getRoots(model, place);
-        // List<YagoNode> temporalRoots = getTemporalNodes(model, dates);
-        // System.out.println(temporalRoots.size());
 
         List<YagoNode> roots = new ArrayList<YagoNode>();
         for (YagoNode r : spatialRoots) {
@@ -214,11 +209,8 @@ public class Main {
             }
         }
 
-        // List<YagoNode> roots = new ArrayList<YagoNode>(spatialRoots);
-        // List<YagoNode> roots = new ArrayList<YagoNode>(temporalRoots);
-
         List<YagoNode> nodes = new ArrayList<YagoNode>();
-        int maxDepth = 3;
+        int maxDepth = 2;
         int nodeCount = 0;
         HashSet<YagoNode> hitNodes = new HashSet<>();
 
@@ -258,6 +250,7 @@ public class Main {
     }
 
     public static ArrayList<YagoNode> traverse (Model model, YagoNode yagoNode, HashSet<String> queryWords) {
+        boolean followHits = true;
         String entity = yagoNode.getNodeData();
         ArrayList<YagoNode> children = new ArrayList<YagoNode>();
         if (entity == null) return null;
@@ -281,13 +274,16 @@ public class Main {
                     String str = sub.toString();
                     String[] uriSplit = str.split("/");
                     String[] tokens = uriSplit[uriSplit.length-1].replaceAll("[,()]", "").toLowerCase().split("_");
-                    children.add(new YagoNode(yagoNode, str));
-                    // for (String word : queryWords) {
-                    //     if (Arrays.asList(tokens).contains(word)) {
-                    //         children.add(new YagoNode(yagoNode, str));
-                    //         break;
-                    //     }
-                    // }
+                    if (!followHits) {
+                        children.add(new YagoNode(yagoNode, str));
+                    } else {
+                        for (String word : queryWords) {
+                            if (Arrays.asList(tokens).contains(word)) {
+                                children.add(new YagoNode(yagoNode, str));
+                                break;
+                            }
+                        }
+                    }
                 }
             } catch (QueryParseException | NullPointerException e) {
             //    System.out.println(e);
