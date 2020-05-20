@@ -4,6 +4,7 @@
 
 \section{Discussion}
 \label{sec:Discussion}
+% \item[Research question 1] {\em How can spatiotemporal data be integrated into exiting keyword query methods for RDF data.}
 Using traditional methods for graph traversal it is possible to implement keyword search on RDF graphs. One such method is the use of BFS to find a minimum spanning subgraph containing the query words. Using spatial nodes as a root for the subgraph, creating a minimum spanning tree, it is possible to retrieve spatial data from such a keyword search. The same method is used when searching for spatial data as with other keyword searches, with the key difference being to root the BFS in a spatial vertex.
 
 This BFS method can be implemented with a temporal dimension instead of spatial. When changing the data type of the root from spatial to temporal, the traversal method stays the same, but the root used is matched with temporal input instead of spatial input. The result tree for a temporal search can be ranked using the same methods as used for spatial search.
@@ -16,12 +17,21 @@ Rooting spatiotemporal search in a spatial vertex and treating the temporal dime
 
 % \item[Research question 2] {\em What methods can be used to achieve greater speed and accuracy for searches on RDF data.}
 % \item[Research question 3] {\em How do spatial and temporal RDF query methods differ from from other query methods.}
+Reducing the amount of vertices visited is the most effective method for reducing time used when searching. Since most vertices are connected to multiple other vertices, being able to reduce the distance traversed, and the number of predicates followed will greatly reduce the total number of vertices visited. A possibility to accomplish this is to combine traversal with indexing of the graph. If all vertices are tokenized and indexed so that it is all nodes containing a keyword can be retrieved, this can be combined with the roots for temporal, spatial or spatiotemporal searches. Using SPARQL it is possible to find paths between two vertices using ``property paths''. From this, the shortest paths between a root and keyword vertex can be determined, and finally the roots can be ranked. This will guarantee hits for all roots, but it could be painfully slow, depending on the input keywords. Using the keyword ``south'' as an example, this keyword have 2\,798\,973 hits in the YAGO data used for the experiments in this thesis. Combining this with the average number of temporal roots form section \ref{sec:experimentalResults}, 192, this search would have to query and rank 537\,395\,904 paths, just for one keyword. Using such an index would require more than just the shortest path.
+    % Time reduction while maintaining accuracy:
+        % factors: visited nodes -> roots + predicates
+        % NLP for query pre-processing
+        % Bottom up vs top down BFS
+        % Indexing
+
+Accomplishing this while maintaining both accuracy and hit rate is a difficult task. 
+Using natural language processing to create queries that follow is a possibility.
 When traversing an rdf graph, the predicates chosen will have a great effect on the time used. 
 Knowing the data searching through will help when choosing the predicate to follow. 
 When choosing what predicates to use in the search, the goal should be to minimize the amount of unnecessary nodes found and followed. 
 When removing predicates, the obvious downside is the possibility of missing some results, and decreasing the accuracy.
 
-BFS search can take ua a lot of memory. This is because all nodes have to be stored while searching. It is possible to limit the maximum distance a node can be from the root node, which in turn will limit the amount of nodes visited, and reduce the memory needed. When testing without any form of pruning, the computer would run out of memory. Because of this, no results are gathered from a method following all edges of each node. Following all edges on each node would also lead to highly connected category nodes being discovered. With more than 120 million nodes, and 350.000 classes, each node would on average be connected to more than 340 other nodes, from the classes alone. Following this with a depth of 3, the average search would visit more than 40 million nodes.
+BFS search can take up a lot of memory. This is because all nodes have to be stored while searching. It is possible to limit the maximum distance a node can be from the root node, which in turn will limit the amount of nodes visited, and reduce the memory needed. When testing without any form of pruning, the computer would run out of memory. Because of this, no results are gathered from a method following all edges of each node. Following all edges on each node would also lead to highly connected category nodes being discovered. With more than 120 million nodes, and 350.000 classes, each node would on average be connected to more than 340 other nodes, from the classes alone. Following this with a depth of 3, the average search would visit more than 40 million nodes.
 
 From the results we can see that reducing the amount of nodes traversed results in significantly less time used for a query. By incorporating some natural language processing methods, and inferring structure from the users keywords, similar to those seen in \cite{4812421, aqualog}, the amount of nodes can be reduced. Using natural language processing to infer a category would make it possible to select a small set of predicates to follow. Such a category could also be used with the taxonomy of YAGO to only select nodes that fits.
 
