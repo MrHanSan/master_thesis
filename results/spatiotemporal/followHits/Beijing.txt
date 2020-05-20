@@ -1,0 +1,459 @@
+Query Words: william, whole
+Root nodes Found: 13
+Nodes visited: 13
+Total execution time: 445
+
+Query Words: thomas, california
+Root nodes Found: 13
+Nodes visited: 13
+Total execution time: 298
+
+Query Words: park, church
+Root nodes Found: 13
+Nodes visited: 13
+Total execution time: 294
+
+Query Words: district, objects
+Root nodes Found: 13
+
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+http://yago-knowledge.org/resource/Tsinghua_International_School   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Fairmont_Beijing   []
+	http://yago-knowledge.org/resource/Beijing_central_business_district   [district]
+Score: 0.16666666666666666
+----
+
+Nodes visited: 16
+Total execution time: 282
+
+Query Words: descent, football
+Root nodes Found: 13
+Nodes visited: 13
+Total execution time: 280
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 13
+Nodes visited: 13
+Total execution time: 286
+
+Query Words: park, church, district, objects
+Root nodes Found: 13
+
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+http://yago-knowledge.org/resource/Tsinghua_International_School   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Fairmont_Beijing   []
+	http://yago-knowledge.org/resource/Beijing_central_business_district   [district]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 16
+Total execution time: 313
+
+Query Words: descent, football, william, park
+Root nodes Found: 13
+Nodes visited: 13
+Total execution time: 282
+
+Query Words: district, objects, thomas, california
+Root nodes Found: 13
+
+	http://yago-knowledge.org/resource/Haidian_District   [district]
+http://yago-knowledge.org/resource/Tsinghua_International_School   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Fairmont_Beijing   []
+	http://yago-knowledge.org/resource/Beijing_central_business_district   [district]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 16
+Total execution time: 283
+
+Query Words: william, whole
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 285
+
+Query Words: thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 278
+
+Query Words: park, church
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 278
+
+Query Words: district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 279
+
+Query Words: descent, football
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 283
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 278
+
+Query Words: park, church, district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 277
+
+Query Words: descent, football, william, park
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 279
+
+Query Words: district, objects, thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 284
+
+Query Words: william, whole
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 280
+
+Query Words: thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 279
+
+Query Words: park, church
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 299
+
+Query Words: district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 278
+
+Query Words: descent, football
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 280
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 283
+
+Query Words: park, church, district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 321
+
+Query Words: descent, football, william, park
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 279
+
+Query Words: district, objects, thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 279
+
+Query Words: william, whole
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 277
+
+Query Words: thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 284
+
+Query Words: park, church
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 279
+
+Query Words: district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 278
+
+Query Words: descent, football
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 279
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 285
+
+Query Words: park, church, district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 278
+
+Query Words: descent, football, william, park
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 277
+
+Query Words: district, objects, thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 283
+
+Query Words: william, whole
+Root nodes Found: 29
+Nodes visited: 29
+Total execution time: 285
+
+Query Words: thomas, california
+Root nodes Found: 29
+Nodes visited: 29
+Total execution time: 285
+
+Query Words: park, church
+Root nodes Found: 29
+Nodes visited: 29
+Total execution time: 290
+
+Query Words: district, objects
+Root nodes Found: 29
+
+http://yago-knowledge.org/resource/Western_Academy_of_Beijing   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/CCTV-7   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Hanergy   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Beijing_BISS_International_School   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/China_International_Capital_Corporation   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.16666666666666666
+----
+
+Nodes visited: 35
+Total execution time: 297
+
+Query Words: descent, football
+Root nodes Found: 29
+Nodes visited: 29
+Total execution time: 285
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 29
+Nodes visited: 29
+Total execution time: 282
+
+Query Words: park, church, district, objects
+Root nodes Found: 29
+
+http://yago-knowledge.org/resource/Western_Academy_of_Beijing   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/CCTV-7   []
+	http://yago-knowledge.org/resource/Beijing_central_business_district   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Hanergy   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Beijing_BISS_International_School   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/China_International_Capital_Corporation   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 35
+Total execution time: 320
+
+Query Words: descent, football, william, park
+Root nodes Found: 29
+Nodes visited: 29
+Total execution time: 291
+
+Query Words: district, objects, thomas, california
+Root nodes Found: 29
+
+http://yago-knowledge.org/resource/Western_Academy_of_Beijing   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/CCTV-7   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Hanergy   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Beijing_BISS_International_School   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/China_International_Capital_Corporation   []
+	http://yago-knowledge.org/resource/Chaoyang_District,_Beijing   [district]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 35
+Total execution time: 287
+
+Query Words: william, whole
+Root nodes Found: 5
+Nodes visited: 5
+Total execution time: 277
+
+Query Words: thomas, california
+Root nodes Found: 5
+Nodes visited: 5
+Total execution time: 288
+
+Query Words: park, church
+Root nodes Found: 5
+Nodes visited: 5
+Total execution time: 279
+
+Query Words: district, objects
+Root nodes Found: 5
+
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Beijing_Jingshan_School   []
+Score: 0.16666666666666666
+----
+
+Nodes visited: 6
+Total execution time: 280
+
+Query Words: descent, football
+Root nodes Found: 5
+Nodes visited: 5
+Total execution time: 280
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 5
+Nodes visited: 5
+Total execution time: 284
+
+Query Words: park, church, district, objects
+Root nodes Found: 5
+
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Beijing_Jingshan_School   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 6
+Total execution time: 277
+
+Query Words: descent, football, william, park
+Root nodes Found: 5
+Nodes visited: 5
+Total execution time: 276
+
+Query Words: district, objects, thomas, california
+Root nodes Found: 5
+
+	http://yago-knowledge.org/resource/Dongcheng_District,_Beijing   [district]
+http://yago-knowledge.org/resource/Beijing_Jingshan_School   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 6
+Total execution time: 276
+
+Query Words: william, whole
+Root nodes Found: 10
+Nodes visited: 10
+Total execution time: 286
+
+Query Words: thomas, california
+Root nodes Found: 10
+Nodes visited: 10
+Total execution time: 288
+
+Query Words: park, church
+Root nodes Found: 10
+Nodes visited: 10
+Total execution time: 277
+
+Query Words: district, objects
+Root nodes Found: 10
+Nodes visited: 10
+Total execution time: 279
+
+Query Words: descent, football
+Root nodes Found: 10
+Nodes visited: 10
+Total execution time: 285
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 10
+Nodes visited: 10
+Total execution time: 335
+
+Query Words: park, church, district, objects
+Root nodes Found: 10
+Nodes visited: 10
+Total execution time: 307
+
+Query Words: descent, football, william, park
+Root nodes Found: 10
+Nodes visited: 10
+Total execution time: 285
+
+Query Words: district, objects, thomas, california
+Root nodes Found: 10
+Nodes visited: 10
+Total execution time: 283
+

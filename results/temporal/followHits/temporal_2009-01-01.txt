@@ -1,0 +1,157 @@
+Query Words: william, whole
+Root nodes Found: 209
+Nodes visited: 209
+Total execution time: 4690
+
+Query Words: thomas, california
+Root nodes Found: 209
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Drexel_University_Sacramento   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Morro_Bay,_California   [california]
+http://yago-knowledge.org/resource/Mel_Queen_(pitcher/outfielder)   []
+Score: 0.16666666666666666
+----
+
+Nodes visited: 241
+Total execution time: 3277
+
+Query Words: park, church
+Root nodes Found: 209
+
+http://yago-knowledge.org/resource/Woodland_Park,_New_Jersey   [park]
+Score: 0.5
+----
+
+Nodes visited: 209
+Total execution time: 3025
+
+Query Words: district, objects
+Root nodes Found: 209
+
+	http://yago-knowledge.org/resource/Manitoulin_District   [district]
+http://yago-knowledge.org/resource/Gordon/Barrie_Island   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Plumpton,_East_Sussex   []
+	http://yago-knowledge.org/resource/Lewes_District   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Military_district   [district]
+Score: 0.5
+----
+
+Nodes visited: 211
+Total execution time: 3003
+
+Query Words: descent, football
+Root nodes Found: 209
+
+http://yago-knowledge.org/resource/Football_Friday   [football]
+Score: 0.5
+----
+
+Nodes visited: 209
+Total execution time: 2981
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 209
+
+http://yago-knowledge.org/resource/Drexel_University_Sacramento   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Mel_Queen_(pitcher/outfielder)   []
+	http://yago-knowledge.org/resource/Morro_Bay,_California   [california]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 241
+Total execution time: 3001
+
+Query Words: park, church, district, objects
+Root nodes Found: 209
+
+http://yago-knowledge.org/resource/Woodland_Park,_New_Jersey   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Gordon/Barrie_Island   []
+	http://yago-knowledge.org/resource/Manitoulin_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Plumpton,_East_Sussex   []
+	http://yago-knowledge.org/resource/Lewes_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Military_district   [district]
+Score: 0.25
+----
+
+Nodes visited: 211
+Total execution time: 2989
+
+Query Words: descent, football, william, park
+Root nodes Found: 209
+
+http://yago-knowledge.org/resource/Woodland_Park,_New_Jersey   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Football_Friday   [football]
+Score: 0.25
+----
+
+Nodes visited: 209
+Total execution time: 2984
+
+Query Words: district, objects, thomas, california
+Root nodes Found: 209
+
+	http://yago-knowledge.org/resource/Manitoulin_District   [district]
+http://yago-knowledge.org/resource/Gordon/Barrie_Island   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Plumpton,_East_Sussex   []
+	http://yago-knowledge.org/resource/Lewes_District   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Drexel_University_Sacramento   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Morro_Bay,_California   [california]
+http://yago-knowledge.org/resource/Mel_Queen_(pitcher/outfielder)   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Military_district   [district]
+Score: 0.25
+----
+
+Nodes visited: 243
+Total execution time: 2992
+

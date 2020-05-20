@@ -1,0 +1,220 @@
+Query Words: william, whole
+Root nodes Found: 69
+Nodes visited: 94012
+Total execution time: 7588
+
+Query Words: thomas, california
+Root nodes Found: 69
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/American_Morning   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Who_Is_Cletis_Tout?   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 94012
+Total execution time: 6617
+
+Query Words: park, church
+Root nodes Found: 69
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/The_Blue_Planet   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/American_Morning   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+		http://yago-knowledge.org/resource/Action_at_Mount_Zion_Church   [church]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.1111111111111111
+----
+
+
+	http://yago-knowledge.org/resource/United_Kingdom   []
+http://yago-knowledge.org/resource/Hotel_(2001_film)   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Who_Is_Cletis_Tout?   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Sappony_Church   [church]
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/Small_Potatoes_(1999_TV_series)   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 94012
+Total execution time: 6660
+
+Query Words: district, objects
+Root nodes Found: 69
+
+		http://yago-knowledge.org/resource/Legislative_district_of_Pateros-Taguig   [district]
+	http://yago-knowledge.org/resource/Taguig   []
+http://yago-knowledge.org/resource/TM_(cellular_service)   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 94012
+Total execution time: 6575
+
+Query Words: descent, football
+Root nodes Found: 69
+Nodes visited: 94012
+Total execution time: 6568
+
+Query Words: william, park
+Root nodes Found: 69
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+http://yago-knowledge.org/resource/American_Morning   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+http://yago-knowledge.org/resource/Who_Is_Cletis_Tout?   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 94012
+Total execution time: 6564
+
+Query Words: district, objects
+Root nodes Found: 69
+
+http://yago-knowledge.org/resource/TM_(cellular_service)   []
+	http://yago-knowledge.org/resource/Taguig   []
+		http://yago-knowledge.org/resource/Legislative_district_of_Pateros-Taguig   [district]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 94012
+Total execution time: 6558
+
+Query Words: thomas, california
+Root nodes Found: 69
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/American_Morning   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Who_Is_Cletis_Tout?   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 94012
+Total execution time: 6586
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 69
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/American_Morning   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Who_Is_Cletis_Tout?   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 94012
+Total execution time: 6604
+
+Query Words: park, church, district, objects
+Root nodes Found: 69
+
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+http://yago-knowledge.org/resource/The_Blue_Planet   []
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/American_Morning   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Ezra_Church   [church]
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/Hotel_(2001_film)   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Who_Is_Cletis_Tout?   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Mount_Zion_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Legislative_district_of_Pateros-Taguig   [district]
+http://yago-knowledge.org/resource/TM_(cellular_service)   []
+	http://yago-knowledge.org/resource/Taguig   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Small_Potatoes_(1999_TV_series)   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+	http://yago-knowledge.org/resource/United_Kingdom   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 94012
+Total execution time: 6678
+
+Query Words: descent, football, william, park
+Root nodes Found: 69
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+http://yago-knowledge.org/resource/American_Morning   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+http://yago-knowledge.org/resource/Who_Is_Cletis_Tout?   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 94012
+Total execution time: 6592
+

@@ -49,7 +49,15 @@ When traversing the graph and finding a match, a node object is created. This ob
 \caption{minimum spanning graph}
 \begin{algorithmic}[1]
 \Procedure{minimum}{}
-Algo go here
+For each node in hits:
+	for each minNode in min list:
+		if node has same hits and higher depth than minNode:
+			Break
+		if node and minNode is equal in depth and hits:
+			continue
+		if node contains other words than minNode:
+			add node
+			remove potential common words from minNode
 \EndProcedure
 \end{algorithmic}
 \end{algorithm}

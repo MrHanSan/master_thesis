@@ -1,0 +1,692 @@
+Query Words: william, whole
+Root nodes Found: 300
+
+	http://yago-knowledge.org/resource/Los_Angeles_International_Airport   []
+		http://yago-knowledge.org/resource/William_P._Hobby_Airport   [william]
+http://yago-knowledge.org/resource/Air_New_Zealand   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/William_J._Devine_Memorial_Golf_Course   [william]
+http://yago-knowledge.org/resource/Music_Tech_Fest   []
+	http://yago-knowledge.org/resource/Boston   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_Booth_Memorial_Training_College_(Wellington)   [william]
+Score: 0.5
+----
+
+Nodes visited: 654960
+Total execution time: 18835
+
+Query Words: thomas, california
+Root nodes Found: 300
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Power_Rangers_Mystic_Force   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Power_Rangers_Ninja_Storm   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Power_Rangers_Dino_Thunder   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Air_New_Zealand   []
+	http://yago-knowledge.org/resource/Los_Angeles_International_Airport   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 654960
+Total execution time: 17059
+
+Query Words: park, church
+Root nodes Found: 300
+
+http://yago-knowledge.org/resource/Power_Rangers_Mystic_Force   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Skirmish_at_Farnham_Church   [church]
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/Power_Rangers_Ninja_Storm   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Old_Church   [church]
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+Score: 0.1111111111111111
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Power_Rangers_Dino_Thunder   []
+		http://yago-knowledge.org/resource/Battle_of_New_Hope_Church   [church]
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/Shark_in_the_Park   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Los_Angeles_International_Airport   []
+		http://yago-knowledge.org/resource/Glacier_Park_International_Airport   [park]
+http://yago-knowledge.org/resource/Air_New_Zealand   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Bolton_Street_Memorial_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/University_Challenge_(New_Zealand_TV_series)   []
+		http://yago-knowledge.org/resource/Rugby_Park_Stadium   [park]
+	http://yago-knowledge.org/resource/Invercargill   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Invercargill   []
+http://yago-knowledge.org/resource/New_Zealand_Democratic_Party_for_Social_Credit   []
+		http://yago-knowledge.org/resource/Rugby_Park_Stadium   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Manapouri_Power_Station   []
+		http://yago-knowledge.org/resource/Fiordland_National_Park   [park]
+http://yago-knowledge.org/resource/Meridian_Energy   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Athletic_Park,_Wellington   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Newtown_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Vodafone_on_The_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St_John's_Church,_Wellington   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Makara_Peak_Mountain_Bike_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/David_Farrington_Park   [park]
+Score: 0.5
+----
+
+
+		http://yago-knowledge.org/resource/Whanganui_National_Park   [park]
+	http://yago-knowledge.org/resource/Bridge_to_Nowhere_(New_Zealand)   []
+http://yago-knowledge.org/resource/New_Zealand_Ministry_of_Works   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 654960
+Total execution time: 16937
+
+Query Words: district, objects
+Root nodes Found: 300
+
+		http://yago-knowledge.org/resource/Metro_Vancouver_Regional_District   [district]
+http://yago-knowledge.org/resource/2016-17_World_Rugby_Sevens_Series   []
+	http://yago-knowledge.org/resource/Vancouver   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Vancouver   []
+http://yago-knowledge.org/resource/2015-16_World_Rugby_Sevens_Series   []
+		http://yago-knowledge.org/resource/Metro_Vancouver_Regional_District   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Stellenbosch   []
+		http://yago-knowledge.org/resource/Cape_Winelands_District_Municipality   [district]
+http://yago-knowledge.org/resource/1999-2000_World_Sevens_Series   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Hamilton_Airport_(New_Zealand)   []
+http://yago-knowledge.org/resource/Wellington_International_Airport   []
+		http://yago-knowledge.org/resource/Waipa_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Contact_Energy   []
+		http://yago-knowledge.org/resource/Waikato_District   [district]
+	http://yago-knowledge.org/resource/Hauauru_ma_raki   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 654960
+Total execution time: 17079
+
+Query Words: descent, football
+Root nodes Found: 300
+
+http://yago-knowledge.org/resource/Wellington_Rugby_Football_Union   [football]
+Score: 0.5
+----
+
+Nodes visited: 654960
+Total execution time: 16821
+
+Query Words: william, park
+Root nodes Found: 300
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Power_Rangers_Mystic_Force   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+http://yago-knowledge.org/resource/Power_Rangers_Ninja_Storm   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Power_Rangers_Dino_Thunder   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Shark_in_the_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Air_New_Zealand   []
+		http://yago-knowledge.org/resource/Glacier_Park_International_Airport   [park]
+		http://yago-knowledge.org/resource/William_P._Hobby_Airport   [william]
+	http://yago-knowledge.org/resource/Los_Angeles_International_Airport   []
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/Bolton_Street_Memorial_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/University_Challenge_(New_Zealand_TV_series)   []
+		http://yago-knowledge.org/resource/Rugby_Park_Stadium   [park]
+	http://yago-knowledge.org/resource/Invercargill   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Invercargill   []
+http://yago-knowledge.org/resource/New_Zealand_Democratic_Party_for_Social_Credit   []
+		http://yago-knowledge.org/resource/Rugby_Park_Stadium   [park]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Fiordland_National_Park   [park]
+http://yago-knowledge.org/resource/Meridian_Energy   []
+	http://yago-knowledge.org/resource/Manapouri_Power_Station   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Athletic_Park,_Wellington   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Music_Tech_Fest   []
+	http://yago-knowledge.org/resource/Boston   []
+		http://yago-knowledge.org/resource/William_J._Devine_Memorial_Golf_Course   [william]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_Booth_Memorial_Training_College_(Wellington)   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Newtown_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Vodafone_on_The_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Makara_Peak_Mountain_Bike_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/David_Farrington_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/New_Zealand_Ministry_of_Works   []
+	http://yago-knowledge.org/resource/Bridge_to_Nowhere_(New_Zealand)   []
+		http://yago-knowledge.org/resource/Whanganui_National_Park   [park]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 654960
+Total execution time: 17130
+
+Query Words: district, objects
+Root nodes Found: 300
+
+		http://yago-knowledge.org/resource/Metro_Vancouver_Regional_District   [district]
+	http://yago-knowledge.org/resource/Vancouver   []
+http://yago-knowledge.org/resource/2016-17_World_Rugby_Sevens_Series   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/2015-16_World_Rugby_Sevens_Series   []
+		http://yago-knowledge.org/resource/Metro_Vancouver_Regional_District   [district]
+	http://yago-knowledge.org/resource/Vancouver   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/1999-2000_World_Sevens_Series   []
+	http://yago-knowledge.org/resource/Stellenbosch   []
+		http://yago-knowledge.org/resource/Cape_Winelands_District_Municipality   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Hamilton_Airport_(New_Zealand)   []
+		http://yago-knowledge.org/resource/Waipa_District   [district]
+http://yago-knowledge.org/resource/Wellington_International_Airport   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Hauauru_ma_raki   []
+http://yago-knowledge.org/resource/Contact_Energy   []
+		http://yago-knowledge.org/resource/Waikato_District   [district]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 654960
+Total execution time: 17091
+
+Query Words: thomas, california
+Root nodes Found: 300
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Power_Rangers_Mystic_Force   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Power_Rangers_Ninja_Storm   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Power_Rangers_Dino_Thunder   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/California   [california]
+	http://yago-knowledge.org/resource/Los_Angeles_International_Airport   []
+http://yago-knowledge.org/resource/Air_New_Zealand   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 654960
+Total execution time: 17443
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 300
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Power_Rangers_Mystic_Force   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Power_Rangers_Ninja_Storm   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Power_Rangers_Dino_Thunder   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Los_Angeles_International_Airport   []
+		http://yago-knowledge.org/resource/William_P._Hobby_Airport   [william]
+http://yago-knowledge.org/resource/Air_New_Zealand   []
+		http://yago-knowledge.org/resource/California   [california]
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/Music_Tech_Fest   []
+	http://yago-knowledge.org/resource/Boston   []
+		http://yago-knowledge.org/resource/William_J._Devine_Memorial_Golf_Course   [william]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/William_Booth_Memorial_Training_College_(Wellington)   [william]
+Score: 0.25
+----
+
+Nodes visited: 654960
+Total execution time: 16888
+
+Query Words: park, church, district, objects
+Root nodes Found: 300
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Power_Rangers_Mystic_Force   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+		http://yago-knowledge.org/resource/Skirmish_of_the_Brick_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/Power_Rangers_Ninja_Storm   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+		http://yago-knowledge.org/resource/Action_at_Mount_Zion_Church   [church]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+http://yago-knowledge.org/resource/Power_Rangers_Dino_Thunder   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Action_at_Mount_Zion_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/Shark_in_the_Park   [park]
+Score: 0.25
+----
+
+
+		http://yago-knowledge.org/resource/Metro_Vancouver_Regional_District   [district]
+http://yago-knowledge.org/resource/2016-17_World_Rugby_Sevens_Series   []
+	http://yago-knowledge.org/resource/Vancouver   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Vancouver   []
+		http://yago-knowledge.org/resource/Metro_Vancouver_Regional_District   [district]
+http://yago-knowledge.org/resource/2015-16_World_Rugby_Sevens_Series   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Cape_Winelands_District_Municipality   [district]
+	http://yago-knowledge.org/resource/Stellenbosch   []
+http://yago-knowledge.org/resource/1999-2000_World_Sevens_Series   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Hamilton_Airport_(New_Zealand)   []
+http://yago-knowledge.org/resource/Wellington_International_Airport   []
+		http://yago-knowledge.org/resource/Waipa_District   [district]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Waikato_District   [district]
+http://yago-knowledge.org/resource/Contact_Energy   []
+	http://yago-knowledge.org/resource/Hauauru_ma_raki   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Air_New_Zealand   []
+		http://yago-knowledge.org/resource/Glacier_Park_International_Airport   [park]
+	http://yago-knowledge.org/resource/Los_Angeles_International_Airport   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Bolton_Street_Memorial_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/University_Challenge_(New_Zealand_TV_series)   []
+	http://yago-knowledge.org/resource/Invercargill   []
+		http://yago-knowledge.org/resource/Rugby_Park_Stadium   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/New_Zealand_Democratic_Party_for_Social_Credit   []
+	http://yago-knowledge.org/resource/Invercargill   []
+		http://yago-knowledge.org/resource/Rugby_Park_Stadium   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Manapouri_Power_Station   []
+http://yago-knowledge.org/resource/Meridian_Energy   []
+		http://yago-knowledge.org/resource/Fiordland_National_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Athletic_Park,_Wellington   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Newtown_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Vodafone_on_The_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/St_John's_Church,_Wellington   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Makara_Peak_Mountain_Bike_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/David_Farrington_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/New_Zealand_Ministry_of_Works   []
+		http://yago-knowledge.org/resource/Whanganui_National_Park   [park]
+	http://yago-knowledge.org/resource/Bridge_to_Nowhere_(New_Zealand)   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 654960
+Total execution time: 17188
+
+Query Words: descent, football, william, park
+Root nodes Found: 300
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Power_Rangers_Mystic_Force   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Power_Rangers_Ninja_Storm   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Power_Rangers_Dino_Thunder   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Shark_in_the_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Air_New_Zealand   []
+		http://yago-knowledge.org/resource/William_P._Hobby_Airport   [william]
+	http://yago-knowledge.org/resource/Los_Angeles_International_Airport   []
+		http://yago-knowledge.org/resource/Glacier_Park_International_Airport   [park]
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/Bolton_Street_Memorial_Park   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Invercargill   []
+http://yago-knowledge.org/resource/University_Challenge_(New_Zealand_TV_series)   []
+		http://yago-knowledge.org/resource/Rugby_Park_Stadium   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/New_Zealand_Democratic_Party_for_Social_Credit   []
+		http://yago-knowledge.org/resource/Rugby_Park_Stadium   [park]
+	http://yago-knowledge.org/resource/Invercargill   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Meridian_Energy   []
+		http://yago-knowledge.org/resource/Fiordland_National_Park   [park]
+	http://yago-knowledge.org/resource/Manapouri_Power_Station   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Athletic_Park,_Wellington   [park]
+Score: 0.25
+----
+
+
+		http://yago-knowledge.org/resource/William_J._Devine_Memorial_Golf_Course   [william]
+	http://yago-knowledge.org/resource/Boston   []
+http://yago-knowledge.org/resource/Music_Tech_Fest   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/William_Booth_Memorial_Training_College_(Wellington)   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Wellington_Rugby_Football_Union   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Newtown_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Vodafone_on_The_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Makara_Peak_Mountain_Bike_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/David_Farrington_Park   [park]
+Score: 0.25
+----
+
+
+		http://yago-knowledge.org/resource/Whanganui_National_Park   [park]
+	http://yago-knowledge.org/resource/Bridge_to_Nowhere_(New_Zealand)   []
+http://yago-knowledge.org/resource/New_Zealand_Ministry_of_Works   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 654960
+Total execution time: 17043
+

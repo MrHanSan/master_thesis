@@ -1,0 +1,5983 @@
+Query Words: william, whole
+Root nodes Found: 12968
+
+	http://yago-knowledge.org/resource/Love,_Pain_&_the_Whole_Crazy_Thing   [whole]
+http://yago-knowledge.org/resource/Keith_Urban   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Dancing_the_Whole_Way_Home   [whole]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/William_Allan_Award   [william]
+http://yago-knowledge.org/resource/Yuet_Wai_Kan   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/William_Henry_Harrison   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/William_Shatner's_Gonzo_Ballet   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/William_Madia   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/William_Clark_Jr._(1798-1871)   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/William_Spring_of_Pakenham   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Until_the_Whole_World_Hears_(song)   [whole]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/William_Lodge_(American_football)   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Margaret_of_Geneva   []
+	http://yago-knowledge.org/resource/William_of_Savoy   [william]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Until_the_Whole_World_Hears   [whole]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/William_de_Bohun,_1st_Earl_of_Northampton   [william]
+http://yago-knowledge.org/resource/Elizabeth_de_Badlesmere,_Countess_of_Northampton   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/William_Reeves_(finance)   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Valerie_Flint   []
+	http://yago-knowledge.org/resource/Richard_William_Hunt   [william]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/William_J._Pomeroy   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/William_Close   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/William_L._Saltonstall   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/William_R._Sharpe_Jr.   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/William_Edward_Lavery   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/William_L._Mack   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/William_H._Behle   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/William_Henry_Thomas   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/William_Burns_(Australian_politician)   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Ennis_Rees   []
+	http://yago-knowledge.org/resource/College_of_William_&_Mary   [william]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/The_Whole_Shootin'_Match   [whole]
+http://yago-knowledge.org/resource/Lou_Perryman   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/William_Becke   [william]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/William_J._Brennan_Award   [william]
+http://yago-knowledge.org/resource/Judith_Krug   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/William_Stanhope,_11th_Earl_of_Harrington   [william]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/The_Story_of_William_Tell   [william]
+http://yago-knowledge.org/resource/Jack_Cardiff   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/William_F._Barnes   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/L._William_Seidman   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/William_J._Passmore   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/William_Moore_(loyalist)   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/William_Refshauge   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/William_L._Schultz   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/William_Lorne_Northmore_Somerville   [william]
+Score: 0.5
+----
+
+Nodes visited: 12977
+Total execution time: 56190
+
+Query Words: thomas, california
+Root nodes Found: 12968
+
+http://yago-knowledge.org/resource/Drexel_University_Sacramento   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Morro_Bay,_California   [california]
+http://yago-knowledge.org/resource/Mel_Queen_(pitcher/outfielder)   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Jockeys_(TV_series)   []
+	http://yago-knowledge.org/resource/Arcadia,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Carmel-by-the-Sea,_California   [california]
+http://yago-knowledge.org/resource/Philip_Bartelme   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Against_the_Dark   []
+	http://yago-knowledge.org/resource/Santa_Clarita,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Mountain_View,_California   [california]
+http://yago-knowledge.org/resource/WhatsApp   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Jose_Thomas_Performing_Arts_Centre   [thomas]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/GlobalFoundries   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Peralta_Villa,_Oakland,_California   [california]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/D23_(Disney)   []
+	http://yago-knowledge.org/resource/Burbank,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Rochdale_Village_(Berkeley,_California)   [california]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Better_Off_Ted   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/ShoeDazzle   []
+	http://yago-knowledge.org/resource/El_Segundo,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Pasadena,_California   [california]
+http://yago-knowledge.org/resource/OneWest_Bank   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Wright_Place,_California   [california]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Giant_Sparrow   []
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Fernside,_Alameda,_California   [california]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/White_Mountains_Wilderness   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/GV_(company)   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Yuet_Wai_Kan   []
+	http://yago-knowledge.org/resource/University_of_California,_San_Francisco   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Bottega_Louie   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Southland_(TV_series)   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/California_Years   [california]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Piedmont,_California   [california]
+http://yago-knowledge.org/resource/John_Coffee_Hays   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Virginia_Mills,_California   [california]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Big_Trees,_California   [california]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Sawmill_Flat,_California   [california]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Los_Angeles_County,_California   [california]
+http://yago-knowledge.org/resource/Hollywood_Dell,_Los_Angeles   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Denco,_California   [california]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Eshpeu,_California   [california]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/The_Tonight_Show_with_Conan_O'Brien   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/KAXT-CD   []
+	http://yago-knowledge.org/resource/San_Jose,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Ana,_California   [california]
+http://yago-knowledge.org/resource/Ark_Collective   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Zack_Snyder   []
+	http://yago-knowledge.org/resource/Pasadena,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Blocksburg,_California   [california]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Gonzales,_California   [california]
+http://yago-knowledge.org/resource/Fog's_End_Distillery   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Andreessen_Horowitz   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Thomas_Lincoln_Casey,_Jr.   [thomas]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Knowles_Junction,_California   [california]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Listia   []
+	http://yago-knowledge.org/resource/Mountain_View,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Redwood_City,_California   [california]
+http://yago-knowledge.org/resource/Jon_Huntsman_Jr.   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/TPC_Stonebrae_Championship   []
+	http://yago-knowledge.org/resource/Hayward,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Sledgehammer_Games   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Planada,_California   [california]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Sun_Valley_High_School_(California)   [california]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [california]
+http://yago-knowledge.org/resource/Rightscorp   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Community_(TV_series)   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Oakland,_California   [california]
+http://yago-knowledge.org/resource/1967_American_Football_League_Championship_Game   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/St._Thomas_Observatory   [thomas]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Ginger_Zee   []
+	http://yago-knowledge.org/resource/Orange,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/1961_American_Football_League_Championship_Game   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Fontana_Adult_School   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Thomas,_Count_of_Flanders   [thomas]
+http://yago-knowledge.org/resource/Margaret_of_Geneva   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Lightworkers_Media   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Thomas_Jefferson_Hogg   [thomas]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Bartlett_Springs,_California   [california]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Big_Time_Rush   []
+	http://yago-knowledge.org/resource/Malibu,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Thomas_G._Plante   [thomas]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/American_Freedom_Party   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Kiwaukee_Thomas   [thomas]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Pit_Boss_(TV_series)   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Aviat_Networks   []
+	http://yago-knowledge.org/resource/Santa_Clara,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Larkin's_Landing,_California   [california]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Tom_Leykis   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Malibu,_California   [california]
+http://yago-knowledge.org/resource/Privileged_(TV_series)   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/The_L_Word   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Talkshow_with_Spike_Feresten   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/El_Rostro_de_Analía   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Special_routes_of_U.S._Route_66   []
+	http://yago-knowledge.org/resource/San_Bernardino,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/University_of_California,_Berkeley   [california]
+http://yago-knowledge.org/resource/Lin_He   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Beverly_Hills,_California   [california]
+http://yago-knowledge.org/resource/Hamid_Gabbay   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Pasadena,_California   [california]
+http://yago-knowledge.org/resource/Roger_Wolcott_Sperry   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Antioch,_California   [california]
+http://yago-knowledge.org/resource/Ronald_O._Loveridge   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Olga_San_Juan   []
+	http://yago-knowledge.org/resource/Burbank,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/University_of_California,_Los_Angeles   [california]
+http://yago-knowledge.org/resource/Hisayasu_Nagata   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [california]
+http://yago-knowledge.org/resource/Cheryl_Holdridge   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Nino_Bongiovanni   []
+	http://yago-knowledge.org/resource/San_Jose,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Portola_Valley,_California   [california]
+http://yago-knowledge.org/resource/Jacques_Littlefield   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Robert_T._Monagan   []
+	http://yago-knowledge.org/resource/Sacramento,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Oakland,_California   [california]
+http://yago-knowledge.org/resource/Roger_Harding   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Don_Callender   []
+	http://yago-knowledge.org/resource/Ventura,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Peter_Kollock   []
+	http://yago-knowledge.org/resource/Calabasas,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Inglewood,_California   [california]
+http://yago-knowledge.org/resource/Eric_Scoggins   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Fullerton,_California   [california]
+http://yago-knowledge.org/resource/Andy_DeMize   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Frederic_M._Richards   []
+	http://yago-knowledge.org/resource/Thomas_A._Steitz   [thomas]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Claude_Berri   []
+	http://yago-knowledge.org/resource/Thomas_Langmann   [thomas]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Russ_Conway_(actor)   []
+	http://yago-knowledge.org/resource/Laguna_Hills,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Fullerton,_California   [california]
+http://yago-knowledge.org/resource/Preston_Gómez   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [california]
+http://yago-knowledge.org/resource/Patrick_McGoohan   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Judith_Hoffberg   []
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Palm_Springs,_California   [california]
+http://yago-knowledge.org/resource/Whitey_Mitchell   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Bobby_Robertson   []
+	http://yago-knowledge.org/resource/Santa_Cruz,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Lancaster,_California   [california]
+http://yago-knowledge.org/resource/Bob_May_(actor)   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Redding,_California   [california]
+http://yago-knowledge.org/resource/James_E._Swett   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Redlands,_California   [california]
+http://yago-knowledge.org/resource/Carl_W._McIntosh   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Thomas_(activist)   [thomas]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Tony_Storti   []
+	http://yago-knowledge.org/resource/Carlsbad,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Thomas_Ambrose_Tschoepe   [thomas]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Len_Perme   []
+	http://yago-knowledge.org/resource/Hayward,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California_Institute_of_Technology   [california]
+http://yago-knowledge.org/resource/Eleanor_F._Helin   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Mickey_Rourke   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/James_Schevill   []
+	http://yago-knowledge.org/resource/Berkeley,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Clint_Ritchie   []
+	http://yago-knowledge.org/resource/Roseville,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/John_Roy_Whinnery   []
+	http://yago-knowledge.org/resource/Walnut_Creek,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Frankie_Ervin   []
+	http://yago-knowledge.org/resource/Blythe,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Laguna_Woods,_California   [california]
+http://yago-knowledge.org/resource/Eric_Monti   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Lux_Interior   []
+	http://yago-knowledge.org/resource/Glendale,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Malibu,_California   [california]
+http://yago-knowledge.org/resource/James_Whitmore   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/San_Luis_Obispo,_California   [california]
+http://yago-knowledge.org/resource/Mel_Kaufman   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Oceanside,_California   [california]
+http://yago-knowledge.org/resource/Molly_Bee   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Jack_Cover   []
+	http://yago-knowledge.org/resource/San_Clemente,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Solana_Beach,_California   [california]
+http://yago-knowledge.org/resource/Mike_Whitmarsh   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Thomas_Jerome_Welsh   [thomas]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Rosa,_California   [california]
+http://yago-knowledge.org/resource/Robert_Quarry   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Orange_County,_California   [california]
+http://yago-knowledge.org/resource/Barbara_Marshall   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Michael_Noonan_(linguist)   []
+	http://yago-knowledge.org/resource/California_State_University,_Los_Angeles   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/University_of_California,_Berkeley   [california]
+http://yago-knowledge.org/resource/William_H._Behle   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Charalambos_D._Aliprantis   []
+	http://yago-knowledge.org/resource/California_Institute_of_Technology   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Thousand_Oaks,_California   [california]
+http://yago-knowledge.org/resource/John_Alvin_(actor)   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/William_Henry_Thomas   [thomas]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Sydney_Chaplin_(American_actor)   []
+	http://yago-knowledge.org/resource/Rancho_Mirage,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Thomas_T._Goldsmith_Jr.   [thomas]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Jim_Bellows   []
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Jimmy_Boyd   []
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Michael_Bowen_(artist)   []
+	http://yago-knowledge.org/resource/Beverly_Hills,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Ed_Wolfe   []
+	http://yago-knowledge.org/resource/Modesto,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Newport_Beach,_California   [california]
+http://yago-knowledge.org/resource/Charles_Lewis_Jr.   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Thomas_Ranken_Lyle_Medal   [thomas]
+http://yago-knowledge.org/resource/Ernie_Tuck   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Rancho_Mirage,_California   [california]
+http://yago-knowledge.org/resource/Leonore_Annenberg   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Claude_Brinegar   []
+	http://yago-knowledge.org/resource/Palo_Alto,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Alan_W._Livingston   []
+	http://yago-knowledge.org/resource/Beverly_Hills,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Alpine,_California   [california]
+http://yago-knowledge.org/resource/Coy_Watson_Jr.   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Richard_Aoki   []
+	http://yago-knowledge.org/resource/Berkeley,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Ed_Callahan   []
+	http://yago-knowledge.org/resource/Sacramento,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Fresno,_California   [california]
+http://yago-knowledge.org/resource/Bob_Arbogast   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Abismo_Negro   []
+	http://yago-knowledge.org/resource/El_Rosario,_Baja_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Palm_Springs,_California   [california]
+http://yago-knowledge.org/resource/Frank_Bogert   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Earle_Brucker_Jr.   []
+	http://yago-knowledge.org/resource/El_Cajon,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Modesto,_California   [california]
+http://yago-knowledge.org/resource/Marilyn_Borden   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Murder_of_Sandra_Cantu   []
+	http://yago-knowledge.org/resource/Tracy,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Malibu,_California   [california]
+http://yago-knowledge.org/resource/Maurice_Jarre   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Jorge_Preloran   []
+	http://yago-knowledge.org/resource/Culver_City,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Monte_Hale   []
+	http://yago-knowledge.org/resource/California_Firebrand   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/San_Rafael,_California   [california]
+http://yago-knowledge.org/resource/Walter_Kuhlman   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Andrea_Mead_Lawrence   []
+	http://yago-knowledge.org/resource/Mammoth_Lakes,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Bud_Shank   []
+	http://yago-knowledge.org/resource/California_Concert   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [california]
+http://yago-knowledge.org/resource/Victor_Millan   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Jerome_R._Waldie   []
+	http://yago-knowledge.org/resource/University_of_California,_Berkeley   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Harold_E._Comstock   []
+	http://yago-knowledge.org/resource/Fresno,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Thomas_R._Byrne   [thomas]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Jack_Wrangler   []
+	http://yago-knowledge.org/resource/Beverly_Hills,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Richard_de_Mille   []
+	http://yago-knowledge.org/resource/Monrovia,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Pebble_Beach,_California   [california]
+http://yago-knowledge.org/resource/Jane_Bryan   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Nick_Adenhart   []
+	http://yago-knowledge.org/resource/Orange,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Deborah_Digges   []
+	http://yago-knowledge.org/resource/University_of_California,_Riverside   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Mickey_Cafagna   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Clarita,_California   [california]
+http://yago-knowledge.org/resource/Marilyn_Chambers   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Irvine,_California   [california]
+http://yago-knowledge.org/resource/Zeke_Zarchy   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California_Golden_Seals   [california]
+http://yago-knowledge.org/resource/Kent_Douglas   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Bruce_Ogilvie_(motorcycle_racer)   []
+	http://yago-knowledge.org/resource/Riverside,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [california]
+http://yago-knowledge.org/resource/Bruce_Snyder   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/University_of_California,_Berkeley   [california]
+http://yago-knowledge.org/resource/Charles_Anderson_(businessman)   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Thomas_M._Disch   [thomas]
+http://yago-knowledge.org/resource/J._G._Ballard   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Thomas_Hill_(actor)   [thomas]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Beverly_Hills,_California   [california]
+http://yago-knowledge.org/resource/Ken_Annakin   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/William_F._Barnes   []
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/San_Jose,_California   [california]
+http://yago-knowledge.org/resource/Jack_Lohrke   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Hal_Perry_(basketball)   []
+	http://yago-knowledge.org/resource/El_Cerrito,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Jack_Kemp   []
+	http://yago-knowledge.org/resource/Los_Angeles_County,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Dom_DeLuise   []
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Sid_Laverents   []
+	http://yago-knowledge.org/resource/Chula_Vista,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Travis_Edmonson   []
+	http://yago-knowledge.org/resource/Long_Beach,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Walnut_Creek,_California   [california]
+http://yago-knowledge.org/resource/Otto_J._M._Smith   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Beverly_Hills,_California   [california]
+http://yago-knowledge.org/resource/Roya_Megnot   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Barbara,_California   [california]
+http://yago-knowledge.org/resource/Robert_J._Sinclair   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Thomas_Nordseth-Tiller   [thomas]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Palm_Springs,_California   [california]
+http://yago-knowledge.org/resource/Bob_Rosburg   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Buddy_Montgomery   []
+	http://yago-knowledge.org/resource/Palmdale,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California_City,_California   [california]
+http://yago-knowledge.org/resource/Bob_Boyd_(American_football)   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Glendale,_California   [california]
+http://yago-knowledge.org/resource/Wayne_Allwine   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/University_of_California,_Berkeley   [california]
+http://yago-knowledge.org/resource/Herbert_York   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Pasadena,_California   [california]
+http://yago-knowledge.org/resource/Ralph_D._Winter   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Two_California_Plaza   [california]
+http://yago-knowledge.org/resource/Arthur_Erickson   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Sam_Maloof   []
+	http://yago-knowledge.org/resource/Alta_Loma,_Rancho_Cucamonga,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Edward_J._Lakso   []
+	http://yago-knowledge.org/resource/Beverly_Hills,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Ronald_Takaki   []
+	http://yago-knowledge.org/resource/Berkeley,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Clive_Granger   []
+	http://yago-knowledge.org/resource/University_of_California,_San_Diego   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/University_of_Southern_California   [california]
+http://yago-knowledge.org/resource/Truman_G._Madsen   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Thomas_Berry   [thomas]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Ernest_May_(historian)   []
+	http://yago-knowledge.org/resource/University_of_California,_Los_Angeles   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/FrancEyE   []
+	http://yago-knowledge.org/resource/Greenbrae,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/University_of_California,_Berkeley   [california]
+http://yago-knowledge.org/resource/Thomas_Gill_(politician)   [thomas]
+Score: 0.3333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/University_of_California,_Berkeley   [california]
+http://yago-knowledge.org/resource/Bernard_Zimmerman   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Redlands,_California   [california]
+http://yago-knowledge.org/resource/Ward_Costello   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Oakland,_California   [california]
+http://yago-knowledge.org/resource/Robert_Colescott   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Atherton,_California   [california]
+http://yago-knowledge.org/resource/Rajeev_Motwani   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Del_Monroe   []
+	http://yago-knowledge.org/resource/Burbank,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Bill_Lillard   []
+	http://yago-knowledge.org/resource/Goleta,_California   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Woodie_Held   []
+	http://yago-knowledge.org/resource/Sacramento,_California   [california]
+Score: 0.16666666666666666
+----
+
+Nodes visited: 15190
+Total execution time: 17227
+
+Query Words: park, church
+Root nodes Found: 12968
+
+http://yago-knowledge.org/resource/Woodland_Park,_New_Jersey   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Overland_Park,_Kansas   [park]
+http://yago-knowledge.org/resource/United_States_of_Tara   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Jockeys_(TV_series)   []
+	http://yago-knowledge.org/resource/Santa_Anita_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Brown_Memorial_Presbyterian_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Wilderness_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/South_Park_(season_13)   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/The_Ring_(South_Park)   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Clumber_Park   [park]
+http://yago-knowledge.org/resource/Henry_Pelham-Clinton,_4th_Duke_of_Newcastle   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/St_Helen's_Church,_Bishopsgate   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Zion_Wilderness   []
+	http://yago-knowledge.org/resource/Zion_National_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/J.R._Dick_Dowdy_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Fishsticks_(South_Park)   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Pinewood_Derby_(South_Park)   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Saint_Francis_Seraph_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Live_at_Park_Ave.   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St_Michael's_Church,_Beetham   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Danggali_Wilderness_Protection_Area   []
+	http://www.environment.sa.gov.au/parks/Find_a_park/Browse_by_region/Murray_River/Danggali_Conservation_Park_and_Wilderness_Protection_Area   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Russian_Arctic_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Lomsdal-Visten_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Ytre_Hvaler_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Park_Benches   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Andreessen_Horowitz   []
+	http://yago-knowledge.org/resource/Menlo_Park,_California   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Architect_of_This_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Park_No-sik   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Mols_Bjerge_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Park_City_Medical_Center   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_Music_(album)   [church]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Kahikolu_Church   [church]
+http://yago-knowledge.org/resource/John_Davis_Paris   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/1372_Overton_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/South_Park_Let's_Go_Tower_Defense_Play!   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Kalnai_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/The_F_Word_(South_Park)   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/First_Church_of_Christ,_Scientist_(Tacoma,_Washington)   [church]
+http://yago-knowledge.org/resource/Frederick_Heath_(architect)   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Pee_(South_Park)   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_Saint_Agrippina   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Dorothea_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Mudumalai_National_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Craig_Stimac   []
+	http://yago-knowledge.org/resource/Oak_Park,_Illinois   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Max_Borges,_Jr.   []
+	http://yago-knowledge.org/resource/Falls_Church,_Virginia   [church]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Orange_Park,_Florida   [park]
+http://yago-knowledge.org/resource/Billy_Powell   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/The_Church_with_One_Bell   [church]
+http://yago-knowledge.org/resource/John_Martyn   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/John_Gabler   []
+	http://yago-knowledge.org/resource/Overland_Park,_Kansas   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Betsy_Blair   []
+	http://yago-knowledge.org/resource/Cliffside_Park,_New_Jersey   [park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/University_of_Maryland,_College_Park   [park]
+http://yago-knowledge.org/resource/David_Louis_Band   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Queens_Park_Rangers_F.C.   [park]
+http://yago-knowledge.org/resource/Mike_Keen   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Timothy_Tow   []
+	http://yago-knowledge.org/resource/Life_Bible-Presbyterian_Church   [church]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Dom_DeLuise   []
+	http://yago-knowledge.org/resource/A_Troll_in_Central_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Berea_Park_F.C.   [park]
+http://yago-knowledge.org/resource/Walter_da_Silva   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Highland_Park,_New_Jersey   [park]
+http://yago-knowledge.org/resource/Ivan_Van_Sertima   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Park_Sung-hyun   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Regents_Park,_New_South_Wales   [park]
+http://yago-knowledge.org/resource/Chris_O'Brien_(surgeon)   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Duke_Bainum   []
+	http://yago-knowledge.org/resource/Takoma_Park,_Maryland   [park]
+Score: 0.16666666666666666
+----
+
+Nodes visited: 13002
+Total execution time: 10116
+
+Query Words: district, objects
+Root nodes Found: 12968
+
+http://yago-knowledge.org/resource/Gordon/Barrie_Island   []
+	http://yago-knowledge.org/resource/Manitoulin_District   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Lewes_District   [district]
+http://yago-knowledge.org/resource/Plumpton,_East_Sussex   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Chiniot_District   [district]
+http://yago-knowledge.org/resource/Bhawana_Tehsil   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Bhawana   []
+	http://yago-knowledge.org/resource/Chiniot_District   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Lalian   []
+	http://yago-knowledge.org/resource/Chiniot_District   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Chiniot_District   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Zərnəli   []
+	http://yago-knowledge.org/resource/Zangilan_District   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Gənclər   []
+	http://yago-knowledge.org/resource/Quba_District_(Azerbaijan)   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Oregon_City_School_District_(Oregon)   [district]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Langley,_British_Columbia_(district_municipality)   [district]
+http://yago-knowledge.org/resource/Langley_Events_Centre   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Valle_de_Agua_Arriba   []
+	http://yago-knowledge.org/resource/Changuinola_District   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Changuinola_District   [district]
+http://yago-knowledge.org/resource/La_Gloria,_Bocas_del_Toro   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Changuinola_District   [district]
+http://yago-knowledge.org/resource/Nance_de_Risco   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Cochigró   []
+	http://yago-knowledge.org/resource/Changuinola_District   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Las_Delicias,_Bocas_del_Toro   []
+	http://yago-knowledge.org/resource/Changuinola_District   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Shengavit_District   [district]
+http://yago-knowledge.org/resource/Verin_Charbakh   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Shongor-e_Olya   []
+	http://yago-knowledge.org/resource/Choghamish_District   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Brisbane_central_business_district   [district]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Lince_District   [district]
+http://yago-knowledge.org/resource/Al_Fondo_Hay_Sitio   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Caledonia-Washington-1_Vermont_Representative_District,_2002-12   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Kastrychnitski_District   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Hosen,_Iran   []
+	http://yago-knowledge.org/resource/Jorjafak_Rural_District   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Balakan_District   [district]
+http://yago-knowledge.org/resource/Xalatala   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Sosa,_India   []
+	http://yago-knowledge.org/resource/Pithoragarh_district   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Chittenden-1-2_Vermont_Representative_District,_2002-12   [district]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Bagan_Datuk_District   [district]
+http://yago-knowledge.org/resource/SMS_Bagan_Datoh   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Şahbuzkənd   []
+	http://yago-knowledge.org/resource/Shahbuz_District   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Otuke_District   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Kyegegwa_District   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Otuke   []
+	http://yago-knowledge.org/resource/Otuke_District   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Dodangeh_Rural_District_(Khuzestan_Province)   [district]
+http://yago-knowledge.org/resource/Korreh_Siah-e_Shirin   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Neihu_District   [district]
+http://yago-knowledge.org/resource/Next_TV   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Gurleyville_Historic_District   [district]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Central_District_(Oshnavieh_County)   [district]
+http://yago-knowledge.org/resource/Seybian   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Fulda_(district)   [district]
+http://yago-knowledge.org/resource/Großenlüder   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Sozak_District   [district]
+http://yago-knowledge.org/resource/Inkai_Uranium_Project   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Troy_School_District_(Michigan)   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/District_9   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Otradny,_Samara_Oblast   []
+	http://yago-knowledge.org/resource/Volga_Federal_District   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Rutland-4_Vermont_Representative_District,_2002-12   [district]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Angut-e_Sharqi_Rural_District   [district]
+http://yago-knowledge.org/resource/Mollalu,_Germi   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Ujar_District   [district]
+http://yago-knowledge.org/resource/Müsüslü   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Bennington-Rutland-1_Vermont_Representative_District,_2002-12   [district]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Pish_Khowr_District   [district]
+http://yago-knowledge.org/resource/Khvajeh_Hesar   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Thanjavur_district   [district]
+http://yago-knowledge.org/resource/University_College_of_Engineering,_Pattukkottai   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Qurian   []
+	http://yago-knowledge.org/resource/Jolgeh-e_Mazhan_District   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Nong_Chok_District   [district]
+http://yago-knowledge.org/resource/Nong_Chok_National_Football_Center   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Central_District_(Rudbar_County)   [district]
+http://yago-knowledge.org/resource/Razkand   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Xiangdong_District   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Bruckneudorf   []
+	http://yago-knowledge.org/resource/Neusiedl_am_See_District   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Ejisu-Juaben_Municipal_District   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Mirza_Fakhrul_Islam_Alamgir   []
+	http://yago-knowledge.org/resource/Thakurgaon_District   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Laishan_District   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/SMS_Rembau   []
+	http://yago-knowledge.org/resource/Rembau_District   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Montrose_Area_School_District   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Khushab_Nuclear_Complex   []
+	http://yago-knowledge.org/resource/Khushab_District   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Falj,_Zanjan   []
+	http://yago-knowledge.org/resource/Khorramdarreh_Rural_District   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Yaozhou_District   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Huriwa_District   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Mian_Volan-e_Sofla   []
+	http://yago-knowledge.org/resource/Central_District_(Selseleh_County)   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Palaikythro   []
+	http://yago-knowledge.org/resource/Nicosia_District   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Pripiceni-Răzeși   []
+	http://yago-knowledge.org/resource/Rezina_District   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Simele_District   [district]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Kaghazkonan_District   [district]
+http://yago-knowledge.org/resource/Aqkand   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Sha_Tin_District   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Ostunrash   []
+	http://yago-knowledge.org/resource/Kuhsar_District   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Science_Centre,_Surat   []
+	http://yago-knowledge.org/resource/Surat_district   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Arumeru_District   [district]
+http://yago-knowledge.org/resource/Mount_Meru_(Tanzania)   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/C-JeS_Entertainment   []
+	http://yago-knowledge.org/resource/Gangnam_District   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Klokot   []
+	http://yago-knowledge.org/resource/District_of_Gjilan   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Nalgonda_district   [district]
+http://yago-knowledge.org/resource/Chada,_Nalgonda   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Mapo_District   [district]
+http://yago-knowledge.org/resource/Participation_Party_(South_Korea)   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Ust-Kansky_District   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/North_Caucasian_Federal_District   [district]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Alvar-e_Garmsiri_District   [district]
+http://yago-knowledge.org/resource/Sar_Seyl-e_Zardab-e_Mohammad_Taher   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Twelfth_Federal_Electoral_District_of_the_Federal_District   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Military_district   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Umsobomvu_Local_Municipality   []
+	http://yago-knowledge.org/resource/Pixley_ka_Seme_District_Municipality   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/The_Nilgiris_District   [district]
+http://yago-knowledge.org/resource/Mudumalai_National_Park   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Crompton_Urban_District   [district]
+http://yago-knowledge.org/resource/Ian_Greaves   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Guntur_district   [district]
+http://yago-knowledge.org/resource/B._V._Subbamma   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Seryshevsky_District   [district]
+http://yago-knowledge.org/resource/Yuri_Avrutskiy   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Salyan_District,_Azerbaijan   [district]
+http://yago-knowledge.org/resource/Rail_Rzayev   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Karnail_Singh_Paras   []
+	http://yago-knowledge.org/resource/Moga_district   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Savita_Behen   []
+	http://yago-knowledge.org/resource/Jhelum_District   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Nozhay-Yurtovsky_District   [district]
+http://yago-knowledge.org/resource/Sulim_Yamadayev   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/A._F._Golam_Osmani   []
+	http://yago-knowledge.org/resource/Cachar_district   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/A-Sun_(singer)   []
+	http://yago-knowledge.org/resource/Xindian_District   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Fengnan_District   [district]
+http://yago-knowledge.org/resource/Yan_Huaili   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Bilal_Zafar   []
+	http://yago-knowledge.org/resource/Swat_District   [district]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Hassan_district   [district]
+http://yago-knowledge.org/resource/K._Pattabhi_Jois   []
+Score: 0.16666666666666666
+----
+
+Nodes visited: 13061
+Total execution time: 10389
+
+Query Words: descent, football
+Root nodes Found: 12968
+
+http://yago-knowledge.org/resource/Football_Manager_Live   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Mr._Football_Award_(Florida)   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/1991_Estonian_SSR_Football_Championship   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Flowers_&_Football_Tops   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Nasko_Sirakov   []
+	http://yago-knowledge.org/resource/Bulgaria_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Masters_Football   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/2010_Fremantle_Football_Club_season   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/1947-48_Football_League   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Gerzon_Chacón   []
+	http://yago-knowledge.org/resource/Venezuela_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/K._Rajagopal   []
+	http://yago-knowledge.org/resource/Malaysia_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/City_Football_Academy_(Melbourne)   [football]
+http://yago-knowledge.org/resource/Melbourne_City_FC   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Slovenia_women's_national_football_team   [football]
+http://yago-knowledge.org/resource/Edward_Ould   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Guy-Manuel_de_Homem-Christo   []
+	http://yago-knowledge.org/resource/Equatorial_Guinea_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/NCAA_Football_10   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Scottish_football_referee_strike   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/The_Football_League_Show   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Tahar_El_Khalej   []
+	http://yago-knowledge.org/resource/Morocco_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/The_Descent_Part_2   [descent]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Ihor_Kostyuk   []
+	http://yago-knowledge.org/resource/Ukraine_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/World_Football_Daily   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Nong_Chok_National_Football_Center   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/2009-10_Football_Conference   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Victor_Goryunov   []
+	http://yago-knowledge.org/resource/Poland_national_under-18_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/1967_American_Football_League_Championship_Game   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Mirza_Fakhrul_Islam_Alamgir   []
+	http://yago-knowledge.org/resource/Croatia_national_under-17_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Football_Tycoon   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Football_Manager_2010   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/William_Lodge_(American_football)   [football]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Spain_national_under-20_football_team   [football]
+http://yago-knowledge.org/resource/Asier_Riesgo   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/1961_American_Football_League_Championship_Game   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Archdeacon_of_St_Albans   []
+	http://yago-knowledge.org/resource/Saudi_Arabia_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Kirati_Keawsombat   []
+	http://yago-knowledge.org/resource/Thailand_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Football_Friday   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Cleiton_Xavier   []
+	http://yago-knowledge.org/resource/Brazil_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Gia_Guruli   []
+	http://yago-knowledge.org/resource/Georgia_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Ryuzo_Hiraki   []
+	http://yago-knowledge.org/resource/Japan_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Lei_Clijsters   []
+	http://yago-knowledge.org/resource/Belgium_national_under-21_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Alfie_Conn_Sr.   []
+	http://yago-knowledge.org/resource/Scottish_Football_League_XI   [football]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/East_Germany_national_under-21_football_team   [football]
+http://yago-knowledge.org/resource/Michael_Polywka   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Friaça   []
+	http://yago-knowledge.org/resource/Brazil_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Tommy_Casey   []
+	http://yago-knowledge.org/resource/Northern_Ireland_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Joop_Wille   []
+	http://yago-knowledge.org/resource/Netherlands_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Aad_Bak   []
+	http://yago-knowledge.org/resource/Netherlands_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Claudio_Milar   []
+	http://yago-knowledge.org/resource/Club_Nacional_de_Football   [football]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Yugoslavia_national_football_team   [football]
+http://yago-knowledge.org/resource/Tomislav_Crnković   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Vic_Crowe   []
+	http://yago-knowledge.org/resource/Wales_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Austria_national_football_team   [football]
+http://yago-knowledge.org/resource/Peter_Persidis   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Benin_national_football_team   [football]
+http://yago-knowledge.org/resource/Phyllis_Kernick   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Jaime_Belmonte   []
+	http://yago-knowledge.org/resource/Mexico_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Murder_of_Michael_Gilbert   []
+	http://yago-knowledge.org/resource/Italy_national_under-19_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Austria_national_football_team   [football]
+http://yago-knowledge.org/resource/Karl_Koller_(footballer)   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Fernando_Cornejo   []
+	http://yago-knowledge.org/resource/Chile_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Fred_Janke   []
+	http://yago-knowledge.org/resource/Michigan_Wolverines_football   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Don_Robinson_(American_football)   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Billy_Wilson_(American_football)   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Aubrey_Powell_(footballer)   []
+	http://yago-knowledge.org/resource/Wales_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Willi_Köchling   []
+	http://yago-knowledge.org/resource/Germany_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Roy_Saunders   []
+	http://yago-knowledge.org/resource/England_national_youth_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Safar_Iranpak   []
+	http://yago-knowledge.org/resource/Iran_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Pieter_van_den_Bosch_(footballer)   []
+	http://yago-knowledge.org/resource/Belgium_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/George_Hughes_(American_football)   [football]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Switzerland_national_football_team   [football]
+http://yago-knowledge.org/resource/Franco_Andreoli   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Joe_Haverty   []
+	http://yago-knowledge.org/resource/Republic_of_Ireland_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Reg_Davies   []
+	http://yago-knowledge.org/resource/Wales_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Giacomo_Bulgarelli   []
+	http://yago-knowledge.org/resource/Italy_national_under-21_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Bryan_John_Birch   []
+	http://yago-knowledge.org/resource/Italy_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Bernard_Ashley_(businessman)   []
+	http://yago-knowledge.org/resource/Germany_national_football_B_team   [football]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Racing_Club_de_France_football_Colombes_92   [football]
+http://yago-knowledge.org/resource/Carlos_Sosa_(footballer)   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Frank_Libutti   []
+	http://yago-knowledge.org/resource/Racing_Club_de_France_football_Colombes_92   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Vasili_Postnov   []
+	http://yago-knowledge.org/resource/Wydad_Athletic_Club_(Football)   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Valeri_Broshin   []
+	http://yago-knowledge.org/resource/Soviet_Union_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Kazakhstan_national_under-21_football_team   [football]
+http://yago-knowledge.org/resource/Anton_Shokh   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Cameroon_national_football_team   [football]
+http://yago-knowledge.org/resource/Edouard_Oum_Ndeki   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/England_national_football_team   [football]
+http://yago-knowledge.org/resource/Eddie_Lowe_(footballer)   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Anne_Brown   []
+	http://yago-knowledge.org/resource/England_national_under-19_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Alan_Suddick   []
+	http://yago-knowledge.org/resource/England_national_under-21_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Freddie_Mwila_Jr.   []
+	http://yago-knowledge.org/resource/Zambia_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Paul_Duke_(American_football)   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Hughie_Kelly   []
+	http://yago-knowledge.org/resource/Scotland_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Henri_Konan   []
+	http://yago-knowledge.org/resource/Ivory_Coast_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Botswana_national_football_team   [football]
+http://yago-knowledge.org/resource/Donald_Thobega   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Vladimir_Fedotov   []
+	http://yago-knowledge.org/resource/Soviet_Union_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Colombia_national_football_team   [football]
+http://yago-knowledge.org/resource/Julio_Edgar_Gaviria   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Johnny_Carson_(American_football)   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Brima_Sesay   []
+	http://yago-knowledge.org/resource/Sierra_Leone_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Romania_national_football_team   [football]
+http://yago-knowledge.org/resource/Gheorghe_Ene   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Frank_Morris_(Canadian_football)   [football]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Sporting_News_College_Football_Coach_of_the_Year   [football]
+http://yago-knowledge.org/resource/Bruce_Snyder   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Chinese_Taipei_national_football_team   [football]
+http://yago-knowledge.org/resource/Lam_Sheung_Yee   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Maxime_Lehmann   []
+	http://yago-knowledge.org/resource/France_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Yugoslavia_national_football_team   [football]
+http://yago-knowledge.org/resource/Milenko_Bajić   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Tomohiko_Ikoma   []
+	http://yago-knowledge.org/resource/Japan_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Scotland_national_football_team   [football]
+http://yago-knowledge.org/resource/Bobby_Campbell_(Scottish_footballer)   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Norm_Daniels_(American_football)   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Richard_Posnett   []
+	http://yago-knowledge.org/resource/Wales_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Norbert_Eschmann   []
+	http://yago-knowledge.org/resource/Switzerland_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Bob_Boyd_(American_football)   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Andrei_Yevgenyevich_Ivanov   []
+	http://yago-knowledge.org/resource/Soviet_Union_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Hungary_national_football_team   [football]
+http://yago-knowledge.org/resource/Ferenc_Nógrádi   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Republic_of_Ireland_national_football_team   [football]
+http://yago-knowledge.org/resource/Alan_Kelly_Sr.   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Youssef_Elbai   []
+	http://yago-knowledge.org/resource/Racing_Club_de_France_football_Colombes_92   [football]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Iraq_national_football_team   [football]
+http://yago-knowledge.org/resource/Ammo_Baba   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Mike_Woods_(American_football)   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Alexander_Obregón   []
+	http://yago-knowledge.org/resource/ANTEL_(El_Salvador_football_club)   [football]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/El_Salvador_national_football_team   [football]
+http://yago-knowledge.org/resource/Mario_Monge   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Joe_Boyd_(American_football)   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Lev_Brovarskyi   []
+	http://yago-knowledge.org/resource/Cameroon_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Turab_Ali   []
+	http://yago-knowledge.org/resource/Pakistan_national_football_team   [football]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Willie_Kilmarnock   []
+	http://yago-knowledge.org/resource/Scottish_Football_League_XI   [football]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Denmark_national_under-21_football_team   [football]
+http://yago-knowledge.org/resource/Aage_Rou_Jensen   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Greece_national_football_team   [football]
+http://yago-knowledge.org/resource/Stelios_Skevofilakas   []
+Score: 0.16666666666666666
+----
+
+Nodes visited: 13138
+Total execution time: 10605
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 12968
+
+http://yago-knowledge.org/resource/Drexel_University_Sacramento   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Mel_Queen_(pitcher/outfielder)   []
+	http://yago-knowledge.org/resource/Morro_Bay,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Jockeys_(TV_series)   []
+	http://yago-knowledge.org/resource/Arcadia,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Love,_Pain_&_the_Whole_Crazy_Thing   [whole]
+http://yago-knowledge.org/resource/Keith_Urban   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Philip_Bartelme   []
+	http://yago-knowledge.org/resource/Carmel-by-the-Sea,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Clarita,_California   [california]
+http://yago-knowledge.org/resource/Against_the_Dark   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/WhatsApp   []
+	http://yago-knowledge.org/resource/Mountain_View,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Jose_Thomas_Performing_Arts_Centre   [thomas]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/GlobalFoundries   []
+	http://yago-knowledge.org/resource/Sunnyvale,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Peralta_Villa,_Oakland,_California   [california]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Burbank,_California   [california]
+http://yago-knowledge.org/resource/D23_(Disney)   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Rochdale_Village_(Berkeley,_California)   [california]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Better_Off_Ted   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/ShoeDazzle   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Pasadena,_California   [california]
+http://yago-knowledge.org/resource/OneWest_Bank   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Wright_Place,_California   [california]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Giant_Sparrow   []
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Fernside,_Alameda,_California   [california]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/White_Mountains_Wilderness   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Dancing_the_Whole_Way_Home   [whole]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/GV_(company)   []
+	http://yago-knowledge.org/resource/Mountain_View,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/William_Allan_Award   [william]
+http://yago-knowledge.org/resource/Yuet_Wai_Kan   []
+	http://yago-knowledge.org/resource/University_of_California,_San_Francisco   [california]
+Score: 0.1
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Bottega_Louie   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Southland_(TV_series)   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_Henry_Harrison   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/California_Years   [california]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/John_Coffee_Hays   []
+	http://yago-knowledge.org/resource/Piedmont,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_Shatner's_Gonzo_Ballet   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Virginia_Mills,_California   [california]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/William_Madia   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/William_Clark_Jr._(1798-1871)   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Big_Trees,_California   [california]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Sawmill_Flat,_California   [california]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Los_Angeles_County,_California   [california]
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Hollywood_Dell,_Los_Angeles   []
+		http://yago-knowledge.org/resource/General_William_J._Fox_Airfield   [william]
+Score: 0.09375
+----
+
+
+http://yago-knowledge.org/resource/Denco,_California   [california]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Eshpeu,_California   [california]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/The_Tonight_Show_with_Conan_O'Brien   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/San_Jose,_California   [california]
+http://yago-knowledge.org/resource/KAXT-CD   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Ark_Collective   []
+	http://yago-knowledge.org/resource/Santa_Ana,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Zack_Snyder   []
+	http://yago-knowledge.org/resource/Pasadena,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Blocksburg,_California   [california]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/William_Spring_of_Pakenham   [william]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Gonzales,_California   [california]
+http://yago-knowledge.org/resource/Fog's_End_Distillery   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Andreessen_Horowitz   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Thomas_Lincoln_Casey,_Jr.   [thomas]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Knowles_Junction,_California   [california]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Mountain_View,_California   [california]
+http://yago-knowledge.org/resource/Listia   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Redwood_City,_California   [california]
+http://yago-knowledge.org/resource/Jon_Huntsman_Jr.   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/TPC_Stonebrae_Championship   []
+	http://yago-knowledge.org/resource/Hayward,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Until_the_Whole_World_Hears_(song)   [whole]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Sledgehammer_Games   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Planada,_California   [california]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Sun_Valley_High_School_(California)   [california]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Rightscorp   []
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Community_(TV_series)   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Oakland,_California   [california]
+http://yago-knowledge.org/resource/1967_American_Football_League_Championship_Game   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/St._Thomas_Observatory   [thomas]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Ginger_Zee   []
+	http://yago-knowledge.org/resource/Orange,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_Lodge_(American_football)   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/1961_American_Football_League_Championship_Game   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Fontana,_California   [california]
+http://yago-knowledge.org/resource/Fontana_Adult_School   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/William_of_Savoy   [william]
+http://yago-knowledge.org/resource/Margaret_of_Geneva   []
+	http://yago-knowledge.org/resource/Thomas,_Count_of_Savoy   [thomas]
+Score: 0.1
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Lightworkers_Media   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Thomas_Jefferson_Hogg   [thomas]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bartlett_Springs,_California   [california]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Until_the_Whole_World_Hears   [whole]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Malibu,_California   [california]
+http://yago-knowledge.org/resource/Big_Time_Rush   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Thomas_G._Plante   [thomas]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/American_Freedom_Party   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/William_de_Bohun,_1st_Earl_of_Northampton   [william]
+http://yago-knowledge.org/resource/Elizabeth_de_Badlesmere,_Countess_of_Northampton   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Kiwaukee_Thomas   [thomas]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Pit_Boss_(TV_series)   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Aviat_Networks   []
+	http://yago-knowledge.org/resource/Santa_Clara,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Larkin's_Landing,_California   [california]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Tom_Leykis   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Privileged_(TV_series)   []
+	http://yago-knowledge.org/resource/Malibu,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/The_L_Word   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Talkshow_with_Spike_Feresten   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/El_Rostro_de_Analía   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/San_Bernardino,_California   [california]
+http://yago-knowledge.org/resource/Special_routes_of_U.S._Route_66   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Lin_He   []
+	http://yago-knowledge.org/resource/University_of_California,_Berkeley   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beverly_Hills,_California   [california]
+http://yago-knowledge.org/resource/Hamid_Gabbay   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Pasadena,_California   [california]
+http://yago-knowledge.org/resource/Roger_Wolcott_Sperry   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Ronald_O._Loveridge   []
+	http://yago-knowledge.org/resource/Antioch,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_Reeves_(finance)   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Olga_San_Juan   []
+	http://yago-knowledge.org/resource/Burbank,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Hisayasu_Nagata   []
+	http://yago-knowledge.org/resource/University_of_California,_Los_Angeles   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [california]
+http://yago-knowledge.org/resource/Cheryl_Holdridge   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/San_Jose,_California   [california]
+http://yago-knowledge.org/resource/Nino_Bongiovanni   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Portola_Valley,_California   [california]
+http://yago-knowledge.org/resource/Jacques_Littlefield   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Robert_T._Monagan   []
+	http://yago-knowledge.org/resource/Sacramento,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Richard_William_Hunt   [william]
+http://yago-knowledge.org/resource/Valerie_Flint   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Roger_Harding   []
+	http://yago-knowledge.org/resource/Oakland,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Don_Callender   []
+	http://yago-knowledge.org/resource/Ventura,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Calabasas,_California   [california]
+http://yago-knowledge.org/resource/Peter_Kollock   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Eric_Scoggins   []
+	http://yago-knowledge.org/resource/Inglewood,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Fullerton,_California   [california]
+http://yago-knowledge.org/resource/Andy_DeMize   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/William_Lipscomb   [william]
+http://yago-knowledge.org/resource/Frederic_M._Richards   []
+	http://yago-knowledge.org/resource/Thomas_A._Steitz   [thomas]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Claude_Berri   []
+	http://yago-knowledge.org/resource/Thomas_Langmann   [thomas]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_J._Pomeroy   [william]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Laguna_Hills,_California   [california]
+http://yago-knowledge.org/resource/Russ_Conway_(actor)   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Fullerton,_California   [california]
+http://yago-knowledge.org/resource/Preston_Gómez   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Patrick_McGoohan   []
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_Close   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Judith_Hoffberg   []
+	http://yago-knowledge.org/resource/University_of_California,_Los_Angeles   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Whitey_Mitchell   []
+	http://yago-knowledge.org/resource/Palm_Springs,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Bobby_Robertson   []
+	http://yago-knowledge.org/resource/Santa_Cruz,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Lancaster,_California   [california]
+http://yago-knowledge.org/resource/Bob_May_(actor)   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/James_E._Swett   []
+	http://yago-knowledge.org/resource/Redding,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Carl_W._McIntosh   []
+	http://yago-knowledge.org/resource/Redlands,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Thomas_(activist)   [thomas]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Carlsbad,_California   [california]
+http://yago-knowledge.org/resource/Tony_Storti   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_L._Saltonstall   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Thomas_Ambrose_Tschoepe   [thomas]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Len_Perme   []
+	http://yago-knowledge.org/resource/Hayward,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Eleanor_F._Helin   []
+	http://yago-knowledge.org/resource/California_Institute_of_Technology   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Mickey_Rourke   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Berkeley,_California   [california]
+http://yago-knowledge.org/resource/James_Schevill   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Clint_Ritchie   []
+	http://yago-knowledge.org/resource/Roseville,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/John_Roy_Whinnery   []
+	http://yago-knowledge.org/resource/Walnut_Creek,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Blythe,_California   [california]
+http://yago-knowledge.org/resource/Frankie_Ervin   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Eric_Monti   []
+	http://yago-knowledge.org/resource/Laguna_Woods,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Lux_Interior   []
+	http://yago-knowledge.org/resource/Glendale,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Malibu,_California   [california]
+http://yago-knowledge.org/resource/James_Whitmore   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Mel_Kaufman   []
+	http://yago-knowledge.org/resource/San_Luis_Obispo,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Oceanside,_California   [california]
+http://yago-knowledge.org/resource/Molly_Bee   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mission_Viejo,_California   [california]
+http://yago-knowledge.org/resource/Jack_Cover   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_R._Sharpe_Jr.   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/William_Edward_Lavery   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/William_L._Mack   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Mike_Whitmarsh   []
+	http://yago-knowledge.org/resource/Solana_Beach,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Thomas_Jerome_Welsh   [thomas]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Rosa,_California   [california]
+http://yago-knowledge.org/resource/Robert_Quarry   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Orange_County,_California   [california]
+http://yago-knowledge.org/resource/Barbara_Marshall   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/University_of_California,_Los_Angeles   [california]
+http://yago-knowledge.org/resource/Michael_Noonan_(linguist)   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_H._Behle   [william]
+	http://yago-knowledge.org/resource/University_of_California,_Berkeley   [california]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/California_Institute_of_Technology   [california]
+http://yago-knowledge.org/resource/Charalambos_D._Aliprantis   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/John_Alvin_(actor)   []
+	http://yago-knowledge.org/resource/Thousand_Oaks,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_Henry_Thomas   [william, thomas]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Rancho_Mirage,_California   [california]
+http://yago-knowledge.org/resource/Sydney_Chaplin_(American_actor)   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Thomas_T._Goldsmith_Jr.   [thomas]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [california]
+http://yago-knowledge.org/resource/Jim_Bellows   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [california]
+http://yago-knowledge.org/resource/Jimmy_Boyd   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beverly_Hills,_California   [california]
+http://yago-knowledge.org/resource/Michael_Bowen_(artist)   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Ed_Wolfe   []
+	http://yago-knowledge.org/resource/Modesto,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/San_Bernardino,_California   [california]
+http://yago-knowledge.org/resource/Charles_Lewis_Jr.   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Thomas_Ranken_Lyle_Medal   [thomas]
+http://yago-knowledge.org/resource/Ernie_Tuck   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Rancho_Mirage,_California   [california]
+http://yago-knowledge.org/resource/Leonore_Annenberg   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Rockport,_California   [california]
+http://yago-knowledge.org/resource/Claude_Brinegar   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beverly_Hills,_California   [california]
+http://yago-knowledge.org/resource/Alan_W._Livingston   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Alpine,_California   [california]
+http://yago-knowledge.org/resource/Coy_Watson_Jr.   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Richard_Aoki   []
+	http://yago-knowledge.org/resource/San_Leandro,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_Burns_(Australian_politician)   [william]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Sacramento,_California   [california]
+http://yago-knowledge.org/resource/Ed_Callahan   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Bob_Arbogast   []
+	http://yago-knowledge.org/resource/Fresno,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Abismo_Negro   []
+	http://yago-knowledge.org/resource/El_Rosario,_Baja_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Palm_Springs,_California   [california]
+http://yago-knowledge.org/resource/Frank_Bogert   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/College_of_William_&_Mary   [william]
+http://yago-knowledge.org/resource/Ennis_Rees   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Earle_Brucker_Jr.   []
+	http://yago-knowledge.org/resource/El_Cajon,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Modesto,_California   [california]
+http://yago-knowledge.org/resource/Marilyn_Borden   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Tracy,_California   [california]
+http://yago-knowledge.org/resource/Murder_of_Sandra_Cantu   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Malibu,_California   [california]
+http://yago-knowledge.org/resource/Maurice_Jarre   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Jorge_Preloran   []
+	http://yago-knowledge.org/resource/Culver_City,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Out_California_Way   [california]
+http://yago-knowledge.org/resource/Monte_Hale   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/San_Rafael,_California   [california]
+http://yago-knowledge.org/resource/Walter_Kuhlman   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mammoth_Lakes,_California   [california]
+http://yago-knowledge.org/resource/Andrea_Mead_Lawrence   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/The_Whole_Shootin'_Match   [whole]
+http://yago-knowledge.org/resource/Lou_Perryman   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Bud_Shank   []
+	http://yago-knowledge.org/resource/California_Concert   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [california]
+http://yago-knowledge.org/resource/Victor_Millan   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Jerome_R._Waldie   []
+	http://yago-knowledge.org/resource/Placerville,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Fresno,_California   [california]
+http://yago-knowledge.org/resource/Harold_E._Comstock   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_Becke   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Thomas_R._Byrne   [thomas]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Jack_Wrangler   []
+	http://yago-knowledge.org/resource/Beverly_Hills,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Richard_de_Mille   []
+	http://yago-knowledge.org/resource/Monrovia,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Jane_Bryan   []
+	http://yago-knowledge.org/resource/Pebble_Beach,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Orange,_California   [california]
+http://yago-knowledge.org/resource/Nick_Adenhart   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Deborah_Digges   []
+	http://yago-knowledge.org/resource/University_of_California,_Riverside   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/William_J._Brennan_Award   [william]
+http://yago-knowledge.org/resource/Judith_Krug   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Mickey_Cafagna   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Clarita,_California   [california]
+http://yago-knowledge.org/resource/Marilyn_Chambers   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_Stanhope,_11th_Earl_of_Harrington   [william]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Irvine,_California   [california]
+http://yago-knowledge.org/resource/Zeke_Zarchy   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Kent_Douglas   []
+	http://yago-knowledge.org/resource/California_Golden_Seals   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Bruce_Ogilvie_(motorcycle_racer)   []
+	http://yago-knowledge.org/resource/Riverside,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [california]
+http://yago-knowledge.org/resource/Bruce_Snyder   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/University_of_California,_Berkeley   [california]
+http://yago-knowledge.org/resource/Charles_Anderson_(businessman)   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/J._G._Ballard   []
+	http://yago-knowledge.org/resource/Thomas_M._Disch   [thomas]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Thomas_Hill_(actor)   [thomas]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Ken_Annakin   []
+	http://yago-knowledge.org/resource/Beverly_Hills,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/The_Story_of_William_Tell   [william]
+http://yago-knowledge.org/resource/Jack_Cardiff   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [california]
+http://yago-knowledge.org/resource/William_F._Barnes   [william]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/San_Jose,_California   [california]
+http://yago-knowledge.org/resource/Jack_Lohrke   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Hal_Perry_(basketball)   []
+	http://yago-knowledge.org/resource/El_Cerrito,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Jack_Kemp   []
+		http://yago-knowledge.org/resource/General_William_J._Fox_Airfield   [william]
+	http://yago-knowledge.org/resource/Los_Angeles_County,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Dom_DeLuise   []
+	http://yago-knowledge.org/resource/Santa_Monica,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Chula_Vista,_California   [california]
+http://yago-knowledge.org/resource/Sid_Laverents   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Travis_Edmonson   []
+	http://yago-knowledge.org/resource/Long_Beach,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Walnut_Creek,_California   [california]
+http://yago-knowledge.org/resource/Otto_J._M._Smith   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beverly_Hills,_California   [california]
+http://yago-knowledge.org/resource/Roya_Megnot   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Santa_Barbara,_California   [california]
+http://yago-knowledge.org/resource/Robert_J._Sinclair   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Thomas_Nordseth-Tiller   [thomas]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/L._William_Seidman   [william]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Palm_Springs,_California   [california]
+http://yago-knowledge.org/resource/Bob_Rosburg   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_J._Passmore   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Buddy_Montgomery   []
+	http://yago-knowledge.org/resource/Palmdale,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_Moore_(loyalist)   [william]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Riverside,_California   [california]
+http://yago-knowledge.org/resource/Bob_Boyd_(American_football)   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Wayne_Allwine   []
+	http://yago-knowledge.org/resource/Glendale,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/University_of_California,_San_Diego   [california]
+http://yago-knowledge.org/resource/Herbert_York   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Ralph_D._Winter   []
+	http://yago-knowledge.org/resource/Pasadena,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/One_California_Plaza   [california]
+http://yago-knowledge.org/resource/Arthur_Erickson   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Sam_Maloof   []
+	http://yago-knowledge.org/resource/Chino,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Beverly_Hills,_California   [california]
+http://yago-knowledge.org/resource/Edward_J._Lakso   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Berkeley,_California   [california]
+http://yago-knowledge.org/resource/Ronald_Takaki   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_Refshauge   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Clive_Granger   []
+	http://yago-knowledge.org/resource/University_of_California,_San_Diego   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/University_of_Southern_California   [california]
+http://yago-knowledge.org/resource/Truman_G._Madsen   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Thomas_Berry   [thomas]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/University_of_California,_Los_Angeles   [california]
+http://yago-knowledge.org/resource/Ernest_May_(historian)   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Greenbrae,_California   [california]
+http://yago-knowledge.org/resource/FrancEyE   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Thomas_Gill_(politician)   [thomas]
+	http://yago-knowledge.org/resource/University_of_California,_Berkeley   [california]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Bernard_Zimmerman   []
+	http://yago-knowledge.org/resource/University_of_Southern_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Ward_Costello   []
+	http://yago-knowledge.org/resource/Redlands,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Robert_Colescott   []
+	http://yago-knowledge.org/resource/Oakland,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Rajeev_Motwani   []
+	http://yago-knowledge.org/resource/Atherton,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Del_Monroe   []
+	http://yago-knowledge.org/resource/Santa_Barbara,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_L._Schultz   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bill_Lillard   []
+	http://yago-knowledge.org/resource/San_Luis_Obispo,_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Sacramento,_California   [california]
+http://yago-knowledge.org/resource/Woodie_Held   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_Lorne_Northmore_Somerville   [william]
+Score: 0.25
+----
+
+Nodes visited: 15246
+Total execution time: 11754
+
+Query Words: park, church, district, objects
+Root nodes Found: 12968
+
+http://yago-knowledge.org/resource/Woodland_Park,_New_Jersey   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Gordon/Barrie_Island   []
+	http://yago-knowledge.org/resource/Manitoulin_District   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Lewes_District   [district]
+http://yago-knowledge.org/resource/Plumpton,_East_Sussex   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Overland_Park,_Kansas   [park]
+http://yago-knowledge.org/resource/United_States_of_Tara   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Chiniot_District   [district]
+http://yago-knowledge.org/resource/Bhawana_Tehsil   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Bhawana   []
+	http://yago-knowledge.org/resource/Chiniot_District   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Chiniot_District   [district]
+http://yago-knowledge.org/resource/Lalian   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Chiniot_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Zərnəli   []
+	http://yago-knowledge.org/resource/Zangilan_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Jockeys_(TV_series)   []
+	http://yago-knowledge.org/resource/Santa_Anita_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Quba_District_(Azerbaijan)   [district]
+http://yago-knowledge.org/resource/Gənclər   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Brown_Memorial_Presbyterian_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Oregon_City_School_District_(Oregon)   [district]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Langley,_British_Columbia_(district_municipality)   [district]
+http://yago-knowledge.org/resource/Langley_Events_Centre   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Valle_de_Agua_Arriba   []
+	http://yago-knowledge.org/resource/Changuinola_District   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Changuinola_District   [district]
+http://yago-knowledge.org/resource/La_Gloria,_Bocas_del_Toro   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Nance_de_Risco   []
+	http://yago-knowledge.org/resource/Changuinola_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Cochigró   []
+	http://yago-knowledge.org/resource/Changuinola_District   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Changuinola_District   [district]
+http://yago-knowledge.org/resource/Las_Delicias,_Bocas_del_Toro   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Wilderness_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/South_Park_(season_13)   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/The_Ring_(South_Park)   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Verin_Charbakh   []
+	http://yago-knowledge.org/resource/Shengavit_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Shongor-e_Olya   []
+	http://yago-knowledge.org/resource/Kheybar_Rural_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Brisbane_central_business_district   [district]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Clumber_Park   [park]
+http://yago-knowledge.org/resource/Henry_Pelham-Clinton,_4th_Duke_of_Newcastle   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/St_Helen's_Church,_Bishopsgate   [church]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Lince_District   [district]
+http://yago-knowledge.org/resource/Al_Fondo_Hay_Sitio   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Zion_National_Park   [park]
+http://yago-knowledge.org/resource/Zion_Wilderness   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/J.R._Dick_Dowdy_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Fishsticks_(South_Park)   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Caledonia-Washington-1_Vermont_Representative_District,_2002-12   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Pinewood_Derby_(South_Park)   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Kastrychnitski_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Saint_Francis_Seraph_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Live_at_Park_Ave.   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Central_District_(Zarand_County)   [district]
+http://yago-knowledge.org/resource/Hosen,_Iran   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Xalatala   []
+	http://yago-knowledge.org/resource/Balakan_District   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Pithoragarh_district   [district]
+http://yago-knowledge.org/resource/Sosa,_India   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Chittenden-1-2_Vermont_Representative_District,_2002-12   [district]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Bagan_Datuk_District   [district]
+http://yago-knowledge.org/resource/SMS_Bagan_Datoh   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/St_Michael's_Church,_Beetham   [church]
+Score: 0.25
+----
+
+
+	http://www.environment.sa.gov.au/parks/Find_a_park/Browse_by_region/Murray_River/Danggali_Conservation_Park_and_Wilderness_Protection_Area   [park]
+http://yago-knowledge.org/resource/Danggali_Wilderness_Protection_Area   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Şahbuzkənd   []
+	http://yago-knowledge.org/resource/Shahbuz_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Russian_Arctic_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Lomsdal-Visten_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Ytre_Hvaler_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Otuke_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Kyegegwa_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Otuke   []
+	http://yago-knowledge.org/resource/Otuke_District   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Dodangeh_Rural_District_(Khuzestan_Province)   [district]
+http://yago-knowledge.org/resource/Korreh_Siah-e_Shirin   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Park_Benches   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Menlo_Park,_California   [park]
+http://yago-knowledge.org/resource/Andreessen_Horowitz   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Neihu_District   [district]
+http://yago-knowledge.org/resource/Next_TV   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Architect_of_This_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Gurleyville_Historic_District   [district]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Oshnavieh-ye_Shomali_Rural_District   [district]
+http://yago-knowledge.org/resource/Seybian   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Park_No-sik   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Fulda_(district)   [district]
+http://yago-knowledge.org/resource/Großenlüder   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Sozak_District   [district]
+http://yago-knowledge.org/resource/Inkai_Uranium_Project   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Troy_School_District_(Michigan)   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/District_9   [district]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Volga_Federal_District   [district]
+http://yago-knowledge.org/resource/Otradny,_Samara_Oblast   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Mols_Bjerge_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Rutland-4_Vermont_Representative_District,_2002-12   [district]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Angut-e_Sharqi_Rural_District   [district]
+http://yago-knowledge.org/resource/Mollalu,_Germi   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Müsüslü   []
+	http://yago-knowledge.org/resource/Ujar_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Bennington-Rutland-1_Vermont_Representative_District,_2002-12   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Khvajeh_Hesar   []
+	http://yago-knowledge.org/resource/Pish_Khowr_District   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Thanjavur_district   [district]
+http://yago-knowledge.org/resource/University_College_of_Engineering,_Pattukkottai   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Qurian   []
+	http://yago-knowledge.org/resource/Jolgeh-e_Mazhan_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Park_City_Medical_Center   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Nong_Chok_District   [district]
+http://yago-knowledge.org/resource/Nong_Chok_National_Football_Center   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Razkand   []
+	http://yago-knowledge.org/resource/Kalashtar_Rural_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Xiangdong_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_Music_(album)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bruckneudorf   []
+	http://yago-knowledge.org/resource/Neusiedl_am_See_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Ejisu-Juaben_Municipal_District   [district]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Thakurgaon_District   [district]
+http://yago-knowledge.org/resource/Mirza_Fakhrul_Islam_Alamgir   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Laishan_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/SMS_Rembau   []
+	http://yago-knowledge.org/resource/Rembau_District   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Kahikolu_Church   [church]
+http://yago-knowledge.org/resource/John_Davis_Paris   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/1372_Overton_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/South_Park_Let's_Go_Tower_Defense_Play!   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Montrose_Area_School_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Khushab_Nuclear_Complex   []
+	http://yago-knowledge.org/resource/Khushab_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Falj,_Zanjan   []
+	http://yago-knowledge.org/resource/Khorramdarreh_Rural_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Yaozhou_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Kalnai_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Huriwa_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Mian_Volan-e_Sofla   []
+	http://yago-knowledge.org/resource/Doab_Rural_District_(Lorestan_Province)   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/The_F_Word_(South_Park)   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Palaikythro   []
+	http://yago-knowledge.org/resource/Nicosia_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Pripiceni-Răzeși   []
+	http://yago-knowledge.org/resource/Rezina_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Simele_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Aqkand   []
+	http://yago-knowledge.org/resource/Kaghazkonan_District   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/First_Church_of_Christ,_Scientist_(Tacoma,_Washington)   [church]
+http://yago-knowledge.org/resource/Frederick_Heath_(architect)   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Pee_(South_Park)   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Sha_Tin_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_Saint_Agrippina   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Ostunrash   []
+	http://yago-knowledge.org/resource/Kuhsar_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Science_Centre,_Surat   []
+	http://yago-knowledge.org/resource/Surat_district   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Arumeru_District   [district]
+http://yago-knowledge.org/resource/Mount_Meru_(Tanzania)   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/C-JeS_Entertainment   []
+	http://yago-knowledge.org/resource/Gangnam_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Dorothea_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Klokot   []
+	http://yago-knowledge.org/resource/Kosovo-Pomoravlje_District   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Nalgonda_district   [district]
+http://yago-knowledge.org/resource/Chada,_Nalgonda   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mapo_District   [district]
+http://yago-knowledge.org/resource/Participation_Party_(South_Korea)   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Ust-Kansky_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/North_Caucasian_Federal_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Sar_Seyl-e_Zardab-e_Mohammad_Taher   []
+	http://yago-knowledge.org/resource/Alvar-e_Garmsiri_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Twelfth_Federal_Electoral_District_of_the_Federal_District   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Military_district   [district]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Pixley_ka_Seme_District_Municipality   [district]
+http://yago-knowledge.org/resource/Umsobomvu_Local_Municipality   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Mudumalai_National_Park   [park]
+	http://yago-knowledge.org/resource/The_Nilgiris_District   [district]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Ian_Greaves   []
+	http://yago-knowledge.org/resource/Crompton_Urban_District   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Guntur_district   [district]
+http://yago-knowledge.org/resource/B._V._Subbamma   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Oak_Park,_Illinois   [park]
+http://yago-knowledge.org/resource/Craig_Stimac   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Falls_Church,_Virginia   [church]
+http://yago-knowledge.org/resource/Max_Borges,_Jr.   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Billy_Powell   []
+	http://yago-knowledge.org/resource/Orange_Park,_Florida   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/John_Martyn   []
+	http://yago-knowledge.org/resource/The_Church_with_One_Bell   [church]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Seryshevsky_District   [district]
+http://yago-knowledge.org/resource/Yuri_Avrutskiy   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Overland_Park,_Kansas   [park]
+http://yago-knowledge.org/resource/John_Gabler   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Salyan_District,_Azerbaijan   [district]
+http://yago-knowledge.org/resource/Rail_Rzayev   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Moga_district   [district]
+http://yago-knowledge.org/resource/Karnail_Singh_Paras   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Savita_Behen   []
+	http://yago-knowledge.org/resource/Jhelum_District   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Cliffside_Park,_New_Jersey   [park]
+http://yago-knowledge.org/resource/Betsy_Blair   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/David_Louis_Band   []
+	http://yago-knowledge.org/resource/University_of_Maryland,_College_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Sulim_Yamadayev   []
+	http://yago-knowledge.org/resource/Nozhay-Yurtovsky_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/A._F._Golam_Osmani   []
+	http://yago-knowledge.org/resource/Cachar_district   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/A-Sun_(singer)   []
+	http://yago-knowledge.org/resource/Xindian_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Mike_Keen   []
+	http://yago-knowledge.org/resource/Queens_Park_Rangers_F.C.   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Yan_Huaili   []
+	http://yago-knowledge.org/resource/Fengnan_District   [district]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Timothy_Tow   []
+	http://yago-knowledge.org/resource/Life_Bible-Presbyterian_Church   [church]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Dom_DeLuise   []
+	http://yago-knowledge.org/resource/A_Troll_in_Central_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Swat_District   [district]
+http://yago-knowledge.org/resource/Bilal_Zafar   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Hassan_district   [district]
+http://yago-knowledge.org/resource/K._Pattabhi_Jois   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Berea_Park_F.C.   [park]
+http://yago-knowledge.org/resource/Walter_da_Silva   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Ivan_Van_Sertima   []
+	http://yago-knowledge.org/resource/Highland_Park,_New_Jersey   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Park_Sung-hyun   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Chris_O'Brien_(surgeon)   []
+		http://yago-knowledge.org/resource/Sydney_central_business_district   [district]
+	http://yago-knowledge.org/resource/Regents_Park,_New_South_Wales   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Duke_Bainum   []
+	http://yago-knowledge.org/resource/Takoma_Park,_Maryland   [park]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 13096
+Total execution time: 9755
+
+Query Words: descent, football, william, park
+Root nodes Found: 12968
+
+http://yago-knowledge.org/resource/Woodland_Park,_New_Jersey   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/United_States_of_Tara   []
+	http://yago-knowledge.org/resource/Overland_Park,_Kansas   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Football_Manager_Live   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Mr._Football_Award_(Florida)   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Jockeys_(TV_series)   []
+	http://yago-knowledge.org/resource/Santa_Anita_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/1991_Estonian_SSR_Football_Championship   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Flowers_&_Football_Tops   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Nasko_Sirakov   []
+	http://yago-knowledge.org/resource/Bulgaria_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Wilderness_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/South_Park_(season_13)   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/The_Ring_(South_Park)   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Masters_Football   [football]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Clumber_Park   [park]
+http://yago-knowledge.org/resource/Henry_Pelham-Clinton,_4th_Duke_of_Newcastle   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/2010_Fremantle_Football_Club_season   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Zion_Wilderness   []
+	http://yago-knowledge.org/resource/Zion_National_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/J.R._Dick_Dowdy_Park   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/William_Allan_Award   [william]
+http://yago-knowledge.org/resource/Yuet_Wai_Kan   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Fishsticks_(South_Park)   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/William_Henry_Harrison   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/1947-48_Football_League   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Pinewood_Derby_(South_Park)   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/William_Shatner's_Gonzo_Ballet   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Live_at_Park_Ave.   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/William_Madia   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/William_Clark_Jr._(1798-1871)   [william]
+Score: 0.25
+----
+
+
+	http://www.environment.sa.gov.au/parks/Find_a_park/Browse_by_region/Murray_River/Danggali_Conservation_Park_and_Wilderness_Protection_Area   [park]
+http://yago-knowledge.org/resource/Danggali_Wilderness_Protection_Area   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Gerzon_Chacón   []
+	http://yago-knowledge.org/resource/Venezuela_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/K._Rajagopal   []
+	http://yago-knowledge.org/resource/Malaysia_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Melbourne_City_FC   []
+	http://yago-knowledge.org/resource/City_Football_Academy_(Melbourne)   [football]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Slovenia_women's_national_football_team   [football]
+http://yago-knowledge.org/resource/Edward_Ould   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Russian_Arctic_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Lomsdal-Visten_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Ytre_Hvaler_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/William_Spring_of_Pakenham   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Park_Benches   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Menlo_Park,_California   [park]
+http://yago-knowledge.org/resource/Andreessen_Horowitz   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Guy-Manuel_de_Homem-Christo   []
+	http://yago-knowledge.org/resource/Equatorial_Guinea_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/NCAA_Football_10   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Park_No-sik   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Scottish_football_referee_strike   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/The_Football_League_Show   [football]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Morocco_national_football_team   [football]
+http://yago-knowledge.org/resource/Tahar_El_Khalej   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/The_Descent_Part_2   [descent]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Ukraine_national_football_team   [football]
+http://yago-knowledge.org/resource/Ihor_Kostyuk   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/World_Football_Daily   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Mols_Bjerge_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Park_City_Medical_Center   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Nong_Chok_National_Football_Center   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/2009-10_Football_Conference   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Victor_Goryunov   []
+	http://yago-knowledge.org/resource/Poland_national_under-19_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/1967_American_Football_League_Championship_Game   [football]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Croatia_national_under-17_football_team   [football]
+http://yago-knowledge.org/resource/Mirza_Fakhrul_Islam_Alamgir   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/1372_Overton_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/South_Park_Let's_Go_Tower_Defense_Play!   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Football_Tycoon   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Kalnai_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Football_Manager_2010   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/William_Lodge_(American_football)   [william, football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Asier_Riesgo   []
+	http://yago-knowledge.org/resource/Spain_national_under-19_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/1961_American_Football_League_Championship_Game   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/The_F_Word_(South_Park)   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Margaret_of_Geneva   []
+	http://yago-knowledge.org/resource/William_of_Savoy   [william]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Pee_(South_Park)   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Archdeacon_of_St_Albans   []
+	http://yago-knowledge.org/resource/Saudi_Arabia_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/William_de_Bohun,_1st_Earl_of_Northampton   [william]
+http://yago-knowledge.org/resource/Elizabeth_de_Badlesmere,_Countess_of_Northampton   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Kirati_Keawsombat   []
+	http://yago-knowledge.org/resource/Thailand_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Football_Friday   [football]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Brazil_national_under-20_football_team   [football]
+http://yago-knowledge.org/resource/Cleiton_Xavier   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Gia_Guruli   []
+	http://yago-knowledge.org/resource/Georgia_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Mudumalai_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/William_Reeves_(finance)   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Ryuzo_Hiraki   []
+	http://yago-knowledge.org/resource/Japan_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Belgium_national_football_team   [football]
+http://yago-knowledge.org/resource/Lei_Clijsters   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Alfie_Conn_Sr.   []
+	http://yago-knowledge.org/resource/Scottish_Football_League_XI   [football]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Richard_William_Hunt   [william]
+http://yago-knowledge.org/resource/Valerie_Flint   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/East_Germany_national_under-21_football_team   [football]
+http://yago-knowledge.org/resource/Michael_Polywka   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_J._Pomeroy   [william]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Brazil_national_football_team   [football]
+http://yago-knowledge.org/resource/Friaça   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Tommy_Casey   []
+	http://yago-knowledge.org/resource/fr/KR_Reykjavik_(football)   [football]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Oak_Park,_Illinois   [park]
+http://yago-knowledge.org/resource/Craig_Stimac   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_Close   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Joop_Wille   []
+	http://yago-knowledge.org/resource/Netherlands_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Aad_Bak   []
+	http://yago-knowledge.org/resource/Netherlands_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Claudio_Milar   []
+	http://yago-knowledge.org/resource/Uruguay_national_under-20_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Yugoslavia_national_football_team   [football]
+http://yago-knowledge.org/resource/Tomislav_Crnković   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Wales_national_football_team   [football]
+http://yago-knowledge.org/resource/Vic_Crowe   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Peter_Persidis   []
+	http://yago-knowledge.org/resource/Austria_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Phyllis_Kernick   []
+	http://yago-knowledge.org/resource/Benin_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mexico_national_football_team   [football]
+http://yago-knowledge.org/resource/Jaime_Belmonte   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Murder_of_Michael_Gilbert   []
+	http://yago-knowledge.org/resource/Italy_national_under-17_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_L._Saltonstall   [william]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Austria_national_football_team   [football]
+http://yago-knowledge.org/resource/Karl_Koller_(footballer)   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Fernando_Cornejo   []
+	http://yago-knowledge.org/resource/Chile_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Fred_Janke   []
+	http://yago-knowledge.org/resource/Michigan_Wolverines_football   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Don_Robinson_(American_football)   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Billy_Wilson_(American_football)   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Aubrey_Powell_(footballer)   []
+	http://yago-knowledge.org/resource/Wales_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Billy_Powell   []
+	http://yago-knowledge.org/resource/Orange_Park,_Florida   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Willi_Köchling   []
+	http://yago-knowledge.org/resource/Germany_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Roy_Saunders   []
+	http://yago-knowledge.org/resource/England_national_youth_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Safar_Iranpak   []
+	http://yago-knowledge.org/resource/Iran_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Pieter_van_den_Bosch_(footballer)   []
+	http://yago-knowledge.org/resource/Belgium_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/George_Hughes_(American_football)   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Franco_Andreoli   []
+	http://yago-knowledge.org/resource/Switzerland_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/John_Gabler   []
+	http://yago-knowledge.org/resource/Overland_Park,_Kansas   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Joe_Haverty   []
+	http://yago-knowledge.org/resource/Republic_of_Ireland_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Wales_national_football_team   [football]
+http://yago-knowledge.org/resource/Reg_Davies   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Giacomo_Bulgarelli   []
+	http://yago-knowledge.org/resource/Italy_national_under-21_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Italy_national_football_team   [football]
+http://yago-knowledge.org/resource/Bryan_John_Birch   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Bernard_Ashley_(businessman)   []
+	http://yago-knowledge.org/resource/Germany_national_under-21_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_R._Sharpe_Jr.   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/William_Edward_Lavery   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/William_L._Mack   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/William_H._Behle   [william]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Racing_Club_de_France_football_Colombes_92   [football]
+http://yago-knowledge.org/resource/Carlos_Sosa_(footballer)   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Frank_Libutti   []
+	http://yago-knowledge.org/resource/Argentina_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_Henry_Thomas   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Vasili_Postnov   []
+	http://yago-knowledge.org/resource/Tajikistan_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Valeri_Broshin   []
+	http://yago-knowledge.org/resource/Turkmenistan_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Kazakhstan_national_under-21_football_team   [football]
+http://yago-knowledge.org/resource/Anton_Shokh   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Cameroon_national_football_team   [football]
+http://yago-knowledge.org/resource/Edouard_Oum_Ndeki   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Eddie_Lowe_(footballer)   []
+	http://yago-knowledge.org/resource/England_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Betsy_Blair   []
+	http://yago-knowledge.org/resource/Cliffside_Park,_New_Jersey   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Anne_Brown   []
+	http://yago-knowledge.org/resource/England_national_under-19_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_Burns_(Australian_politician)   [william]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/England_national_under-21_football_team   [football]
+http://yago-knowledge.org/resource/Alan_Suddick   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/University_of_Maryland,_College_Park   [park]
+http://yago-knowledge.org/resource/David_Louis_Band   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Freddie_Mwila_Jr.   []
+	http://yago-knowledge.org/resource/Zambia_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Plumeri_Park   [park]
+		http://yago-knowledge.org/resource/Jimmye_Laycock_Football_Center   [football]
+http://yago-knowledge.org/resource/Ennis_Rees   []
+	http://yago-knowledge.org/resource/College_of_William_&_Mary   [william]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Paul_Duke_(American_football)   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Hughie_Kelly   []
+	http://yago-knowledge.org/resource/Scotland_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Henri_Konan   []
+	http://yago-knowledge.org/resource/Ivory_Coast_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Donald_Thobega   []
+	http://yago-knowledge.org/resource/Botswana_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Vladimir_Fedotov   []
+	http://yago-knowledge.org/resource/Soviet_Union_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Julio_Edgar_Gaviria   []
+	http://yago-knowledge.org/resource/Colombia_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Johnny_Carson_(American_football)   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/William_Becke   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Brima_Sesay   []
+	http://yago-knowledge.org/resource/Sierra_Leone_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Romania_national_football_team   [football]
+http://yago-knowledge.org/resource/Gheorghe_Ene   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Frank_Morris_(Canadian_football)   [football]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/William_J._Brennan_Award   [william]
+http://yago-knowledge.org/resource/Judith_Krug   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_Stanhope,_11th_Earl_of_Harrington   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Mike_Keen   []
+	http://yago-knowledge.org/resource/Queens_Park_Rangers_F.C.   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Bruce_Snyder   []
+	http://yago-knowledge.org/resource/Sporting_News_College_Football_Coach_of_the_Year   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Jack_Cardiff   []
+	http://yago-knowledge.org/resource/The_Story_of_William_Tell   [william]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_F._Barnes   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Lam_Sheung_Yee   []
+	http://yago-knowledge.org/resource/Chinese_Taipei_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Maxime_Lehmann   []
+	http://yago-knowledge.org/resource/France_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Yugoslavia_national_football_team   [football]
+http://yago-knowledge.org/resource/Milenko_Bajić   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Japan_national_football_team   [football]
+http://yago-knowledge.org/resource/Tomohiko_Ikoma   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Scotland_national_football_team   [football]
+http://yago-knowledge.org/resource/Bobby_Campbell_(Scottish_footballer)   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Dom_DeLuise   []
+	http://yago-knowledge.org/resource/A_Troll_in_Central_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Norm_Daniels_(American_football)   [football]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Wales_national_football_team   [football]
+http://yago-knowledge.org/resource/Richard_Posnett   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Norbert_Eschmann   []
+	http://yago-knowledge.org/resource/Switzerland_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/L._William_Seidman   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/William_J._Passmore   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/William_Moore_(loyalist)   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bob_Boyd_(American_football)   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Andrei_Yevgenyevich_Ivanov   []
+	http://yago-knowledge.org/resource/CIS_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Hungary_national_football_team   [football]
+http://yago-knowledge.org/resource/Ferenc_Nógrádi   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Alan_Kelly_Sr.   []
+	http://yago-knowledge.org/resource/Republic_of_Ireland_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Walter_da_Silva   []
+	http://yago-knowledge.org/resource/Highlands_Park_F.C.   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Racing_Club_de_France_football_Colombes_92   [football]
+http://yago-knowledge.org/resource/Youssef_Elbai   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Highland_Park,_New_Jersey   [park]
+http://yago-knowledge.org/resource/Ivan_Van_Sertima   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_Refshauge   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Ammo_Baba   []
+	http://yago-knowledge.org/resource/Iraq_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Mike_Woods_(American_football)   [football]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/ANTEL_(El_Salvador_football_club)   [football]
+http://yago-knowledge.org/resource/Alexander_Obregón   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Mario_Monge   []
+	http://yago-knowledge.org/resource/El_Salvador_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Joe_Boyd_(American_football)   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Park_Sung-hyun   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Chris_O'Brien_(surgeon)   []
+	http://yago-knowledge.org/resource/Regents_Park,_New_South_Wales   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Cameroon_national_football_team   [football]
+http://yago-knowledge.org/resource/Lev_Brovarskyi   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Turab_Ali   []
+	http://yago-knowledge.org/resource/Pakistan_national_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_L._Schultz   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Willie_Kilmarnock   []
+	http://yago-knowledge.org/resource/Scottish_Football_League_XI   [football]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Aage_Rou_Jensen   []
+	http://yago-knowledge.org/resource/Denmark_national_under-21_football_team   [football]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Takoma_Park,_Maryland   [park]
+http://yago-knowledge.org/resource/Duke_Bainum   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Greece_national_football_team   [football]
+http://yago-knowledge.org/resource/Stelios_Skevofilakas   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/William_Lorne_Northmore_Somerville   [william]
+Score: 0.25
+----
+
+Nodes visited: 13176
+Total execution time: 9896
+

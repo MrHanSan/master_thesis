@@ -1,0 +1,990 @@
+Query Words: william, whole
+Root nodes Found: 917
+Nodes visited: 122367
+Total execution time: 15711
+
+Query Words: thomas, california
+Root nodes Found: 917
+
+	http://yago-knowledge.org/resource/Anaheim,_California   [california]
+http://yago-knowledge.org/resource/2007_Stanley_Cup_Finals   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Cancer_Survivors_Park   []
+	http://yago-knowledge.org/resource/California   [california]
+Score: 0.16666666666666666
+----
+
+Nodes visited: 122367
+Total execution time: 13885
+
+Query Words: park, church
+Root nodes Found: 917
+
+http://yago-knowledge.org/resource/Rockcliffe_Park,_Ontario   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Progressive_Conservative_leadership_convention,_1948   []
+	http://yago-knowledge.org/resource/Lansdowne_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Progressive_Conservative_leadership_convention,_1956   []
+	http://yago-knowledge.org/resource/Lansdowne_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Lansdowne_Park   [park]
+http://yago-knowledge.org/resource/Liberal_Party_of_Canada_leadership_election,_1958   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Lansdowne_Park   [park]
+http://yago-knowledge.org/resource/Liberal_Party_of_Canada_leadership_election,_1948   []
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Lansdowne_Park   [park]
+http://yago-knowledge.org/resource/Liberal_Party_of_Canada_leadership_election,_1919   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/National_Conservative_leadership_convention,_1938   []
+	http://yago-knowledge.org/resource/Lansdowne_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/St._Matthew's_Anglican_Church_(Ottawa)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Fisher_Park_High_School   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Blessed_Sacrament_Catholic_Church_(Ottawa)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Britannia_United_Church   [church]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/Moss_Park_Armoury   [park]
+http://yago-knowledge.org/resource/Canadian_Armed_Forces   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/St._Peter's_Lutheran_Church_(Ottawa)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Rockcliffe_Park_Public_School   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Fitzroy_Provincial_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/MacKay_United_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Ste-Anne_Catholic_Church_(Ottawa)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Hawthorne_United_Church_(Ottawa)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/First_Baptist_Church_(Ottawa)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/McPhail_Memorial_Baptist_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Kenson_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Blossom_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Braemar_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Courtland_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Copeland_Park,_Ottawa   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/TD_Place_Stadium   []
+	http://yago-knowledge.org/resource/Lansdowne_Park   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Cancer_Survivors_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Centretown_United_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Andrew_Haydon_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St._Alban's_Anglican_Church_(Ottawa)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Trinity_Anglican_Church_(Ottawa)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Strathcona_Park_(Ottawa)   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Metropolitan_Bible_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St._Andrew's_Presbyterian_Church_(Ottawa)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Dominion-Chalmers_United_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St._Bartholomew's_Anglican_Church_(Ottawa)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Central_Park_(Ottawa)   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Mooney's_Bay_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Lansdowne_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St._Giles_Presbyterian_Church_(Ottawa)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Twin_Elm_Rugby_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Protection_of_the_Holy_Virgin_Memorial_Church   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Calvin_Hungarian_Presbyterian_Church_(Ottawa)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Church_of_the_Ascension_(Ottawa)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St._Peter_&_St._Paul's_Anglican_Church_(Ottawa)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Major's_Hill_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Confederation_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Dundonald_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/First_United_Church_(Ottawa)   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/McKellar_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Dick_Bell_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Minto_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Hampton_Park,_Ottawa   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Ballantyne_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Vincent_Massey_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Pauline_Vanier_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Clarke_Fields_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Nepean_Creek_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Byron_Tramway_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Brewer_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Dutchy's_Hole_Park   [park]
+Score: 0.5
+----
+
+Nodes visited: 122367
+Total execution time: 14175
+
+Query Words: district, objects
+Root nodes Found: 917
+
+http://yago-knowledge.org/resource/Ottawa-Carleton_District_School_Board   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Carleton_(Ontario_electoral_district)   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Ottawa_District_Badminton_Association   [district]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Nepean_(electoral_district)   [district]
+Score: 0.5
+----
+
+Nodes visited: 122367
+Total execution time: 14210
+
+Query Words: descent, football
+Root nodes Found: 917
+
+http://yago-knowledge.org/resource/Football_at_the_2001_Jeux_de_la_Francophonie   [football]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Football_at_the_1976_Summer_Olympics   [football]
+Score: 0.5
+----
+
+Nodes visited: 122367
+Total execution time: 13881
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 917
+
+	http://yago-knowledge.org/resource/Anaheim,_California   [california]
+http://yago-knowledge.org/resource/2007_Stanley_Cup_Finals   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Bakersfield,_California   [california]
+http://yago-knowledge.org/resource/Cancer_Survivors_Park   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 122367
+Total execution time: 13737
+
+Query Words: park, church, district, objects
+Root nodes Found: 917
+
+http://yago-knowledge.org/resource/Rockcliffe_Park,_Ontario   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Lansdowne_Park   [park]
+http://yago-knowledge.org/resource/Progressive_Conservative_leadership_convention,_1948   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Lansdowne_Park   [park]
+http://yago-knowledge.org/resource/Progressive_Conservative_leadership_convention,_1956   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Liberal_Party_of_Canada_leadership_election,_1958   []
+	http://yago-knowledge.org/resource/Lansdowne_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Liberal_Party_of_Canada_leadership_election,_1948   []
+	http://yago-knowledge.org/resource/Lansdowne_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Liberal_Party_of_Canada_leadership_election,_1919   []
+	http://yago-knowledge.org/resource/Lansdowne_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Lansdowne_Park   [park]
+http://yago-knowledge.org/resource/National_Conservative_leadership_convention,_1938   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/St._Matthew's_Anglican_Church_(Ottawa)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Fisher_Park_High_School   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Blessed_Sacrament_Catholic_Church_(Ottawa)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Britannia_United_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Canadian_Armed_Forces   []
+	http://yago-knowledge.org/resource/Moss_Park_Armoury   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/St._Peter's_Lutheran_Church_(Ottawa)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Rockcliffe_Park_Public_School   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Fitzroy_Provincial_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/MacKay_United_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Ste-Anne_Catholic_Church_(Ottawa)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Hawthorne_United_Church_(Ottawa)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/First_Baptist_Church_(Ottawa)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/McPhail_Memorial_Baptist_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Ottawa-Carleton_District_School_Board   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Kenson_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Blossom_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Braemar_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Courtland_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Copeland_Park,_Ottawa   [park]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Lansdowne_Park   [park]
+http://yago-knowledge.org/resource/TD_Place_Stadium   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Cancer_Survivors_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Centretown_United_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Andrew_Haydon_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/St._Alban's_Anglican_Church_(Ottawa)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Carleton_(Ontario_electoral_district)   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Trinity_Anglican_Church_(Ottawa)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Strathcona_Park_(Ottawa)   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Metropolitan_Bible_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/St._Andrew's_Presbyterian_Church_(Ottawa)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Dominion-Chalmers_United_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/St._Bartholomew's_Anglican_Church_(Ottawa)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Central_Park_(Ottawa)   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Mooney's_Bay_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Ottawa_District_Badminton_Association   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Lansdowne_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/St._Giles_Presbyterian_Church_(Ottawa)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Twin_Elm_Rugby_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Protection_of_the_Holy_Virgin_Memorial_Church   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Calvin_Hungarian_Presbyterian_Church_(Ottawa)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Church_of_the_Ascension_(Ottawa)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/St._Peter_&_St._Paul's_Anglican_Church_(Ottawa)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Major's_Hill_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Confederation_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Dundonald_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Nepean_(electoral_district)   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/First_United_Church_(Ottawa)   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/McKellar_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Dick_Bell_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Minto_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Hampton_Park,_Ottawa   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Ballantyne_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Vincent_Massey_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Pauline_Vanier_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Clarke_Fields_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Nepean_Creek_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Byron_Tramway_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Brewer_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Dutchy's_Hole_Park   [park]
+Score: 0.25
+----
+
+Nodes visited: 122367
+Total execution time: 13872
+
+Query Words: descent, football, william, park
+Root nodes Found: 917
+
+http://yago-knowledge.org/resource/Rockcliffe_Park,_Ontario   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Football_at_the_2001_Jeux_de_la_Francophonie   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Football_at_the_1976_Summer_Olympics   [football]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/Lansdowne_Park   [park]
+http://yago-knowledge.org/resource/Progressive_Conservative_leadership_convention,_1948   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Lansdowne_Park   [park]
+http://yago-knowledge.org/resource/Progressive_Conservative_leadership_convention,_1956   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Lansdowne_Park   [park]
+http://yago-knowledge.org/resource/Liberal_Party_of_Canada_leadership_election,_1958   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Liberal_Party_of_Canada_leadership_election,_1948   []
+	http://yago-knowledge.org/resource/Lansdowne_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Lansdowne_Park   [park]
+http://yago-knowledge.org/resource/Liberal_Party_of_Canada_leadership_election,_1919   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Lansdowne_Park   [park]
+http://yago-knowledge.org/resource/National_Conservative_leadership_convention,_1938   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Fisher_Park_High_School   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Canadian_Armed_Forces   []
+	http://yago-knowledge.org/resource/Moss_Park_Armoury   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Rockcliffe_Park_Public_School   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Fitzroy_Provincial_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Kenson_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Blossom_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Braemar_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Courtland_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Copeland_Park,_Ottawa   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/TD_Place_Stadium   []
+	http://yago-knowledge.org/resource/Lansdowne_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Cancer_Survivors_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Andrew_Haydon_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Strathcona_Park_(Ottawa)   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Central_Park_(Ottawa)   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Mooney's_Bay_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Lansdowne_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Twin_Elm_Rugby_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Major's_Hill_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Confederation_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Dundonald_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/McKellar_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Dick_Bell_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Minto_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Hampton_Park,_Ottawa   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Ballantyne_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Vincent_Massey_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Pauline_Vanier_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Clarke_Fields_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Nepean_Creek_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Byron_Tramway_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Brewer_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Dutchy's_Hole_Park   [park]
+Score: 0.25
+----
+
+Nodes visited: 122367
+Total execution time: 13806
+
+Query Words: district, objects, thomas, california
+Root nodes Found: 917
+
+	http://yago-knowledge.org/resource/Anaheim,_California   [california]
+http://yago-knowledge.org/resource/2007_Stanley_Cup_Finals   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Ottawa-Carleton_District_School_Board   [district]
+Score: 0.25
+----
+
+
+	http://yago-knowledge.org/resource/California   [california]
+http://yago-knowledge.org/resource/Cancer_Survivors_Park   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Carleton_(Ontario_electoral_district)   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Ottawa_District_Badminton_Association   [district]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Nepean_(electoral_district)   [district]
+Score: 0.25
+----
+
+Nodes visited: 122367
+Total execution time: 13769
+

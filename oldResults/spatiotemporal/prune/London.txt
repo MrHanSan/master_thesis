@@ -1,0 +1,528 @@
+Query Words: william, whole
+Root nodes Found: 137
+Nodes visited: 137
+Total execution time: 4925
+
+Query Words: thomas, california
+Root nodes Found: 137
+
+http://yago-knowledge.org/resource/GV_(company)   []
+	http://yago-knowledge.org/resource/Mountain_View,_California   [california]
+Score: 0.16666666666666666
+----
+
+Nodes visited: 159
+Total execution time: 2183
+
+Query Words: park, church
+Root nodes Found: 137
+
+http://yago-knowledge.org/resource/The_Silver_Bullet   []
+	http://yago-knowledge.org/resource/Finsbury_Park,_London   [park]
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/St_Helen's_Church,_Bishopsgate   [church]
+Score: 0.5
+----
+
+Nodes visited: 138
+Total execution time: 1630
+
+Query Words: district, objects
+Root nodes Found: 137
+Nodes visited: 137
+Total execution time: 1575
+
+Query Words: descent, football
+Root nodes Found: 137
+Nodes visited: 137
+Total execution time: 1582
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 137
+
+	http://yago-knowledge.org/resource/Mountain_View,_California   [california]
+http://yago-knowledge.org/resource/GV_(company)   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 159
+Total execution time: 1611
+
+Query Words: park, church, district, objects
+Root nodes Found: 137
+
+http://yago-knowledge.org/resource/The_Silver_Bullet   []
+	http://yago-knowledge.org/resource/Finsbury_Park,_London   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/St_Helen's_Church,_Bishopsgate   [church]
+Score: 0.25
+----
+
+Nodes visited: 138
+Total execution time: 1578
+
+Query Words: descent, football, william, park
+Root nodes Found: 137
+
+http://yago-knowledge.org/resource/The_Silver_Bullet   []
+	http://yago-knowledge.org/resource/Finsbury_Park,_London   [park]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 138
+Total execution time: 1573
+
+Query Words: william, whole
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1557
+
+Query Words: thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1566
+
+Query Words: park, church
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1538
+
+Query Words: district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1541
+
+Query Words: descent, football
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1543
+
+Query Words: william, park
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1536
+
+Query Words: district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1533
+
+Query Words: thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1532
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1554
+
+Query Words: park, church, district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1535
+
+Query Words: descent, football, william, park
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1541
+
+Query Words: william, whole
+Root nodes Found: 29
+Nodes visited: 29
+Total execution time: 1546
+
+Query Words: thomas, california
+Root nodes Found: 29
+Nodes visited: 29
+Total execution time: 1552
+
+Query Words: park, church
+Root nodes Found: 29
+
+http://yago-knowledge.org/resource/Highams_Park_School   [park]
+Score: 0.5
+----
+
+Nodes visited: 29
+Total execution time: 1550
+
+Query Words: district, objects
+Root nodes Found: 29
+Nodes visited: 29
+Total execution time: 1550
+
+Query Words: descent, football
+Root nodes Found: 29
+Nodes visited: 29
+Total execution time: 1548
+
+Query Words: william, park
+Root nodes Found: 29
+
+http://yago-knowledge.org/resource/Highams_Park_School   [park]
+Score: 0.5
+----
+
+Nodes visited: 29
+Total execution time: 1547
+
+Query Words: district, objects
+Root nodes Found: 29
+Nodes visited: 29
+Total execution time: 1562
+
+Query Words: thomas, california
+Root nodes Found: 29
+Nodes visited: 29
+Total execution time: 1552
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 29
+Nodes visited: 29
+Total execution time: 1542
+
+Query Words: park, church, district, objects
+Root nodes Found: 29
+
+http://yago-knowledge.org/resource/Highams_Park_School   [park]
+Score: 0.25
+----
+
+Nodes visited: 29
+Total execution time: 1550
+
+Query Words: descent, football, william, park
+Root nodes Found: 29
+
+http://yago-knowledge.org/resource/Highams_Park_School   [park]
+Score: 0.25
+----
+
+Nodes visited: 29
+Total execution time: 1545
+
+Query Words: william, whole
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1544
+
+Query Words: thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1543
+
+Query Words: park, church
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1536
+
+Query Words: district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1544
+
+Query Words: descent, football
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1543
+
+Query Words: william, park
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1594
+
+Query Words: district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1580
+
+Query Words: thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1570
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1580
+
+Query Words: park, church, district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1554
+
+Query Words: descent, football, william, park
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 1557
+
+Query Words: william, whole
+Root nodes Found: 65
+Nodes visited: 65
+Total execution time: 1610
+
+Query Words: thomas, california
+Root nodes Found: 65
+Nodes visited: 65
+Total execution time: 1615
+
+Query Words: park, church
+Root nodes Found: 65
+Nodes visited: 65
+Total execution time: 1586
+
+Query Words: district, objects
+Root nodes Found: 65
+Nodes visited: 65
+Total execution time: 1648
+
+Query Words: descent, football
+Root nodes Found: 65
+
+http://yago-knowledge.org/resource/Harlequin_Ladies_Football_Club   [football]
+Score: 0.5
+----
+
+Nodes visited: 65
+Total execution time: 1648
+
+Query Words: william, park
+Root nodes Found: 65
+Nodes visited: 65
+Total execution time: 1747
+
+Query Words: district, objects
+Root nodes Found: 65
+Nodes visited: 65
+Total execution time: 1740
+
+Query Words: thomas, california
+Root nodes Found: 65
+Nodes visited: 65
+Total execution time: 1751
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 65
+Nodes visited: 65
+Total execution time: 1773
+
+Query Words: park, church, district, objects
+Root nodes Found: 65
+Nodes visited: 65
+Total execution time: 1776
+
+Query Words: descent, football, william, park
+Root nodes Found: 65
+
+http://yago-knowledge.org/resource/Harlequin_Ladies_Football_Club   [football]
+Score: 0.25
+----
+
+Nodes visited: 65
+Total execution time: 1766
+
+Query Words: william, whole
+Root nodes Found: 15
+Nodes visited: 15
+Total execution time: 1743
+
+Query Words: thomas, california
+Root nodes Found: 15
+Nodes visited: 15
+Total execution time: 1759
+
+Query Words: park, church
+Root nodes Found: 15
+Nodes visited: 15
+Total execution time: 1736
+
+Query Words: district, objects
+Root nodes Found: 15
+Nodes visited: 15
+Total execution time: 1566
+
+Query Words: descent, football
+Root nodes Found: 15
+Nodes visited: 15
+Total execution time: 1553
+
+Query Words: william, park
+Root nodes Found: 15
+Nodes visited: 15
+Total execution time: 1543
+
+Query Words: district, objects
+Root nodes Found: 15
+Nodes visited: 15
+Total execution time: 1567
+
+Query Words: thomas, california
+Root nodes Found: 15
+Nodes visited: 15
+Total execution time: 1538
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 15
+Nodes visited: 15
+Total execution time: 1530
+
+Query Words: park, church, district, objects
+Root nodes Found: 15
+Nodes visited: 15
+Total execution time: 1538
+
+Query Words: descent, football, william, park
+Root nodes Found: 15
+Nodes visited: 15
+Total execution time: 1547
+
+Query Words: william, whole
+Root nodes Found: 92
+
+	http://yago-knowledge.org/resource/Fort_William_Station_Sidings   [william]
+http://yago-knowledge.org/resource/Network_Rail   []
+Score: 0.16666666666666666
+----
+
+Nodes visited: 94
+Total execution time: 1650
+
+Query Words: thomas, california
+Root nodes Found: 92
+Nodes visited: 92
+Total execution time: 1581
+
+Query Words: park, church
+Root nodes Found: 92
+
+http://yago-knowledge.org/resource/EDF_Energy   []
+	http://yago-knowledge.org/resource/Langley_Park_Wind_Farm   [park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Downsview_Park_(TTC)   [park]
+http://yago-knowledge.org/resource/Aedas   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Network_Rail   []
+	http://yago-knowledge.org/resource/Oakleigh_Park_railway_station   [park]
+Score: 0.16666666666666666
+----
+
+Nodes visited: 108
+Total execution time: 1574
+
+Query Words: district, objects
+Root nodes Found: 92
+Nodes visited: 92
+Total execution time: 1562
+
+Query Words: descent, football
+Root nodes Found: 92
+Nodes visited: 92
+Total execution time: 1557
+
+Query Words: william, park
+Root nodes Found: 92
+
+	http://yago-knowledge.org/resource/Langley_Park_Wind_Farm   [park]
+http://yago-knowledge.org/resource/EDF_Energy   []
+Score: 0.16666666666666666
+----
+
+
+http://yago-knowledge.org/resource/Aedas   []
+	http://yago-knowledge.org/resource/Downsview_Park_(TTC)   [park]
+Score: 0.16666666666666666
+----
+
+
+	http://yago-knowledge.org/resource/Fort_William_Station_Sidings   [william]
+	http://yago-knowledge.org/resource/Greenwich_Park_branch_line   [park]
+http://yago-knowledge.org/resource/Network_Rail   []
+Score: 0.2
+----
+
+Nodes visited: 110
+Total execution time: 1590
+
+Query Words: district, objects
+Root nodes Found: 92
+Nodes visited: 92
+Total execution time: 1565
+
+Query Words: thomas, california
+Root nodes Found: 92
+Nodes visited: 92
+Total execution time: 1566
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 92
+
+http://yago-knowledge.org/resource/Network_Rail   []
+	http://yago-knowledge.org/resource/Fort_William_Station_Sidings   [william]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 94
+Total execution time: 1574
+
+Query Words: park, church, district, objects
+Root nodes Found: 92
+
+http://yago-knowledge.org/resource/EDF_Energy   []
+	http://yago-knowledge.org/resource/Langley_Park_Wind_Farm   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Aedas   []
+	http://yago-knowledge.org/resource/Downsview_Park_(TTC)   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Network_Rail   []
+		http://yago-knowledge.org/resource/Three_Rivers_District   [district]
+	http://yago-knowledge.org/resource/Carpenders_Park_railway_station   [park]
+	http://yago-knowledge.org/resource/Wanstead_Park_railway_station   [park]
+Score: 0.09375
+----
+
+Nodes visited: 109
+Total execution time: 1577
+
+Query Words: descent, football, william, park
+Root nodes Found: 92
+
+	http://yago-knowledge.org/resource/Langley_Park_Wind_Farm   [park]
+http://yago-knowledge.org/resource/EDF_Energy   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Downsview_Park_(TTC)   [park]
+http://yago-knowledge.org/resource/Aedas   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Network_Rail   []
+	http://yago-knowledge.org/resource/Fort_William_Station_Sidings   [william]
+	http://yago-knowledge.org/resource/Honor_Oak_Park_railway_station   [park]
+Score: 0.1
+----
+
+Nodes visited: 110
+Total execution time: 1580
+

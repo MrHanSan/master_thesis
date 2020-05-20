@@ -1,0 +1,1057 @@
+Query Words: william, whole
+Root nodes Found: 6
+Nodes visited: 24877
+Total execution time: 1151
+
+Query Words: thomas, california
+Root nodes Found: 6
+Nodes visited: 24877
+Total execution time: 860
+
+Query Words: park, church
+Root nodes Found: 6
+
+	http://yago-knowledge.org/resource/Montreal   []
+http://yago-knowledge.org/resource/2015_Ottawa_Larmond_twins_terror_conspiracy   []
+		http://yago-knowledge.org/resource/La_Ronde_(amusement_park)   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Ontario   []
+http://yago-knowledge.org/resource/Escapade_Music_Festival   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Ontario   []
+http://yago-knowledge.org/resource/CIDG-FM   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 24877
+Total execution time: 884
+
+Query Words: district, objects
+Root nodes Found: 6
+Nodes visited: 24877
+Total execution time: 848
+
+Query Words: descent, football
+Root nodes Found: 6
+Nodes visited: 24877
+Total execution time: 847
+
+Query Words: william, park
+Root nodes Found: 6
+
+http://yago-knowledge.org/resource/2015_Ottawa_Larmond_twins_terror_conspiracy   []
+		http://yago-knowledge.org/resource/La_Ronde_(amusement_park)   [park]
+	http://yago-knowledge.org/resource/Montreal   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Ontario   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+http://yago-knowledge.org/resource/Escapade_Music_Festival   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Ontario   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+http://yago-knowledge.org/resource/CIDG-FM   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 24877
+Total execution time: 862
+
+Query Words: district, objects
+Root nodes Found: 6
+Nodes visited: 24877
+Total execution time: 854
+
+Query Words: thomas, california
+Root nodes Found: 6
+Nodes visited: 24877
+Total execution time: 842
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 6
+Nodes visited: 24877
+Total execution time: 843
+
+Query Words: park, church, district, objects
+Root nodes Found: 6
+
+	http://yago-knowledge.org/resource/Montreal   []
+		http://yago-knowledge.org/resource/La_Ronde_(amusement_park)   [park]
+http://yago-knowledge.org/resource/2015_Ottawa_Larmond_twins_terror_conspiracy   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Escapade_Music_Festival   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+	http://yago-knowledge.org/resource/Ontario   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Ontario   []
+http://yago-knowledge.org/resource/CIDG-FM   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+Score: 0.041666666666666664
+----
+
+Nodes visited: 24877
+Total execution time: 858
+
+Query Words: descent, football, william, park
+Root nodes Found: 6
+
+http://yago-knowledge.org/resource/2015_Ottawa_Larmond_twins_terror_conspiracy   []
+		http://yago-knowledge.org/resource/La_Ronde_(amusement_park)   [park]
+	http://yago-knowledge.org/resource/Montreal   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Ontario   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+http://yago-knowledge.org/resource/Escapade_Music_Festival   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/CIDG-FM   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+	http://yago-knowledge.org/resource/Ontario   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 24877
+Total execution time: 852
+
+Query Words: william, whole
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 187
+
+Query Words: thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 214
+
+Query Words: park, church
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 193
+
+Query Words: district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 184
+
+Query Words: descent, football
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 187
+
+Query Words: william, park
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 187
+
+Query Words: district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 186
+
+Query Words: thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 187
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 194
+
+Query Words: park, church, district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 184
+
+Query Words: descent, football, william, park
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 184
+
+Query Words: william, whole
+Root nodes Found: 7
+Nodes visited: 24171
+Total execution time: 1043
+
+Query Words: thomas, california
+Root nodes Found: 7
+Nodes visited: 24171
+Total execution time: 923
+
+Query Words: park, church
+Root nodes Found: 7
+
+	http://yago-knowledge.org/resource/Ontario   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+http://yago-knowledge.org/resource/Canadian_Labour_Defence_League   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Toronto   []
+http://yago-knowledge.org/resource/28th_Grey_Cup   []
+		http://yago-knowledge.org/resource/Thomson_Memorial_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Ontario   []
+http://yago-knowledge.org/resource/Carleton_University   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/CBC_News   []
+	http://yago-knowledge.org/resource/Toronto   []
+		http://yago-knowledge.org/resource/Centennial_Park_Stadium   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Ontario   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+http://yago-knowledge.org/resource/Lord_Elgin_Hotel   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+http://yago-knowledge.org/resource/fr/Édifice�de�la�Cour�suprême   []
+	http://yago-knowledge.org/resource/Ontario   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 24171
+Total execution time: 938
+
+Query Words: district, objects
+Root nodes Found: 7
+Nodes visited: 24171
+Total execution time: 998
+
+Query Words: descent, football
+Root nodes Found: 7
+Nodes visited: 24171
+Total execution time: 923
+
+Query Words: william, park
+Root nodes Found: 7
+
+http://yago-knowledge.org/resource/Canadian_Labour_Defence_League   []
+	http://yago-knowledge.org/resource/Ontario   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/28th_Grey_Cup   []
+		http://yago-knowledge.org/resource/Maple_Leaf_Forever_Park   [park]
+	http://yago-knowledge.org/resource/Toronto   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+http://yago-knowledge.org/resource/Carleton_University   []
+	http://yago-knowledge.org/resource/Ontario   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/CBC_News   []
+		http://yago-knowledge.org/resource/Thomson_Memorial_Park   [park]
+	http://yago-knowledge.org/resource/Toronto   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+http://yago-knowledge.org/resource/Lord_Elgin_Hotel   []
+	http://yago-knowledge.org/resource/Ontario   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+	http://yago-knowledge.org/resource/Ontario   []
+http://yago-knowledge.org/resource/fr/Édifice�de�la�Cour�suprême   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 24171
+Total execution time: 981
+
+Query Words: district, objects
+Root nodes Found: 7
+Nodes visited: 24171
+Total execution time: 1010
+
+Query Words: thomas, california
+Root nodes Found: 7
+Nodes visited: 24171
+Total execution time: 1018
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 7
+Nodes visited: 24171
+Total execution time: 1012
+
+Query Words: park, church, district, objects
+Root nodes Found: 7
+
+http://yago-knowledge.org/resource/Canadian_Labour_Defence_League   []
+	http://yago-knowledge.org/resource/Ontario   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/28th_Grey_Cup   []
+	http://yago-knowledge.org/resource/Toronto   []
+		http://yago-knowledge.org/resource/Thomson_Memorial_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Carleton_University   []
+	http://yago-knowledge.org/resource/Ontario   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/CBC_News   []
+	http://yago-knowledge.org/resource/Toronto   []
+		http://yago-knowledge.org/resource/High_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+http://yago-knowledge.org/resource/Lord_Elgin_Hotel   []
+	http://yago-knowledge.org/resource/Ontario   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+http://yago-knowledge.org/resource/fr/Édifice�de�la�Cour�suprême   []
+	http://yago-knowledge.org/resource/Ontario   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 24171
+Total execution time: 1034
+
+Query Words: descent, football, william, park
+Root nodes Found: 7
+
+	http://yago-knowledge.org/resource/Ontario   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+http://yago-knowledge.org/resource/Canadian_Labour_Defence_League   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Toronto   []
+		http://yago-knowledge.org/resource/Maple_Leaf_Forever_Park   [park]
+http://yago-knowledge.org/resource/28th_Grey_Cup   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+	http://yago-knowledge.org/resource/Ontario   []
+http://yago-knowledge.org/resource/Carleton_University   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/CBC_News   []
+	http://yago-knowledge.org/resource/Toronto   []
+		http://yago-knowledge.org/resource/Thomson_Memorial_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Ontario   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+http://yago-knowledge.org/resource/Lord_Elgin_Hotel   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+	http://yago-knowledge.org/resource/Ontario   []
+http://yago-knowledge.org/resource/fr/Édifice�de�la�Cour�suprême   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 24171
+Total execution time: 1052
+
+Query Words: william, whole
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 241
+
+Query Words: thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 209
+
+Query Words: park, church
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 200
+
+Query Words: district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 204
+
+Query Words: descent, football
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 202
+
+Query Words: william, park
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 212
+
+Query Words: district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 214
+
+Query Words: thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 200
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 214
+
+Query Words: park, church, district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 204
+
+Query Words: descent, football, william, park
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 220
+
+Query Words: william, whole
+Root nodes Found: 6
+Nodes visited: 28556
+Total execution time: 1039
+
+Query Words: thomas, california
+Root nodes Found: 6
+Nodes visited: 28556
+Total execution time: 1081
+
+Query Words: park, church
+Root nodes Found: 6
+
+http://yago-knowledge.org/resource/New_Democratic_Party_leadership_election,_1995   []
+	http://yago-knowledge.org/resource/Ontario   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+http://yago-knowledge.org/resource/Canadian_Alliance_of_Student_Associations   []
+	http://yago-knowledge.org/resource/Ontario   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/CKDJ-FM   []
+	http://yago-knowledge.org/resource/Ontario   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+http://yago-knowledge.org/resource/Living_Waters_Christian_Assembly   []
+	http://yago-knowledge.org/resource/Ontario   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 28556
+Total execution time: 1040
+
+Query Words: district, objects
+Root nodes Found: 6
+Nodes visited: 28556
+Total execution time: 1040
+
+Query Words: descent, football
+Root nodes Found: 6
+Nodes visited: 28556
+Total execution time: 1044
+
+Query Words: william, park
+Root nodes Found: 6
+
+	http://yago-knowledge.org/resource/Ontario   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+http://yago-knowledge.org/resource/New_Democratic_Party_leadership_election,_1995   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Canadian_Alliance_of_Student_Associations   []
+	http://yago-knowledge.org/resource/Ontario   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/CKDJ-FM   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+	http://yago-knowledge.org/resource/Ontario   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+	http://yago-knowledge.org/resource/Ontario   []
+http://yago-knowledge.org/resource/Living_Waters_Christian_Assembly   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 28556
+Total execution time: 986
+
+Query Words: district, objects
+Root nodes Found: 6
+Nodes visited: 28556
+Total execution time: 940
+
+Query Words: thomas, california
+Root nodes Found: 6
+Nodes visited: 28556
+Total execution time: 960
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 6
+Nodes visited: 28556
+Total execution time: 937
+
+Query Words: park, church, district, objects
+Root nodes Found: 6
+
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+	http://yago-knowledge.org/resource/Ontario   []
+http://yago-knowledge.org/resource/New_Democratic_Party_leadership_election,_1995   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+	http://yago-knowledge.org/resource/Ontario   []
+http://yago-knowledge.org/resource/Canadian_Alliance_of_Student_Associations   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Ontario   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+http://yago-knowledge.org/resource/CKDJ-FM   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Living_Waters_Christian_Assembly   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+	http://yago-knowledge.org/resource/Ontario   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 28556
+Total execution time: 938
+
+Query Words: descent, football, william, park
+Root nodes Found: 6
+
+http://yago-knowledge.org/resource/New_Democratic_Party_leadership_election,_1995   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+	http://yago-knowledge.org/resource/Ontario   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Canadian_Alliance_of_Student_Associations   []
+	http://yago-knowledge.org/resource/Ontario   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Ontario   []
+http://yago-knowledge.org/resource/CKDJ-FM   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Ontario   []
+http://yago-knowledge.org/resource/Living_Waters_Christian_Assembly   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+Score: 0.041666666666666664
+----
+
+Nodes visited: 28556
+Total execution time: 936
+
+Query Words: william, whole
+Root nodes Found: 8
+Nodes visited: 21593
+Total execution time: 972
+
+Query Words: thomas, california
+Root nodes Found: 8
+Nodes visited: 21593
+Total execution time: 890
+
+Query Words: park, church
+Root nodes Found: 8
+
+http://yago-knowledge.org/resource/Co-operative_Commonwealth_Federation   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+	http://yago-knowledge.org/resource/Ontario   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Ontario   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+http://yago-knowledge.org/resource/New_Democratic_Party_leadership_election,_1961   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/CJOH-DT   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+	http://yago-knowledge.org/resource/Ontario   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Ontario   []
+http://yago-knowledge.org/resource/Giant_Tiger   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/CHRO-TV   []
+	http://yago-knowledge.org/resource/Ontario   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 21593
+Total execution time: 887
+
+Query Words: district, objects
+Root nodes Found: 8
+Nodes visited: 21593
+Total execution time: 885
+
+Query Words: descent, football
+Root nodes Found: 8
+Nodes visited: 21593
+Total execution time: 878
+
+Query Words: william, park
+Root nodes Found: 8
+
+	http://yago-knowledge.org/resource/Ontario   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+http://yago-knowledge.org/resource/Co-operative_Commonwealth_Federation   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+http://yago-knowledge.org/resource/New_Democratic_Party_leadership_election,_1961   []
+	http://yago-knowledge.org/resource/Ontario   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+http://yago-knowledge.org/resource/CJOH-DT   []
+	http://yago-knowledge.org/resource/Ontario   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Ontario   []
+http://yago-knowledge.org/resource/Giant_Tiger   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Ontario   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+http://yago-knowledge.org/resource/CHRO-TV   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 21593
+Total execution time: 885
+
+Query Words: district, objects
+Root nodes Found: 8
+Nodes visited: 21593
+Total execution time: 878
+
+Query Words: thomas, california
+Root nodes Found: 8
+Nodes visited: 21593
+Total execution time: 890
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 8
+Nodes visited: 21593
+Total execution time: 879
+
+Query Words: park, church, district, objects
+Root nodes Found: 8
+
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+	http://yago-knowledge.org/resource/Ontario   []
+http://yago-knowledge.org/resource/Co-operative_Commonwealth_Federation   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/New_Democratic_Party_leadership_election,_1961   []
+	http://yago-knowledge.org/resource/Ontario   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Ontario   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+http://yago-knowledge.org/resource/CJOH-DT   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Ontario   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+http://yago-knowledge.org/resource/Giant_Tiger   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/CHRO-TV   []
+	http://yago-knowledge.org/resource/Ontario   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+Score: 0.041666666666666664
+----
+
+Nodes visited: 21593
+Total execution time: 889
+
+Query Words: descent, football, william, park
+Root nodes Found: 8
+
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+http://yago-knowledge.org/resource/Co-operative_Commonwealth_Federation   []
+	http://yago-knowledge.org/resource/Ontario   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/New_Democratic_Party_leadership_election,_1961   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+	http://yago-knowledge.org/resource/Ontario   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/CJOH-DT   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+	http://yago-knowledge.org/resource/Ontario   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Giant_Tiger   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+	http://yago-knowledge.org/resource/Ontario   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Ontario   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+http://yago-knowledge.org/resource/CHRO-TV   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 21593
+Total execution time: 888
+
+Query Words: william, whole
+Root nodes Found: 12
+Nodes visited: 47862
+Total execution time: 2058
+
+Query Words: thomas, california
+Root nodes Found: 12
+Nodes visited: 47862
+Total execution time: 1402
+
+Query Words: park, church
+Root nodes Found: 12
+
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+http://yago-knowledge.org/resource/Ottawa_Renegades   []
+	http://yago-knowledge.org/resource/Ontario   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+http://yago-knowledge.org/resource/Zoom_Airlines   []
+	http://yago-knowledge.org/resource/Ontario   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Ontario   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+http://yago-knowledge.org/resource/The_Beautiful_Music   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Ontario   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+http://yago-knowledge.org/resource/Canadian_Air_Transport_Security_Authority   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+http://yago-knowledge.org/resource/Council_of_Canadian_Academies   []
+	http://yago-knowledge.org/resource/Ontario   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Ontario   []
+http://yago-knowledge.org/resource/Companions_of_the_Cross   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 47862
+Total execution time: 1397
+
+Query Words: district, objects
+Root nodes Found: 12
+Nodes visited: 47862
+Total execution time: 1387
+
+Query Words: descent, football
+Root nodes Found: 12
+Nodes visited: 47862
+Total execution time: 1388
+
+Query Words: william, park
+Root nodes Found: 12
+
+	http://yago-knowledge.org/resource/Ontario   []
+http://yago-knowledge.org/resource/Ottawa_Renegades   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Zoom_Airlines   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+	http://yago-knowledge.org/resource/Ontario   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/The_Beautiful_Music   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+	http://yago-knowledge.org/resource/Ontario   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+	http://yago-knowledge.org/resource/Ontario   []
+http://yago-knowledge.org/resource/Canadian_Air_Transport_Security_Authority   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Council_of_Canadian_Academies   []
+	http://yago-knowledge.org/resource/Ontario   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+	http://yago-knowledge.org/resource/Ontario   []
+http://yago-knowledge.org/resource/Companions_of_the_Cross   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 47862
+Total execution time: 1399
+
+Query Words: district, objects
+Root nodes Found: 12
+Nodes visited: 47862
+Total execution time: 1381
+
+Query Words: thomas, california
+Root nodes Found: 12
+Nodes visited: 47862
+Total execution time: 1397
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 12
+Nodes visited: 47862
+Total execution time: 1418
+
+Query Words: park, church, district, objects
+Root nodes Found: 12
+
+	http://yago-knowledge.org/resource/Ontario   []
+http://yago-knowledge.org/resource/Ottawa_Renegades   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Zoom_Airlines   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+	http://yago-knowledge.org/resource/Ontario   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+	http://yago-knowledge.org/resource/Ontario   []
+http://yago-knowledge.org/resource/The_Beautiful_Music   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Ontario   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+http://yago-knowledge.org/resource/Canadian_Air_Transport_Security_Authority   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Council_of_Canadian_Academies   []
+	http://yago-knowledge.org/resource/Ontario   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Companions_of_the_Cross   []
+	http://yago-knowledge.org/resource/Ontario   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+Score: 0.041666666666666664
+----
+
+Nodes visited: 47862
+Total execution time: 1395
+
+Query Words: descent, football, william, park
+Root nodes Found: 12
+
+http://yago-knowledge.org/resource/Ottawa_Renegades   []
+	http://yago-knowledge.org/resource/Ontario   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+	http://yago-knowledge.org/resource/Ontario   []
+http://yago-knowledge.org/resource/Zoom_Airlines   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Ontario   []
+http://yago-knowledge.org/resource/The_Beautiful_Music   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Ontario   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+http://yago-knowledge.org/resource/Canadian_Air_Transport_Security_Authority   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Ontario   []
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+http://yago-knowledge.org/resource/Council_of_Canadian_Academies   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Bob_Hunter_Memorial_Park   [park]
+http://yago-knowledge.org/resource/Companions_of_the_Cross   []
+	http://yago-knowledge.org/resource/Ontario   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 47862
+Total execution time: 1407
+

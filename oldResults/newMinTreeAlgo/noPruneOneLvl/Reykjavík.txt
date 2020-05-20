@@ -1,0 +1,65 @@
+Query Words: william, whole
+Root nodes Found: 203
+Nodes visited: 7305
+Total execution time: 2946
+
+Query Words: thomas, california
+Root nodes Found: 203
+Nodes visited: 7305
+Total execution time: 2807
+
+Query Words: park, church
+Root nodes Found: 203
+
+http://yago-knowledge.org/resource/Church_of_Iceland   [church]
+Score: 0.5
+----
+
+Nodes visited: 7305
+Total execution time: 2799
+
+Query Words: district, objects
+Root nodes Found: 203
+Nodes visited: 7305
+Total execution time: 2781
+
+Query Words: descent, football
+Root nodes Found: 203
+Nodes visited: 7305
+Total execution time: 2955
+
+Query Words: william, park
+Root nodes Found: 203
+Nodes visited: 7305
+Total execution time: 2871
+
+Query Words: district, objects
+Root nodes Found: 203
+Nodes visited: 7305
+Total execution time: 2787
+
+Query Words: thomas, california
+Root nodes Found: 203
+Nodes visited: 7305
+Total execution time: 2787
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 203
+Nodes visited: 7305
+Total execution time: 2853
+
+Query Words: park, church, district, objects
+Root nodes Found: 203
+
+http://yago-knowledge.org/resource/Church_of_Iceland   [church]
+Score: 0.25
+----
+
+Nodes visited: 7305
+Total execution time: 2931
+
+Query Words: descent, football, william, park
+Root nodes Found: 203
+Nodes visited: 7305
+Total execution time: 2881
+

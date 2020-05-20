@@ -1,0 +1,19 @@
+\begin{table}[h]
+	\caption{Follow only edges from node hits}
+	\label{table:followHits}
+	\begin{tabular}{ |p{3cm}||p{3cm}|p{3cm}|p{3cm}|  }
+		\hline
+		\multicolumn{4}{|c|}{Traversal following edges with keyword match vertex}                     \\
+		\hline
+		Result type                     & Temporal data  & Spatial data   & Spatial and temporal data \\
+		\hline
+		Avg. time per query (ms)        & 3033           & 466            & 367                       \\
+		Avg. roots per query            & 192            & 1527           & 10                        \\
+		Avg. vertices per root          & 1.02           & 1.03           & 1.02                      \\
+		Avg. vertices visited per query & 197            & 1569           & 11                        \\
+		Avg. accuracy per result        & 0.231          & 0.232          & 0.174                     \\
+		Avg. top accuracy per query     & 0.313          & 0.349          & 0.215                     \\
+		Query miss (no keywords found)  & 35/63 (55.5\%) & 20/63 (31.7\%) & 415/441 (94.1\%)          \\
+		\hline
+	\end{tabular}
+\end{table}

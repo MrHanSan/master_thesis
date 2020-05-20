@@ -1,0 +1,1685 @@
+Query Words: william, whole
+Root nodes Found: 316
+
+http://yago-knowledge.org/resource/William_Booth_Memorial_Training_College_(Wellington)   [william]
+Score: 0.5
+----
+
+Nodes visited: 316
+Total execution time: 4434
+
+Query Words: thomas, california
+Root nodes Found: 316
+Nodes visited: 316
+Total execution time: 3719
+
+Query Words: park, church
+Root nodes Found: 316
+
+http://yago-knowledge.org/resource/Shark_in_the_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Bolton_Street_Memorial_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Athletic_Park,_Wellington   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Newtown_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Vodafone_on_The_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St_John's_Church,_Wellington   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Makara_Peak_Mountain_Bike_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/David_Farrington_Park   [park]
+Score: 0.5
+----
+
+Nodes visited: 316
+Total execution time: 3712
+
+Query Words: district, objects
+Root nodes Found: 316
+Nodes visited: 316
+Total execution time: 3700
+
+Query Words: descent, football
+Root nodes Found: 316
+
+http://yago-knowledge.org/resource/Wellington_Rugby_Football_Union   [football]
+Score: 0.5
+----
+
+Nodes visited: 316
+Total execution time: 3686
+
+Query Words: william, park
+Root nodes Found: 316
+
+http://yago-knowledge.org/resource/Shark_in_the_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Bolton_Street_Memorial_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Athletic_Park,_Wellington   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/William_Booth_Memorial_Training_College_(Wellington)   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Newtown_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Vodafone_on_The_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Makara_Peak_Mountain_Bike_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/David_Farrington_Park   [park]
+Score: 0.5
+----
+
+Nodes visited: 316
+Total execution time: 3701
+
+Query Words: district, objects
+Root nodes Found: 316
+Nodes visited: 316
+Total execution time: 3696
+
+Query Words: thomas, california
+Root nodes Found: 316
+Nodes visited: 316
+Total execution time: 3699
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 316
+
+http://yago-knowledge.org/resource/William_Booth_Memorial_Training_College_(Wellington)   [william]
+Score: 0.25
+----
+
+Nodes visited: 316
+Total execution time: 3692
+
+Query Words: park, church, district, objects
+Root nodes Found: 316
+
+http://yago-knowledge.org/resource/Shark_in_the_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bolton_Street_Memorial_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Athletic_Park,_Wellington   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Newtown_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Vodafone_on_The_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/St_John's_Church,_Wellington   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Makara_Peak_Mountain_Bike_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/David_Farrington_Park   [park]
+Score: 0.25
+----
+
+Nodes visited: 316
+Total execution time: 3692
+
+Query Words: descent, football, william, park
+Root nodes Found: 316
+
+http://yago-knowledge.org/resource/Shark_in_the_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bolton_Street_Memorial_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Athletic_Park,_Wellington   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/William_Booth_Memorial_Training_College_(Wellington)   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Wellington_Rugby_Football_Union   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Newtown_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Vodafone_on_The_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Makara_Peak_Mountain_Bike_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/David_Farrington_Park   [park]
+Score: 0.25
+----
+
+Nodes visited: 316
+Total execution time: 3702
+
+Query Words: william, whole
+Root nodes Found: 310
+
+http://yago-knowledge.org/resource/William_Booth_Memorial_Training_College_(Wellington)   [william]
+Score: 0.5
+----
+
+Nodes visited: 310
+Total execution time: 3729
+
+Query Words: thomas, california
+Root nodes Found: 310
+Nodes visited: 310
+Total execution time: 3687
+
+Query Words: park, church
+Root nodes Found: 310
+
+http://yago-knowledge.org/resource/Shark_in_the_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Bolton_Street_Memorial_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Athletic_Park,_Wellington   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Newtown_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Vodafone_on_The_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St_John's_Church,_Wellington   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Makara_Peak_Mountain_Bike_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/David_Farrington_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Swiss_National_Park   [park]
+Score: 0.5
+----
+
+Nodes visited: 310
+Total execution time: 3697
+
+Query Words: district, objects
+Root nodes Found: 310
+Nodes visited: 310
+Total execution time: 3800
+
+Query Words: descent, football
+Root nodes Found: 310
+
+http://yago-knowledge.org/resource/Wellington_Rugby_Football_Union   [football]
+Score: 0.5
+----
+
+Nodes visited: 310
+Total execution time: 3824
+
+Query Words: william, park
+Root nodes Found: 310
+
+http://yago-knowledge.org/resource/Shark_in_the_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Bolton_Street_Memorial_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Athletic_Park,_Wellington   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/William_Booth_Memorial_Training_College_(Wellington)   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Newtown_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Vodafone_on_The_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Makara_Peak_Mountain_Bike_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/David_Farrington_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Swiss_National_Park   [park]
+Score: 0.5
+----
+
+Nodes visited: 310
+Total execution time: 3924
+
+Query Words: district, objects
+Root nodes Found: 310
+Nodes visited: 310
+Total execution time: 4010
+
+Query Words: thomas, california
+Root nodes Found: 310
+Nodes visited: 310
+Total execution time: 4023
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 310
+
+http://yago-knowledge.org/resource/William_Booth_Memorial_Training_College_(Wellington)   [william]
+Score: 0.25
+----
+
+Nodes visited: 310
+Total execution time: 4185
+
+Query Words: park, church, district, objects
+Root nodes Found: 310
+
+http://yago-knowledge.org/resource/Shark_in_the_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bolton_Street_Memorial_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Athletic_Park,_Wellington   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Newtown_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Vodafone_on_The_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/St_John's_Church,_Wellington   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Makara_Peak_Mountain_Bike_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/David_Farrington_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Swiss_National_Park   [park]
+Score: 0.25
+----
+
+Nodes visited: 310
+Total execution time: 3813
+
+Query Words: descent, football, william, park
+Root nodes Found: 310
+
+http://yago-knowledge.org/resource/Shark_in_the_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bolton_Street_Memorial_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Athletic_Park,_Wellington   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/William_Booth_Memorial_Training_College_(Wellington)   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Wellington_Rugby_Football_Union   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Newtown_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Vodafone_on_The_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Makara_Peak_Mountain_Bike_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/David_Farrington_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Swiss_National_Park   [park]
+Score: 0.25
+----
+
+Nodes visited: 310
+Total execution time: 3849
+
+Query Words: william, whole
+Root nodes Found: 305
+
+http://yago-knowledge.org/resource/William_Booth_Memorial_Training_College_(Wellington)   [william]
+Score: 0.5
+----
+
+Nodes visited: 305
+Total execution time: 3746
+
+Query Words: thomas, california
+Root nodes Found: 305
+Nodes visited: 305
+Total execution time: 3723
+
+Query Words: park, church
+Root nodes Found: 305
+
+http://yago-knowledge.org/resource/Shark_in_the_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Bolton_Street_Memorial_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Athletic_Park,_Wellington   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Newtown_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Vodafone_on_The_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St_John's_Church,_Wellington   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Makara_Peak_Mountain_Bike_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/David_Farrington_Park   [park]
+Score: 0.5
+----
+
+Nodes visited: 305
+Total execution time: 3698
+
+Query Words: district, objects
+Root nodes Found: 305
+Nodes visited: 305
+Total execution time: 3715
+
+Query Words: descent, football
+Root nodes Found: 305
+
+http://yago-knowledge.org/resource/Wellington_Rugby_Football_Union   [football]
+Score: 0.5
+----
+
+Nodes visited: 305
+Total execution time: 3683
+
+Query Words: william, park
+Root nodes Found: 305
+
+http://yago-knowledge.org/resource/Shark_in_the_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Bolton_Street_Memorial_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Athletic_Park,_Wellington   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/William_Booth_Memorial_Training_College_(Wellington)   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Newtown_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Vodafone_on_The_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Makara_Peak_Mountain_Bike_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/David_Farrington_Park   [park]
+Score: 0.5
+----
+
+Nodes visited: 305
+Total execution time: 3683
+
+Query Words: district, objects
+Root nodes Found: 305
+Nodes visited: 305
+Total execution time: 3694
+
+Query Words: thomas, california
+Root nodes Found: 305
+Nodes visited: 305
+Total execution time: 3770
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 305
+
+http://yago-knowledge.org/resource/William_Booth_Memorial_Training_College_(Wellington)   [william]
+Score: 0.25
+----
+
+Nodes visited: 305
+Total execution time: 3682
+
+Query Words: park, church, district, objects
+Root nodes Found: 305
+
+http://yago-knowledge.org/resource/Shark_in_the_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bolton_Street_Memorial_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Athletic_Park,_Wellington   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Newtown_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Vodafone_on_The_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/St_John's_Church,_Wellington   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Makara_Peak_Mountain_Bike_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/David_Farrington_Park   [park]
+Score: 0.25
+----
+
+Nodes visited: 305
+Total execution time: 3685
+
+Query Words: descent, football, william, park
+Root nodes Found: 305
+
+http://yago-knowledge.org/resource/Shark_in_the_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bolton_Street_Memorial_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Athletic_Park,_Wellington   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/William_Booth_Memorial_Training_College_(Wellington)   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Wellington_Rugby_Football_Union   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Newtown_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Vodafone_on_The_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Makara_Peak_Mountain_Bike_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/David_Farrington_Park   [park]
+Score: 0.25
+----
+
+Nodes visited: 305
+Total execution time: 3689
+
+Query Words: william, whole
+Root nodes Found: 300
+
+http://yago-knowledge.org/resource/William_Booth_Memorial_Training_College_(Wellington)   [william]
+Score: 0.5
+----
+
+Nodes visited: 300
+Total execution time: 3700
+
+Query Words: thomas, california
+Root nodes Found: 300
+Nodes visited: 300
+Total execution time: 3703
+
+Query Words: park, church
+Root nodes Found: 300
+
+http://yago-knowledge.org/resource/Shark_in_the_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Bolton_Street_Memorial_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Athletic_Park,_Wellington   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Newtown_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Vodafone_on_The_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St_John's_Church,_Wellington   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Makara_Peak_Mountain_Bike_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/David_Farrington_Park   [park]
+Score: 0.5
+----
+
+Nodes visited: 300
+Total execution time: 3704
+
+Query Words: district, objects
+Root nodes Found: 300
+Nodes visited: 300
+Total execution time: 3711
+
+Query Words: descent, football
+Root nodes Found: 300
+
+http://yago-knowledge.org/resource/Wellington_Rugby_Football_Union   [football]
+Score: 0.5
+----
+
+Nodes visited: 300
+Total execution time: 3693
+
+Query Words: william, park
+Root nodes Found: 300
+
+http://yago-knowledge.org/resource/Shark_in_the_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Bolton_Street_Memorial_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Athletic_Park,_Wellington   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/William_Booth_Memorial_Training_College_(Wellington)   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Newtown_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Vodafone_on_The_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Makara_Peak_Mountain_Bike_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/David_Farrington_Park   [park]
+Score: 0.5
+----
+
+Nodes visited: 300
+Total execution time: 3791
+
+Query Words: district, objects
+Root nodes Found: 300
+Nodes visited: 300
+Total execution time: 3707
+
+Query Words: thomas, california
+Root nodes Found: 300
+Nodes visited: 300
+Total execution time: 3710
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 300
+
+http://yago-knowledge.org/resource/William_Booth_Memorial_Training_College_(Wellington)   [william]
+Score: 0.25
+----
+
+Nodes visited: 300
+Total execution time: 3734
+
+Query Words: park, church, district, objects
+Root nodes Found: 300
+
+http://yago-knowledge.org/resource/Shark_in_the_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bolton_Street_Memorial_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Athletic_Park,_Wellington   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Newtown_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Vodafone_on_The_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/St_John's_Church,_Wellington   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Makara_Peak_Mountain_Bike_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/David_Farrington_Park   [park]
+Score: 0.25
+----
+
+Nodes visited: 300
+Total execution time: 3714
+
+Query Words: descent, football, william, park
+Root nodes Found: 300
+
+http://yago-knowledge.org/resource/Shark_in_the_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bolton_Street_Memorial_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Athletic_Park,_Wellington   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/William_Booth_Memorial_Training_College_(Wellington)   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Wellington_Rugby_Football_Union   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Newtown_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Vodafone_on_The_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Makara_Peak_Mountain_Bike_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/David_Farrington_Park   [park]
+Score: 0.25
+----
+
+Nodes visited: 300
+Total execution time: 3706
+
+Query Words: william, whole
+Root nodes Found: 321
+
+http://yago-knowledge.org/resource/William_Booth_Memorial_Training_College_(Wellington)   [william]
+Score: 0.5
+----
+
+Nodes visited: 321
+Total execution time: 3597
+
+Query Words: thomas, california
+Root nodes Found: 321
+Nodes visited: 321
+Total execution time: 3585
+
+Query Words: park, church
+Root nodes Found: 321
+
+http://yago-knowledge.org/resource/Shark_in_the_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Bolton_Street_Memorial_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Athletic_Park,_Wellington   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Newtown_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Vodafone_on_The_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St_John's_Church,_Wellington   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Makara_Peak_Mountain_Bike_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/David_Farrington_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Xuxa_Park_(Brazilian_TV_series)   [park]
+Score: 0.5
+----
+
+Nodes visited: 321
+Total execution time: 3571
+
+Query Words: district, objects
+Root nodes Found: 321
+Nodes visited: 321
+Total execution time: 3570
+
+Query Words: descent, football
+Root nodes Found: 321
+
+http://yago-knowledge.org/resource/Wellington_Rugby_Football_Union   [football]
+Score: 0.5
+----
+
+Nodes visited: 321
+Total execution time: 3572
+
+Query Words: william, park
+Root nodes Found: 321
+
+http://yago-knowledge.org/resource/Shark_in_the_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Bolton_Street_Memorial_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Athletic_Park,_Wellington   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/William_Booth_Memorial_Training_College_(Wellington)   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Newtown_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Vodafone_on_The_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Makara_Peak_Mountain_Bike_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/David_Farrington_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Xuxa_Park_(Brazilian_TV_series)   [park]
+Score: 0.5
+----
+
+Nodes visited: 321
+Total execution time: 3644
+
+Query Words: district, objects
+Root nodes Found: 321
+Nodes visited: 321
+Total execution time: 3570
+
+Query Words: thomas, california
+Root nodes Found: 321
+Nodes visited: 321
+Total execution time: 3564
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 321
+
+http://yago-knowledge.org/resource/William_Booth_Memorial_Training_College_(Wellington)   [william]
+Score: 0.25
+----
+
+Nodes visited: 321
+Total execution time: 3572
+
+Query Words: park, church, district, objects
+Root nodes Found: 321
+
+http://yago-knowledge.org/resource/Shark_in_the_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bolton_Street_Memorial_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Athletic_Park,_Wellington   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Newtown_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Vodafone_on_The_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/St_John's_Church,_Wellington   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Makara_Peak_Mountain_Bike_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/David_Farrington_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Xuxa_Park_(Brazilian_TV_series)   [park]
+Score: 0.25
+----
+
+Nodes visited: 321
+Total execution time: 3580
+
+Query Words: descent, football, william, park
+Root nodes Found: 321
+
+http://yago-knowledge.org/resource/Shark_in_the_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bolton_Street_Memorial_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Athletic_Park,_Wellington   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/William_Booth_Memorial_Training_College_(Wellington)   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Wellington_Rugby_Football_Union   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Newtown_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Vodafone_on_The_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Makara_Peak_Mountain_Bike_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/David_Farrington_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Xuxa_Park_(Brazilian_TV_series)   [park]
+Score: 0.25
+----
+
+Nodes visited: 321
+Total execution time: 3625
+
+Query Words: william, whole
+Root nodes Found: 300
+
+http://yago-knowledge.org/resource/William_Booth_Memorial_Training_College_(Wellington)   [william]
+Score: 0.5
+----
+
+Nodes visited: 300
+Total execution time: 3849
+
+Query Words: thomas, california
+Root nodes Found: 300
+Nodes visited: 300
+Total execution time: 3951
+
+Query Words: park, church
+Root nodes Found: 300
+
+http://yago-knowledge.org/resource/Shark_in_the_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Bolton_Street_Memorial_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Athletic_Park,_Wellington   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Newtown_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Vodafone_on_The_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St_John's_Church,_Wellington   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Makara_Peak_Mountain_Bike_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/David_Farrington_Park   [park]
+Score: 0.5
+----
+
+Nodes visited: 300
+Total execution time: 3944
+
+Query Words: district, objects
+Root nodes Found: 300
+Nodes visited: 300
+Total execution time: 3950
+
+Query Words: descent, football
+Root nodes Found: 300
+
+http://yago-knowledge.org/resource/Wellington_Rugby_Football_Union   [football]
+Score: 0.5
+----
+
+Nodes visited: 300
+Total execution time: 4315
+
+Query Words: william, park
+Root nodes Found: 300
+
+http://yago-knowledge.org/resource/Shark_in_the_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Bolton_Street_Memorial_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Athletic_Park,_Wellington   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/William_Booth_Memorial_Training_College_(Wellington)   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Newtown_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Vodafone_on_The_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Makara_Peak_Mountain_Bike_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/David_Farrington_Park   [park]
+Score: 0.5
+----
+
+Nodes visited: 300
+Total execution time: 3811
+
+Query Words: district, objects
+Root nodes Found: 300
+Nodes visited: 300
+Total execution time: 3705
+
+Query Words: thomas, california
+Root nodes Found: 300
+Nodes visited: 300
+Total execution time: 3704
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 300
+
+http://yago-knowledge.org/resource/William_Booth_Memorial_Training_College_(Wellington)   [william]
+Score: 0.25
+----
+
+Nodes visited: 300
+Total execution time: 3705
+
+Query Words: park, church, district, objects
+Root nodes Found: 300
+
+http://yago-knowledge.org/resource/Shark_in_the_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bolton_Street_Memorial_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Athletic_Park,_Wellington   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Newtown_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Vodafone_on_The_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/St_John's_Church,_Wellington   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Makara_Peak_Mountain_Bike_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/David_Farrington_Park   [park]
+Score: 0.25
+----
+
+Nodes visited: 300
+Total execution time: 3707
+
+Query Words: descent, football, william, park
+Root nodes Found: 300
+
+http://yago-knowledge.org/resource/Shark_in_the_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bolton_Street_Memorial_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Athletic_Park,_Wellington   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/William_Booth_Memorial_Training_College_(Wellington)   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Wellington_Rugby_Football_Union   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Newtown_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Vodafone_on_The_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Makara_Peak_Mountain_Bike_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/David_Farrington_Park   [park]
+Score: 0.25
+----
+
+Nodes visited: 300
+Total execution time: 3709
+
+Query Words: william, whole
+Root nodes Found: 369
+
+http://yago-knowledge.org/resource/William_Booth_Memorial_Training_College_(Wellington)   [william]
+Score: 0.5
+----
+
+Nodes visited: 369
+Total execution time: 3562
+
+Query Words: thomas, california
+Root nodes Found: 369
+Nodes visited: 369
+Total execution time: 3672
+
+Query Words: park, church
+Root nodes Found: 369
+
+http://yago-knowledge.org/resource/Shark_in_the_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Bolton_Street_Memorial_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Athletic_Park,_Wellington   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Newtown_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Vodafone_on_The_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/St_John's_Church,_Wellington   [church]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Makara_Peak_Mountain_Bike_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/David_Farrington_Park   [park]
+Score: 0.5
+----
+
+Nodes visited: 369
+Total execution time: 3609
+
+Query Words: district, objects
+Root nodes Found: 369
+Nodes visited: 369
+Total execution time: 3553
+
+Query Words: descent, football
+Root nodes Found: 369
+
+http://yago-knowledge.org/resource/Wellington_Rugby_Football_Union   [football]
+Score: 0.5
+----
+
+Nodes visited: 369
+Total execution time: 3692
+
+Query Words: william, park
+Root nodes Found: 369
+
+http://yago-knowledge.org/resource/Shark_in_the_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Bolton_Street_Memorial_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Athletic_Park,_Wellington   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/William_Booth_Memorial_Training_College_(Wellington)   [william]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Newtown_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Vodafone_on_The_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/Makara_Peak_Mountain_Bike_Park   [park]
+Score: 0.5
+----
+
+
+http://yago-knowledge.org/resource/David_Farrington_Park   [park]
+Score: 0.5
+----
+
+Nodes visited: 369
+Total execution time: 3639
+
+Query Words: district, objects
+Root nodes Found: 369
+Nodes visited: 369
+Total execution time: 3560
+
+Query Words: thomas, california
+Root nodes Found: 369
+Nodes visited: 369
+Total execution time: 3556
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 369
+
+http://yago-knowledge.org/resource/William_Booth_Memorial_Training_College_(Wellington)   [william]
+Score: 0.25
+----
+
+Nodes visited: 369
+Total execution time: 3548
+
+Query Words: park, church, district, objects
+Root nodes Found: 369
+
+http://yago-knowledge.org/resource/Shark_in_the_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bolton_Street_Memorial_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Athletic_Park,_Wellington   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Newtown_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Vodafone_on_The_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/St_John's_Church,_Wellington   [church]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Makara_Peak_Mountain_Bike_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/David_Farrington_Park   [park]
+Score: 0.25
+----
+
+Nodes visited: 369
+Total execution time: 3539
+
+Query Words: descent, football, william, park
+Root nodes Found: 369
+
+http://yago-knowledge.org/resource/Shark_in_the_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Bolton_Street_Memorial_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Athletic_Park,_Wellington   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/William_Booth_Memorial_Training_College_(Wellington)   [william]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Wellington_Rugby_Football_Union   [football]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Newtown_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Vodafone_on_The_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Makara_Peak_Mountain_Bike_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/David_Farrington_Park   [park]
+Score: 0.25
+----
+
+Nodes visited: 369
+Total execution time: 3550
+

@@ -1,0 +1,1326 @@
+Query Words: william, whole
+Root nodes Found: 29
+
+	http://yago-knowledge.org/resource/Mexico_City_International_Airport   []
+		http://yago-knowledge.org/resource/William_P._Hobby_Airport   [william]
+http://yago-knowledge.org/resource/Mexicana_de_Aviación   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 158092
+Total execution time: 5350
+
+Query Words: thomas, california
+Root nodes Found: 29
+
+http://yago-knowledge.org/resource/Atrévete�a�soñar   []
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Mexicana_de_Aviación   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Mujer_comprada   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Pobre_Diabla   []
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Aeropostal_Cargo_de_México   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Pasión�morena   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Persons_Unknown_(TV_series)   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.09090909090909091
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Vuélveme�a�querer�(telenovela)   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Vuélveme�a�querer�(telenovela)   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Pobre_rico,_pobre   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Teotihuacan_Priests   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Zapotec_Totems   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Mercado_Integrado_Latinoamericano   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Aztec_Eagle_Warriors   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Mr_Model_México   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Quiéreme�tonto   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Ocean_Star_Cruises   []
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 158092
+Total execution time: 3821
+
+Query Words: park, church
+Root nodes Found: 29
+
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Saint_Mary's_Church   [church]
+http://yago-knowledge.org/resource/Persons_Unknown_(TV_series)   []
+Score: 0.1111111111111111
+----
+
+Nodes visited: 158092
+Total execution time: 3877
+
+Query Words: district, objects
+Root nodes Found: 29
+Nodes visited: 158092
+Total execution time: 3847
+
+Query Words: descent, football
+Root nodes Found: 29
+Nodes visited: 158092
+Total execution time: 3782
+
+Query Words: william, park
+Root nodes Found: 29
+
+		http://yago-knowledge.org/resource/William_P._Hobby_Airport   [william]
+	http://yago-knowledge.org/resource/Mexico_City_International_Airport   []
+http://yago-knowledge.org/resource/Mexicana_de_Aviación   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+http://yago-knowledge.org/resource/Persons_Unknown_(TV_series)   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 158092
+Total execution time: 3810
+
+Query Words: district, objects
+Root nodes Found: 29
+Nodes visited: 158092
+Total execution time: 3866
+
+Query Words: thomas, california
+Root nodes Found: 29
+
+http://yago-knowledge.org/resource/Atrévete�a�soñar   []
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Mexicana_de_Aviación   []
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Mujer_comprada   []
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Pobre_Diabla   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Aeropostal_Cargo_de_México   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Pasión�morena   []
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Persons_Unknown_(TV_series)   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.09090909090909091
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Vuélveme�a�querer�(telenovela)   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Vuélveme�a�querer�(telenovela)   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Pobre_rico,_pobre   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Teotihuacan_Priests   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Zapotec_Totems   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Mercado_Integrado_Latinoamericano   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Aztec_Eagle_Warriors   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Mr_Model_México   []
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Quiéreme�tonto   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Ocean_Star_Cruises   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 158092
+Total execution time: 3861
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 29
+
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Atrévete�a�soñar   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Mexico_City_International_Airport   []
+		http://yago-knowledge.org/resource/William_P._Hobby_Airport   [william]
+http://yago-knowledge.org/resource/Mexicana_de_Aviación   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.045454545454545456
+----
+
+
+http://yago-knowledge.org/resource/Mujer_comprada   []
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Pobre_Diabla   []
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Aeropostal_Cargo_de_México   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Pasión�morena   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/Mexico   []
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Persons_Unknown_(TV_series)   []
+Score: 0.045454545454545456
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Vuélveme�a�querer�(telenovela)   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Vuélveme�a�querer�(telenovela)   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Pobre_rico,_pobre   []
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Teotihuacan_Priests   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Zapotec_Totems   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Mercado_Integrado_Latinoamericano   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Aztec_Eagle_Warriors   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Mr_Model_México   []
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Quiéreme�tonto   []
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Ocean_Star_Cruises   []
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.041666666666666664
+----
+
+Nodes visited: 158092
+Total execution time: 3864
+
+Query Words: park, church, district, objects
+Root nodes Found: 29
+
+		http://yago-knowledge.org/resource/Battle_of_Old_Church   [church]
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Persons_Unknown_(TV_series)   []
+Score: 0.05555555555555555
+----
+
+Nodes visited: 158092
+Total execution time: 3876
+
+Query Words: descent, football, william, park
+Root nodes Found: 29
+
+		http://yago-knowledge.org/resource/William_P._Hobby_Airport   [william]
+	http://yago-knowledge.org/resource/Mexico_City_International_Airport   []
+http://yago-knowledge.org/resource/Mexicana_de_Aviación   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Persons_Unknown_(TV_series)   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+Score: 0.041666666666666664
+----
+
+Nodes visited: 158092
+Total execution time: 3782
+
+Query Words: william, whole
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 202
+
+Query Words: thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 200
+
+Query Words: park, church
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 200
+
+Query Words: district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 199
+
+Query Words: descent, football
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 200
+
+Query Words: william, park
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 201
+
+Query Words: district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 202
+
+Query Words: thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 200
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 198
+
+Query Words: park, church, district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 201
+
+Query Words: descent, football, william, park
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 202
+
+Query Words: william, whole
+Root nodes Found: 17
+Nodes visited: 39473
+Total execution time: 1115
+
+Query Words: thomas, california
+Root nodes Found: 17
+
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/El_Colegio_de_México   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Universidad_de_las_Américas,�A.C.   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Paletería�La�Michoacana   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/XEITE-AM   []
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Pan_American_Sports_Organization   []
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 39473
+Total execution time: 1122
+
+Query Words: park, church
+Root nodes Found: 17
+Nodes visited: 39473
+Total execution time: 1114
+
+Query Words: district, objects
+Root nodes Found: 17
+Nodes visited: 39473
+Total execution time: 1114
+
+Query Words: descent, football
+Root nodes Found: 17
+Nodes visited: 39473
+Total execution time: 1120
+
+Query Words: william, park
+Root nodes Found: 17
+Nodes visited: 39473
+Total execution time: 1111
+
+Query Words: district, objects
+Root nodes Found: 17
+Nodes visited: 39473
+Total execution time: 1115
+
+Query Words: thomas, california
+Root nodes Found: 17
+
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/El_Colegio_de_México   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Universidad_de_las_Américas,�A.C.   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Paletería�La�Michoacana   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/XEITE-AM   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Pan_American_Sports_Organization   []
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 39473
+Total execution time: 1127
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 17
+
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/El_Colegio_de_México   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Universidad_de_las_Américas,�A.C.   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Paletería�La�Michoacana   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/XEITE-AM   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Pan_American_Sports_Organization   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 39473
+Total execution time: 1134
+
+Query Words: park, church, district, objects
+Root nodes Found: 17
+Nodes visited: 39473
+Total execution time: 1122
+
+Query Words: descent, football, william, park
+Root nodes Found: 17
+Nodes visited: 39473
+Total execution time: 1115
+
+Query Words: william, whole
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 201
+
+Query Words: thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 204
+
+Query Words: park, church
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 200
+
+Query Words: district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 202
+
+Query Words: descent, football
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 201
+
+Query Words: william, park
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 200
+
+Query Words: district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 204
+
+Query Words: thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 201
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 202
+
+Query Words: park, church, district, objects
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 201
+
+Query Words: descent, football, william, park
+Root nodes Found: 0
+Nodes visited: 0
+Total execution time: 200
+
+Query Words: william, whole
+Root nodes Found: 6
+Nodes visited: 29224
+Total execution time: 797
+
+Query Words: thomas, california
+Root nodes Found: 6
+
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Imperio_de_cristal   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Imperio_de_cristal   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Alondra_(telenovela)   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Si_Dios_me_quita_la_vida   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 29224
+Total execution time: 787
+
+Query Words: park, church
+Root nodes Found: 6
+Nodes visited: 29224
+Total execution time: 770
+
+Query Words: district, objects
+Root nodes Found: 6
+Nodes visited: 29224
+Total execution time: 777
+
+Query Words: descent, football
+Root nodes Found: 6
+Nodes visited: 29224
+Total execution time: 768
+
+Query Words: william, park
+Root nodes Found: 6
+Nodes visited: 29224
+Total execution time: 774
+
+Query Words: district, objects
+Root nodes Found: 6
+Nodes visited: 29224
+Total execution time: 773
+
+Query Words: thomas, california
+Root nodes Found: 6
+
+http://yago-knowledge.org/resource/Imperio_de_cristal   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Imperio_de_cristal   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Alondra_(telenovela)   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Si_Dios_me_quita_la_vida   []
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 29224
+Total execution time: 783
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 6
+
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Imperio_de_cristal   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Imperio_de_cristal   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Alondra_(telenovela)   []
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Si_Dios_me_quita_la_vida   []
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 29224
+Total execution time: 781
+
+Query Words: park, church, district, objects
+Root nodes Found: 6
+Nodes visited: 29224
+Total execution time: 772
+
+Query Words: descent, football, william, park
+Root nodes Found: 6
+Nodes visited: 29224
+Total execution time: 770
+
+Query Words: william, whole
+Root nodes Found: 3
+Nodes visited: 14810
+Total execution time: 605
+
+Query Words: thomas, california
+Root nodes Found: 3
+
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/CINVESTAV   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Universidad_del_Valle_de_México   []
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 14810
+Total execution time: 499
+
+Query Words: park, church
+Root nodes Found: 3
+Nodes visited: 14810
+Total execution time: 495
+
+Query Words: district, objects
+Root nodes Found: 3
+Nodes visited: 14810
+Total execution time: 509
+
+Query Words: descent, football
+Root nodes Found: 3
+Nodes visited: 14810
+Total execution time: 491
+
+Query Words: william, park
+Root nodes Found: 3
+Nodes visited: 14810
+Total execution time: 495
+
+Query Words: district, objects
+Root nodes Found: 3
+Nodes visited: 14810
+Total execution time: 489
+
+Query Words: thomas, california
+Root nodes Found: 3
+
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/CINVESTAV   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Universidad_del_Valle_de_México   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 14810
+Total execution time: 498
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 3
+
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/CINVESTAV   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Universidad_del_Valle_de_México   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 14810
+Total execution time: 494
+
+Query Words: park, church, district, objects
+Root nodes Found: 3
+Nodes visited: 14810
+Total execution time: 494
+
+Query Words: descent, football, william, park
+Root nodes Found: 3
+Nodes visited: 14810
+Total execution time: 491
+
+Query Words: william, whole
+Root nodes Found: 23
+Nodes visited: 112417
+Total execution time: 2989
+
+Query Words: thomas, california
+Root nodes Found: 23
+
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Entre_el_Amor_y_el_Odio   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Entre_el_Amor_y_el_Odio   []
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Cuando_seas_mía   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Cómplices�Al�Rescate   []
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Cómplices�Al�Rescate   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/¡Vivan�los�niños!   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/El_juego_de_la_vida   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/El_juego_de_la_vida   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Salomé�(telenovela)   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Salomé�(telenovela)   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Amigas_y_rivales   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Popular_Socialist_Party_of_Mexico   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Electronic_Game_Show   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/OCESA_Seitrack   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 112417
+Total execution time: 2561
+
+Query Words: park, church
+Root nodes Found: 23
+Nodes visited: 112417
+Total execution time: 2546
+
+Query Words: district, objects
+Root nodes Found: 23
+Nodes visited: 112417
+Total execution time: 2536
+
+Query Words: descent, football
+Root nodes Found: 23
+Nodes visited: 112417
+Total execution time: 2541
+
+Query Words: william, park
+Root nodes Found: 23
+Nodes visited: 112417
+Total execution time: 2568
+
+Query Words: district, objects
+Root nodes Found: 23
+Nodes visited: 112417
+Total execution time: 2539
+
+Query Words: thomas, california
+Root nodes Found: 23
+
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Entre_el_Amor_y_el_Odio   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Entre_el_Amor_y_el_Odio   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Cuando_seas_mía   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Cómplices�Al�Rescate   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Cómplices�Al�Rescate   []
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/¡Vivan�los�niños!   []
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/El_juego_de_la_vida   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/El_juego_de_la_vida   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Salomé�(telenovela)   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Salomé�(telenovela)   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Amigas_y_rivales   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Popular_Socialist_Party_of_Mexico   []
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Electronic_Game_Show   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/OCESA_Seitrack   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 112417
+Total execution time: 2566
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 23
+
+http://yago-knowledge.org/resource/Entre_el_Amor_y_el_Odio   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Entre_el_Amor_y_el_Odio   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Cuando_seas_mía   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Cómplices�Al�Rescate   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Cómplices�Al�Rescate   []
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/¡Vivan�los�niños!   []
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/El_juego_de_la_vida   []
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/El_juego_de_la_vida   []
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Salomé�(telenovela)   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Salomé�(telenovela)   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+http://yago-knowledge.org/resource/Amigas_y_rivales   []
+	http://yago-knowledge.org/resource/Mexico   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Popular_Socialist_Party_of_Mexico   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/Mexico   []
+http://yago-knowledge.org/resource/Electronic_Game_Show   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/OCESA_Seitrack   []
+	http://yago-knowledge.org/resource/Mexico   []
+		http://yago-knowledge.org/resource/Operation_Baja_California   [california]
+Score: 0.041666666666666664
+----
+
+Nodes visited: 112417
+Total execution time: 2698
+
+Query Words: park, church, district, objects
+Root nodes Found: 23
+Nodes visited: 112417
+Total execution time: 2537
+
+Query Words: descent, football, william, park
+Root nodes Found: 23
+Nodes visited: 112417
+Total execution time: 2540
+

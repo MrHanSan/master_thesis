@@ -1,0 +1,295 @@
+Query Words: william, whole
+Root nodes Found: 10
+Nodes visited: 57483
+Total execution time: 6454
+
+Query Words: thomas, california
+Root nodes Found: 10
+
+http://yago-knowledge.org/resource/Does_It_End_Right?   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/The_Rise_of_the_Johnsons   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/The_Property_Man   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Man's_Enemy   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 57483
+Total execution time: 6200
+
+Query Words: park, church
+Root nodes Found: 10
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Ezra_Church   [church]
+http://yago-knowledge.org/resource/Does_It_End_Right?   []
+Score: 0.1111111111111111
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Mount_Zion_Church   [church]
+http://yago-knowledge.org/resource/The_Rise_of_the_Johnsons   []
+Score: 0.1111111111111111
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Cumberland_Church   [church]
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+http://yago-knowledge.org/resource/The_Property_Man   []
+Score: 0.1111111111111111
+----
+
+
+http://yago-knowledge.org/resource/Swiss_National_Park   [park]
+Score: 0.5
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Man's_Enemy   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_New_Hope_Church   [church]
+Score: 0.1111111111111111
+----
+
+Nodes visited: 57483
+Total execution time: 6204
+
+Query Words: district, objects
+Root nodes Found: 10
+
+http://yago-knowledge.org/resource/Swiss_National_Park   []
+	http://yago-knowledge.org/resource/Zernez   []
+		http://yago-knowledge.org/resource/Inn_District,_Switzerland   [district]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 57483
+Total execution time: 6190
+
+Query Words: descent, football
+Root nodes Found: 10
+Nodes visited: 57483
+Total execution time: 6201
+
+Query Words: william, park
+Root nodes Found: 10
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+http://yago-knowledge.org/resource/Does_It_End_Right?   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/The_Rise_of_the_Johnsons   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/The_Property_Man   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Swiss_National_Park   [park]
+Score: 0.5
+----
+
+
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+http://yago-knowledge.org/resource/Man's_Enemy   []
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 57483
+Total execution time: 6223
+
+Query Words: district, objects
+Root nodes Found: 10
+
+		http://yago-knowledge.org/resource/Inn_District,_Switzerland   [district]
+http://yago-knowledge.org/resource/Swiss_National_Park   []
+	http://yago-knowledge.org/resource/Zernez   []
+Score: 0.08333333333333333
+----
+
+Nodes visited: 57483
+Total execution time: 6200
+
+Query Words: thomas, california
+Root nodes Found: 10
+
+http://yago-knowledge.org/resource/Does_It_End_Right?   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/The_Rise_of_the_Johnsons   []
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/The_Property_Man   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.08333333333333333
+----
+
+
+http://yago-knowledge.org/resource/Man's_Enemy   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.08333333333333333
+----
+
+Nodes visited: 57483
+Total execution time: 6201
+
+Query Words: william, whole, thomas, california
+Root nodes Found: 10
+
+http://yago-knowledge.org/resource/Does_It_End_Right?   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/The_Rise_of_the_Johnsons   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_Property_Man   []
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Battle_of_Thomas_Creek   [thomas]
+http://yago-knowledge.org/resource/Man's_Enemy   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 57483
+Total execution time: 6224
+
+Query Words: park, church, district, objects
+Root nodes Found: 10
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Does_It_End_Right?   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Sappony_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+http://yago-knowledge.org/resource/The_Rise_of_the_Johnsons   []
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+		http://yago-knowledge.org/resource/Battle_of_Saint_Mary's_Church   [church]
+Score: 0.05555555555555555
+----
+
+
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+		http://yago-knowledge.org/resource/Action_at_Mount_Zion_Church   [church]
+http://yago-knowledge.org/resource/The_Property_Man   []
+Score: 0.05555555555555555
+----
+
+
+	http://yago-knowledge.org/resource/Zernez   []
+http://yago-knowledge.org/resource/Swiss_National_Park   [park]
+		http://yago-knowledge.org/resource/Inn_District,_Switzerland   [district]
+Score: 0.08333333333333333
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Man's_Enemy   []
+		http://yago-knowledge.org/resource/Battle_of_Mount_Zion_Church   [church]
+		http://yago-knowledge.org/resource/Operation_Asbury_Park   [park]
+Score: 0.05555555555555555
+----
+
+Nodes visited: 57483
+Total execution time: 6333
+
+Query Words: descent, football, william, park
+Root nodes Found: 10
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/Does_It_End_Right?   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_Rise_of_the_Johnsons   []
+		http://yago-knowledge.org/resource/Fort_Lee_Historic_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+	http://yago-knowledge.org/resource/United_States   []
+http://yago-knowledge.org/resource/The_Property_Man   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+Score: 0.041666666666666664
+----
+
+
+http://yago-knowledge.org/resource/Swiss_National_Park   [park]
+Score: 0.25
+----
+
+
+http://yago-knowledge.org/resource/Man's_Enemy   []
+		http://yago-knowledge.org/resource/Operation_Forsythe_Park   [park]
+	http://yago-knowledge.org/resource/United_States   []
+Score: 0.041666666666666664
+----
+
+Nodes visited: 57483
+Total execution time: 6439
+
