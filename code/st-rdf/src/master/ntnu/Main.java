@@ -27,7 +27,7 @@ public class Main {
 
         System.out.println("Starting...");
 
-        String directory = "../../yago/db" ;
+        String directory = "../../yago/db";
         Dataset dataset = TDBFactory.createDataset(directory);
         dataset.begin(ReadWrite.READ);
         Model model = dataset.getDefaultModel();
@@ -35,65 +35,61 @@ public class Main {
         List<String> queryWordsTwo = readQueryWords("rndZipf.txt");
         List<String> queryWordsFour = readQueryWords("rndZipf4.txt");
         List<String> queryPlaces = readQueryWords("place.txt");
-        List<String> queryDates = readQueryWords("dates.txt");
-        // String place = "";
-        // String dates = "";
 
         for (String place : queryPlaces) {
-            for (String dates : queryDates) {
-                // place = "temporal_" + dates.split(" ")[0];
-                List<String> queryWords = queryWordsTwo;
-                for (int i = 0; i < queryWordsTwo.size(); i += 2) {
-                    queryWordsString = "";
-                    HashSet<String> queryWordsSet = new HashSet<>();
-                    queryWordsSet.add(queryWords.get(i));
-                    queryWordsSet.add(queryWords.get(i + 1));
+            List<String> queryWords = queryWordsTwo;
+            for (int i = 0; i < queryWordsTwo.size(); i += 2) {
+                queryWordsString = "";
+                HashSet<String> queryWordsSet = new HashSet<>();
+                queryWordsSet.add(queryWords.get(i));
+                queryWordsSet.add(queryWords.get(i + 1));
 
-                    System.out.println(queryWords.get(i));
-                    System.out.println(queryWords.get(i + 1));
-                    queryWordsString += "Query Words: " + queryWords.get(i) + ", " + queryWords.get(i + 1);
-                    WriteResults(queryWordsString, place);
+                System.out.println(queryWords.get(i));
+                System.out.println(queryWords.get(i + 1));
+                queryWordsString += "Query Words: " + queryWords.get(i) + ", " + queryWords.get(i + 1);
+                WriteResults(queryWordsString, place);
 
-                    startTime = System.currentTimeMillis();
-                    nodeCount = traverseStart(model, queryWordsSet, place, dates);
-                    endTime = System.currentTimeMillis();
-                    WriteResults("\nNodes visited: " + nodeCount +
-                            "\nTotal execution time: " + (endTime - startTime) +
-                            "\n\n", place);
+                startTime = System.currentTimeMillis();
+                nodeCount = traverseStart(model, queryWordsSet, place);
+                endTime = System.currentTimeMillis();
+                WriteResults(
+                        "\nNodes visited: " + nodeCount + "\nTotal execution time: " + (endTime - startTime) + "\n\n",
+                        place);
 
-                    System.out.println("\nTotal execution time: " + (endTime - startTime));
-                    if (nodeCount == -1) break;
-                }
+                System.out.println("\nTotal execution time: " + (endTime - startTime));
+                if (nodeCount == -1)
+                    break;
+            }
 
-                queryWords = queryWordsFour;
-                for (int i = 0; i < queryWords.size(); i += 4) {
-                    queryWordsString = "";
-                    HashSet<String> queryWordsSet = new HashSet<>();
+            queryWords = queryWordsFour;
+            for (int i = 0; i < queryWords.size(); i += 4) {
+                queryWordsString = "";
+                HashSet<String> queryWordsSet = new HashSet<>();
 
-                    queryWordsSet.add(queryWords.get(i));
-                    queryWordsSet.add(queryWords.get(i + 1));
-                    queryWordsSet.add(queryWords.get(i + 2));
-                    queryWordsSet.add(queryWords.get(i + 3));
+                queryWordsSet.add(queryWords.get(i));
+                queryWordsSet.add(queryWords.get(i + 1));
+                queryWordsSet.add(queryWords.get(i + 2));
+                queryWordsSet.add(queryWords.get(i + 3));
 
-                    System.out.println(queryWords.get(i));
-                    System.out.println(queryWords.get(i + 1));
-                    System.out.println(queryWords.get(i + 2));
-                    System.out.println(queryWords.get(i + 3));
+                System.out.println(queryWords.get(i));
+                System.out.println(queryWords.get(i + 1));
+                System.out.println(queryWords.get(i + 2));
+                System.out.println(queryWords.get(i + 3));
 
-                    queryWordsString += "Query Words: " + queryWords.get(i) + ", " + queryWords.get(i + 1);
-                    queryWordsString += ", " + queryWords.get(i + 2) + ", " + queryWords.get(i + 3);
-                    WriteResults(queryWordsString, place);
+                queryWordsString += "Query Words: " + queryWords.get(i) + ", " + queryWords.get(i + 1);
+                queryWordsString += ", " + queryWords.get(i + 2) + ", " + queryWords.get(i + 3);
+                WriteResults(queryWordsString, place);
 
-                    startTime = System.currentTimeMillis();
-                    nodeCount = traverseStart(model, queryWordsSet, place, dates);
-                    endTime = System.currentTimeMillis();
-                    WriteResults("\nNodes visited: " + nodeCount +
-                            "\nTotal execution time: " + (endTime - startTime) +
-                            "\n\n", place);
+                startTime = System.currentTimeMillis();
+                nodeCount = traverseStart(model, queryWordsSet, place);
+                endTime = System.currentTimeMillis();
+                WriteResults(
+                        "\nNodes visited: " + nodeCount + "\nTotal execution time: " + (endTime - startTime) + "\n\n",
+                        place);
 
-                    System.out.println("\nTotal execution time: " + (endTime - startTime));
-                    if (nodeCount == -1) break;
-                }
+                System.out.println("\nTotal execution time: " + (endTime - startTime));
+                if (nodeCount == -1)
+                    break;
             }
         }
 
@@ -154,69 +150,13 @@ public class Main {
         return roots;
     }
 
-    public static List<YagoNode> getTemporalNodes (Model model, String date) {
-        List<YagoNode> roots = new ArrayList<YagoNode>();
-        String dateString = "?date >= \"" + date.split(" ")[0] +"\"^^xsd:date && ?date <= \"" + date.split(" ")[1] + "\"^^xsd:date";
-
-        String queryString = "PREFIX xsd:<http://www.w3.org/2001/XMLSchema#> " +
-            "PREFIX yago:<http://yago-knowledge.org/resource/> " +
-            "PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema> " +
-            "SELECT DISTINCT ?s " +
-            "WHERE {" +
-                "VALUES ?p {yago:wasCreatedOnDate yago:wasDestroyedOnDate} " +
-                "?s ?p ?date . " +
-                "FILTER (" + dateString + " && ?p != rdfs:label)" +
-            "}";
-
-        try {
-            Query query = QueryFactory.create(queryString);
-            try (QueryExecution qexec = QueryExecutionFactory.create(query, model)) {
-                ResultSet resultSet = qexec.execSelect();
-                while (resultSet.hasNext()) {
-                    try {
-                    QuerySolution soln = resultSet.nextSolution();
-                    if (soln == null) continue;
-                    RDFNode sub = soln.get("s");
-                    if (sub == null || !sub.isURIResource()) continue;
-                    roots.add(new YagoNode(sub.toString()));
-                    } catch (NullPointerException e) {
-                        System.out.println(e);
-                    }
-                }
-            } catch (QueryParseException | NullPointerException e) {
-                System.out.println("time loop");
-                System.out.println(e);
-            }
-        } catch (QueryParseException e) {
-            System.out.println("Time query parse error");
-            System.out.println(queryString);
-            System.out.println(e);
-        }
-
-        return roots;
-    }
-
-    public static int traverseStart(Model model, HashSet<String> queryWords, String place, String dates) {
+    public static int traverseStart(Model model, HashSet<String> queryWords, String place) {
         // Use a list in parent node for all children that gets a hit.
         // group all hit Children
         // while hitListChildren is not empty: select child, check for hit children in child, ... something, its dinnertime...
         // use node level for tabs when printing, displaying inheratance
 
-        List<YagoNode> spatialRoots = getRoots(model, place);
-        // List<YagoNode> temporalRoots = getTemporalNodes(model, dates);
-        // System.out.println(temporalRoots.size());
-
-        List<YagoNode> roots = new ArrayList<YagoNode>();
-        for (YagoNode r : spatialRoots) {
-            List<YagoNode> spatiotemporal = temporalTraverse(model, r, dates);
-            if (spatiotemporal != null) {
-                roots.addAll(spatiotemporal);
-            }
-        }
-
-        // List<YagoNode> roots = new ArrayList<YagoNode>(spatialRoots);
-        // List<YagoNode> roots = new ArrayList<YagoNode>(temporalRoots);
-
+        List<YagoNode> roots = getRoots(model, place);
         List<YagoNode> nodes = new ArrayList<YagoNode>();
         int maxDepth = 3;
         int nodeCount = 0;
@@ -258,6 +198,8 @@ public class Main {
     }
 
     public static ArrayList<YagoNode> traverse (Model model, YagoNode yagoNode, HashSet<String> queryWords) {
+        boolean followHits = true;
+
         String entity = yagoNode.getNodeData();
         ArrayList<YagoNode> children = new ArrayList<YagoNode>();
         if (entity == null) return null;
@@ -281,13 +223,16 @@ public class Main {
                     String str = sub.toString();
                     String[] uriSplit = str.split("/");
                     String[] tokens = uriSplit[uriSplit.length-1].replaceAll("[,()]", "").toLowerCase().split("_");
-                    children.add(new YagoNode(yagoNode, str));
-                    // for (String word : queryWords) {
-                    //     if (Arrays.asList(tokens).contains(word)) {
-                    //         children.add(new YagoNode(yagoNode, str));
-                    //         break;
-                    //     }
-                    // }
+                    if (!followHits) {
+                        children.add(new YagoNode(yagoNode, str));
+                    } else {
+                        for (String word : queryWords) {
+                            if (Arrays.asList(tokens).contains(word)) {
+                                children.add(new YagoNode(yagoNode, str));
+                                break;
+                            }
+                        }
+                    }
                 }
             } catch (QueryParseException | NullPointerException e) {
             //    System.out.println(e);
@@ -298,66 +243,7 @@ public class Main {
         }
         return children;
     }
-    
-    public static ArrayList<YagoNode> temporalTraverse(Model model, YagoNode yagoNode, String dates) {
-        String entity = yagoNode.getNodeData();
-        ArrayList<YagoNode> children = new ArrayList<YagoNode>();
-        Integer startDate = Integer.parseInt(dates.split(" ")[0].replace("-", ""));
-        Integer endDate = Integer.parseInt(dates.split(" ")[1].replace("-", ""));
-        String dateStringHigh = "";
-        if (entity == null) return null;
-        if (entity.contains("<") || entity.contains(">") || entity.contains("\"") || entity.contains(" ")) return null;
 
-        String queryString 	= "PREFIX rdf:<http://www.w3.org/1999/02/22-rdf-syntax-ns#> " +
-                "PREFIX xsd:<http://www.w3.org/2001/XMLSchema#> " +
-                "PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema> " +
-                "SELECT DISTINCT * WHERE { " +
-                "<" + entity + "> ?p ?o . " +
-                "} ";
-
-        try {
-            Query query = QueryFactory.create(queryString);
-            try (QueryExecution qexec = QueryExecutionFactory.create(query, model)) {
-                ResultSet results = qexec.execSelect();
-                while (results.hasNext()) {
-                    QuerySolution soln = results.nextSolution();
-                    RDFNode sub = soln.get("o");
-                    if (sub == null) continue;
-                    String str = sub.toString();
-                    if (str.contains("^^http://www.w3.org/2001/XMLSchema#date")){
-                        String dateStringLow = str.replace("-", "").replace("##", "01").replace("^", "_").split("_")[0];
-                        if (str.contains("##-##-##")) {
-                            continue;
-                        }
-                        else if (str.contains("##-##")) {
-                            dateStringHigh = str.replace("-", "").replace("####", "1231").replace("^", "_").split("_")[0];
-                        } else {
-                            dateStringHigh = str.replace("-", "").replace("##", "30").replace("^", "_").split("_")[0];
-                        }
-                        try{
-                            Integer dateLow = Integer.parseInt(dateStringLow);
-                            Integer dateHigh = Integer.parseInt(dateStringHigh);
-                            if (dateLow <= endDate && dateHigh >= startDate){
-                                children.add(yagoNode);
-                            }
-                        } catch(NumberFormatException e) {
-                            System.out.println(e);
-                            System.out.println(str);
-                            System.out.println(yagoNode);
-                        }
-                    }
-                }
-            } catch (QueryParseException | NullPointerException e) {
-               System.out.println(e);
-            }
-        } catch (QueryParseException e) {
-            System.out.println(queryString);
-            return null;
-        }
-        return children;
-    }
-
-    // Useing kruskals -ish algo(?) Write something about that...
     public static void findMinSubgraph (YagoNode rootNode, HashSet<String> queryWords, String place) {
         HashSet<YagoNode> minTree = new HashSet<>();
         HashSet<YagoNode> parentList = new HashSet<>();
@@ -449,8 +335,6 @@ public class Main {
         System.out.println(scoreString);
         WriteResults(scoreString, place);
     }
-
-
 
     public static void WriteResults(String s, String place) {
         try {
