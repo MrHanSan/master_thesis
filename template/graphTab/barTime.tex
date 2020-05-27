@@ -1,6 +1,6 @@
 \begin{tikzpicture}
 	\begin{axis}[
-		title{Avg. time}
+		title{Avg. time in ms}
 		every axis plot post/.style={/pgf/number format/fixed},
 		ybar=5pt,
 		bar width=12pt,
@@ -10,7 +10,7 @@
 		ymax=40000,
 		xtick=data,
 		enlarge x limits=0.2,
-		symbolic x coords={Depth 2, Depth 1, Only hits},
+		symbolic x coords={Distance 2, Distance 1, Follow only hits},
 		restrict y to domain*=0:48000, % Cut values off
 		visualization depends on=rawy\as\rawy, % Save the unclipped values
 		after end axis/.code={ % Draw line indicating break
@@ -22,9 +22,9 @@
 		axis lines*=left,
 		clip=false,
 		]
-		\addplot coordinates {(Depth 2,27679) (Depth 1,4111) (Only hits,3033)};
-		\addplot coordinates {(Depth 2,166479) (Depth 1,14618) (Only hits,466)};
-		\addplot coordinates {(Depth 2,1842) (Depth 1,467) (Only hits,367)};
+		\addplot coordinates {(Distance 2,27679) (Distance 1,4111) (Follow only hits,3033)};
+		\addplot coordinates {(Distance 2,166479) (Distance 1,14618) (Follow only hits,466)};
+		\addplot coordinates {(Distance 2,1842) (Distance 1,467) (Follow only hits,367)};
 		\legend{Temporal, Spatial, Spatiotemporal}
 	\end{axis}
 \end{tikzpicture}

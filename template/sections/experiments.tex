@@ -1,53 +1,91 @@
 %!TEX root = ../report.tex
-\chapter{Experiments and Results}
+\chapter{Experiments and results}
 \label{cha:Experiments}
+In this chapter the planning, setup, and results from experiments are presented. The results use time and accuracy as metrics, and is used to evaluate how different traversal criteria, and datasets affect a search.
 
-\section{Experimental Plan}
+\section{Experimental plan}
 \label{sec:experimentalPlan}
-The goal of the experiments is to gather data for comparison of data types searched and criteria for vertices to follow. when comparing, speed and accuracy will be the metrics used. In total, 9 different searches will be conducted, one using spatial vertices as a starting point, one for temporal vertices as start, and one combining the two, searching spatiotemporal vertices. For each of these vertex types, there will also be different criteria for how the graph will be explored. The first method follows all predicates, excluding connections to types and classes, and will have a max depth of 2. The second method follows the same predicates as the first, but has the max depth set to 1. Finally, a criteria for following only predicates from nodes with at least one keyword match is used.
-When comparing the methods, the goal is to see how reducing the amount of data search will affect speed and accuracy of the search, and how differences in depth and edges followed differs based on the starting data.
+% Experimental plan Første avsnitt
+% Du bruker forskjellige betegnelser som seach og methods
+% 
+% Figurer og tabeller skal angis kronologisk. Dvs figure 3.1 før 3.2 etc. Figure 5.5.føt 5.6 etc
+% Alle figurene må omtales og henvises til i teksten. Kan ikke se henvisning til fig 3.7 
+% Angi figure tekst under figur. Det gjør du some regel.men ikke for figur 5.4 og 5.6
+% Figure 5.4 bruke forskjellige symbol eller tydeligere fargeforskjeller på de to grafene
+% Tabell tekst over tabell
+% 
+The goal of the experiments is to gather data for comparison of data types searched and criteria for vertices to follow. When comparing, speed and accuracy will be the metrics used. In total, nine different searches will be conducted, one using spatial data for input and roots, one using temporal data for input and roots, and one combining the two, using spatiotemporal data for input and roots. For each of these vertex types, there will also be different criteria for how the graph will be explored. The first method follows all predicates, excluding connections to types and classes, and will have a max distance of two. The second method follows the same predicates as the first but has the max distance set to one. Finally, a criterion for following only predicates from vertices with at least one keyword match is used.
+
+When comparing the methods, the goal is to see how reducing the amount of data search will affect speed and accuracy of the search, and how differences in distance and edges followed differs based on the starting data.
 
 \subsection{Time}
-When timing the search, two different times will be measured, time for each query, and time for each root node. In addition to these, avg. nodes visited for each root will also be used. Taking the average of these over a large input set should generate an appropriate result. Both time metrics measure how fast results are found, so the results should be similar as long as the input data does not contain a high number of highly connected nodes.
+When timing the algorithm, two different times is measured, time for each search, and time used for traversing and ranking a single root. In addition to these, avg. vertices visited for each root will also be used. Taking the average of these over a large input set should generate an appropriate result. Both time metrics measure how fast results are found, so the results should be similar if the input data does not contain a high number of highly connected vertices.
 
 The timing of the algorithm should be the same as any breath first search, $\Theta(\mathsf{V} + \mathsf{E})$ so that the best case is visiting only the first vertex, and the worst case is traversing the entire graph.
 
 \subsection{Scoring and ranking}
 Each subgraph is given a score. This score will be used to see how pruning, and difference in predicates can lead to differences in the result tree. Two metrics for accuracy will be used, avg. accuracy for each result and avg. highest accuracy for each query.
 
-\section{Experimental Setup}
+\section{Experimental setup}
 \label{sec:experimentalSetup}
 All experiments was run on a single laptop with the specifications listed in table \ref{table:laptop}. The code is written in Java, using openJDK 11.0.7 and building with gradle 6.0. For triple store, Jena tdb storage was used, using version 3.14.0 of Jena.
 \input{graphTab/laptop.tex}
 
 \subsection{Data set}
-All of the data used is from YAGO. YAGO was selected for the large open data set, rich taxonomy, and for the spatial and temporal parts of the ontology. There are several data sets available for download, divided into categories. For running experiments data from taxonomy, core, and geonames were selected. From the taxonomy category, all data sets where used. This data describes class structure, entities, and defines relationships.
+All of the data used is from YAGO. YAGO was selected for the large open data set, rich taxonomy, and for the spatial and temporal parts of the ontology. There are several data sets available for download, divided into categories. For running experiments data from taxonomy, core, and GeoNames were selected. From the taxonomy category, all data sets where used. This data describes class structure, entities, and defines relationships.
 
-From the core category all data was also used. The core contains is most of the data used in the graph. This includes dates, relationships between nodes, literals, and labels. Most of the vertices and edges used in the experiment comes from this category, but this data can be further structured using some of the data from other categories.
+From the core category all data was also used. The core contains most of the data used in the graph. This includes dates, relationships between nodes, literals, and labels. Most of the vertices and edges used in the experiment comes from this category, but this data can be further structured using some of the data from other categories.
 
-Geonames contains data and structure for geographical vertices. These vertices have a hierarchical structure based on what places are located within others. In addition, the data contains literals for coordinates, alternative names and links for neighbors. In addition the category contains additional classes and types specific for the geographical vertex.
+GeoNames contains data and structure for geographical vertices. These vertices have a hierarchical structure based on places being located within other places. In addition, the data contains literals for coordinates, alternative names and links for neighbors. In addition, the category contains additional classes and types specific for the geographical vertices.
 
-Before the data could be loaded into a store, some preprocessing was necessary. This includes replacing non-unicode character, and replacing spaces with underscore in URIs. In addition the data from YAGO contained som illegal characters for Jena, such as double quoted URIs and illegal escape sequences. There were also some unterminated ttl lines. All the data was run through a sed script to ensure correctly formatted data for Jena. After formatting the data correctly a persistent TDB storage was created using tdbloader from Jena.
+Before the data could be loaded into a store, some preprocessing was necessary. This includes replacing non-Unicode character, and replacing spaces with underscore in URIs. In addition, the data from YAGO contained some illegal characters for Jena, such as double quoted URIs and illegal escape sequences. There were also some unterminated TTL lines. All the data was run through a sed script to ensure correctly formatted data for Jena. After formatting the data correctly, a persistent TDB storage was created using TDBloader from Jena.
 % sed -i 's/|/-/g' ./* && sed -i 's/\\\\/-/g' ./* && sed -i 's/–/-/g' ./*
 
 \subsection{Queries}
 When selecting words for the queries, all nodes in the graph was scanned to count word frequency. This list was sorted based on number of occurrences, stop words and numbers were removed. From this shortened list, the top 150 words were chosen, based on vocabulary size needed to meet more than half of nodes \cite{zipf,worthington1996using}. From this list of 150 words, a final set of 10 words was chosen at random. It is worth noting that all words are from the name of a vertex, so the list of words does not reflect natural language.
 
-When selecting places, a set of 7 places were manually chosen. This choice was made to ensure places from different parts of the world, and difference in population and language. With these differences roots found should have variation in edges, differences in keyword vertices discovered, and paths discovered for shared keyword vertices.
+When selecting places, a set of 7 places were manually chosen. This choice was made to ensure places from different parts of the world, and difference in population and language. With these differences, root vertices found should have variation in edges, differences in keyword vertices discovered, and paths discovered for shared keyword vertices.
 
-Date selection for temporal search was done manually. This selection included a combination of non-significant dates, and significant dates. The selection was made to have a high probability of finding hits, and ensure that the vertices have variation in the amount of edges.
+Date selection for temporal search was done manually. This selection included a combination of non-significant dates, and significant dates. The selection was made to have a high probability of finding hits and ensure that the vertices have variation in the amount of edges.
 
 \subsection{Combining data and queries}
-When running the experiments, the same set of query words was used for all runs. For each type of data, spatial, temporal, and spatiotemporal, the query words was combined in five pairs of two, and four pairs of four. variation in the amount of words used would affect both the chance of hitting keyword vertices, and the score of the subgraphs discovered.
+When running the experiments, the same set of query words was used for all runs. For each type of data, spatial, temporal, and spatiotemporal, the query words were combined in five groups containing two words, and four groups containing four words. Variation in the amount of words used would affect both the chance of hitting keyword vertices, and the score of the trees discovered.
 
 \subsection{Max. distance and following edges}
-For each of the data types a total of three different exploration methods was used. One wit a max. distance of 1 from the root node, one with a max. distance of 2, and one where only edges leading to a keyword vertex would be explored further. Using a max. depth of 2 would serve as a base line for the comparison. The two other methods was used to see how much distance from the root would affect subgraphs accuracy, and if optimal graphs could be found even with a severe limitation put on the search.
+For each of the data types a total of three different exploration methods was used. One with a max. distance of 1 from the root node, one with a max. distance of 2, and one where only edges leading to a keyword vertex would be explored further. Using a max. depth of 2 would serve as a base line for the comparison. The two other methods was used to see how much distance from the root would affect the accuracy, and if optimal graphs could be found even with a severe limitation put on the search.
 
-\section{Experimental Results}
+\section{Experimental results}
 \label{sec:experimentalResults}
+\subsection{Code profiling and external impact}
+Because the platform used to run the experiments was a laptop, there are external factors that affect the result. One such factor is the CPU of the laptop overheating and throttling, meaning it does not run at top speed, and instead moves between a high and low speed in intervals. This can clearly be seen in figure \ref{fig:profile2}, where the CPU throttles between $\approx$20\% and $\approx$32\% with the high value lasting for about 20 seconds, and the lower values for just under a minute. The figure displays three runs of the algorithm, the first two being warmup runs, and the third is a profile run. During the initiation of each run there is a spike in CPU usage almost reaching 70\%. CPU usage is also split in to two categories, where blue is system load, and green is process load. During the warmup, the process load is low, and is slightly increased during the profiling.
+
+Memory usage and garbage collection will also affect the performance. In figure \ref{fig:profile1} and \ref{fig:profileFollow} the memory usage is low, and there is less garbage collection. Compare this to the runs with a distance of two, where garbage collection is done often. It is also worth noting that the algorithm runs on two threads, with a further four used for IO. Most IO operations are from reading vertices from the triple store.
+
+\begin{figure}
+	\centering
+	\includegraphics[scale=0.25]{figs/profile2.png}
+	\caption{Code profile of spatial data using distance 2.}
+	\label{fig:profile2}
+\end{figure}
+%
+\begin{figure}
+	\centering
+	\includegraphics[scale=0.245]{figs/profile1.png}
+	\caption{Code profile spatial data and distance 1}
+	\label{fig:profile1}
+\end{figure}
+%
+\begin{figure}
+	\centering
+	\includegraphics[scale=0.245]{figs/profileHits.png}
+	\caption{Code profile of spatial data following vertices with hits}
+	\label{fig:profileFollow}
+\end{figure}
 
 \subsection{Effect of distance from root}
-When traversing a graph, the amount of nodes visited will heavily impact the time used. When the max. distance of the search increase, the amount of vertices visited will grow exponentially. Looking at table \ref{table:followAll2} we see that the amount of roots found for a query is the most significant factor for the speed and amount of nodes visited. Since there only is three data points, no broad conclusion can be drawn, but in \ref{fig:linReg1and2} a trend can be seen, and all points line up well. This indicates a linear increase of vertices visited, based on the amount of edges the vertices have. 
+When traversing a graph, the number of vertices visited will heavily impact the time used. When the max. distance of the search increase, the number of vertices visited will grow with the number of roots discovered times the distance from the root. Looking at table \ref{table:followAll2} we see that the amount of roots found for a query is the most significant factor for the speed and amount of vertices visited. Since there only is three data points, no broad conclusion can be drawn, but in figure \ref{fig:linReg1and2} a trend can be seen, and all points line up well. This indicates a linear increase of vertices visited, where the slope is based on the amount of edges the vertices have and the depth from the root vertex. Comparing this to the more detailed graph \ref{fig:linregQueries} we can see that the time used for a query still follows a linear increase. Using a distance of 2, the time varies more than the other two methods, but the timings appear to increase linearly based on the number of roots discovered. In graph \ref{fig:linregQueries} all the different data types are added, and since both temporal, and spatiotemporal queries have fewer roots per query, most of the data points are clustered in the lower end of the graph. All three data sets contain one point for each query with at least one root, totaling 388 points for each traversal method.
+
+From the results it is clear that increasing the distance traveled from the root have the most significant impact on both speed and accuracy. When the distance is increased many more vertices are visited, so that the chance of finding a keyword match is increased. Visiting more vertices will also take significantly more time. From figure \ref{fig:linregQueries} it is also clear that the amount of roots discovered for a query will make a significant difference. This difference is further amplified when the distance is higher. Even though the increase in time is linear, the slope is much steeper for traversals with higher distance, resulting in significant time increases.
 
 \input{graphTab/followAll2.tex}
 %
@@ -56,24 +94,27 @@ When traversing a graph, the amount of nodes visited will heavily impact the tim
 \begin{figure}
 	\caption{Linear regression for time and roots}
 	\label{fig:linReg1and2}
-	\input{graphTab/linReg1and2.tikz}
+	\input{graphTab/linReg1and2.tex}
+\end{figure}
+
+\begin{figure}
+	\caption{Linear regression for time and roots}
+	\label{fig:linregQueries}
+	\input{graphTab/linregQueries.tex}
 \end{figure}
 
 \subsection{Effect of following specific edges}
-In table \ref{table:followHits} we see that very few vertices with a keyword are directly connected to other vertices with a keyword. This makes the search results similar to the the results in table \ref{table:followAll1}. The most noticeable difference is the amount of vertices visited. Even with a greater max. depth, the search only following edges from vertices with keyword hits still visits fewer vertices. Visiting fewer vertices increase the speed of the search, something that is evident from graph \ref{fig:barTime}.
+In table \ref{table:followHits} we see that very few vertices with a keyword are directly connected to other vertices with a keyword. This makes the search results similar to the results in table \ref{table:followAll1}. The most noticeable difference is the number of vertices visited. Even with a greater max. depth, the search only following edges from vertices with keyword hits still visits fewer vertices. Visiting fewer vertices increase the speed of the search, something that is evident from graph \ref{fig:barTime}.
 
 \input{graphTab/hitFollowTable.tex}
 
-\subsection{Differences between data types}
-In table \ref{table:followAll1} we can see how many connections the average root have. Because the max. distance is set to 1, the average vertices per root is the same as average connections per root. Temporal data have the highest number of edges, followed by spatiotemporal vertices. This indicates that vertices that contain temporal data generally are more connected that spatial vertices. The difference in roots discovered can bne attributed to the input data.
-
-\subsection{Implications}
-Two factors are significant for the speed and accuracy of a search. The first is the set of roots used when searching. Limiting the amount of root nodes will increase the speed of the search. This in addition to decreasing the amount of edges followed have the most impact on speed. The other factor is the depth of the search. Increasing the depth will not guarantee greater accuracy on the top hits, but when comparing the miss rate of searches with distance one and two, a greater distance will reduce the miss rate.
-
 \begin{figure}
-	\caption{Time used for data types and traversal criteria}
+	\caption{Avg. time used for each data type and traversal criteria per query in ms.}
 	\label{fig:barTime}
-	\input{graphTab/barTime.tikz}
+	\input{graphTab/barTime.tex}
 \end{figure}
+
+\subsection{Differences between data types}
+In table \ref{table:followAll1} we can see how many connections the average root have. Because the max. distance is set to 1, the average vertices per root is the same as average connections per root. Temporal data have the highest number of edges, followed by spatiotemporal vertices. This indicates that vertices that contain temporal data generally are more connected that spatial vertices. The difference in roots discovered can be attributed to the input data.
 
 \glsresetall
