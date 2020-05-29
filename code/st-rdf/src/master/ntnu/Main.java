@@ -93,7 +93,6 @@ public class Main {
                 }
             }
         }
-
         dataset.end();
     }
 
@@ -194,11 +193,6 @@ public class Main {
     }
 
     public static int traverseStart(Model model, HashSet<String> queryWords, String place, String dates) {
-        // Use a list in parent node for all children that gets a hit.
-        // group all hit Children
-        // while hitListChildren is not empty: select child, check for hit children in child, ... something, its dinnertime...
-        // use node level for tabs when printing, displaying inheratance
-
         List<YagoNode> spatialRoots = getRoots(model, place);
 
         List<YagoNode> roots = new ArrayList<YagoNode>();
@@ -353,7 +347,6 @@ public class Main {
         return children;
     }
 
-    // Useing kruskals -ish algo(?) Write something about that...
     public static void findMinSubgraph (YagoNode rootNode, HashSet<String> queryWords, String place) {
         HashSet<YagoNode> minTree = new HashSet<>();
         HashSet<YagoNode> parentList = new HashSet<>();
@@ -362,16 +355,12 @@ public class Main {
         final AtomicBoolean newMin = new AtomicBoolean(false);
         minTree.add(rootNode);
 
-        // Check if root contains all words
         if (rootNode.getTokenList().containsAll(queryWords)) {
             rankSubGraphs(minTree, queryWords, place);
         }
-        // Or if there is no hits
         else if (rootNode.getHitChildren().size() == 0) {
             return;
         }
-
-        // Else find the most fitting nodes.
         else {
             for (YagoNode newNode : rootNode.getHitChildren()) {
                 if (newNode.getNodeMatchWords().isEmpty()) {
@@ -446,14 +435,11 @@ public class Main {
         WriteResults(scoreString, place);
     }
 
-
-
     public static void WriteResults(String s, String place) {
         try {
             Files.write(Paths.get("results/" + place + ".txt"), s.getBytes(), StandardOpenOption.CREATE, StandardOpenOption.APPEND);
         } catch (IOException e) {
             System.out.println(e);
         }
-
     }
 }
