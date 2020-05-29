@@ -94,7 +94,6 @@ public class Main {
                     break;
             }
         }
-
         dataset.end();
     }
 
@@ -160,12 +159,6 @@ public class Main {
     }
 
     public static int traverseStart(Model model, HashSet<String> queryWords, String dates, String date_string) {
-        // Use a list in parent node for all children that gets a hit.
-        // group all hit Children
-        // while hitListChildren is not empty: select child, check for hit children in
-        // child, ... something, its dinnertime...
-        // use node level for tabs when printing, displaying inheratance
-
         List<YagoNode> roots = getTemporalNodes(model, dates);
 
         List<YagoNode> nodes = new ArrayList<YagoNode>();
@@ -263,16 +256,12 @@ public class Main {
         final AtomicBoolean newMin = new AtomicBoolean(false);
         minTree.add(rootNode);
 
-        // Check if root contains all words
         if (rootNode.getTokenList().containsAll(queryWords)) {
             rankSubGraphs(minTree, queryWords, date_string);
         }
-        // Or if there is no hits
         else if (rootNode.getHitChildren().size() == 0) {
             return;
         }
-
-        // Else find the most fitting nodes.
         else {
             for (YagoNode newNode : rootNode.getHitChildren()) {
                 if (newNode.getNodeMatchWords().isEmpty()) {
