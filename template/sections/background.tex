@@ -39,17 +39,17 @@ Both traversal methods can be used on directed and undirected graphs. On an undi
     \label{BFT}
     \SetAlgoLined
     \KwResult{List of vertices in the order traversed}
-    Start vertex $V_r$\; Array $\mathbf{Q}$ Add($V_r$)\; List l\;
+    Start vertex $V_r$\; Array $\mathbf{Q}$ Add($V_r$)\; List $l$\;
     \While{$\mathbf{Q} \neq \emptyset$}{
-        v = $\mathbf{Q}$ GetFirstElement()\;
+        $v$ = $\mathbf{Q}$ GetFirstElement()\;
         \If{v not discovered}{
-            v.setDiscovered\;
-            n = GetAllConnectedVertices(e)\;
-            $\mathbf{Q}$ Add(n)\;
-            l Add(v)\;
+            $v$ setDiscovered\;
+            $n$ = GetAllConnectedVertices($v$)\;
+            $\mathbf{Q}$ Add($n$)\;
+            $l$ Add($v$)\;
         }
     }
-    \Return{l}\;
+    \Return{$l$}\;
 \end{algorithm}
 
 \begin{algorithm}[H]
@@ -57,17 +57,17 @@ Both traversal methods can be used on directed and undirected graphs. On an undi
     \label{DFT}
     \SetAlgoLined
     \KwResult{List of vertices in the order traversed}
-    Start vertex $V_r$\; Array $\mathbf{S}$ Add($V_r$)\; List l\;
+    Start vertex $V_r$\; Array $\mathbf{S}$ Add($V_r$)\; List $l$\;
     \While{$\mathbf{S} \neq \emptyset$}{
-        v = $\mathbf{Q}$ GetLastElement()\;
+        $v$ = $\mathbf{S}$ GetLastElement()\;
         \If{v not discovered}{
-            v.setDiscovered\;
-            n = GetAllConnectedVertices(e)\;
-            $\mathbf{Q}$ Add(n)\;
-            l Add(v)\;
+            $v$ setDiscovered\;
+            $n$ = GetAllConnectedVertices($v$)\;
+            $\mathbf{S}$ Add($n$)\;
+            l Add($v$)\;
         }
     }
-    \Return{l}\;
+    \Return{$l$}\;
 \end{algorithm}
 
 Algorithm \ref{BFT} and \ref{DFT} are very similar. Both algorithms explore an entire graph from a root vertex R and returns a list of vertices in the order they are traversed. The main difference between breadth first and depth first is how the next vertex to visit is selected. If we use the graph in figure \ref{fig:graph} as an example, we can see that the vertices are numbered 0 to 6, and the graph have one cycle. Using breadth first the result is a list with the vertices in order from 0 to 1, the paths selected is seen in figure \ref{fig:BFT}. Using depth first traversal, the order and paths are different, as seen in figure \ref{fig:DFT}. The order in depth first would be 0, 2, 6, 5, 1, 4, 3, assuming the left most vertex is the first to be added.
@@ -100,21 +100,20 @@ Building on the breadth first traversal, it is possible to create an algorithm f
     \label{MinTreeBFS}
     \SetAlgoLined
     \KwResult{Minimum tree containgin terms $T_q$}
-    Root vertex $V_r$\; Terms $T_q$\; Queue $\mathbf{Q}$ Add($V_r$)\; Tree t\; MatchedTerms $T_m$\;
+    Root vertex $V_r$\; Terms $T_q$\; Array $\mathbf{Q}$ Add($V_r$)\; Minimum tree $M_t$\; MatchedTerms $T_m$\;
     \While{$\mathbf{Q} \neq \emptyset$}{
-        e = GetFirstElement($\mathbf{Q}$)\;
-        t Add(e)
-        \If{e.tokens $\subseteq T_q$}{
-            t Add(e)\;
-            $T_m$ Add(e.token $\cap T_q$)\;
+        $v$ = GetFirstElement($\mathbf{Q}$)\;
+        $M_t$ Add($v$)\;
+        \If{$v$ GetTerms $\subseteq T_q$}{
+            $T_m$ Add($v$ GetTerms $\cap T_q$)\;
         }
         \If{$T_q$ = $T_m$}{
             Break\;
         }
-        n = GetNeighbors(e)\;
-        $\mathbf{Q}$ Add(n)\;
+        $n$ = GetNeighbors($v$)\;
+        $\mathbf{Q}$ Add($n$)\;
     }
-    \Return{t}
+    \Return{$M_t$}
 \end{algorithm}
 
 \section{RDF, ontologies, and knowledge graphs}
@@ -123,10 +122,10 @@ Knowledge base, ontology and knowledge graph are terms with multiple definitions
 \subsection{Ontology}
 Ontologies contain representations, conceptualization, relations, categorization, and formal naming of data \cite{davies2006semantic}. Ontologies allows for semantic modeling of knowledge. Here knowledge is data that is not ordered in a strict structure. Using ontologies allows data to be better structured, and reason about the semi-structured data. Ontologies also have its own language, called the ``web ontology language'' or OWL. This language was created to standardize ontologies.
 
-Using the structure of ontologies makes it possible interpret natural language \cite{cimiano2014ontology}. Here the ontology gives meaning to the words, based on the classes and relations in the ontology. Building on the meaning given to words from the ontology, it is possible for a computer to infer meaning from a sentence, or set of words.
+Using the structure of ontologies makes it possible interpret natural language \cite{cimiano2014ontology}. Here the ontology gives meaning to the words, based on the classes and relations in the ontology. Building on the meaning given to words from the ontology, it is possible for a computer to infer meaning from a sentence or set of words.
 
 \subsection{RDF as knowledge graphs}
-Structuring an ontology using a framework like RDF creates a knowledge graph. There is no clear definition on exactly what constitutes a knowledge graph. A broad definition of knowledge graph is ``A knowledge graph acquires and integrates information into an ontology and applies a reasoner to derive new knowledge'' \citep{KGDef}. This definition encompasses multiple technologies. Another definition using RDF graphs as a bases is ``We define a Knowledge Graph as an RDF graph. An RDF graph consists of a set of RDF triples where each RDF triple (s, p, o) is an ordered set of the following RDF terms: a subject s $\in$ U $\cup$ B, a predicate p $\in$ U, and an object U $\cup$ B  L. An RDF term is either a URI u $\in$ U, a blank node b $\in$ B, or a literal l $\in$ L'' \citep{KGDefYago}. This latter definition is how knowledge is structured in the data used in this thesis.
+Structuring an ontology using a framework like RDF creates a knowledge graph. There is no clear definition on exactly what constitutes a knowledge graph. A broad definition of knowledge graph is ``A knowledge graph acquires and integrates information into an ontology and applies a reasoner to derive new knowledge'' \cite{KGDef}. This definition encompasses multiple technologies. Another definition using RDF graphs as a bases is ``We define a Knowledge Graph as an RDF graph. An RDF graph consists of a set of RDF triples where each RDF triple (s, p, o) is an ordered set of the following RDF terms: a subject s $\in$ U $\cup$ B, a predicate p $\in$ U, and an object U $\cup$ B  L. An RDF term is either a URI u $\in$ U, a blank node b $\in$ B, or a literal l $\in$ L'' \cite{KGDefYago}. This latter definition is how knowledge is structured in the data used in this thesis.
 
 Using RDF as a format when modeling knowledge makes it possible to create structured content from semi-structured knowledge. This structure makes knowledge usable for computers, where it previously would have been difficult to extract accurate and exact knowledge. This information can then be presented in a human readable fashion, or it can be used in other fields, like artificial intelligence.
 
@@ -142,13 +141,13 @@ Objects have the widest range of possible entries. Like subjects and predicates,
 Currently two of the largest open knowledge graphs are YAGO and DBPedia. Both these projects use information from Wikipedia to create the graph but differ in the ontology used to build the graphs. Yago also includes data from WordNet and GeoNames to accurately assign entities to classes. Both projects use RDF triples to create a knowledge graph.
 
 \subsubsection{YAGO}
-YAGO is an acronym for Yet Another Great Ontology and is the main data source in this thesis. The project describes itself as a knowledge base\citep{yago} and an ontology \citep{mahdisoltani:hal-01699874}, but is often described as a knowledge graph by others. In this paper YAGO is described as a knowledge graph. YAGO use automated information extraction from Wikipedia to create its knowledge graph. This graph is supplemented with data from WordNet, and GeoNames.
+YAGO is an acronym for Yet Another Great Ontology and is the main data source in this thesis. The project describes itself as a knowledge base\cite{yago} and an ontology \cite{mahdisoltani:hal-01699874}, but is often described as a knowledge graph by others. In this paper YAGO is described as a knowledge graph. YAGO use automated information extraction from Wikipedia to create its knowledge graph. This graph is supplemented with data from WordNet, and GeoNames.
 
 An example of YAGO entities can be seen in figure \ref{fig:Elvis}. From this example we can see that Elvis acted in Flaming Star on the 20th of December 1960. We can also see that Bobby Darin and Elvis is connected through the lifetime achievement award, and that Bobby Darin was borne in New York. New York also have coordinates connected to the node, rooting the vertex to a real place, but this is not present in the figure. In this example, only a small portion of the edges and vertices connected to the entities are displayed.
 
-YAGO uses vertices for storing both spatial and temporal data. For temporal vertices unique predicates\citep{yago} are introduced. Temporal vertices use the ``xsd:date'' and ``xsd:dateTime'' data types. Both types follow the ISO 8601 format, YYYY-MM-DD, and introduces \# as a wildcard symbol. A fact can only hold a single time point and uses yagoDate as an extension of the xsd types\citep{yago}. In a date fact, the object holds the date information, and the predicate describes a connection between subject and date. In figure \ref{fig:Nidaros} we can see the triple ``Nidaros\_Cathedral wasCreatedOnDate 1300-\#\#-\#\#''. In this example the predicate wasCreatedOn is used to describe a relation between the subject and a date.
+YAGO uses vertices for storing both spatial and temporal data. For temporal vertices unique predicates\cite{yago} are introduced. Temporal vertices use the ``xsd:date'' and ``xsd:dateTime'' data types. Both types follow the ISO 8601 format, YYYY-MM-DD, and introduces \# as a wildcard symbol. A fact can only hold a single time point and uses yagoDate as an extension of the xsd types\cite{yago}. In a date fact, the object holds the date information, and the predicate describes a connection between subject and date. In figure \ref{fig:Nidaros} we can see the triple ``Nidaros\_Cathedral wasCreatedOnDate 1300-\#\#-\#\#''. In this example the predicate wasCreatedOn is used to describe a relation between the subject and a date.
 
-To describe a time span two facts are required. One of the facts describes a start date, and the second an end date. Since an entity can have multiple date facts connected, all date predicates are also assigned to a class. Start dates are assigned to a predicate with a type that has a ``creation'' class, such as ``StartedOnDate''. End dates are assigned to ``destruction'' type predicates. This makes it possible to deduce a time span for a given subject and predicate combination\citep{yago}.
+To describe a time span two facts are required. One of the facts describes a start date, and the second an end date. Since an entity can have multiple date facts connected, all date predicates are also assigned to a class. Start dates are assigned to a predicate with a type that has a ``creation'' class, such as ``StartedOnDate''. End dates are assigned to ``destruction'' type predicates. This makes it possible to deduce a time span for a given subject and predicate combination\cite{yago}.
 
 Yago only contains permanent spatial data for entities on earth. This means that entities like cities, buildings, rivers and mountains are given a spatial dimension. In addition, events, people, groups and artifacts can be given a spatial dimension by relating the entity to a specific place. Using this transitive relation to the spatial fact, many entities can be related to a single spatial fact. All spatial facts must have a predicate that fall under the yagoGeoEntity class, and all objects used in a fact with a yagoGeoEntity must have a relation containing both ``hasLatitude'' and ``hasLongitude''.
 

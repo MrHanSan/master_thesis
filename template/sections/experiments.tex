@@ -28,7 +28,7 @@ Each subgraph is given a score. This score will be used to see how pruning, and 
 
 \section{Experimental setup}
 \label{sec:experimentalSetup}
-All experiments was run on a single laptop with the specifications listed in table \ref{table:laptop}. The code is written in Java, using openJDK 11.0.7 and building with gradle 6.0. For triple store, Jena tdb storage was used, using version 3.14.0 of Jena.
+All experiments was run on a single laptop with the specifications listed in table \ref{table:laptop}. The code is written in Java, using openJDK 11.0.7 and building with Gradle 6.0. For triple store, Jena tdb storage was used, using version 3.14.0 of Jena.
 \input{graphTab/laptop.tex}
 
 \subsection{Data set}
@@ -52,7 +52,7 @@ Date selection for temporal search was done manually. This selection included a 
 When running the experiments, the same set of query words was used for all runs. For each type of data, spatial, temporal, and spatiotemporal, the query words were combined in five groups containing two words, and four groups containing four words. Variation in the amount of words used would affect both the chance of hitting keyword vertices, and the score of the trees discovered.
 
 \subsection{Max. distance and following edges}
-For each of the data types a total of three different exploration methods was used. One with a max. distance of 1 from the root node, one with a max. distance of 2, and one where only edges leading to a keyword vertex would be explored further. Using a max. depth of 2 would serve as a base line for the comparison. The two other methods was used to see how much distance from the root would affect the accuracy, and if optimal graphs could be found even with a severe limitation put on the search.
+For each of the data types a total of three different exploration methods was used. One with a max. distance of 1 from the root node, one with a max. distance of 2, and one where only edges leading to a keyword vertex would be explored further. Using a max. depth of 2 would serve as a base line for the comparison. The two other methods were used to see how much distance from the root would affect the accuracy, and if optimal graphs could be found even with a severe limitation put on the search.
 
 \section{Experimental results}
 \label{sec:experimentalResults}
@@ -92,15 +92,17 @@ From the results it is clear that increasing the distance traveled from the root
 \input{graphTab/followAll1.tex}
 
 \begin{figure}
+	\centering
+	\input{graphTab/linReg1and2.tex}
 	\caption{Linear regression for time and roots}
 	\label{fig:linReg1and2}
-	\input{graphTab/linReg1and2.tex}
 \end{figure}
 
 \begin{figure}
+	\centering
+	\input{graphTab/linregQueries.tex}
 	\caption{Linear regression for time and roots}
 	\label{fig:linregQueries}
-	\input{graphTab/linregQueries.tex}
 \end{figure}
 
 \subsection{Effect of following specific edges}
@@ -109,9 +111,10 @@ In table \ref{table:followHits} we see that very few vertices with a keyword are
 \input{graphTab/hitFollowTable.tex}
 
 \begin{figure}
+	\centering
+	\input{graphTab/barTime.tex}
 	\caption{Avg. time used for each data type and traversal criteria per query in ms.}
 	\label{fig:barTime}
-	\input{graphTab/barTime.tex}
 \end{figure}
 
 \subsection{Differences between data types}
