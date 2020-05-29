@@ -5,15 +5,6 @@ In this chapter the planning, setup, and results from experiments are presented.
 
 \section{Experimental plan}
 \label{sec:experimentalPlan}
-% Experimental plan Første avsnitt
-% Du bruker forskjellige betegnelser som seach og methods
-% 
-% Figurer og tabeller skal angis kronologisk. Dvs figure 3.1 før 3.2 etc. Figure 5.5.føt 5.6 etc
-% Alle figurene må omtales og henvises til i teksten. Kan ikke se henvisning til fig 3.7 
-% Angi figure tekst under figur. Det gjør du some regel.men ikke for figur 5.4 og 5.6
-% Figure 5.4 bruke forskjellige symbol eller tydeligere fargeforskjeller på de to grafene
-% Tabell tekst over tabell
-% 
 The goal of the experiments is to gather data for comparison of data types searched and criteria for vertices to follow. When comparing, speed and accuracy will be the metrics used. In total, nine different searches will be conducted, one using spatial data for input and roots, one using temporal data for input and roots, and one combining the two, using spatiotemporal data for input and roots. For each of these vertex types, there will also be different criteria for how the graph will be explored. The first method follows all predicates, excluding connections to types and classes, and will have a max distance of two. The second method follows the same predicates as the first but has the max distance set to one. Finally, a criterion for following only predicates from vertices with at least one keyword match is used.
 
 When comparing the methods, the goal is to see how reducing the amount of data search will affect speed and accuracy of the search, and how differences in distance and edges followed differs based on the starting data.
@@ -61,13 +52,13 @@ Because the platform used to run the experiments was a laptop, there are externa
 
 Memory usage and garbage collection will also affect the performance. In figure \ref{fig:profile1} and \ref{fig:profileFollow} the memory usage is low, and there is less garbage collection. Compare this to the runs with a distance of two, where garbage collection is done often. It is also worth noting that the algorithm runs on two threads, with a further four used for IO. Most IO operations are from reading vertices from the triple store.
 
-\begin{figure}
+\begin{figure}[hb]
 	\centering
 	\includegraphics[scale=0.25]{figs/profile2.png}
 	\caption{Code profile of spatial data using distance 2.}
 	\label{fig:profile2}
 \end{figure}
-%
+ 
 \begin{figure}
 	\centering
 	\includegraphics[scale=0.245]{figs/profile1.png}
@@ -81,6 +72,7 @@ Memory usage and garbage collection will also affect the performance. In figure 
 	\caption{Code profile of spatial data following vertices with hits}
 	\label{fig:profileFollow}
 \end{figure}
+\FloatBarrier
 
 \subsection{Effect of distance from root}
 When traversing a graph, the number of vertices visited will heavily impact the time used. When the max. distance of the search increase, the number of vertices visited will grow with the number of roots discovered times the distance from the root. Looking at table \ref{table:followAll2} we see that the amount of roots found for a query is the most significant factor for the speed and amount of vertices visited. Since there only is three data points, no broad conclusion can be drawn, but in figure \ref{fig:linReg1and2} a trend can be seen, and all points line up well. This indicates a linear increase of vertices visited, where the slope is based on the amount of edges the vertices have and the depth from the root vertex. Comparing this to the more detailed graph \ref{fig:linregQueries} we can see that the time used for a query still follows a linear increase. Using a distance of 2, the time varies more than the other two methods, but the timings appear to increase linearly based on the number of roots discovered. In graph \ref{fig:linregQueries} all the different data types are added, and since both temporal, and spatiotemporal queries have fewer roots per query, most of the data points are clustered in the lower end of the graph. All three data sets contain one point for each query with at least one root, totaling 388 points for each traversal method.
@@ -88,8 +80,6 @@ When traversing a graph, the number of vertices visited will heavily impact the 
 From the results it is clear that increasing the distance traveled from the root have the most significant impact on both speed and accuracy. When the distance is increased many more vertices are visited, so that the chance of finding a keyword match is increased. Visiting more vertices will also take significantly more time. From figure \ref{fig:linregQueries} it is also clear that the amount of roots discovered for a query will make a significant difference. This difference is further amplified when the distance is higher. Even though the increase in time is linear, the slope is much steeper for traversals with higher distance, resulting in significant time increases.
 
 \input{graphTab/followAll2.tex}
-%
-\input{graphTab/followAll1.tex}
 
 \begin{figure}
 	\centering
@@ -97,7 +87,7 @@ From the results it is clear that increasing the distance traveled from the root
 	\caption{Linear regression for time and roots}
 	\label{fig:linReg1and2}
 \end{figure}
-
+ 
 \begin{figure}
 	\centering
 	\input{graphTab/linregQueries.tex}
@@ -108,6 +98,9 @@ From the results it is clear that increasing the distance traveled from the root
 \subsection{Effect of following specific edges}
 In table \ref{table:followHits} we see that very few vertices with a keyword are directly connected to other vertices with a keyword. This makes the search results similar to the results in table \ref{table:followAll1}. The most noticeable difference is the number of vertices visited. Even with a greater max. depth, the search only following edges from vertices with keyword hits still visits fewer vertices. Visiting fewer vertices increase the speed of the search, something that is evident from graph \ref{fig:barTime}.
 
+
+\input{graphTab/followAll1.tex}
+%
 \input{graphTab/hitFollowTable.tex}
 
 \begin{figure}

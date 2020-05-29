@@ -33,6 +33,7 @@ When a vertex object is created, a document with terms is created for that verte
 After traversing the main graph, we have found all trees containing at least one query term. These trees may contain many vertices which hit the same terms. Before ranking the trees, the minimum spanning tree needs to be found. The minimum spanning tree is found using a greedy algorithm that iterates through all vertices in the tree, then keeping the vertices containing the most terms, at the lowest distance. The minimum tree will contain as many terms as possible, each term will only be found in one vertex and the tree will be as shallow as possible.
 
 In the graph traversal implementation, a threshold for maximum distance from root is set. This threshold is updated if all query terms are found within the tree. The traversal will still check the rest of the queued items, even if all query terms are found. This is done because some might be a better match than what is already added. The vertices found during traversal is added to a list of vertices, and each vertex have a link to the parent, where the parent is the current vertex and the children are the vertices discoverable from the parent.
+
 \begin{algorithm}[H]
     \caption{GetFullResultTree($V_r$, t, $T_q$)}
     \label{fullRT}
@@ -68,6 +69,7 @@ All result trees are given a score based on how well they fit the query. This sc
     \item[Accuracy:] {\em Score given to a minimum spanning tree based on a result tree. Score is based on the number of vertices  in the minimum tree, vertex distance $D_v$ from root, query q, and number of query words hit h so that $\mathcal{F}_h = (h_i/\left\lvert q \right\rvert : i \in \mathcal{I})$ and $ \frac{\sum \mathcal{F}_h}{n*(D_v+1)}$}
 \end{description}
 To find the accuracy, a set containing the best vertices is first extracted from the result tree. To extract these vertices, the algorithm \ref{minResultTree} is used.
+
 \begin{algorithm}
     \caption{FindMinimumTree($R_t$)}
     \label{minResultTree}

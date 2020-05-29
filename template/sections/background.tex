@@ -8,21 +8,21 @@ Graphs are mathematical structures modeling relationships between objects, and t
 
 A graph where the edges have a direction is called a directed graph as seen in figure \ref{fig:DAG}. Here the vertices are connected to each other, with an arrow displaying the direction. An example of an undirected graph can be seen in figure \ref{fig:DAGvsAG}. In both types of graphs, a vertex can have multiple edges. Graphs can contain cycles, meaning that vertices are connected to each other so that it is possible to follow edges in such a way that it leads back to the initial vertex. An example of such a cyclic graph can be seen in figure \ref{fig:DAGvsDG}. Acyclic graphs have an inherent topological ordering. This ordering makes it easy to find properties in the graph, such as the shortest path between two vertices.
 
-\begin{figure}[h]
+\begin{figure}
     \centering
     \includegraphics[scale=0.5]{figs/simpleDAG.png}
     \caption{Simple Directed graph.}
     \label{fig:DAG}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}
     \centering
     \includegraphics[scale=0.5]{figs/simpleAG.png}
     \caption{Example of non-directed graph.}
     \label{fig:DAGvsAG}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}
     \centering
     \includegraphics[scale=0.5]{figs/triangleDG.png}
     \caption{Directed graph with a cycle.}
@@ -34,7 +34,7 @@ When traversing a graph, two methods are commonly used, breadth first and depth 
 
 Both traversal methods can be used on directed and undirected graphs. On an undirected graph, any vertex discovered can be added to the list of vertices to visit. In a directed graph, only vertices connected by an edge with a direction going from the current vertex, and to another vertex will be followed. Both traversal types can have a termination condition, so that the traversal will stop before traversing the entire graph.
 
-\begin{algorithm}[H]
+\begin{algorithm}
     \caption{Breadth first traversal exploring entire graph}
     \label{BFT}
     \SetAlgoLined
@@ -52,7 +52,7 @@ Both traversal methods can be used on directed and undirected graphs. On an undi
     \Return{$l$}\;
 \end{algorithm}
 
-\begin{algorithm}[H]
+\begin{algorithm}
     \caption{Depth First traversal exploring entire graph}
     \label{DFT}
     \SetAlgoLined
@@ -72,21 +72,21 @@ Both traversal methods can be used on directed and undirected graphs. On an undi
 
 Algorithm \ref{BFT} and \ref{DFT} are very similar. Both algorithms explore an entire graph from a root vertex R and returns a list of vertices in the order they are traversed. The main difference between breadth first and depth first is how the next vertex to visit is selected. If we use the graph in figure \ref{fig:graph} as an example, we can see that the vertices are numbered 0 to 6, and the graph have one cycle. Using breadth first the result is a list with the vertices in order from 0 to 1, the paths selected is seen in figure \ref{fig:BFT}. Using depth first traversal, the order and paths are different, as seen in figure \ref{fig:DFT}. The order in depth first would be 0, 2, 6, 5, 1, 4, 3, assuming the left most vertex is the first to be added.
 
-\begin{figure}[h]
+\begin{figure}
     \centering
     \includegraphics[scale=0.5]{figs/Graph.png}
     \caption{Graph with one cycle}
     \label{fig:graph}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}
     \centering
     \includegraphics[scale=0.5]{figs/BFT.png}
     \caption{Breadth first traversal of graph \ref{fig:graph}}
     \label{fig:BFT}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}
     \centering
     \includegraphics[scale=0.5]{figs/DFT.png}
     \caption{Depth first traversal of graph \ref{fig:graph}}
@@ -95,7 +95,7 @@ Algorithm \ref{BFT} and \ref{DFT} are very similar. Both algorithms explore an e
 
 Building on the breadth first traversal, it is possible to create an algorithm for finding a minimum spanning tree. In algorithm \ref{MinTreeBFS} this is done, while also adding a termination condition. The algorithm terminates when a set of terms have been discovered in the graph and returns the minimum spanning tree contains all the terms. This algorithm assumes the vertices are objects containing a list of connected nodes.
 
-\begin{algorithm}[H]
+\begin{algorithm}
     \caption{Minimum spanning tree with breadth first search}
     \label{MinTreeBFS}
     \SetAlgoLined
@@ -151,14 +151,14 @@ To describe a time span two facts are required. One of the facts describes a sta
 
 Yago only contains permanent spatial data for entities on earth. This means that entities like cities, buildings, rivers and mountains are given a spatial dimension. In addition, events, people, groups and artifacts can be given a spatial dimension by relating the entity to a specific place. Using this transitive relation to the spatial fact, many entities can be related to a single spatial fact. All spatial facts must have a predicate that fall under the yagoGeoEntity class, and all objects used in a fact with a yagoGeoEntity must have a relation containing both ``hasLatitude'' and ``hasLongitude''.
 
-\begin{figure}[t]
+\begin{figure}[h]
   \centering
   \includegraphics[scale=0.5]{figs/yagoExample.png}
  \caption{Connections in Yago around Elvis}
  \label{fig:Elvis}
 \end{figure}
-
-\begin{figure}[t]
+%
+\begin{figure}[h]
   \centering
   \includegraphics[scale=0.5]{figs/Nidaros_Cathedral.png}
   \caption[Nidaros cathedral as a subject in YAGO]{Nidaros cathedral as a subject in YAGO\protect\footnotemark}
