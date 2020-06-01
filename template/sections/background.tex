@@ -4,7 +4,7 @@
 In this chapter, the theory for building search methods are explored. General graph theory is introduced, with algorithms for traversal of graphs. Different structures used in RDF graphs are discussed, and the technology used for traversal and search are explored.
 
 \section{Graph theory}
-Graphs are mathematical structures modeling relationships between objects, and the study of these structures is called graph theory. A graph consists of vertices, sometime called nodes, and connected by edges, \emph{G(V, E)}. A graph can take on different shapes, giving the graph special properties. By giving the edges a direction, the graph can take on further properties. In computer science the relationships in graphs make them suited for applications in many different fields, such as data mining, image segmentation, networking and more\cite{riaz2011applications}. 
+Graphs are mathematical structures modeling relationships between objects, and the study of these structures is called graph theory. A graph consists of vertices, sometime called nodes, and connected by edges, \emph{G(V, E)}. A graph can take on different shapes, giving the graph special properties. By giving the edges a direction, the graph can take on further properties. In computer science the relationships in graphs make them suited for applications in many different fields, such as data mining, image segmentation, networking and more \cite{riaz2011applications}. 
 
 A graph where the edges have a direction is called a directed graph as seen in figure \ref{fig:DAG}. Here the vertices are connected to each other, with an arrow displaying the direction. An example of an undirected graph can be seen in figure \ref{fig:DAGvsAG}. In both types of graphs, a vertex can have multiple edges. Graphs can contain cycles, meaning that vertices are connected to each other so that it is possible to follow edges in such a way that it leads back to the initial vertex. An example of such a cyclic graph can be seen in figure \ref{fig:DAGvsDG}. Acyclic graphs have an inherent topological ordering. This ordering makes it easy to find properties in the graph, such as the shortest path between two vertices.
 
@@ -141,31 +141,32 @@ Objects have the widest range of possible entries. Like subjects and predicates,
 Currently two of the largest open knowledge graphs are YAGO and DBPedia. Both these projects use information from Wikipedia to create the graph but differ in the ontology used to build the graphs. Yago also includes data from WordNet and GeoNames to accurately assign entities to classes. Both projects use RDF triples to create a knowledge graph.
 
 \subsubsection{YAGO}
-YAGO is an acronym for Yet Another Great Ontology and is the main data source in this thesis. The project describes itself as a knowledge base\cite{yago} and an ontology \cite{mahdisoltani:hal-01699874}, but is often described as a knowledge graph by others. In this paper YAGO is described as a knowledge graph. YAGO use automated information extraction from Wikipedia to create its knowledge graph. This graph is supplemented with data from WordNet, and GeoNames.
+YAGO is an acronym for Yet Another Great Ontology and is the main data source in this thesis. The project describes itself as a knowledge base \cite{yago} and an ontology \cite{mahdisoltani:hal-01699874}, but is often described as a knowledge graph by others. In this paper YAGO is described as a knowledge graph. YAGO use automated information extraction from Wikipedia to create its knowledge graph. This graph is supplemented with data from WordNet, and GeoNames.
 
 An example of YAGO entities can be seen in figure \ref{fig:Elvis}. From this example we can see that Elvis acted in Flaming Star on the 20th of December 1960. We can also see that Bobby Darin and Elvis is connected through the lifetime achievement award, and that Bobby Darin was borne in New York. New York also have coordinates connected to the node, rooting the vertex to a real place, but this is not present in the figure. In this example, only a small portion of the edges and vertices connected to the entities are displayed.
 
-YAGO uses vertices for storing both spatial and temporal data. For temporal vertices unique predicates\cite{yago} are introduced. Temporal vertices use the ``xsd:date'' and ``xsd:dateTime'' data types. Both types follow the ISO 8601 format, YYYY-MM-DD, and introduces \# as a wildcard symbol. A fact can only hold a single time point and uses yagoDate as an extension of the xsd types\cite{yago}. In a date fact, the object holds the date information, and the predicate describes a connection between subject and date. In figure \ref{fig:Nidaros} we can see the triple ``Nidaros\_Cathedral wasCreatedOnDate 1300-\#\#-\#\#''. In this example the predicate wasCreatedOn is used to describe a relation between the subject and a date.
+YAGO uses vertices for storing both spatial and temporal data. For temporal vertices unique predicates \cite{yago} are introduced. Temporal vertices use the ``xsd:date'' and ``xsd:dateTime'' data types. Both types follow the ISO 8601 format, YYYY-MM-DD, and introduces \# as a wildcard symbol. A fact can only hold a single time point and uses yagoDate as an extension of the xsd types \cite{yago}. In a date fact, the object holds the date information, and the predicate describes a connection between subject and date. In figure \ref{fig:Nidaros} we can see the triple ``Nidaros\_Cathedral wasCreatedOnDate 1300-\#\#-\#\#''. In this example the predicate wasCreatedOn is used to describe a relation between the subject and a date.
 
-To describe a time span two facts are required. One of the facts describes a start date, and the second an end date. Since an entity can have multiple date facts connected, all date predicates are also assigned to a class. Start dates are assigned to a predicate with a type that has a ``creation'' class, such as ``StartedOnDate''. End dates are assigned to ``destruction'' type predicates. This makes it possible to deduce a time span for a given subject and predicate combination\cite{yago}.
-
-Yago only contains permanent spatial data for entities on earth. This means that entities like cities, buildings, rivers and mountains are given a spatial dimension. In addition, events, people, groups and artifacts can be given a spatial dimension by relating the entity to a specific place. Using this transitive relation to the spatial fact, many entities can be related to a single spatial fact. All spatial facts must have a predicate that fall under the yagoGeoEntity class, and all objects used in a fact with a yagoGeoEntity must have a relation containing both ``hasLatitude'' and ``hasLongitude''.
-
-\begin{figure}[h]
-  \centering
-  \includegraphics[scale=0.5]{figs/yagoExample.png}
- \caption{Connections in Yago around Elvis}
- \label{fig:Elvis}
-\end{figure}
-%
-\begin{figure}[h]
+\begin{figure}
   \centering
   \includegraphics[scale=0.5]{figs/Nidaros_Cathedral.png}
   \caption[Nidaros cathedral as a subject in YAGO]{Nidaros cathedral as a subject in YAGO\protect\footnotemark}
   \label{fig:Nidaros}
 \end{figure}
+
+To describe a time span two facts are required. One of the facts describes a start date, and the second an end date. Since an entity can have multiple date facts connected, all date predicates are also assigned to a class. Start dates are assigned to a predicate with a type that has a ``creation'' class, such as ``StartedOnDate''. End dates are assigned to ``destruction'' type predicates. This makes it possible to deduce a time span for a given subject and predicate combination \cite{yago}.
+
+Yago only contains permanent spatial data for entities on earth. This means that entities like cities, buildings, rivers and mountains are given a spatial dimension. In addition, events, people, groups and artifacts can be given a spatial dimension by relating the entity to a specific place. Using this transitive relation to the spatial fact, many entities can be related to a single spatial fact. All spatial facts must have a predicate that fall under the yagoGeoEntity class, and all objects used in a fact with a yagoGeoEntity must have a relation containing both ``hasLatitude'' and ``hasLongitude''.
+
 \footnotetext{https://gate.d5.mpi-inf.mpg.de/webyago3spotlx/SvgBrowser?entityIn=\%3CNidaros\_Cathedral\%3E\&codeIn=eng}
 
+\begin{figure}
+  \centering
+  \includegraphics[scale=0.5]{figs/yagoExample.png}
+ \caption{Connections in Yago around Elvis}
+ \label{fig:Elvis}
+\end{figure}
+ 
 \subsubsection{DBPedia}
 DBPedia is a crowd sourced knowledge graph using Wikimedia data\footnote{https://wiki.dbpedia.org/about}. This differs from YAGO, which is automated. Like YAGO, DBPedia use RDF for linking facts and entities, both contain facts in multiple languages, and have spatial and temporal data. With open data, and quarriable using SPARQL the data is easily available for anyone. DBPedia have multiple domains for spatial data, based on what type of spatial data it is. This includes coordinates, addresses, elevation, and many more, all creating a rich taxonomy.
 

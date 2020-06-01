@@ -1,9 +1,9 @@
 %!TEX root = ../report.tex
 \section*{Abstract}
-This thesis looks at methods for using keywords for search in RDF data, with the goal of finding what aspects are needed for accuracy and speed. To accomplish this, some previous methods for keyword searching will be recreated, and then extended to incorporate both spatial and temporal searches.  
+This thesis looks at methods for using keywords for search in RDF data, with the goal of finding what aspects are needed for accuracy and speed. To accomplish this, previous methods for keyword search will be explored, and then extended to incorporate both spatial and temporal searches.  
 
-Experiments using breadth first traversal on different data sets, and different conditions for exploration is used to gather data. The data sets are divided into spatial, temporal, and spatiotemporal data, taken from the YAGO data set. Using three different conditions for traversal, data is gathered to find what aspects of a search is needed for fast and accurate searching. 
+Experiments using breadth first traversal on different data types, and different conditions for exploration is used to gather data. The data is divided into spatial, temporal, and spatiotemporal data, taken from the YAGO data set. Using three different conditions for traversal, data is gathered to find what aspects of a search is needed for fast and accurate execution. 
 
 From the results, it is clear that the speed and accuracy both depend on the number of vertices visited during traversal. By reducing the amount of edges followed through predicate pruning, and reducing the number of vertices visited with filtering, the speed of a search is increased. 
 
-This thesis has found that existing methods for RDF graph search can be extended to introduce spatiotemporal keyword search. More sophisticated methods can be used to increase speed and accuracy, and such methods can be implemented on existing data sets and structures. 
+This thesis has found that existing methods for RDF graph search can be extended to introduce spatiotemporal keyword search. More sophisticated methods can be used to increase speed and accuracy, and such methods can be implemented on existing data sets and structures.
